@@ -2,11 +2,167 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
     <title>个人内容聚合日报</title>
-    <link>https://github.com/terong/content-digest</link>
+    <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 07 Jun 2026 17:13:20 GMT</lastBuildDate>
-    <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Mon, 08 Jun 2026 15:31:54 GMT</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <item>
+        <title><![CDATA[[B站] 罗翔说刑法：【独家视频】习近平：时隔七年再次到访美丽的平壤 我感到十分高兴 也格外亲切]]></title>
+        <link>https://www.bilibili.com/video/BV1nsEG6JEC2</link>
+        <guid isPermaLink="false">bilibili-116714813527714</guid>
+        <pubDate>Mon, 08 Jun 2026 13:57:31 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：罗翔说刑法</p>
+<p><a href="https://www.bilibili.com/video/BV1nsEG6JEC2">查看原文 →</a></p>]]></description>
+        <author><![CDATA[罗翔说刑法]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 罗翔说刑法：习近平同金正恩举行会谈]]></title>
+        <link>https://www.bilibili.com/video/BV1gnEu6xEnB</link>
+        <guid isPermaLink="false">bilibili-116714410939654</guid>
+        <pubDate>Mon, 08 Jun 2026 12:12:01 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：罗翔说刑法</p>
+<p><a href="https://www.bilibili.com/video/BV1gnEu6xEnB">查看原文 →</a></p>]]></description>
+        <author><![CDATA[罗翔说刑法]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 罗翔说刑法：习近平出席金正恩举行的欢迎仪式]]></title>
+        <link>https://www.bilibili.com/video/BV1SAEg6dEVi</link>
+        <guid isPermaLink="false">bilibili-116713941177710</guid>
+        <pubDate>Mon, 08 Jun 2026 10:21:42 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：罗翔说刑法</p>
+<p><a href="https://www.bilibili.com/video/BV1SAEg6dEVi">查看原文 →</a></p>]]></description>
+        <author><![CDATA[罗翔说刑法]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 罗翔说刑法：习近平抵达平壤开始对朝鲜进行国事访问]]></title>
+        <link>https://www.bilibili.com/video/BV1LYEg6KEHX</link>
+        <guid isPermaLink="false">bilibili-116713689452954</guid>
+        <pubDate>Mon, 08 Jun 2026 09:10:18 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：罗翔说刑法</p>
+<p><a href="https://www.bilibili.com/video/BV1LYEg6KEHX">查看原文 →</a></p>]]></description>
+        <author><![CDATA[罗翔说刑法]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 罗翔说刑法：【独家视频】习近平出席金正恩举行的欢迎仪式]]></title>
+        <link>https://www.bilibili.com/video/BV1bcEM6JE3W</link>
+        <guid isPermaLink="false">bilibili-116713135805782</guid>
+        <pubDate>Mon, 08 Jun 2026 06:48:23 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：罗翔说刑法</p>
+<p><a href="https://www.bilibili.com/video/BV1bcEM6JE3W">查看原文 →</a></p>]]></description>
+        <author><![CDATA[罗翔说刑法]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 罗翔说刑法：【独家视频】习近平抵达平壤 金正恩夫妇到机场迎接]]></title>
+        <link>https://www.bilibili.com/video/BV19VEu6FEPZ</link>
+        <guid isPermaLink="false">bilibili-116712682821691</guid>
+        <pubDate>Mon, 08 Jun 2026 04:52:52 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：罗翔说刑法</p>
+<p><a href="https://www.bilibili.com/video/BV19VEu6FEPZ">查看原文 →</a></p>]]></description>
+        <author><![CDATA[罗翔说刑法]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 罗翔说刑法：吃一顿，管五年！我国科学家破解深海“耐饿王”生存密码]]></title>
+        <link>https://www.bilibili.com/video/BV1wQEK6qE18</link>
+        <guid isPermaLink="false">bilibili-116711810404358</guid>
+        <pubDate>Mon, 08 Jun 2026 01:09:08 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：罗翔说刑法</p>
+<p><a href="https://www.bilibili.com/video/BV1wQEK6qE18">查看原文 →</a></p>]]></description>
+        <author><![CDATA[罗翔说刑法]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 罗翔说刑法：【财经调查】央视曝光劣质回收料牙刷]]></title>
+        <link>https://www.bilibili.com/video/BV1otEh6FEuh</link>
+        <guid isPermaLink="false">bilibili-116709478438543</guid>
+        <pubDate>Sun, 07 Jun 2026 15:18:58 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：罗翔说刑法</p>
+<p><a href="https://www.bilibili.com/video/BV1otEh6FEuh">查看原文 →</a></p>]]></description>
+        <author><![CDATA[罗翔说刑法]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 罗翔说刑法：【世界周刊】超级“厄尔尼诺”要来了？]]></title>
+        <link>https://www.bilibili.com/video/BV11uEh6GEtX</link>
+        <guid isPermaLink="false">bilibili-116709411262570</guid>
+        <pubDate>Sun, 07 Jun 2026 15:00:39 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：罗翔说刑法</p>
+<p><a href="https://www.bilibili.com/video/BV11uEh6GEtX">查看原文 →</a></p>]]></description>
+        <author><![CDATA[罗翔说刑法]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 罗翔说刑法：【世界周刊】黎以战火重燃]]></title>
+        <link>https://www.bilibili.com/video/BV1rLEh6MEmb</link>
+        <guid isPermaLink="false">bilibili-116709344157379</guid>
+        <pubDate>Sun, 07 Jun 2026 14:48:58 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：罗翔说刑法</p>
+<p><a href="https://www.bilibili.com/video/BV1rLEh6MEmb">查看原文 →</a></p>]]></description>
+        <author><![CDATA[罗翔说刑法]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 老番茄：AI还是真的？连特效师也看不出来？]]></title>
+        <link>https://www.bilibili.com/video/BV1r2Es6XETu</link>
+        <guid isPermaLink="false">bilibili-116706424985820</guid>
+        <pubDate>Sun, 07 Jun 2026 03:06:35 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：老番茄</p>
+<p>网上那些真假难辨的视频，你一定刷到过很多。想一眼分清实拍还是AI，真没那么简单。这次，我们请来了资深特效师008，和你一起看看这些视频。如果你喜欢这期视频，请多多支持我们，并把视频分享给你的朋友们一起看看～</p><p><a href="https://www.bilibili.com/video/BV1r2Es6XETu">查看原文 →</a></p>]]></description>
+        <author><![CDATA[老番茄]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 老番茄：在沙漠里种了1800万棵树，然后呢？]]></title>
+        <link>https://www.bilibili.com/video/BV1TR766zEvE</link>
+        <guid isPermaLink="false">bilibili-116695972714489</guid>
+        <pubDate>Fri, 05 Jun 2026 09:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：老番茄</p>
+<p>你可能很难想象，一场沙尘暴能把腾格里沙漠的沙子带到2000公里外的杭州。而在沙漠边缘，风沙也在吞没道路、农田和绿洲。这次我们走近了一个团队，他们在沙漠里花了23年种下了1800万棵树，只为了让风沙留在沙漠里，守护来之不易的绿色。如果这期视频对你有所启发，请多多支持我们，并把视频分享给更多的朋友们一起看看！</p><p><a href="https://www.bilibili.com/video/BV1TR766zEvE">查看原文 →</a></p>]]></description>
+        <author><![CDATA[老番茄]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 老番茄：“超微距”下的瑞士长什么样？]]></title>
+        <link>https://www.bilibili.com/video/BV1vkVB6NEuR</link>
+        <guid isPermaLink="false">bilibili-116680252462308</guid>
+        <pubDate>Wed, 03 Jun 2026 09:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：老番茄</p>
+<p>这一次我们来到了瑞士的日内瓦。和以往样片日记中那些大景航拍不同，这次我们特意准备了各式微距镜头，想带你一起看看“超微距”下的瑞士，换一种视角，探寻那些藏在细微之处的奇妙风景。如果你喜欢这期视频，请多多支持我们，并把视频分享给你的朋友们一起看看～</p><p><a href="https://www.bilibili.com/video/BV1vkVB6NEuR">查看原文 →</a></p>]]></description>
+        <author><![CDATA[老番茄]]></author>
+        <category>B站</category>
+    </item>
     
 </channel>
 </rss>
