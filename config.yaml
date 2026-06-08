@@ -42,7 +42,7 @@ deepseek:
 feed:
   title: "个人内容聚合日报"
   description: "跨平台订阅内容 + AI 每日摘要"
-  link: "https://github.com/terong/content-digest"
+  link: "https://github.com/RickMCCC/content-digest"
   language: "zh-CN"
   max_items: 200       # Feed 中最多保留多少条
   max_days: 7           # 最多保留多少天的内容
