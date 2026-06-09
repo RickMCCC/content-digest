@@ -2,7 +2,7 @@ name: Daily Content Digest
 
 on:
   schedule:
-    - cron: '30 22 * * *'   # UTC 22:30 = 北京时间 6:30
+    - cron: '30 21 * * *'   # UTC 21:30 = 北京时间 5:30
   workflow_dispatch:        # 支持手动触发
 
 permissions:
