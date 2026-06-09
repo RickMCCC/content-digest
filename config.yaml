@@ -64,6 +64,21 @@ subscriptions:
     # - id: "zhang-jia-wei"
     #   name: "张佳玮"
 
+# RSS 源（如 RSSHub），直接解析 RSS/Atom feed
+# url: RSS 源地址
+# platform: 显示的平台标签（xiaohongshu / zhihu 等）
+# name: 显示名称
+rss_sources:
+  # 小红书 via RSSHub 示例：
+  # - url: "https://rsshub.app/xiaohongshu/user/你的用户ID"
+  #   platform: "xiaohongshu"
+  #   name: "小红书关注"
+
+  # 知乎 via RSSHub 示例：
+  # - url: "https://rsshub.app/zhihu/people/你的知乎ID"
+  #   platform: "zhihu"
+  #   name: "知乎关注"
+
 # 爬虫配置
 crawler:
   min_interval: 5       # 最小请求间隔（秒）

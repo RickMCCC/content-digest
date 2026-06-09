@@ -1,6 +1,7 @@
 """内容聚合 + AI 日报 主入口"""
 import os
 import sys
+import hashlib
 import logging
 import yaml
 from pathlib import Path
@@ -10,6 +11,8 @@ from crawlers.base import CrawlerConfig
 from crawlers.bilibili import BilibiliCrawler
 from crawlers.zhihu import ZhihuCrawler
 from crawlers.xiaohongshu import XiaohongshuCrawler
+from crawlers.rss_source import RssSourceCrawler
+from storage.db import insert_item, log_crawl
 from digest.generator import generate_digest
 from feed.generator import generate_feed
 
@@ -95,6 +98,36 @@ def run():
                 total_new += n
         finally:
             crawler.close()
+
+    # RSS 源（如 RSSHub）
+    rss_sources = config.get("rss_sources", [])
+    if rss_sources:
+        logger.info(f"[rss] Processing {len(rss_sources)} RSS sources...")
+        rss_crawler = RssSourceCrawler(crawler_config)
+        try:
+            for src in rss_sources:
+                try:
+                    items = rss_crawler.fetch_feed(src["url"], src["platform"], src["name"])
+                    for item in items:
+                        inserted = insert_item(
+                            platform=item["platform"],
+                            author_id=hashlib.md5(src["url"].encode()).hexdigest()[:12],
+                            author_name=item.get("author_name", src["name"]),
+                            content_id=item["content_id"],
+                            title=item["title"],
+                            url=item["url"],
+                            summary=item.get("summary", ""),
+                            published_at=item["published_at"],
+                        )
+                        if inserted:
+                            total_new += 1
+                            logger.info(f"[rss] New ({src['platform']}): {item['title'][:50]}")
+                    log_crawl(src["platform"], src["url"], "success", len(items), None, 0)
+                except Exception as e:
+                    logger.error(f"[rss] Failed for {src['name']}: {e}")
+                    log_crawl(src["platform"], src["url"], "error", 0, str(e), 0)
+        finally:
+            rss_crawler.close()
 
     logger.info(f"Crawl complete: {total_new} new items found")
 
