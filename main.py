@@ -84,14 +84,8 @@ def run():
     xhs_subs = config.get("subscriptions", {}).get("xiaohongshu", [])
     if xhs_subs:
         logger.info(f"[xiaohongshu] Processing {len(xhs_subs)} subscriptions...")
-        token = os.environ.get("XIAOHONGSHU_TOKEN", "")
-        xhs_config = config.get("xiaohongshu", {})
-        crawler = XiaohongshuCrawler(
-            crawler_config,
-            token=token,
-            use_playwright=xhs_config.get("use_playwright", False),
-            api_fail_threshold=xhs_config.get("api_fail_threshold", 3),
-        )
+        cookie = os.environ.get("XIAOHONGSHU_COOKIE", "")
+        crawler = XiaohongshuCrawler(crawler_config, cookie)
         try:
             for sub in xhs_subs:
                 n = crawler.process_author(sub["id"], sub["name"])
