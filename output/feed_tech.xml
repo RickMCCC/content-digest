@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-    <title>个人内容聚合日报</title>
+    <title>技术资讯流</title>
     <link>https://github.com/RickMCCC/content-digest</link>
-    <description>跨平台订阅内容 + AI 每日摘要</description>
+    <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
     <lastBuildDate>Sun, 14 Jun 2026 10:45:25 GMT</lastBuildDate>
-    <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
         <title><![CDATA[[B站] 马督工：【睡前消息1066】老佛爷退出北京 布尔乔亚故事过时了]]></title>
@@ -17,68 +17,6 @@
 <p>✍️ 作者：马督工</p>
 <p>老佛爷百货的历史和未来。</p><p><a href="https://www.bilibili.com/video/BV1G3Jw6GEJ3">查看原文 →</a></p>]]></description>
         <author><![CDATA[马督工]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot：【中英字幕】华尔街周刊26.06.13完整版：SpaceX万亿美元IPO潮、政府押注量子计算、AI重塑搜索：资本狂潮下的技术豪赌]]></title>
-        <link>https://www.bilibili.com/video/BV1BHJA6WEGH</link>
-        <guid isPermaLink="false">bilibili-116746908341458</guid>
-        <pubDate>Sun, 14 Jun 2026 08:12:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Mr-Pot</p>
-<p>本期视频标题：万亿美元IPO潮、政府押注量子计算、AI重塑搜索：资本狂潮下的技术豪赌  
-本期视频要点：  
-1、SpaceX领衔Anthropic、OpenAI掀起万亿美元IPO浪潮，创上市首日估值与募资规模历史纪录，市场集中度堪比互联网泡沫顶峰。  
-2、三家公司盈利状态分化：Anthropic已盈利、SpaceX局部盈利、OpenAI仍在亏损；未来现金流贴现成为估值唯一锚点，关键人物（马斯克</p><p><a href="https://www.bilibili.com/video/BV1BHJA6WEGH">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot：【中英字幕】彭博科技前沿26.06.12完整版]]></title>
-        <link>https://www.bilibili.com/video/BV11kJW68ECf</link>
-        <guid isPermaLink="false">bilibili-116744291090814</guid>
-        <pubDate>Sun, 14 Jun 2026 06:42:38 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Mr-Pot</p>
-<p>本期视频标题：  
-SpaceX史诗级IPO首秀：2万亿美元开盘、马斯克成万亿富豪、AI与太空帝国全面升维  
-
-本期视频要点：  
-1、史上最大IPO：SpaceX募资750亿美元，定价135美元/股，挂牌即冲破2万亿美元市值，成为全球第六大上市公司。  
-2、开盘即飙涨：指示价一度冲上162美元，最终开盘150美元，日内最高达160美元以上，为早期股东与员工创造数千亿账面收益。  
-3、马斯克</p><p><a href="https://www.bilibili.com/video/BV11kJW68ECf">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Yunaty日本語：日本人真心推荐！一生至少要去一次的日本温泉5选]]></title>
-        <link>https://www.bilibili.com/video/BV1rGJA68E1b</link>
-        <guid isPermaLink="false">bilibili-116746941891271</guid>
-        <pubDate>Sun, 14 Jun 2026 06:07:39 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Yunaty日本語</p>
-<p>日本人真心推荐！一生至少要去一次的日本温泉5选</p><p><a href="https://www.bilibili.com/video/BV1rGJA68E1b">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Yunaty日本語]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot：【中英字幕】《ALL-IN》播客26.06.13完整版]]></title>
-        <link>https://www.bilibili.com/video/BV1qEJc6mECV</link>
-        <guid isPermaLink="false">bilibili-116746103034890</guid>
-        <pubDate>Sun, 14 Jun 2026 04:20:55 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Mr-Pot</p>
-<p>本期视频标题：  
-AI监管风暴与主权财富之争：Anthropic被迫开源、桑德斯50%国有化方案引爆美国大选恐慌  
-
-本期视频要点：  
-1. Anthropic Fable 5“降智门”引发开发者众怒：强制30天全数据留存、用户被悄悄降级却付费同价，被视为史上最透明垄断案例。  
-2. 政策棋局走向明朗：Anthropic/Dario 高举“安全”大旗，推动建立类FDA的AI联邦审批机制，意</p><p><a href="https://www.bilibili.com/video/BV1qEJc6mECV">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
         <category>B站</category>
     </item>
     
@@ -391,24 +329,6 @@ Underneath the product is a bigger conviction about where people should put thei
     </item>
     
     <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】LE SSERAFIM 已经严重"BOOMPALA中毒"😷｜越看越上头的BOOMPALA🎊MBC事前录制幕后⏯️ 260529]]></title>
-        <link>https://www.bilibili.com/video/BV1k1JH6SEq9</link>
-        <guid isPermaLink="false">bilibili-116743418682651</guid>
-        <pubDate>Sat, 13 Jun 2026 15:12:56 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>YTB
-资源：末末
-翻译：茜茜
-时间轴：魔法糖冰棍
-压制：末末
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1k1JH6SEq9">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
         <title><![CDATA[[x] Clem (HF CEO)：RT by @ClementDelangue: Alibaba Qwen3.7 slowly fading into irrelevance at the frontier due to proprietary stance.
 In it's place we have Minimax M3 and... *checks notes* Rio 3.5 397b, made by the municipal IT company of Rio de Janeiro's city government.
 
@@ -526,38 +446,6 @@ This one builds on Command A+ using the parallel transformer design. Interesting
     </item>
     
     <item>
-        <title><![CDATA[[B站] 饲养员小谢：为了让36岁老公重拾男人自信，我终于对他下手了]]></title>
-        <link>https://www.bilibili.com/video/BV1wPJH6UEVL</link>
-        <guid isPermaLink="false">bilibili-116741925505946</guid>
-        <pubDate>Sat, 13 Jun 2026 10:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：饲养员小谢</p>
-<p>家人们，不知道你们还记不记得去年狗哥在视频里说过：投币1w减一公斤。欠了一年，终于来还愿了哈哈哈哈。
-恭喜狗哥在品牌爸爸和中年焦虑的双重推动下，终于迈出了这一步！虽然过程很曲折，但结果是好的！
-这个视频我们拍摄和剪辑也花了特别多心思，我也好久没看到狗哥这么自律了。
-希望能给像狗哥一样有减肥困扰、但一直没开始的朋友们一点参考和激励。只要下决心，愿意先动起来，36岁也不算晚。
-就像视频结尾那首歌唱的：</p><p><a href="https://www.bilibili.com/video/BV1wPJH6UEVL">查看原文 →</a></p>]]></description>
-        <author><![CDATA[饲养员小谢]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot：【中英字幕】彭博财经简报26.06.12完整版]]></title>
-        <link>https://www.bilibili.com/video/BV1B4JE6KERs</link>
-        <guid isPermaLink="false">bilibili-116741237704325</guid>
-        <pubDate>Sat, 13 Jun 2026 07:07:38 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Mr-Pot</p>
-<p>本期视频标题：美伊停火引爆全球市场：SpaceX创纪录750亿IPO今日首秀！
-
-本期视频要点：
-1、伊朗半官方通讯社披露14点美伊协议草案：30天内解除石油制裁、重开霍尔木兹海峡、解冻240亿美元资产，并将黎巴嫩停火纳入条款，消息推动原油日内暴跌逾4%。
-2、全球风险资产共振：MSCI亚太指数涨近3%，欧洲Stoxx 600升1.7%，半导体板块单日暴涨12%，VIX跌破19，市场押注地缘风险溢</p><p><a href="https://www.bilibili.com/video/BV1B4JE6KERs">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
         <title><![CDATA[[x] Ethan Mollick：R to @emollick: (As of now, I have no additional information beyond what has publicly been released. Any additional speculation on my behalf would be based on the public statement from Anthropic and rumors, so I can't really add anything useful on X tonight beyond "this situation is confusing")]]></title>
         <link>https://nitter.net/emollick/status/2065627629235978601#m</link>
         <guid isPermaLink="false">x-c27d0e42a8f31446</guid>
@@ -609,28 +497,6 @@ huggingface.co/moonshotai/Ki…</p><p><a href="https://nitter.net/KimiDevs/statu
 <p>I ran a script every minute against the API to see how long I'd maintain access to claude-fable-5 - I lost access 14 minutes ago:</p><p><a href="https://nitter.net/simonw/status/2065618703480414666#m">查看原文 →</a></p>]]></description>
         <author><![CDATA[Simon Willison]]></author>
         <category>x</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] torazyz：北京沉浸式逛街vlog♥️torazyz]]></title>
-        <link>https://www.bilibili.com/video/BV1v2Er6oEpN</link>
-        <guid isPermaLink="false">bilibili-116734644193258</guid>
-        <pubDate>Sat, 13 Jun 2026 02:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：torazyz</p>
-<p>更多内容 欢迎关注 Find me on：
-RED: torazyz
-Instagram: torazyz
-YouTube: Tora Zhang
-Bili: @torazyz    
-
-Henry’s
-RED: HenryHsu
-YouTube: Henry Hsu
-Bili: @iamHenryHsu    
-Instagram: iamhenryhsu</p><p><a href="https://www.bilibili.com/video/BV1v2Er6oEpN">查看原文 →</a></p>]]></description>
-        <author><![CDATA[torazyz]]></author>
-        <category>B站</category>
     </item>
     
     <item>
@@ -1248,18 +1114,6 @@ Kimi.ai (@Kimi_Moonshot)
     </item>
     
     <item>
-        <title><![CDATA[[B站] 新西兰三妹：中国宣布制裁菲律宾防长特奥多罗!  苑举正 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV1z6EC6zE8q</link>
-        <guid isPermaLink="false">bilibili-116735751490933</guid>
-        <pubDate>Fri, 12 Jun 2026 06:43:23 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV1z6EC6zE8q">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
         <title><![CDATA[[x] Yann LeCun：RT by @ylecun: x.com/i/article/206529156971…]]></title>
         <link>https://nitter.net/TheAhmadOsman/status/2065307070044234186#m</link>
         <guid isPermaLink="false">x-3d70052c680a6368</guid>
@@ -1286,34 +1140,6 @@ Randall Balestriero (@randall_balestr)
 Our lineup of speakers is growing! Many more to be announced.... and don't forget to submit your papers, deadli</p><p><a href="https://nitter.net/randall_balestr/status/2065300665442668609#m">查看原文 →</a></p>]]></description>
         <author><![CDATA[Yann LeCun]]></author>
         <category>x</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot：【中英字幕】彭博财经观察26.06.11完整版]]></title>
-        <link>https://www.bilibili.com/video/BV1u7Er6mEFc</link>
-        <guid isPermaLink="false">bilibili-116733083977822</guid>
-        <pubDate>Fri, 12 Jun 2026 04:32:07 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Mr-Pot</p>
-<p>本期视频标题：SpaceX史上最大IPO前夜：市场巨震、央行首加息、伊朗风暴升级  
-本期视频要点：  
-1、SpaceX将启动75-700亿美元IPO，预期加近4万亿美元市值；美股科技股反弹、投资者争抢流动性。  
-2、欧洲央行25年来首次加息25个基点并暗示后续动作，引发“滞胀政策错误”争议。  
-3、甲骨文宣布700亿美元AI数据中心开支计划，盘前跌幅近8%，被视为市场抵触高额资本支出的“红</p><p><a href="https://www.bilibili.com/video/BV1u7Er6mEFc">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Grandpagu顾爷：AAAAA阿姆斯特丹City walk(下)]]></title>
-        <link>https://www.bilibili.com/video/BV19LER6xENR</link>
-        <guid isPermaLink="false">bilibili-116724577933380</guid>
-        <pubDate>Fri, 12 Jun 2026 04:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Grandpagu顾爷</p>
-<p><a href="https://www.bilibili.com/video/BV19LER6xENR">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Grandpagu顾爷]]></author>
-        <category>B站</category>
     </item>
     
     <item>
@@ -1429,22 +1255,6 @@ Arbor is our attempt to make autonomous research more practical, reusable, and g
     </item>
     
     <item>
-        <title><![CDATA[[B站] Mr-Pot：【中英字幕】26.06.11川普在白宫签署公告并回答记者提问完整版]]></title>
-        <link>https://www.bilibili.com/video/BV1eUEr6xEtm</link>
-        <guid isPermaLink="false">bilibili-116734627415059</guid>
-        <pubDate>Fri, 12 Jun 2026 02:21:51 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Mr-Pot</p>
-<p>本期视频标题：特朗普签署历史性渔业公告，50万平方英里海域重开并宣布伊朗“无核协议”周末落地  
-本期视频要点：  
-1、伊朗战争和解“周末签约”——美方将解除封锁，伊朗明确承诺永远不拥核、不购核、不研发核。  
-2、美国“悄悄夜袭”摧毁伊朗海上油运，过去一个月已击沉百余艘油轮，致油价骤降并刺激股市飙升千点。  
-3、总统现场签署公告，一举重开西太平洋近50万平方英里专属经济区，恢复美国渔民对大眼</p><p><a href="https://www.bilibili.com/video/BV1eUEr6xEtm">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
         <title><![CDATA[[x] Ethan Mollick：R to @emollick: Out of curiosity, what do you think Cordwainer Smith would have thought of all of this?]]></title>
         <link>https://nitter.net/emollick/status/2065254523673669787#m</link>
         <guid isPermaLink="false">x-2f18dabc71dccb87</guid>
@@ -1498,23 +1308,6 @@ luma.com/f28a739d</p><p><a href="https://nitter.net/dwarkesh_sp/status/206524550
 <p>After two days with Claude Fable 5 the best way I can describe it is "relentlessly proactive" - here's an example where I dropped in a screenshot of a bug and it span up custom CORS Python servers and</p><p><a href="https://nitter.net/simonw/status/2065216774992515342#m">查看原文 →</a></p>]]></description>
         <author><![CDATA[Simon Willison]]></author>
         <category>x</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot：【中英字幕】彭博财经简报26.06.11完整版]]></title>
-        <link>https://www.bilibili.com/video/BV1P2EB6cEAX</link>
-        <guid isPermaLink="false">bilibili-116732530269010</guid>
-        <pubDate>Thu, 11 Jun 2026 23:16:13 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Mr-Pot</p>
-<p>本期视频标题：美伊冲突缓和触发全球反弹，甲骨文AI支出警告与SpaceX首日定价成焦点  
-
-本期视频要点：  
-1、美国第二轮空袭伊朗结束且反应有限，油价自95美元回落至92-93美元，纳指年内仍涨近13%，带动全球风险偏好全面回升。  
-2、甲骨文财报数据中心支出高于预期，掩盖了Q1 27-29%的AI有机增长，盘前跌6-7%，市场担忧AI基础设施回报率，预示“资本开支狂热”见顶。  
-3、S</p><p><a href="https://www.bilibili.com/video/BV1P2EB6cEAX">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
     </item>
     
     <item>
@@ -1820,18 +1613,6 @@ With notebooks, you can organize your projects in a dedicated, focused space tha
     </item>
     
     <item>
-        <title><![CDATA[[B站] 全员i人字幕组：LE SSERAFIM x ILLIT x KATSEYE - 'ICONIC BY MISTAKE' | MCD舞台+直拍合集 260611]]></title>
-        <link>https://www.bilibili.com/video/BV1QMEq6TENg</link>
-        <guid isPermaLink="false">bilibili-116731456525463</guid>
-        <pubDate>Thu, 11 Jun 2026 15:15:54 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>-</p><p><a href="https://www.bilibili.com/video/BV1QMEq6TENg">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
         <title><![CDATA[[B站] 华尔街播客：《华尔街日报》6月11日全文精读]]></title>
         <link>https://www.bilibili.com/video/BV1JmEi6QEMw</link>
         <guid isPermaLink="false">bilibili-116731741801941</guid>
@@ -1852,24 +1633,6 @@ With notebooks, you can organize your projects in a dedicated, focused space tha
 <p>✍️ 作者：华尔街播客</p>
 <p>2026年6月11日《华尔街日报》聚焦三条主线：能源结构加速重塑，太阳能首次超越煤炭；科技平台竞争升级，OpenAI与Anthropic在AI服务定价上正面交锋；传统行业触底回升，美国货运结束四年低迷。此外SpaceX启动上市，德意志电信谋划跨境合并，全球企业格局加速分化。</p><p><a href="https://www.bilibili.com/video/BV1F2Ei6pEdM">查看原文 →</a></p>]]></description>
         <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot：【中英字幕】巴伦周刊26.06.11：耐克跌落神坛，从乔丹神话到文班亚米的“下一个乔丹”缺口]]></title>
-        <link>https://www.bilibili.com/video/BV1UvES6TE7p</link>
-        <guid isPermaLink="false">bilibili-116723084690975</guid>
-        <pubDate>Thu, 11 Jun 2026 13:17:04 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Mr-Pot</p>
-<p>本期视频标题：耐克跌落神坛：从乔丹神话到文班亚米的“下一个乔丹”缺口
-
-本期视频要点：
-1、股价腰斩至12年前：耐克从170美元跌至40美元，华尔街意识到转型耗时远超预期。  
-2、CEO已按投资者剧本改革：重押性能鞋、修复零售关系，但北美微弱回暖未能提振估值。  
-3、盈利预期连续下调：未来财年营业利润率或跌破6%，相比过去十年均值13%几乎腰斩。  
-4、乔丹品牌光环褪色：限量策略被疫情放量冲</p><p><a href="https://www.bilibili.com/video/BV1UvES6TE7p">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
         <category>B站</category>
     </item>
     
@@ -1906,18 +1669,6 @@ thealliance.ai/projects/tape…
 — https://nitter.net/ylecun/status/20646926863139555</p><p><a href="https://nitter.net/Dan_Jeffries1/status/2065028754603135084#m">查看原文 →</a></p>]]></description>
         <author><![CDATA[Yann LeCun]]></author>
         <category>x</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 历史调研室：9年内,让国土面积暴增253%!从小国到大国的逆袭【历史调研室100】]]></title>
-        <link>https://www.bilibili.com/video/BV1UXEq6TEH4</link>
-        <guid isPermaLink="false">bilibili-116730970049179</guid>
-        <pubDate>Thu, 11 Jun 2026 10:25:38 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：历史调研室</p>
-<p><a href="https://www.bilibili.com/video/BV1UXEq6TEH4">查看原文 →</a></p>]]></description>
-        <author><![CDATA[历史调研室]]></author>
-        <category>B站</category>
     </item>
     
     <item>
@@ -2048,18 +1799,6 @@ Starting this week, flagged requests will</p><p><a href="https://nitter.net/simo
     </item>
     
     <item>
-        <title><![CDATA[[B站] 新西兰三妹：中国多部门联动台岛东部！近海治理启动]]></title>
-        <link>https://www.bilibili.com/video/BV12XEv6bEkK</link>
-        <guid isPermaLink="false">bilibili-116730198296239</guid>
-        <pubDate>Thu, 11 Jun 2026 07:11:13 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV12XEv6bEkK">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
         <title><![CDATA[[x] Simon Willison：R to @simonw: Don't miss the exact text though: "We’re changing Fable 5’s safeguards for frontier LLM development to make them visible" - make them visible means they're undoing the truly egregious (dare I say "unaligned") decision to have the model lie about its refusals, it will still refuse]]></title>
         <link>https://nitter.net/simonw/status/2064936762099789960#m</link>
         <guid isPermaLink="false">x-9f74daf57f2f1c56</guid>
@@ -2069,22 +1808,6 @@ Starting this week, flagged requests will</p><p><a href="https://nitter.net/simo
 <p>Don't miss the exact text though: "We’re changing Fable 5’s safeguards for frontier LLM development to make them visible" - make them visible means they're undoing the truly egregious (dare I say "una</p><p><a href="https://nitter.net/simonw/status/2064936762099789960#m">查看原文 →</a></p>]]></description>
         <author><![CDATA[Simon Willison]]></author>
         <category>x</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot：【中英字幕】彭博财经观察26.06.10完整版]]></title>
-        <link>https://www.bilibili.com/video/BV1iGEo6KE54</link>
-        <guid isPermaLink="false">bilibili-116727329326745</guid>
-        <pubDate>Thu, 11 Jun 2026 05:01:47 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Mr-Pot</p>
-<p>本期视频标题：4%通胀、地缘风暴与AI盛宴：市场在癫狂与理性间博弈  
-本期视频要点：  
-1、美国CPI三年首次突破4%，能源与AI需求推升物价，市场押注美联储年内“降息3次”对抗经济下行风险。  
-2、霍尔木兹海峡僵局叠加美伊互击，原油供给漏洞被“额外科威特出货”短暂掩盖，但全球库存仅剩数周缓冲，油价随时失控。  
-3、SpaceX 2500 亿美元超额认购创纪录IPO、Anthropic 3</p><p><a href="https://www.bilibili.com/video/BV1iGEo6KE54">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
     </item>
     
     <item>
@@ -2122,23 +1845,6 @@ BREAKING NEWS: Anthropic's latest model will NOT help you if it thinks your</p><
     </item>
     
     <item>
-        <title><![CDATA[[B站] Mr-Pot：【中英字幕】26.06.10川普在白宫签行政令并回答记者提问完整版]]></title>
-        <link>https://www.bilibili.com/video/BV1r6Ee6UEz2</link>
-        <guid isPermaLink="false">bilibili-116728772299274</guid>
-        <pubDate>Thu, 11 Jun 2026 02:14:16 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Mr-Pot</p>
-<p>本期视频标题：特朗普签“保障美国法案”：380亿砸向边境、40倍省钱修喷泉，还炮轰民主党“蠢货”
-
-本期视频要点：
-1、签署《保障美国安全法案》：一次性拨款380亿美元给ICE、260亿美元给边境巡逻队，资金直达总统任期结束，堵住民主党“断粮”企图。  
-2、从开放边境到零入境：过去11个月南部边境非法入境数为零，芬太尼流入量降60%，声称已把2500万非法入境者“挡出去”。  
-3、城市安全样板</p><p><a href="https://www.bilibili.com/video/BV1r6Ee6UEz2">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
         <title><![CDATA[[x] Demis Hassabis：Awesome to see this innovation in text diffusion. DiffusionGemma is lightning fast, 4x faster than other Gemma 4 models! Congrats to @bodonoghue85 and the team who worked so hard on this - excited to see what people build with it!]]></title>
         <link>https://nitter.net/demishassabis/status/2064873362799600042#m</link>
         <guid isPermaLink="false">x-952982e0cc7539a6</guid>
@@ -2148,55 +1854,6 @@ BREAKING NEWS: Anthropic's latest model will NOT help you if it thinks your</p><
 <p>Awesome to see this innovation in text diffusion. DiffusionGemma is lightning fast, 4x faster than other Gemma 4 models! Congrats to @bodonoghue85 and the team who worked so hard on this - excited to </p><p><a href="https://nitter.net/demishassabis/status/2064873362799600042#m">查看原文 →</a></p>]]></description>
         <author><![CDATA[Demis Hassabis]]></author>
         <category>x</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot：【中英字幕】26.06.11美伊“火力减弱战”升级：20处目标被袭，特朗普暗示再轰炸伊朗本土]]></title>
-        <link>https://www.bilibili.com/video/BV1XrEZ6NEX2</link>
-        <guid isPermaLink="false">bilibili-116728436622068</guid>
-        <pubDate>Wed, 10 Jun 2026 23:53:13 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Mr-Pot</p>
-<p>本期视频标题：美伊“火力减弱战”升级：20处目标被袭，特朗普暗示再轰炸伊朗本土
-本期视频要点：
-1、24小时螺旋：伊朗先射12枚导弹+无人机→美击毁20处雷达/防空→伊朗再反击，双方否认“停火”改称“减火”。  
-2、事件导火索：周一伊朗导弹擦中一架在阿曼湾国际空域飞行的美军阿帕奇直升机，机起火迫降，两名飞行员海上漂浮两小时后被无人潜航器首次成功救起，无人伤亡被白宫称为“奇迹”。  
-3、报复节奏</p><p><a href="https://www.bilibili.com/video/BV1XrEZ6NEX2">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot：【中英字幕】26.06.11突发：美伊冲突升级！round2开打]]></title>
-        <link>https://www.bilibili.com/video/BV13mEZ6wE3h</link>
-        <guid isPermaLink="false">bilibili-116728369585027</guid>
-        <pubDate>Wed, 10 Jun 2026 23:47:08 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Mr-Pot</p>
-<p>本期视频标题：美伊冲突升级！美国第二轮空袭已打响，霍尔木兹海峡连环爆炸震撼全球  
-
-本期视频要点：  
-1、福克斯突发报道：美国于美东时间下午5:15启动第二轮对伊朗报复空袭，目标涵盖霍尔木兹海峡沿岸港口、基什岛、格什姆岛及德黑兰西部多地。  
-2、国防部长赫格赛斯白天亲赴坦帕中央司令部，与库珀海军上将敲定伊朗目标清单并预告“今夜必炸”，强调“必要时用炸弹谈判”。  
-3、美军秘密护航被解密：特</p><p><a href="https://www.bilibili.com/video/BV13mEZ6wE3h">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot：【中英字幕】彭博财经简报26.06.10完整版]]></title>
-        <link>https://www.bilibili.com/video/BV1LREo6qE5D</link>
-        <guid isPermaLink="false">bilibili-116726859564818</guid>
-        <pubDate>Wed, 10 Jun 2026 23:11:17 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Mr-Pot</p>
-<p>本期视频标题：中东炮火与AI泡沫惊魂：CPI前夜全球市场巨震解析  
-本期视频要点：  
-1、伊朗击落美直升机后，美伊互袭海湾多处军事目标；特朗普称停火谈判“一两天内达成”，但双方24小时内已二次交火，脆弱停火岌岌可危。  
-2、CPI数据发布在即：强劲就业数据推升加息预期，VIX飙升至21，两年与30年期美债收益率再度突破4.13%/5%大关。  
-3、科技股遭遇全面抛售：纳指期货连跌、台积电3</p><p><a href="https://www.bilibili.com/video/BV1LREo6qE5D">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
     </item>
     
     <item>
@@ -2604,40 +2261,6 @@ Importantly, bubbles can be attached both to things that are completely hogwash,
     </item>
     
     <item>
-        <title><![CDATA[[B站] Mr-Pot：【中英字幕】鸡毛秀26.06.10]]></title>
-        <link>https://www.bilibili.com/video/BV1NVEd62EzE</link>
-        <guid isPermaLink="false">bilibili-116725752271905</guid>
-        <pubDate>Wed, 10 Jun 2026 14:34:09 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Mr-Pot</p>
-<p>本期视频标题：
-特朗普NBA总决赛现场睡着+被全场狂嘘，还宣称“中东战争两三天就结束”
-
-本期视频要点：
-1、特朗普史无前例关闭纽约城，只为到麦迪逊广场花园看NBA总决赛，却因超长安检折腾球迷。
-2、20 000名球迷全程用标语、口号和震天嘘声“欢迎”总统，现场音量被主持人调侃“仅次于林肯时代”。
-3、总统现场“干饭”直播：与财长共享披萨、一根接一根吃薯条，随后抱肚酣睡，尼克斯13连胜就此终结。
-</p><p><a href="https://www.bilibili.com/video/BV1NVEd62EzE">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot：【中英字幕】彭博科技前沿26.06.09]]></title>
-        <link>https://www.bilibili.com/video/BV1Q8ES66Eer</link>
-        <guid isPermaLink="false">bilibili-116723067917641</guid>
-        <pubDate>Wed, 10 Jun 2026 13:24:08 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Mr-Pot</p>
-<p>本期视频标题：台湾芯片封锁升级、OpenAI秘密IPO、万亿估值大震荡  
-本期视频要点：  
-1、台湾拟将“出口先进AI芯片至大陆”定为刑事犯罪，等同美国H200禁售令，并首次以伪造文件罪名拘人。  
-2、OpenAI已向SEC秘密递交S1文件，计划年内上市，但强调保留灵活性；同时发布Sam Altman署名的“AI自主进化风险与机遇”博文，与Anthropic展开意识形态+IPO时间表双线竞速</p><p><a href="https://www.bilibili.com/video/BV1Q8ES66Eer">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
         <title><![CDATA[[x] Yann LeCun：RT by @ylecun: Everyone, please join Project Tapestry 
 https://thealliance.ai/projects/tapestry]]></title>
         <link>https://nitter.net/ylecun/status/2064692686313955591#m</link>
@@ -2805,18 +2428,6 @@ Today it's intelligent Terms of Service control. You can't</p><p><a href="https:
     </item>
     
     <item>
-        <title><![CDATA[[B站] 新西兰三妹：全线暴雷! 日本憋屈爆料: 被中国海警追着跑! 稀土也清零了!]]></title>
-        <link>https://www.bilibili.com/video/BV18JER6XE22</link>
-        <guid isPermaLink="false">bilibili-116724460423008</guid>
-        <pubDate>Wed, 10 Jun 2026 06:51:49 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV18JER6XE22">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
         <title><![CDATA[[B站] 华尔街播客：【英文原声】摩根看好东阿阿胶，并购布局男性健康赛道]]></title>
         <link>https://www.bilibili.com/video/BV15uER6bEKG</link>
         <guid isPermaLink="false">bilibili-116724376800683</guid>
@@ -2837,23 +2448,6 @@ Today it's intelligent Terms of Service control. You can't</p><p><a href="https:
 <p>✍️ 作者：华尔街播客</p>
 <p>摩根士丹利发布报告，追踪东阿阿胶内蒙古阿拉善肉苁蓉基地实地调研。在阿胶块终端动销基本持平的背景下，公司通过三次并购——内蒙古阿拉善肉苁蓉及吉林两家鹿茸资产——积极向男性大健康市场拓展。上述并购标的均提供功能性成分或产品，与公司现有女性客群形成互补。接近100%的派息率对稳健型资金持续具有吸引力，并购整合策略有望缓解市场对增长可持续性的担忧。</p><p><a href="https://www.bilibili.com/video/BV1vuER68Ekj">查看原文 →</a></p>]]></description>
         <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot：【中英字幕】彭博财经观察26.06.09完整版]]></title>
-        <link>https://www.bilibili.com/video/BV1k4EU69Eru</link>
-        <guid isPermaLink="false">bilibili-116721675474726</guid>
-        <pubDate>Wed, 10 Jun 2026 04:26:28 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Mr-Pot</p>
-<p>本期视频标题：全球牛市尾声还是新起点？巨型IPO、AI狂潮与美联储转向的三重博弈
-
-本期视频要点：
-1、华尔街“三巨头”IPO正式启动：SpaceX本周五挂牌，OpenAI秘密提交上市文件，Anthropic紧随其后，三家公司合计募资或超2000亿美元。
-2、美联储立场大转向：BNP、德银等机构一致预期12月开始连续三次加息，债市与美联储政策预期的“脱钩”已引发30年期国债收益率脱离历史锚点。
-3</p><p><a href="https://www.bilibili.com/video/BV1k4EU69Eru">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
         <category>B站</category>
     </item>
     
@@ -2949,18 +2543,6 @@ Obviously I still think something like RL (optimizing for long term goals) is fu
 I also tho</p><p><a href="https://nitter.net/natashajaques/status/2064498903937163596#m">查看原文 →</a></p>]]></description>
         <author><![CDATA[Yann LeCun]]></author>
         <category>x</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot：【中英字幕】彭博财经简报26.06.09完整版]]></title>
-        <link>https://www.bilibili.com/video/BV1sjE26XEQ3</link>
-        <guid isPermaLink="false">bilibili-116720953989644</guid>
-        <pubDate>Tue, 09 Jun 2026 23:43:27 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Mr-Pot</p>
-<p>【中英字幕】彭博财经简报26.06.09完整版</p><p><a href="https://www.bilibili.com/video/BV1sjE26XEQ3">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
     </item>
     
     <item>
@@ -3132,6 +2714,426 @@ LatentMoE was probably inspired by MLA, which was inspired by LoRA, which was in
 <p>Always back to the basics: 
 LatentMoE was probably inspired by MLA, which was inspired by LoRA, which was inspired by SVD, which was inspired by eigendecomposition.</p><p><a href="https://nitter.net/rasbt/status/2064384777663193498#m">查看原文 →</a></p>]]></description>
         <author><![CDATA[Sebastian Raschka]]></author>
+        <category>x</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[x] Demis Hassabis：RT by @demishassabis: Introducing Gemini 3.5 Flash Live Translate, our real time speech to speech translation model which supports more than 70 languages (both in and out), and is so natural.
+
+It is available in the Gemini API, AI Studio, & Google Translate right now + coming soon to Google Meet!!]]></title>
+        <link>https://nitter.net/OfficialLoganK/status/2064369125447864674#m</link>
+        <guid isPermaLink="false">x-f6b4e90410e281a3</guid>
+        <pubDate>Tue, 09 Jun 2026 15:28:48 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：x</p>
+<p>✍️ 作者：Demis Hassabis</p>
+<p>Introducing Gemini 3.5 Flash Live Translate, our real time speech to speech translation model which supports more than 70 languages (both in and out), and is so natural.
+
+It is available in the Gemini</p><p><a href="https://nitter.net/OfficialLoganK/status/2064369125447864674#m">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Demis Hassabis]]></author>
+        <category>x</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 马督工：【睡前消息1064】西北赛区西安赢 西部赛区成都赢]]></title>
+        <link>https://www.bilibili.com/video/BV1wPEm6DEax</link>
+        <guid isPermaLink="false">bilibili-116720366787284</guid>
+        <pubDate>Tue, 09 Jun 2026 13:38:45 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：马督工</p>
+<p>成都对西安房地产市场的冲击。</p><p><a href="https://www.bilibili.com/video/BV1wPEm6DEax">查看原文 →</a></p>]]></description>
+        <author><![CDATA[马督工]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[x] Rowan Cheung：RT by @rowancheung: Today, we're announcing our first strategic investment from Electrify.
+
+The partnership will help us expand our content, education, and products far faster than we could alone.
+
+Details explained by @rowancheung in the thread below:]]></title>
+        <link>https://nitter.net/TheRundownAI/status/2064336855663837387#m</link>
+        <guid isPermaLink="false">x-a239b5c44262bb25</guid>
+        <pubDate>Tue, 09 Jun 2026 13:20:34 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：x</p>
+<p>✍️ 作者：Rowan Cheung</p>
+<p>Today, we're announcing our first strategic investment from Electrify.
+
+The partnership will help us expand our content, education, and products far faster than we could alone.
+
+Details explained by @</p><p><a href="https://nitter.net/TheRundownAI/status/2064336855663837387#m">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Rowan Cheung]]></author>
+        <category>x</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[x] Rowan Cheung：R to @rowancheung: It's a huge honor to translate the fastest-moving industry of our time for millions of people every day. My job is awesome.
+
+Our mission is to turn AI into a practical skill for 1 billion people.
+
+This partnership is how we get there faster, and we're just getting started 🫡]]></title>
+        <link>https://nitter.net/rowancheung/status/2064334378797330818#m</link>
+        <guid isPermaLink="false">x-670a99bc4087a222</guid>
+        <pubDate>Tue, 09 Jun 2026 13:10:44 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：x</p>
+<p>✍️ 作者：Rowan Cheung</p>
+<p>It's a huge honor to translate the fastest-moving industry of our time for millions of people every day. My job is awesome.
+
+Our mission is to turn AI into a practical skill for 1 billion people.
+
+Thi</p><p><a href="https://nitter.net/rowancheung/status/2064334378797330818#m">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Rowan Cheung]]></author>
+        <category>x</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[x] Rowan Cheung：R to @rowancheung: Sign up at http://therundown.ai and read more about the partnership here: https://www.electrify.video/news/electrify-partners-with-the-rundown]]></title>
+        <link>https://nitter.net/rowancheung/status/2064334380839878707#m</link>
+        <guid isPermaLink="false">x-f24d92de080a8942</guid>
+        <pubDate>Tue, 09 Jun 2026 13:10:44 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：x</p>
+<p>✍️ 作者：Rowan Cheung</p>
+<p>Sign up at therundown.ai and read more about the partnership here: electrify.video/news/electri…</p><p><a href="https://nitter.net/rowancheung/status/2064334380839878707#m">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Rowan Cheung]]></author>
+        <category>x</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[x] Rowan Cheung：R to @rowancheung: Crazy to think a simple daily email turned into a real business, now with real investors.
+
+Incredibly grateful to my team for turning this vision into reality, to the millions of readers who trust us as their AI news and education source, and to our partners who support us!]]></title>
+        <link>https://nitter.net/rowancheung/status/2064334376184303641#m</link>
+        <guid isPermaLink="false">x-06bda55e92d7f104</guid>
+        <pubDate>Tue, 09 Jun 2026 13:10:43 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：x</p>
+<p>✍️ 作者：Rowan Cheung</p>
+<p>Crazy to think a simple daily email turned into a real business, now with real investors.
+
+Incredibly grateful to my team for turning this vision into reality, to the millions of readers who trust us </p><p><a href="https://nitter.net/rowancheung/status/2064334376184303641#m">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Rowan Cheung]]></author>
+        <category>x</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[x] Rowan Cheung：R to @rowancheung: Once the newsletter model worked, we expanded fast.
+
+At the time, there were hundreds of other AI newsletters, so we focused on giving readers more value:
+
+-More newsletters (Robotics and Tech)
+-YouTube interviews with A-list guests
+-A custom edTech platform for AI upskilling]]></title>
+        <link>https://nitter.net/rowancheung/status/2064334372426101136#m</link>
+        <guid isPermaLink="false">x-7e4a08f31a34f60e</guid>
+        <pubDate>Tue, 09 Jun 2026 13:10:42 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：x</p>
+<p>✍️ 作者：Rowan Cheung</p>
+<p>Once the newsletter model worked, we expanded fast.
+
+At the time, there were hundreds of other AI newsletters, so we focused on giving readers more value:
+
+-More newsletters (Robotics and Tech)
+-YouTu</p><p><a href="https://nitter.net/rowancheung/status/2064334372426101136#m">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Rowan Cheung]]></author>
+        <category>x</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[x] Rowan Cheung：R to @rowancheung: Three years later, the newsletter turned into a full ecosystem:
+
+-2.6M active subscribers (50%+ open rates)
+-A-list interviews with guests like Zuck, Sama, and Satya
+-A social audience in the multi-millions
+-AI training  for 63k+ professionals and companies]]></title>
+        <link>https://nitter.net/rowancheung/status/2064334374238130427#m</link>
+        <guid isPermaLink="false">x-74ed9a52309255c6</guid>
+        <pubDate>Tue, 09 Jun 2026 13:10:42 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：x</p>
+<p>✍️ 作者：Rowan Cheung</p>
+<p>Three years later, the newsletter turned into a full ecosystem:
+
+-2.6M active subscribers (50%+ open rates)
+-A-list interviews with guests like Zuck, Sama, and Satya
+-A social audience in the multi-mi</p><p><a href="https://nitter.net/rowancheung/status/2064334374238130427#m">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Rowan Cheung]]></author>
+        <category>x</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[x] Rowan Cheung：R to @rowancheung: Three years ago, I started by posting Twitter threads into the void (back when it was called Twitter)
+
+I had no following, no co-founder, no investors, and was working 12+ hours a day making content, writing a daily newsletter, AND testing every new AI tool.]]></title>
+        <link>https://nitter.net/rowancheung/status/2064334367753642134#m</link>
+        <guid isPermaLink="false">x-4069737f116bfcd6</guid>
+        <pubDate>Tue, 09 Jun 2026 13:10:41 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：x</p>
+<p>✍️ 作者：Rowan Cheung</p>
+<p>Three years ago, I started by posting Twitter threads into the void (back when it was called Twitter)
+
+I had no following, no co-founder, no investors, and was working 12+ hours a day making content, </p><p><a href="https://nitter.net/rowancheung/status/2064334367753642134#m">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Rowan Cheung]]></author>
+        <category>x</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[x] Rowan Cheung：R to @rowancheung: But I got VERY lucky early on in two ways:
+
+1) My content took off, which fed organic growth into the newsletter
+
+2) I brought on two amazing people: @joeycyliu to run partnerships and @Ghost_Z12 to write the daily newsletter]]></title>
+        <link>https://nitter.net/rowancheung/status/2064334370039648575#m</link>
+        <guid isPermaLink="false">x-93b6b749b37c8050</guid>
+        <pubDate>Tue, 09 Jun 2026 13:10:41 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：x</p>
+<p>✍️ 作者：Rowan Cheung</p>
+<p>But I got VERY lucky early on in two ways:
+
+1) My content took off, which fed organic growth into the newsletter
+
+2) I brought on two amazing people: @joeycyliu to run partnerships and @Ghost_Z12 to w</p><p><a href="https://nitter.net/rowancheung/status/2064334370039648575#m">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Rowan Cheung]]></author>
+        <category>x</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[x] Rowan Cheung：Pinned: NEWS:
+
+The Rundown just took its first strategic investment from Electrify (behind brands like Veritasium, Fireship, and more)!
+
+Through this partnership, we can scale significantly faster toward our mission of educating 1B people on AI.
+
+The story below:]]></title>
+        <link>https://nitter.net/rowancheung/status/2064334363622244824#m</link>
+        <guid isPermaLink="false">x-f29258b9ab1519db</guid>
+        <pubDate>Tue, 09 Jun 2026 13:10:40 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：x</p>
+<p>✍️ 作者：Rowan Cheung</p>
+<p>NEWS:
+
+The Rundown just took its first strategic investment from Electrify (behind brands like Veritasium, Fireship, and more)!
+
+Through this partnership, we can scale significantly faster toward our </p><p><a href="https://nitter.net/rowancheung/status/2064334363622244824#m">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Rowan Cheung]]></author>
+        <category>x</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[x] Rowan Cheung：R to @rowancheung: First, the shape of the deal.
+
+Electrify took a stake in the business, and I'm staying on as CEO with full control of editorial, content, and direction.
+
+The Rundown stays fully independent, now with the operations, infrastructure, and advisory support of a huge media company.]]></title>
+        <link>https://nitter.net/rowancheung/status/2064334365883036110#m</link>
+        <guid isPermaLink="false">x-4bf3e88625e4a283</guid>
+        <pubDate>Tue, 09 Jun 2026 13:10:40 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：x</p>
+<p>✍️ 作者：Rowan Cheung</p>
+<p>First, the shape of the deal.
+
+Electrify took a stake in the business, and I'm staying on as CEO with full control of editorial, content, and direction.
+
+The Rundown stays fully independent, now with </p><p><a href="https://nitter.net/rowancheung/status/2064334365883036110#m">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Rowan Cheung]]></author>
+        <category>x</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客：【英文原声】《华尔街日报》6月9日全文精读]]></title>
+        <link>https://www.bilibili.com/video/BV1kyEm6pEj8</link>
+        <guid isPermaLink="false">bilibili-116720266117818</guid>
+        <pubDate>Tue, 09 Jun 2026 13:02:40 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：华尔街播客</p>
+<p>本期华尔街日报聚焦AI基础设施建设引发的资本浪潮。科技巨头今年通过债券市场完成创纪录融资，以支撑算力基础设施的大规模扩张。OpenAI正式向SEC提交IPO申请，拟于今年秋季上市。苹果在开发者大会发布与谷歌合作的新版Siri，战略定位是追平市场现有水平。Nvidia与韩国科技巨头结盟，在亚洲布局千兆瓦级AI工厂。百事可乐在亚利桑那州运营35辆无人驾驶卡车，成为首家大规模商用自动驾驶的美国消费品企业</p><p><a href="https://www.bilibili.com/video/BV1kyEm6pEj8">查看原文 →</a></p>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客：《华尔街日报》6月9日全文精读]]></title>
+        <link>https://www.bilibili.com/video/BV1ryEm6pEzf</link>
+        <guid isPermaLink="false">bilibili-116720266119822</guid>
+        <pubDate>Tue, 09 Jun 2026 13:01:20 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：华尔街播客</p>
+<p>本期华尔街日报聚焦AI基础设施建设引发的资本浪潮。科技巨头今年通过债券市场完成创纪录融资，以支撑算力基础设施的大规模扩张。OpenAI正式向SEC提交IPO申请，拟于今年秋季上市。苹果在开发者大会发布与谷歌合作的新版Siri，战略定位是追平市场现有水平。Nvidia与韩国科技巨头结盟，在亚洲布局千兆瓦级AI工厂。百事可乐在亚利桑那州运营35辆无人驾驶卡车，成为首家大规模商用自动驾驶的美国消费品企业</p><p><a href="https://www.bilibili.com/video/BV1ryEm6pEzf">查看原文 →</a></p>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[x] Yann LeCun：RT by @ylecun: Here is @ylecun ‘s recent lecture on world models at @ETH: https://youtu.be/72Xj8k5WQX4]]></title>
+        <link>https://nitter.net/chrisoffner3d/status/2064320485559599247#m</link>
+        <guid isPermaLink="false">x-97c665ade30a4348</guid>
+        <pubDate>Tue, 09 Jun 2026 12:15:31 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：x</p>
+<p>✍️ 作者：Yann LeCun</p>
+<p>Here is @ylecun ‘s recent lecture on world models at @ETH: piped.video/72Xj8k5WQX4</p><p><a href="https://nitter.net/chrisoffner3d/status/2064320485559599247#m">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Yann LeCun]]></author>
+        <category>x</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客：【英文原声】花旗看好特锐德，AI新品赋能智算中心建设]]></title>
+        <link>https://www.bilibili.com/video/BV19sE769Ehu</link>
+        <guid isPermaLink="false">bilibili-116719846689726</guid>
+        <pubDate>Tue, 09 Jun 2026 11:16:06 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：华尔街播客</p>
+<p>花旗发布针对特锐德的闪电研究报告，追踪其新发布的AI Powerhouse一体化智算中心供电解决方案。该预制化系统以碳化硅固态变压器技术为核心，将高压电直接转为800V直流，建设周期压缩至150天，实现100%可再生能源就地消纳。花旗认为特锐德凭借充电桩领域积累的HVDC技术与产能优势，能够及时承接800V直流供电市场需求。公司已从头部电信运营商、腾讯和华能等客户获得初始订单。</p><p><a href="https://www.bilibili.com/video/BV19sE769Ehu">查看原文 →</a></p>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客：花旗看好特锐德，AI新品赋能智算中心建设]]></title>
+        <link>https://www.bilibili.com/video/BV19sE769EAK</link>
+        <guid isPermaLink="false">bilibili-116719846690207</guid>
+        <pubDate>Tue, 09 Jun 2026 11:15:11 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：华尔街播客</p>
+<p>花旗发布针对特锐德的闪电研究报告，追踪其新发布的AI Powerhouse一体化智算中心供电解决方案。该预制化系统以碳化硅固态变压器技术为核心，将高压电直接转为800V直流，建设周期压缩至150天，实现100%可再生能源就地消纳。花旗认为特锐德凭借充电桩领域积累的HVDC技术与产能优势，能够及时承接800V直流供电市场需求。公司已从头部电信运营商、腾讯和华能等客户获得初始订单。</p><p><a href="https://www.bilibili.com/video/BV19sE769EAK">查看原文 →</a></p>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客：【英文原声】花旗看好美的，2B转型与品牌出海双战略]]></title>
+        <link>https://www.bilibili.com/video/BV1RNEE64EeU</link>
+        <guid isPermaLink="false">bilibili-116719746090598</guid>
+        <pubDate>Tue, 09 Jun 2026 10:48:50 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：华尔街播客</p>
+<p>花旗发布模型更新报告，核心跟踪管理层在股东会披露的2030年战略与2026年业务指引。管理层的长期目标是将美的从家电制造商转型为科技驱动的全球综合企业，以新能源和库卡机器人为核心推动2B业务超越传统2C家电业务。2026年公司持续推进海外OBM品牌扩张，并实施SKU压缩、渠道周转优化、AIGC节省等多项效率举措。花旗重申对该公司的看好立场。</p><p><a href="https://www.bilibili.com/video/BV1RNEE64EeU">查看原文 →</a></p>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客：花旗看好美的，2B转型与品牌出海双战略]]></title>
+        <link>https://www.bilibili.com/video/BV1vNEE64EKY</link>
+        <guid isPermaLink="false">bilibili-116719746025023</guid>
+        <pubDate>Tue, 09 Jun 2026 10:47:44 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：华尔街播客</p>
+<p>花旗发布模型更新报告，核心跟踪管理层在股东会披露的2030年战略与2026年业务指引。管理层的长期目标是将美的从家电制造商转型为科技驱动的全球综合企业，以新能源和库卡机器人为核心推动2B业务超越传统2C家电业务。2026年公司持续推进海外OBM品牌扩张，并实施SKU压缩、渠道周转优化、AIGC节省等多项效率举措。花旗重申对该公司的看好立场。</p><p><a href="https://www.bilibili.com/video/BV1vNEE64EKY">查看原文 →</a></p>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客：【英文原声】高盛看好中国光伏，2026光储产业格局]]></title>
+        <link>https://www.bilibili.com/video/BV1N4EE6VEw1</link>
+        <guid isPermaLink="false">bilibili-116719444166631</guid>
+        <pubDate>Tue, 09 Jun 2026 09:35:49 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：华尔街播客</p>
+<p>高盛出席2026年SNEC展会并广泛走访企业，发现光伏主产业链情绪低迷，二线厂商低价竞争再度抬头，而分布式储能系统多区域需求共振成为最大亮点。国内光伏装机全年预期从200GW上调至220-240GW，136号文件影响低于预期。高盛维持电池组件环节优先于玻璃和硅料的策略，看好隆基绿能，对通威和福莱特持谨慎立场，关注下半年需求拐点信号。</p><p><a href="https://www.bilibili.com/video/BV1N4EE6VEw1">查看原文 →</a></p>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客：高盛看好中国光伏，2026光储产业格局]]></title>
+        <link>https://www.bilibili.com/video/BV1y4EE6GEYN</link>
+        <guid isPermaLink="false">bilibili-116719444101066</guid>
+        <pubDate>Tue, 09 Jun 2026 09:34:21 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：华尔街播客</p>
+<p>高盛出席2026年SNEC展会并广泛走访企业，发现光伏主产业链情绪低迷，二线厂商低价竞争再度抬头，而分布式储能系统多区域需求共振成为最大亮点。国内光伏装机全年预期从200GW上调至220-240GW，136号文件影响低于预期。高盛维持电池组件环节优先于玻璃和硅料的策略，看好隆基绿能，对通威和福莱特持谨慎立场，关注下半年需求拐点信号。</p><p><a href="https://www.bilibili.com/video/BV1y4EE6GEYN">查看原文 →</a></p>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Chris的军事基地：【米-26详解】 世界上最大 最重直升机 苏联巨兽代表作]]></title>
+        <link>https://www.bilibili.com/video/BV1YdE36uEfB</link>
+        <guid isPermaLink="false">bilibili-116715132290284</guid>
+        <pubDate>Tue, 09 Jun 2026 04:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：Chris的军事基地</p>
+<p>三连多多更新快快！</p><p><a href="https://www.bilibili.com/video/BV1YdE36uEfB">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Chris的军事基地]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[x] Simon Willison：That's both OpenAI and Anthropic with confidential S-1s filed with the SEC - Anthropic filed theirs on June 1st]]></title>
+        <link>https://nitter.net/simonw/status/2064094592300134652#m</link>
+        <guid isPermaLink="false">x-6801116e252eb916</guid>
+        <pubDate>Mon, 08 Jun 2026 21:17:54 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：x</p>
+<p>✍️ 作者：Simon Willison</p>
+<p>That's both OpenAI and Anthropic with confidential S-1s filed with the SEC - Anthropic filed theirs on June 1st
+
+
+OpenAI Newsroom (@OpenAINewsroom)
+
+We recently submitted a confidential S-1. We expect</p><p><a href="https://nitter.net/simonw/status/2064094592300134652#m">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Simon Willison]]></author>
+        <category>x</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[x] Sam Altman：Here is our current plan for OpenAI:
+
+https://openai.com/index/built-to-benefit-everyone-our-plan/]]></title>
+        <link>https://nitter.net/sama/status/2064088940932641225#m</link>
+        <guid isPermaLink="false">x-0caf74fcf44a82b9</guid>
+        <pubDate>Mon, 08 Jun 2026 20:55:27 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：x</p>
+<p>✍️ 作者：Sam Altman</p>
+<p>Here is our current plan for OpenAI:
+
+openai.com/index/built-to-be…</p><p><a href="https://nitter.net/sama/status/2064088940932641225#m">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Sam Altman]]></author>
+        <category>x</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客：【英文原声】《华尔街日报》6月8日全文精读]]></title>
+        <link>https://www.bilibili.com/video/BV1VoE36zE8Y</link>
+        <guid isPermaLink="false">bilibili-116715182753565</guid>
+        <pubDate>Mon, 08 Jun 2026 15:30:49 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：华尔街播客</p>
+<p>华尔街日报2026年6月8日核心报道：超预期就业数据推动利率预期上行，SpaceX深度绑定美国政府国防体系并筹划大规模IPO；爱尔兰强制数据中心自建电源，揭示AI算力扩张与公共电网承载能力的结构性冲突；英伟达在首届「未来最佳公司」评估中以最高分拔得头筹；大型雇主大幅削减GLP-1减肥药报销覆盖，支付方对高价创新药的抵制态度明显。</p><p><a href="https://www.bilibili.com/video/BV1VoE36zE8Y">查看原文 →</a></p>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客：《华尔街日报》6月8日全文精读]]></title>
+        <link>https://www.bilibili.com/video/BV1afE36TEaZ</link>
+        <guid isPermaLink="false">bilibili-116715165844729</guid>
+        <pubDate>Mon, 08 Jun 2026 15:26:01 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：华尔街播客</p>
+<p>华尔街日报2026年6月8日核心报道：超预期就业数据推动利率预期上行，SpaceX深度绑定美国政府国防体系并筹划大规模IPO；爱尔兰强制数据中心自建电源，揭示AI算力扩张与公共电网承载能力的结构性冲突；英伟达在首届「未来最佳公司」评估中以最高分拔得头筹；大型雇主大幅削减GLP-1减肥药报销覆盖，支付方对高价创新药的抵制态度明显。</p><p><a href="https://www.bilibili.com/video/BV1afE36TEaZ">查看原文 →</a></p>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[x] Rowan Cheung：RT by @rowancheung: It's a big AI day for Apple at WWDC26! 
+
+A few humble name proposals for the new overhaul:
+
+- Apple Intelligence 2: Siri’s Revenge
+- Apple Intelligence: 2 Fast 2 Furious
+- Apple Intelligence II (ft. Gemini)
+- Apple Intelligence Nano Pro Ultra (Preview)]]></title>
+        <link>https://nitter.net/TheRundownAI/status/2064005154475553178#m</link>
+        <guid isPermaLink="false">x-815b9b751a4e0783</guid>
+        <pubDate>Mon, 08 Jun 2026 15:22:30 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：x</p>
+<p>✍️ 作者：Rowan Cheung</p>
+<p>It's a big AI day for Apple at WWDC26! 
+
+A few humble name proposals for the new overhaul:
+
+- Apple Intelligence 2: Siri’s Revenge
+- Apple Intelligence: 2 Fast 2 Furious
+- Apple Intelligence II (ft. G</p><p><a href="https://nitter.net/TheRundownAI/status/2064005154475553178#m">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Rowan Cheung]]></author>
         <category>x</category>
     </item>
     
