@@ -238,6 +238,17 @@ def run():
         output_path = generate_feed(stream_feed_config, stream_items[:max_items], stream_digest, feed_url, filename=stream_cfg["file"])
         logger.info(f"Feed [{stream_key}] written: {output_path} ({len(stream_items[:max_items])} items)")
 
+    # Backward-compatible combined feed
+    all_feed_url = f"{base_url}/feed.xml"
+    all_config = {
+        "title": feed_config.get("title", "个人内容聚合日报"),
+        "description": feed_config.get("description", ""),
+        "link": feed_config.get("link", ""),
+        "language": feed_config.get("language", "zh-CN"),
+    }
+    generate_feed(all_config, recent_items[:max_items], digest, all_feed_url, filename="feed.xml")
+    logger.info(f"Feed [combined] written for backward compatibility")
+
     # 7. Write heartbeat for local runner
     if RUNNER_MODE == "local":
         from datetime import datetime as dt

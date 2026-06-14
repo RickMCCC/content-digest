@@ -30,7 +30,7 @@ if %errorlevel% neq 0 (
 
 REM 推送结果到 GitHub
 echo [%date% %time%] Pushing updates...
-git add data/content.db data/.last_run output/feed_tech.xml output/feed_life.xml
+git add data/content.db data/.last_run output/feed_tech.xml output/feed_life.xml output/feed.xml
 git commit -m "Update [local runner]" 2>nul
 git push origin main
 
