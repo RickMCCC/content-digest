@@ -5,48 +5,52 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 14 Jun 2026 16:45:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 20:37:44 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[📊 今日热点速览 | 06月14日 | 共 15 篇]]></title>
+        <title><![CDATA[📊 今日热点速览 | 06月14日 | 共 19 篇]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
         <guid isPermaLink="false">digest-2026-06-14</guid>
-        <pubDate>Sun, 14 Jun 2026 16:45:33 GMT</pubDate>
+        <pubDate>Sun, 14 Jun 2026 20:37:44 GMT</pubDate>
         <description><![CDATA[<h2>📊 今日概览</h2>
-<p>共 15 条新内容，其中 x 6 条、B站 9 条</p>
+<p>共 19 条新内容，其中 x 10 条、B站 9 条</p>
 
 <h2>⭐ TOP 5 推荐</h2>
 <ol>
-  <li><strong>中国的危与机？中美俄欧中东，AI美债美元，混乱世界中|正在发生 ep1 翟东升</strong>（B站 · 小王Albert）— 宏观视角解读当前国际格局，适合关注地缘政治与经济的读者。</li>
-  <li><strong>【睡前消息1066】老佛爷退出北京 布尔乔亚故事过时了</strong>（B站 · 马督工）— 从老佛爷百货撤退事件切入，分析消费文化与时代变迁。</li>
-  <li><strong>【中英字幕】《ALL-IN》播客26.06.13完整版</strong>（B站 · Mr-Pot）— 深度讨论Anthropic“降智门”、AI监管与主权财富议题，信息密度高。</li>
-  <li><strong>It's now possible to compile Python extensions to WebAssembly</strong>（x · Simon Willison）— 技术前沿：Python扩展可编译为Wasm并通过PyPI分发，对Pyodide生态意义重大。</li>
-  <li><strong>There is no inevitability in AI. We all have agency in what comes next</strong>（x · Clem）— HuggingFace CEO呼吁选择开源AI路径，观点鲜明。</li>
+  <li><strong>AI监管风暴与主权财富之争：Anthropic被迫开源、桑德斯50%国有化方案引爆美国大选恐慌</strong>（B站 · Mr-Pot）— <em>ALL-IN播客深度复盘Anthropic“降智门”与AI联邦审批机制，政策棋局走向清晰。</em></li>
+  <li><strong>中国的危与机？中美俄欧中东，AI美债美元，混乱世界中|正在发生 ep1 翟东升</strong>（B站 · 小王Albert）— <em>翟东升教授从地缘政治到AI美债，全景式解读当前混乱世界格局。</em></li>
+  <li><strong>关于AI开放与封闭的路线之争：美国可能自我孤立，中国开源成为全球默认</strong>（x · Yann LeCun）— <em>Yann LeCun转发长文警告：若无西方开放前沿玩家，中国开源模型将成为全球60亿人的默认选择。</em></li>
+  <li><strong>AI Agent时代：我们尚不知如何围绕AI重建公司，实验与失败必不可少</strong>（x · Ethan Mollick）— <em>Ethan Mollick指出实用Agent仅存在数月，最佳实践仍在探索中。</em></li>
+  <li><strong>我把媳妇的备课流程做成了Skill，每天省下2小时（实战教程）</strong>（B站 · IT咖啡馆）— <em>手把手教你用AI自动化日常流程，实用性强。</em></li>
 </ol>
 
 <h2>📁 分类速览</h2>
-<h3>x</h3>
+<h3>X (Twitter)</h3>
 <ul>
-  <li><strong>Two days later and the situation is still confusing</strong>（Ethan Mollick）— 对某混乱局势的持续困惑，未指明具体事件。</li>
-  <li><strong>Final one-shot prompt: FTL travel simulation demo</strong>（Ethan Mollick）— 用AI生成超光速旅行模拟器，图形化展示科幻与科学中的FTL形式。</li>
-  <li><strong>Fable 5 "jailbreak" against Opus 4.x or GPT 5.x</strong>（Simon Willison）— 调侃Fable 5越狱手法若用于高级模型，周末将无法正常工作。</li>
-  <li><strong>Build Small Hackathon diary — Day 6</strong>（AK）— HuggingFace社区小模型黑客松进展：2000+关注者、400+ Spaces，社区活跃。</li>
-  <li><strong>There is no inevitability in AI</strong>（Clem）— 呼吁选择开源AI而非封闭API与权力集中。</li>
-  <li><strong>Compile Python extensions to WebAssembly</strong>（Simon Willison）— 技术突破：Python C/C++/Rust扩展可编译为Wasm并直接通过PyPI安装。</li>
+  <li><strong>We don’t honestly know the best approaches to rebuilding companies around AI agents</strong>（Ethan Mollick）— AI Agent时代尚在早期，实验与失败是必经之路。</li>
+  <li><strong>If your company owned "software for X", chances are it will own "AI for X" as well</strong>（Francois Chollet）— 拥有领域专业知识的公司，将在AI时代延续优势。</li>
+  <li><strong>Near-term AI isn't fundamentally different from past tech waves</strong>（Francois Chollet）— AI是数字杠杆的新形式，仍需人类在环。</li>
+  <li><strong>Two days later and the situation is still confusing</strong>（Ethan Mollick）— 某事件两天后仍让人困惑。</li>
+  <li><strong>Final one-shot prompt: build me a cool simulation thing that lets me demo FTL travel forms</strong>（Ethan Mollick）— 用AI生成超光速旅行模拟演示页面。</li>
+  <li><strong>I'm just glad nobody at the US government thought to try that Fable 5 "jailbreak" against Opus 4.x or GPT 5.x</strong>（Simon Willison）— 庆幸美国政府没对高级模型尝试Fable 5越狱。</li>
+  <li><strong>The Build Small Hackathon diary — Day 6</strong>（AK (论文速递)）— Hugging Face黑客马拉松社区已超2000粉丝、400+ Spaces。</li>
+  <li><strong>This ugly reality: Americans will have walled AI gardens, open source banned, rest of world uses Chinese AI</strong>（Yann LeCun）— 美国若限制开源，中国模型将成全球默认。</li>
+  <li><strong>There is no inevitability in AI. We all have agency: closed-source vs open-source paths</strong>（Clem (HF CEO)）— AI未来两条路：封闭API集中权力 vs 开源人人参与。</li>
+  <li><strong>It's now possible to compile Python extensions to WebAssembly and distribute through PyPI</strong>（Simon Willison）— Python扩展可编译为Wasm并通过PyPI分发，Pyodide可直接安装。</li>
 </ul>
 
-<h3>B站</h3>
+<h3>Bilibili</h3>
 <ul>
-  <li><strong>二战日军战斗力有多强？真实的日本鬼子有多难打？【三木说】</strong>（三木説）— 科普二战日军真实战斗力的历史视频。</li>
-  <li><strong>【两站联合】今天的"搭档搭档 好搭档!" 小新 x 小白的 'Boompala' 宣传时间</strong>（全员i人字幕组）— 金采源与中村一叶的合作舞台宣传，粉丝向内容。</li>
-  <li><strong>中国的危与机？中美俄欧中东，AI美债美元，混乱世界中|正在发生 ep1 翟东升</strong>（小王Albert）— 翟东升解读全球格局与中国的机遇挑战。</li>
-  <li><strong>【睡前消息1066】老佛爷退出北京 布尔乔亚故事过时了</strong>（马督工）— 分析老佛爷百货历史与退出北京的背后逻辑。</li>
-  <li><strong>【中英字幕】华尔街周刊26.06.13完整版：SpaceX万亿美元IPO潮、政府押注量子计算、AI重塑搜索</strong>（Mr-Pot）— 资本与技术趋势综述，聚焦SpaceX、量子计算与AI搜索。</li>
-  <li><strong>【中英字幕】彭博科技前沿26.06.12完整版</strong>（Mr-Pot）— SpaceX史诗级IPO首秀细节：2万亿美元市值、马斯克成万亿富豪。</li>
-  <li><strong>日本人真心推荐！一生至少要去一次的日本温泉5选</strong>（Yunaty日本語）— 日本温泉旅行推荐，生活文化类内容。</li>
-  <li><strong>【中英字幕】《ALL-IN》播客26.06.13完整版</strong>（Mr-Pot）— Anthropic“降智门”、桑德斯国有化方案等AI监管与政治议题。</li>
-  <li><strong>我把媳妇的备课流程做成了Skill，每天省下2小时（实战教程）</strong>（IT咖啡馆）— 用AI工具将备课流程自动化，节省时间的实用教程。</li>
+  <li><strong>二战日军战斗力有多强？真实的日本鬼子有多难打？【三木说】</strong>（三木説）— 深度解析二战日军真实战斗力。</li>
+  <li><strong>【两站联合】今天的"搭档搭档 好搭档!" 小新 x 小白的 'Boompala' 宣传时间</strong>（全员i人字幕组）— 金采源 & 中村一叶合作舞台宣传。</li>
+  <li><strong>中国的危与机？中美俄欧中东，AI美债美元，混乱世界中|正在发生 ep1 翟东升</strong>（小王Albert）— 翟东升教授多维度解读全球格局。</li>
+  <li><strong>【睡前消息1066】老佛爷退出北京 布尔乔亚故事过时了</strong>（马督工）— 老佛爷百货的历史与未来。</li>
+  <li><strong>【中英字幕】华尔街周刊26.06.13完整版</strong>（Mr-Pot）— SpaceX万亿美元IPO、量子计算、AI重塑搜索。</li>
+  <li><strong>【中英字幕】彭博科技前沿26.06.12完整版</strong>（Mr-Pot）— SpaceX史诗级IPO：2万亿美元开盘，马斯克成万亿富豪。</li>
+  <li><strong>日本人真心推荐！一生至少要去一次的日本温泉5选</strong>（Yunaty日本語）— 日本温泉推荐清单。</li>
+  <li><strong>【中英字幕】《ALL-IN》播客26.06.13完整版</strong>（Mr-Pot）— Anthropic降智门、桑德斯50%国有化方案。</li>
+  <li><strong>我把媳妇的备课流程做成了Skill，每天省下2小时（实战教程）</strong>（IT咖啡馆）— 用AI自动化备课流程的实战教程。</li>
 </ul>
 
 <p style="color:#888;font-size:12px;">🤖 本日报由 DeepSeek 自动生成</p>]]></description>
@@ -55,33 +59,38 @@
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 06月14日 16:45 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 06月14日 20:37 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
         <guid isPermaLink="false">digest-2026-06-14</guid>
-        <pubDate>Sun, 14 Jun 2026 16:45:33 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> 🟢 本地 PC 在线</p><p><b>📡 技术资讯流 (tech):</b> 107 items</p><p><b>🎮 生活分享流 (life):</b> 33 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 790 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 在线 | GitHub Actions: 未触发</p>]]></description>
+        <pubDate>Sun, 14 Jun 2026 20:37:44 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> 🟢 本地 PC 在线</p><p><b>📡 技术资讯流 (tech):</b> 108 items</p><p><b>🎮 生活分享流 (life):</b> 30 items</p><p><b>🆕 本次新增:</b> 7 items</p><p><b>📦 数据库总量:</b> 797 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 在线 | GitHub Actions: 未触发</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[[X] Ethan Mollick：Two days later and the situation is still confusing.]]></title>
-        <link>https://nitter.net/emollick/status/2066191508579975482#m</link>
-        <guid isPermaLink="false">x-a9b45d7b92c8d4f4</guid>
-        <pubDate>Sun, 14 Jun 2026 16:10:18 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：X</p>
-<p>✍️ 作者：Ethan Mollick</p>
-<p>Two days later and the situation is still confusing.
-
-
-Ethan Mollick (@emollick)
-
-Well, this situation is confusing.
-
-
-
-— https://nitter.net/emollick/status/2065611047248019848#m</p><p><a href="https://nitter.net/emollick/status/2066191508579975482#m">查看原文 →</a></p>]]></description>
+        <title><![CDATA[[X] Ethan Mollick (2026-06-15): 2 posts]]></title>
+        <link>https://nitter.net/emollick/status/2066250548790083851#m</link>
+        <guid isPermaLink="false">x-grouped-2026-06-15-c43d5de7</guid>
+        <pubDate>Sun, 14 Jun 2026 20:04:54 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://nitter.net/emollick/status/2066250548790083851#m">We don’t honestly know the best approaches to rebuilding companies around AI agents, especially in ways that expand competitive advantage & augment existing human capabilities. Practical agents are merely months old. Experimentation (and productive failures) will be required.</a></li>
+<li><a href="https://nitter.net/emollick/status/2066191508579975482#m">Two days later and the situation is still confusing.</a></li>
+</ul>]]></description>
         <author><![CDATA[Ethan Mollick]]></author>
+        <category>X</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[X] Francois Chollet (2026-06-15): 2 posts]]></title>
+        <link>https://nitter.net/fchollet/status/2066233044235669765#m</link>
+        <guid isPermaLink="false">x-grouped-2026-06-15-68d795dd</guid>
+        <pubDate>Sun, 14 Jun 2026 18:55:21 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://nitter.net/fchollet/status/2066233044235669765#m">R to @fchollet: If your company owned "software for X", chances are it will own "AI for X" as well, since it has the domain expertise and human capital to turn AI into domain specific value.</a></li>
+<li><a href="https://nitter.net/fchollet/status/2066232539820208212#m">Near-term AI isn't fundamentally different from past tech waves. It's the newest form of digital leverage. It's a force multiplier, and force without direction is just noise. It still requires a human in the loop at every level in order to be useful.</a></li>
+</ul>]]></description>
+        <author><![CDATA[Francois Chollet]]></author>
         <category>X</category>
     </item>
     
@@ -140,6 +149,36 @@ Today, I want to take you inside the community :
 🤗already 400+ Spaces.
 Every Space is different, </p><p><a href="https://nitter.net/jingzi_zhao_x/status/2066074648668725275#m">查看原文 →</a></p>]]></description>
         <author><![CDATA[AK (论文速递)]]></author>
+        <category>X</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[X] Yann LeCun (2026-06-14): 2 posts]]></title>
+        <link>https://nitter.net/Dan_Jeffries1/status/2066067016822165971#m</link>
+        <guid isPermaLink="false">x-grouped-2026-06-14-95e96799</guid>
+        <pubDate>Sun, 14 Jun 2026 07:55:37 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://nitter.net/Dan_Jeffries1/status/2066067016822165971#m">RT by @ylecun: This ugly reality is staring us right in the face:
+
+Americans will have walled AI gardens where we beg for access from a few East India companies, open source will get banned on national security grounds, and 6 billion people who aren't American, aka the rest of the world, will standardized on a Chinese AI stack.
+
+Bloated. Broken. Slow. Ugly.
+
+There's still time to change it but it's slipping through our fingers like fast running sand.
+
+Read this passage below from Bill Gurley because it's about to become our hideous reality if we don't change course quickly. 
+
+"If a credible Western open frontier player does not emerge, the consequences cascade quickly.
+
+This is the inverse of the early Internet wave. In the 2000s and 2010s, Western companies — Google, Facebook, Amazon, Apple, Microsoft — dominated globally while China carved out its own walled garden. The AI version flips that dynamic on its head. Without a credible Western open frontier player, the only open models capable of running entire economies are made in China. If U.S. policy further restricts Chinese open-weight access on national-security grounds, the U.S. ends up with two or three closed Cathedrals serving the U.S. market — and the rest of the world picks the AI stack that is free, capable, self-hostable, and not embargoed. Europe, Africa, Southeast Asia, Latin America, India, the Middle East. Roughly six billion people. Chinese open models become the global default by 2030, and the United States ends up technologically isolated from the majority of the world’s AI users. We would have done it to ourselves."
+
+Fully essay in replies.</a></li>
+<li><a href="https://nitter.net/mark_k/status/2065838368865259892#m">RT by @ylecun: Yann LeCun (LeBased) weighs in on the 
+@AnthropicAI debacle. I have to say I agree with 100% with Yann here.
+
+"One reaps what one sows." 👏</a></li>
+</ul>]]></description>
+        <author><![CDATA[Yann LeCun]]></author>
         <category>X</category>
     </item>
     
@@ -1372,6 +1411,22 @@ LatentMoE was probably inspired by MLA, which was inspired by LoRA, which was in
     </item>
     
     <item>
+        <title><![CDATA[[X] Ethan Mollick：Fable: "create a visually interesting shader that can run in twigl-dot-app make it like an infinite city of neo-gothic towers partially drowned in a stormy ocean with large waves." "Make it better"
+
+All of this is procedurally generated.]]></title>
+        <link>https://nitter.net/emollick/status/2064424775527624736#m</link>
+        <guid isPermaLink="false">x-bb33c79c5ba1ac50</guid>
+        <pubDate>Tue, 09 Jun 2026 19:09:56 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：X</p>
+<p>✍️ 作者：Ethan Mollick</p>
+<p>Fable: "create a visually interesting shader that can run in twigl-dot-app make it like an infinite city of neo-gothic towers partially drowned in a stormy ocean with large waves." "Make it better"
+
+A</p><p><a href="https://nitter.net/emollick/status/2064424775527624736#m">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Ethan Mollick]]></author>
+        <category>X</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[X] Demis Hassabis：RT by @demishassabis: In @GoogleAIStudio we are now making more than 1,200,000 apps a week (and growing) with more than 18,000,000 created since late February 🤯
 
 The progress continues!!!]]></title>
@@ -1968,30 +2023,6 @@ I have a new kind of big button that I can press for Codex. Over the next 100 da
 <p>✍️ 作者：罗翔说刑法</p>
 <p><a href="https://www.bilibili.com/video/BV1rLEh6MEmb">查看原文 →</a></p>]]></description>
         <author><![CDATA[罗翔说刑法]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：【英文原声】【全球好书】《路西法效应》精读]]></title>
-        <link>https://www.bilibili.com/video/BV1QhEb6JEGb</link>
-        <guid isPermaLink="false">bilibili-116708337584879</guid>
-        <pubDate>Sun, 07 Jun 2026 10:29:21 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>菲利普·津巴多通过1971年斯坦福监狱实验，系统论证了情境与系统力量如何凌驾于个人意志之上，使正常人做出违背本性的行为。书中结合阿布格莱布监狱虐囚事件、米尔格伦服从实验及破窗理论，深入剖析群体情境、权威服从与责任分散对人类决策的扭曲机制，并探讨如何在系统压力下维持个体判断力。</p><p><a href="https://www.bilibili.com/video/BV1QhEb6JEGb">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：【全球好书】《路西法效应》精读]]></title>
-        <link>https://www.bilibili.com/video/BV1QhEb6JEBe</link>
-        <guid isPermaLink="false">bilibili-116708337583928</guid>
-        <pubDate>Sun, 07 Jun 2026 10:26:14 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>菲利普·津巴多通过1971年斯坦福监狱实验，系统论证了情境与系统力量如何凌驾于个人意志之上，使正常人做出违背本性的行为。书中结合阿布格莱布监狱虐囚事件、米尔格伦服从实验及破窗理论，深入剖析群体情境、权威服从与责任分散对人类决策的扭曲机制，并探讨如何在系统压力下维持个体判断力。</p><p><a href="https://www.bilibili.com/video/BV1QhEb6JEBe">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
         <category>B站</category>
     </item>
     
