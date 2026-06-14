@@ -26,32 +26,31 @@ subscriptions:
       stream: "tech"
     - id: "316568752"
       name: "马督工"                       # 热河省蛮子，刘亦菲粉丝
-      stream: "tech"
+      stream: "life"
     - id: "2705784"
       name: "鹿头军师"                     # 经济史科普
-      stream: "tech"
+      stream: "life"
     - id: "2026173074"
       name: "温竣岩"                       # 传播学 / 哲学 / 科普作者
-      stream: "tech"
+      stream: "life"
     - id: "1556651916"
       name: "小黛晨读"                     # 资讯连连看，消灭信息差
-      stream: "tech"
+      stream: "life"
     - id: "1140672573"
       name: "小王Albert"                  # 上班在这里陪大家看世界
-      stream: "tech"
+      stream: "life"
     - id: "96639395"
       name: "学院派Academia"              # 把世界顶尖大学的硬核知识漂洋过海带给你
-      stream: "tech"
+      stream: "life"
     - id: "385670211"
       name: "秋芝2046"                    # AI智能体
       stream: "tech"
     - id: "520819684"
       name: "小Lin说"                     # 北大->哥大->摩根大通->创业
-      stream: "tech"
+      stream: "life"
     - id: "544261015"
       name: "Chris的军事基地"              # 军备爱好者聚集地！专注分享各国军备知识
-      stream: "tech"
-    # ====== LIFE ======
+      stream: "life"
     - id: "505063095"
       name: "Mr-Pot"                      # don't panic
       stream: "life"
@@ -100,6 +99,27 @@ subscriptions:
     - id: "5bf7d30643e93c0001a852b8"
       name: "jz"                           # 一个能力很小欲望很大的普通人
       stream: "life"
+    - id: "5edda700000000000101d562"
+      name: "持续探索的iris"                        
+      stream: "tech"
+    - id: "612389a40000000001005fda"
+      name: "ai产品折木"                         
+      stream: "tech"
+    - id: "654501780000000002012f2d"
+      name: "wood聊大数据"                    
+      stream: "tech"
+    - id: "673de45c000000001d02f95d"
+      name: "和哥AI产品｜智能问问"                          
+      stream: "tech"
+    - id: "656daf47000000002002d20f"
+      name: "几口酱聊AI"                          
+      stream: "tech"
+    - id: "640d6acc00000000290141a4"
+      name: "学习笔记"                          
+      stream: "tech"
+    - id: "64867045000000001c029874"
+      name: "max for ai"                          
+      stream: "tech"
 
   zhihu:
     # - id: "zhang-jia-wei"
