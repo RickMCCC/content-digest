@@ -182,21 +182,63 @@ def run():
     else:
         logger.info("No items today, skipping digest generation")
 
-    # 5. Generate RSS feed
+    # 5. Build stream mapping from config
+    stream_map = {}  # {(platform, author_id): stream}
+    subs = config.get("subscriptions") or {}
+    for platform in subs:
+        for sub in subs.get(platform) or []:
+            sid = sub.get("id", "")
+            if sid:
+                stream_map[(platform, sid)] = sub.get("stream", "tech")
+    for src in config.get("rss_sources", []):
+        aid = hashlib.md5(src["url"].encode()).hexdigest()[:12]
+        stream_map[(src["platform"], aid)] = src.get("stream", "tech")
+
+    # 6. Generate RSS feeds per stream
     feed_config = config.get("feed", {})
     max_items = feed_config.get("max_items", 200)
     max_days = feed_config.get("max_days", 7)
-    recent_items = get_recent_items(max_days=max_days, max_items=max_items)
+    recent_items = get_recent_items(max_days=max_days, max_items=max_items * 2)
 
-    # Feed URL (user should update this with their actual GitHub username/repo)
     github_user = os.environ.get("GITHUB_REPOSITORY_OWNER", "YOUR_USERNAME")
     github_repo = os.environ.get("GITHUB_REPOSITORY", "content-digest").split("/")[-1]
-    feed_url = f"https://raw.githubusercontent.com/{github_user}/{github_repo}/main/output/feed.xml"
+    base_url = f"https://raw.githubusercontent.com/{github_user}/{github_repo}/main/output"
 
-    output_path = generate_feed(feed_config, recent_items, digest, feed_url)
-    logger.info(f"Feed written to: {output_path}")
+    streams_config = feed_config.get("streams", {
+        "tech": {"file": "feed_tech.xml", "title": "技术资讯流", "description": "AI/科技/财经"},
+        "life": {"file": "feed_life.xml", "title": "生活分享流", "description": "生活/娱乐/艺术"},
+    })
 
-    # 6. Write heartbeat for local runner
+    for stream_key, stream_cfg in streams_config.items():
+        stream_items = []
+        for item in recent_items:
+            item_aid = item.get("author_id", "")
+            # Map DB author_name back to stream via config subscriptions
+            item_stream = stream_map.get((item["platform"], item_aid))
+            if item_stream is None:
+                # Fallback: check RSS sources by matching author_name
+                for src in config.get("rss_sources", []):
+                    if item["platform"] == src["platform"] and item["author_name"] in (src["name"], item.get("author_name", "")):
+                        item_stream = src.get("stream", "tech")
+                        break
+            if item_stream is None:
+                item_stream = "tech"  # default
+            if item_stream == stream_key:
+                stream_items.append(item)
+
+        feed_url = f"{base_url}/{stream_cfg['file']}"
+        stream_feed_config = {
+            "title": stream_cfg.get("title", feed_config.get("title", "")),
+            "description": stream_cfg.get("description", feed_config.get("description", "")),
+            "link": feed_config.get("link", ""),
+            "language": feed_config.get("language", "zh-CN"),
+        }
+        # Only include digest in tech stream
+        stream_digest = digest if stream_key == "tech" else None
+        output_path = generate_feed(stream_feed_config, stream_items[:max_items], stream_digest, feed_url, filename=stream_cfg["file"])
+        logger.info(f"Feed [{stream_key}] written: {output_path} ({len(stream_items[:max_items])} items)")
+
+    # 7. Write heartbeat for local runner
     if RUNNER_MODE == "local":
         from datetime import datetime as dt
         HEARTBEAT_PATH.parent.mkdir(parents=True, exist_ok=True)
@@ -204,7 +246,7 @@ def run():
         logger.info(f"Heartbeat written: {HEARTBEAT_PATH}")
 
     logger.info("=" * 60)
-    logger.info(f"Done! [{RUNNER_MODE}] {total_new} new, {len(recent_items)} in feed")
+    logger.info(f"Done! [{RUNNER_MODE}] {total_new} new")
     logger.info("=" * 60)
 
 

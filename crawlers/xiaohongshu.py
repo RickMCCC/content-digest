@@ -29,7 +29,7 @@ class XiaohongshuCrawler(BaseCrawler):
     def fetch_items(self, author_id: str, author_name: str) -> list[dict]:
         """Fetch user's notes via web API with Cookie."""
         # Web API endpoint (same as RSSHub uses)
-        url = "https://edith.xiaohongshu.com/api/sns/web/v1/user_posted"
+        url = "https://edith.xiaohongshu.com/api/sns/web/v1/user/notes"
         params = {
             "user_id": author_id,
             "num": 30,

@@ -1,105 +1,197 @@
 # 博主订阅列表
 # id: 用户 ID（B站=UID, 小红书=user_id, 知乎=url_token）
 # name: 显示名称
-# tags: 可选，分类标签（如 知识、科技、游戏、生活）
+# stream: tech（技术资讯）/ life（生活分享）
 
 subscriptions:
   bilibili:
-    - id: "505063095"
-      name: "Mr-Pot"                      # don't panic
-    - id: "3493137815177378"
-      name: "全员i人字幕组"                 # LE SSERAFIM专属字幕组，禁止使用本组译制视频引战
-    - id: "10091752"
-      name: "nianiagotwings"              # I'm rooted but I flow 外航infj电子日记
-    - id: "86588581"
-      name: "三木説"                       # 历史总是螺旋式上升的
-    - id: "3493087171054077"
-      name: "曼施坦鹦"                      # 商v➕FengParrot
-    - id: "519872016"
-      name: "历史调研室"                    # 究天人之际，通古今之变
-    - id: "316568752"
-      name: "马督工"                       # 热河省蛮子，刘亦菲粉丝
+    # ====== TECH ======
     - id: "65564239"
       name: "IT咖啡馆"                     # 宝藏挖掘机，分享AI工具、IT知识、开源项目
+      stream: "tech"
     - id: "508452265"
       name: "硅谷101"                     # 从这里驶向未来。旗下同名播客栏目
-    - id: "3546713063164029"
-      name: "新西兰三妹"                    # 新西兰 Summer BNE TV
-    - id: "32025839"
-      name: "三宋在这"                     # 拍一点有意思的东西
-    - id: "26846937"
-      name: "饲养员小谢"                    # 个人号
-    - id: "198713903"
-      name: "不柴小小"                     # 普通女大
-    - id: "385670211"
-      name: "秋芝2046"                    # AI智能体
-    - id: "56403708"
-      name: "torazyz"                    # 分享审美
-    - id: "133578883"
-      name: "量化投资邢不行啊"               # 专注股票、期货、期权的量化交易
-    - id: "544261015"
-      name: "Chris的军事基地"              # 军备爱好者聚集地！专注分享各国军备知识
-    - id: "2705784"
-      name: "鹿头军师"                     # 经济史科普
-    - id: "393865074"
-      name: "黄家守卫军"                    # 醉卧沙场君莫笑，古来征战几人回
-    - id: "2026173074"
-      name: "温竣岩"                       # 传播学 / 哲学 / 科普作者
-    - id: "1556651916"
-      name: "小黛晨读"                     # 资讯连连看，消灭信息差
-    - id: "13680050"
-      name: "Grandpagu顾爷"               # 艺术就是吃饱了没事干
-    - id: "520819684"
-      name: "小Lin说"                     # 北大->哥大->摩根大通->创业
-    - id: "1140672573"
-      name: "小王Albert"                  # 上班在这里陪大家看世界
-    - id: "487506341"
-      name: "Yunaty日本語"                # 微博：Yunaty日本語
-    - id: "96639395"
-      name: "学院派Academia"              # 把世界顶尖大学的硬核知识漂洋过海带给你
+      stream: "tech"
     - id: "1567748478"
       name: "跟李沐学AI"                  # BosonAI 联合创始人
+      stream: "tech"
     - id: "472747194"
       name: "巫师财经"                     # 前中金分析师
+      stream: "tech"
     - id: "88461692"
       name: "3Blue1Brown"                # 中国官方账号，深入浅出分享数学
+      stream: "tech"
+    - id: "133578883"
+      name: "量化投资邢不行啊"               # 专注股票、期货、期权的量化交易
+      stream: "tech"
+    - id: "316568752"
+      name: "马督工"                       # 热河省蛮子，刘亦菲粉丝
+      stream: "tech"
+    - id: "2705784"
+      name: "鹿头军师"                     # 经济史科普
+      stream: "tech"
+    - id: "2026173074"
+      name: "温竣岩"                       # 传播学 / 哲学 / 科普作者
+      stream: "tech"
+    - id: "1556651916"
+      name: "小黛晨读"                     # 资讯连连看，消灭信息差
+      stream: "tech"
+    - id: "1140672573"
+      name: "小王Albert"                  # 上班在这里陪大家看世界
+      stream: "tech"
+    - id: "96639395"
+      name: "学院派Academia"              # 把世界顶尖大学的硬核知识漂洋过海带给你
+      stream: "tech"
+    - id: "385670211"
+      name: "秋芝2046"                    # AI智能体
+      stream: "tech"
+    - id: "520819684"
+      name: "小Lin说"                     # 北大->哥大->摩根大通->创业
+      stream: "tech"
+    - id: "544261015"
+      name: "Chris的军事基地"              # 军备爱好者聚集地！专注分享各国军备知识
+      stream: "tech"
+    # ====== LIFE ======
+    - id: "505063095"
+      name: "Mr-Pot"                      # don't panic
+      stream: "life"
+    - id: "3493137815177378"
+      name: "全员i人字幕组"                 # LE SSERAFIM专属字幕组，禁止使用本组译制视频引战
+      stream: "life"
+    - id: "10091752"
+      name: "nianiagotwings"              # I'm rooted but I flow 外航infj电子日记
+      stream: "life"
+    - id: "86588581"
+      name: "三木説"                       # 历史总是螺旋式上升的
+      stream: "life"
+    - id: "3493087171054077"
+      name: "曼施坦鹦"                      # 商v➕FengParrot
+      stream: "life"
+    - id: "519872016"
+      name: "历史调研室"                    # 究天人之际，通古今之变
+      stream: "life"
+    - id: "3546713063164029"
+      name: "新西兰三妹"                    # 新西兰 Summer BNE TV
+      stream: "life"
+    - id: "32025839"
+      name: "三宋在这"                     # 拍一点有意思的东西
+      stream: "life"
+    - id: "26846937"
+      name: "饲养员小谢"                    # 个人号
+      stream: "life"
+    - id: "198713903"
+      name: "不柴小小"                     # 普通女大
+      stream: "life"
+    - id: "56403708"
+      name: "torazyz"                    # 分享审美
+      stream: "life"
+    - id: "393865074"
+      name: "黄家守卫军"                    # 醉卧沙场君莫笑，古来征战几人回
+      stream: "life"
+    - id: "13680050"
+      name: "Grandpagu顾爷"               # 艺术就是吃饱了没事干
+      stream: "life"
+    - id: "487506341"
+      name: "Yunaty日本語"                # 微博：Yunaty日本語
+      stream: "life"
 
   xiaohongshu:
     - id: "5fa5d94400000000010001a0"
       name: "jz"                           # 一个能力很小欲望很大的普通人
-    # - id: "替换为ID"
-    #   name: "持续探索的iris"              # ← 需从小红书 App 找 ID
-    # - id: "替换为ID"
-    #   name: "ai产品折木（建筑跑路）"        # ← 需从小红书 App 找 ID
-    # - id: "替换为ID"
-    #   name: "wood聊大数据"                # ← 需从小红书 App 找 ID
-    # - id: "替换为ID"
-    #   name: "和哥AI产品｜智能问问"          # ← 需从小红书 App 找 ID
-    # - id: "替换为ID"
-    #   name: "几口酱聊AI"                  # ← 需从小红书 App 找 ID
-    # - id: "替换为ID"
-    #   name: "学习笔记"                    # ← 需从小红书 App 找 ID
-    # - id: "替换为ID"
-    #   name: "max for ai"                 # ← 需从小红书 App 找 ID
+      stream: "life"
 
   zhihu:
     # - id: "zhang-jia-wei"
     #   name: "张佳玮"
+    #   stream: "tech"
 
-# RSS 源（如 RSSHub），直接解析 RSS/Atom feed
+# RSS 源（Nitter / RSSHub 等）
 # url: RSS 源地址
-# platform: 显示的平台标签（xiaohongshu / zhihu 等）
+# platform: x / xiaohongshu / zhihu
 # name: 显示名称
+# stream: tech / life
 rss_sources:
-  # 小红书 via RSSHub 示例：
-  # - url: "https://rsshub.app/xiaohongshu/user/你的用户ID"
-  #   platform: "xiaohongshu"
-  #   name: "小红书关注"
-
-  # 知乎 via RSSHub 示例：
-  # - url: "https://rsshub.app/zhihu/people/你的知乎ID"
-  #   platform: "zhihu"
-  #   name: "知乎关注"
+  # ====== X (Twitter) via Nitter ======
+  - url: "https://nitter.net/karpathy/rss"
+    platform: "x"
+    name: "Andrej Karpathy"
+    stream: "tech"
+  - url: "https://nitter.net/ylecun/rss"
+    platform: "x"
+    name: "Yann LeCun"
+    stream: "tech"
+  - url: "https://nitter.net/AndrewYNg/rss"
+    platform: "x"
+    name: "Andrew Ng"
+    stream: "tech"
+  - url: "https://nitter.net/drfeifei/rss"
+    platform: "x"
+    name: "李飞飞"
+    stream: "tech"
+  - url: "https://nitter.net/sama/rss"
+    platform: "x"
+    name: "Sam Altman"
+    stream: "tech"
+  - url: "https://nitter.net/demishassabis/rss"
+    platform: "x"
+    name: "Demis Hassabis"
+    stream: "tech"
+  - url: "https://nitter.net/_jasonwei/rss"
+    platform: "x"
+    name: "Jason Wei"
+    stream: "tech"
+  - url: "https://nitter.net/DrJimFan/rss"
+    platform: "x"
+    name: "Jim Fan"
+    stream: "tech"
+  - url: "https://nitter.net/fchollet/rss"
+    platform: "x"
+    name: "Francois Chollet"
+    stream: "tech"
+  - url: "https://nitter.net/rasbt/rss"
+    platform: "x"
+    name: "Sebastian Raschka"
+    stream: "tech"
+  - url: "https://nitter.net/_akhaliq/rss"
+    platform: "x"
+    name: "AK (论文速递)"
+    stream: "tech"
+  - url: "https://nitter.net/emollick/rss"
+    platform: "x"
+    name: "Ethan Mollick"
+    stream: "tech"
+  - url: "https://nitter.net/DarioAmodei/rss"
+    platform: "x"
+    name: "Dario Amodei"
+    stream: "tech"
+  - url: "https://nitter.net/ch402/rss"
+    platform: "x"
+    name: "Chris Olah"
+    stream: "tech"
+  - url: "https://nitter.net/ClementDelangue/rss"
+    platform: "x"
+    name: "Clem (HF CEO)"
+    stream: "tech"
+  - url: "https://nitter.net/simonw/rss"
+    platform: "x"
+    name: "Simon Willison"
+    stream: "tech"
+  - url: "https://nitter.net/dwarkesh_sp/rss"
+    platform: "x"
+    name: "Dwarkesh Patel"
+    stream: "tech"
+  - url: "https://nitter.net/rowancheung/rss"
+    platform: "x"
+    name: "Rowan Cheung"
+    stream: "tech"
+  - url: "https://nitter.net/ilyasut/rss"
+    platform: "x"
+    name: "Ilya Sutskever"
+    stream: "tech"
+  - url: "https://nitter.net/soumithchintala/rss"
+    platform: "x"
+    name: "Soumith Chintala"
+    stream: "tech"
 
 # 爬虫配置
 crawler:
@@ -107,11 +199,6 @@ crawler:
   max_interval: 15      # 最大请求间隔（秒）
   max_retries: 3        # 单次请求最大重试
   timeout: 30           # 请求超时（秒）
-
-# 小红书配置
-xiaohongshu:
-  api_fail_threshold: 3  # API 连续失败多少次后降级到 Playwright
-  use_playwright: false  # 是否强制使用 Playwright
 
 # DeepSeek 配置
 deepseek:
@@ -125,5 +212,15 @@ feed:
   description: "跨平台订阅内容 + AI 每日摘要"
   link: "https://github.com/RickMCCC/content-digest"
   language: "zh-CN"
-  max_items: 200       # Feed 中最多保留多少条
+  max_items: 200       # 每个 Feed 最多保留多少条
   max_days: 7           # 最多保留多少天的内容
+
+  streams:
+    tech:
+      file: "feed_tech.xml"
+      title: "技术资讯流"
+      description: "AI/科技/财经 内容聚合"
+    life:
+      file: "feed_life.xml"
+      title: "生活分享流"
+      description: "生活/娱乐/艺术 内容聚合"

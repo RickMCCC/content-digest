@@ -62,7 +62,7 @@ def _build_item(item: dict) -> dict:
     }
 
 
-def generate_feed(config: dict, recent_items: list[dict], digest: dict | None = None, feed_url: str = "") -> Path:
+def generate_feed(config: dict, recent_items: list[dict], digest: dict | None = None, feed_url: str = "", filename: str = "feed.xml") -> Path:
     """Generate feed.xml from items and optional digest."""
     env = Environment(loader=FileSystemLoader(str(FEED_DIR)))
     template = env.get_template("template.xml")
@@ -94,7 +94,7 @@ def generate_feed(config: dict, recent_items: list[dict], digest: dict | None = 
         items=items,
     )
 
-    output_path = OUTPUT_DIR / "feed.xml"
+    output_path = OUTPUT_DIR / filename
     output_path.write_text(xml_str, encoding="utf-8")
     logger.info(f"Feed generated: {output_path} ({len(items)} items)")
     return output_path
