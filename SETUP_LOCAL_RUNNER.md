@@ -118,8 +118,14 @@ GitHub Actions 每天同时运行，会检查 `data/.last_run` 是否在 24h 内
 
 ---
 
-## feed.xml 订阅地址（folo 中使用）
+## Feed 订阅地址（folo 中使用）
 
+**技术资讯流**（AI/科技/财经）：
 ```
-https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml
+https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml
+```
+
+**生活分享流**（生活/娱乐/艺术）：
+```
+https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_life.xml
 ```
