@@ -5,8 +5,39 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 14 Jun 2026 16:10:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 16:25:10 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
+    
+    <item>
+        <title><![CDATA[📊 运行日志 | 06月14日 16:25 UTC]]></title>
+        <link>https://github.com/RickMCCC/content-digest</link>
+        <guid isPermaLink="false">digest-2026-06-14</guid>
+        <pubDate>Sun, 14 Jun 2026 16:25:10 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ☁️ GitHub Actions (手动触发)</p><p><b>📡 技术资讯流 (tech):</b> 107 items</p><p><b>🎮 生活分享流 (life):</b> 33 items</p><p><b>🆕 本次新增:</b> 1 items</p><p><b>📦 数据库总量:</b> 790 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 手动触发</p>]]></description>
+        <author><![CDATA[AI Digest Bot]]></author>
+        <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[X] Ethan Mollick：Two days later and the situation is still confusing.]]></title>
+        <link>https://nitter.net/emollick/status/2066191508579975482#m</link>
+        <guid isPermaLink="false">x-a9b45d7b92c8d4f4</guid>
+        <pubDate>Sun, 14 Jun 2026 16:10:18 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：X</p>
+<p>✍️ 作者：Ethan Mollick</p>
+<p>Two days later and the situation is still confusing.
+
+
+Ethan Mollick (@emollick)
+
+Well, this situation is confusing.
+
+
+
+— https://nitter.net/emollick/status/2065611047248019848#m</p><p><a href="https://nitter.net/emollick/status/2066191508579975482#m">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Ethan Mollick]]></author>
+        <category>X</category>
+    </item>
     
     <item>
         <title><![CDATA[[X] Ethan Mollick (2026-06-14): 5 posts]]></title>
@@ -37,30 +68,6 @@ They have talent and national backing, but despite being Europe’s only frontie
 </ul>]]></description>
         <author><![CDATA[Simon Willison]]></author>
         <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小王Albert：中国的危与机？中美俄欧中东，AI美债美元，混乱世界中|正在发生 ep1 翟东升]]></title>
-        <link>https://www.bilibili.com/video/BV1UFJN6jEZz</link>
-        <guid isPermaLink="false">bilibili-116747982080905</guid>
-        <pubDate>Sun, 14 Jun 2026 11:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小王Albert</p>
-<p>一键三连推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV1UFJN6jEZz">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小王Albert]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 马督工：【睡前消息1066】老佛爷退出北京 布尔乔亚故事过时了]]></title>
-        <link>https://www.bilibili.com/video/BV1G3Jw6GEJ3</link>
-        <guid isPermaLink="false">bilibili-116747881420226</guid>
-        <pubDate>Sun, 14 Jun 2026 10:15:22 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：马督工</p>
-<p>老佛爷百货的历史和未来。</p><p><a href="https://www.bilibili.com/video/BV1G3Jw6GEJ3">查看原文 →</a></p>]]></description>
-        <author><![CDATA[马督工]]></author>
-        <category>B站</category>
     </item>
     
     <item>
@@ -297,18 +304,6 @@ This one builds on Command A+ using the parallel transformer design. Interesting
     </item>
     
     <item>
-        <title><![CDATA[[B站] 小黛晨读：【参考信息第613期】“弄黑”孩子征信；黄仁勋谈亚洲父母]]></title>
-        <link>https://www.bilibili.com/video/BV1ToJp6wEXh</link>
-        <guid isPermaLink="false">bilibili-116742579815603</guid>
-        <pubDate>Sat, 13 Jun 2026 11:44:48 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小黛晨读</p>
-<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1ToJp6wEXh">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小黛晨读]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
         <title><![CDATA[[X] Simon Willison (2026-06-13): 3 posts]]></title>
         <link>https://nitter.net/simonw/status/2065618703480414666#m</link>
         <guid isPermaLink="false">x-grouped-2026-06-13-f514c514</guid>
@@ -490,18 +485,6 @@ It would help to point AIs at some tools to focus them.</a></li>
     </item>
     
     <item>
-        <title><![CDATA[[B站] 马督工：【睡前消息1065】网瘾学校在第三层 精神病院是第四层]]></title>
-        <link>https://www.bilibili.com/video/BV1AQJ56YER7</link>
-        <guid isPermaLink="false">bilibili-116737412438596</guid>
-        <pubDate>Fri, 12 Jun 2026 13:45:47 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：马督工</p>
-<p>网瘾学校所处的社会生态位</p><p><a href="https://www.bilibili.com/video/BV1AQJ56YER7">查看原文 →</a></p>]]></description>
-        <author><![CDATA[马督工]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
         <title><![CDATA[[B站] 华尔街播客：【英文原声】《华尔街日报》6月12日全文精读]]></title>
         <link>https://www.bilibili.com/video/BV1FfJ56fEu6</link>
         <guid isPermaLink="false">bilibili-116737395851890</guid>
@@ -522,20 +505,6 @@ It would help to point AIs at some tools to focus them.</a></li>
 <p>✍️ 作者：华尔街播客</p>
 <p>今日华尔街日报核心议题围绕AI资本浪潮与全球产业格局变迁展开。SpaceX完成史上最大规模IPO，全球机构与散户争相认购，将太空经济叙事推至前所未有的高度。甲骨文和亚马逊的数据中心扩张数据揭示了AI基础设施的资源代价。宏观层面，欧洲央行率先加息以应对能源驱动的通胀回潮；中国原油进口骤降则印证了电动车与高铁替代效应已从趋势转为现实。Waymo宣布首次全国电视广告，自动驾驶商业化进入新阶段。</p><p><a href="https://www.bilibili.com/video/BV1ffJ56oEjJ">查看原文 →</a></p>]]></description>
         <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小Lin说：SpaceX上市，背后在玩什么资本游戏?]]></title>
-        <link>https://www.bilibili.com/video/BV1maE169Eng</link>
-        <guid isPermaLink="false">bilibili-116736406000961</guid>
-        <pubDate>Fri, 12 Jun 2026 13:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小Lin说</p>
-<p>SpaceX刚刚完成了人类史上最大的IPO，估值1.77万亿美元，融资750亿。
-借着它公布招股书，今天我们来聊聊SpaceX：业务到底是个什么结构？为什么要上市？
-以及SpaceX上市背后的资本游戏...</p><p><a href="https://www.bilibili.com/video/BV1maE169Eng">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小Lin说]]></author>
         <category>B站</category>
     </item>
     
@@ -815,18 +784,6 @@ Create your own notebook at http://gemini.google or in the app today!</a></li>
 <p>✍️ 作者：华尔街播客</p>
 <p>2026年6月11日《华尔街日报》聚焦三条主线：能源结构加速重塑，太阳能首次超越煤炭；科技平台竞争升级，OpenAI与Anthropic在AI服务定价上正面交锋；传统行业触底回升，美国货运结束四年低迷。此外SpaceX启动上市，德意志电信谋划跨境合并，全球企业格局加速分化。</p><p><a href="https://www.bilibili.com/video/BV1F2Ei6pEdM">查看原文 →</a></p>]]></description>
         <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小黛晨读：【参考信息第612期】减少护考道德绑架；人大否决政府项目]]></title>
-        <link>https://www.bilibili.com/video/BV19FEq6kEoJ</link>
-        <guid isPermaLink="false">bilibili-116731339080218</guid>
-        <pubDate>Thu, 11 Jun 2026 12:00:27 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小黛晨读</p>
-<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV19FEq6kEoJ">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小黛晨读]]></author>
         <category>B站</category>
     </item>
     
@@ -1435,18 +1392,6 @@ It is available in the Gemini</p><p><a href="https://nitter.net/OfficialLoganK/s
     </item>
     
     <item>
-        <title><![CDATA[[B站] 马督工：【睡前消息1064】西北赛区西安赢 西部赛区成都赢]]></title>
-        <link>https://www.bilibili.com/video/BV1wPEm6DEax</link>
-        <guid isPermaLink="false">bilibili-116720366787284</guid>
-        <pubDate>Tue, 09 Jun 2026 13:38:45 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：马督工</p>
-<p>成都对西安房地产市场的冲击。</p><p><a href="https://www.bilibili.com/video/BV1wPEm6DEax">查看原文 →</a></p>]]></description>
-        <author><![CDATA[马督工]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
         <title><![CDATA[[X] Rowan Cheung (2026-06-09): 10 posts]]></title>
         <link>https://nitter.net/TheRundownAI/status/2064336855663837387#m</link>
         <guid isPermaLink="false">x-grouped-2026-06-09-a5af7487</guid>
@@ -1613,18 +1558,6 @@ The Rundown stays fully independent, now with the operations, infrastructure, an
     </item>
     
     <item>
-        <title><![CDATA[[B站] Chris的军事基地：【米-26详解】 世界上最大 最重直升机 苏联巨兽代表作]]></title>
-        <link>https://www.bilibili.com/video/BV1YdE36uEfB</link>
-        <guid isPermaLink="false">bilibili-116715132290284</guid>
-        <pubDate>Tue, 09 Jun 2026 04:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Chris的军事基地</p>
-<p>三连多多更新快快！</p><p><a href="https://www.bilibili.com/video/BV1YdE36uEfB">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Chris的军事基地]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
         <title><![CDATA[[X] Simon Willison：That's both OpenAI and Anthropic with confidential S-1s filed with the SEC - Anthropic filed theirs on June 1st]]></title>
         <link>https://nitter.net/simonw/status/2064094592300134652#m</link>
         <guid isPermaLink="false">x-6801116e252eb916</guid>
@@ -1760,18 +1693,6 @@ Watch the full event at https://www.nobelprize.org/events/nobel-prize-dialogue/l
 Nobel Prize laureate Demis Hassabis was awarded the Nobel Prize for using AI to predict the structure of pro</p><p><a href="https://nitter.net/NobelPrize/status/2063977058170999203#m">查看原文 →</a></p>]]></description>
         <author><![CDATA[Demis Hassabis]]></author>
         <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小黛晨读：【参考信息第611期】第八名逆袭中标；单身穷的“被贷款”]]></title>
-        <link>https://www.bilibili.com/video/BV1SEEu6dEGC</link>
-        <guid isPermaLink="false">bilibili-116714494757641</guid>
-        <pubDate>Mon, 08 Jun 2026 12:43:32 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小黛晨读</p>
-<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1SEEu6dEGC">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小黛晨读]]></author>
-        <category>B站</category>
     </item>
     
     <item>
@@ -2001,30 +1922,6 @@ I have a new kind of big button that I can press for Codex. Over the next 100 da
 <p>✍️ 作者：罗翔说刑法</p>
 <p><a href="https://www.bilibili.com/video/BV1rLEh6MEmb">查看原文 →</a></p>]]></description>
         <author><![CDATA[罗翔说刑法]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 学院派Academia：【科技社会学】电车的续航焦虑，是作为现代英雄的「驾驶员主体」的葬礼]]></title>
-        <link>https://www.bilibili.com/video/BV1ipEb6REXR</link>
-        <guid isPermaLink="false">bilibili-116708622734860</guid>
-        <pubDate>Sun, 07 Jun 2026 11:39:04 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：学院派Academia</p>
-<p>为什么男人那么喜欢车？为什么大家嘴上夸电车省钱，心里却怀念油车？究其原因，你买的不只是交通工具，更是那份无需看任何人脸色，使钢铁躯壳听命于自己的“掌控感”，是“绝对自由”的幻觉。但这种幻觉早已在堵车和996中开始崩塌。使我们陷入续航焦虑的，根本不是随时抛锚的风险，而是「驾驶员主体」的死去。本期将从社会学角度分析：为什么电车的续航焦虑，是作为现代英雄的驾驶员主体的葬礼？</p><p><a href="https://www.bilibili.com/video/BV1ipEb6REXR">查看原文 →</a></p>]]></description>
-        <author><![CDATA[学院派Academia]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 马督工：【睡前消息1063】大学关门办学，纯属钱多了烧的]]></title>
-        <link>https://www.bilibili.com/video/BV1smEb6BE5Z</link>
-        <guid isPermaLink="false">bilibili-116708354298935</guid>
-        <pubDate>Sun, 07 Jun 2026 10:44:14 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：马督工</p>
-<p>1 讨论大学是否应该封闭管理。2 地铁外包工作诈骗案。</p><p><a href="https://www.bilibili.com/video/BV1smEb6BE5Z">查看原文 →</a></p>]]></description>
-        <author><![CDATA[马督工]]></author>
         <category>B站</category>
     </item>
     

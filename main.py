@@ -214,25 +214,59 @@ def run():
         "life": {"file": "feed_life.xml", "title": "生活分享流", "description": "生活/娱乐/艺术"},
     })
 
+    # First pass: collect + group items per stream
+    stream_items_map = {}  # stream_key -> list of items
     for stream_key, stream_cfg in streams_config.items():
         stream_items = []
         for item in recent_items:
             item_aid = item.get("author_id", "")
-            # Map DB author_name back to stream via config subscriptions
             item_stream = stream_map.get((item["platform"], item_aid))
             if item_stream is None:
-                # Fallback: check RSS sources by matching author_name
                 for src in config.get("rss_sources", []):
                     if item["platform"] == src["platform"] and item["author_name"] in (src["name"], item.get("author_name", "")):
                         item_stream = src.get("stream", "tech")
                         break
             if item_stream is None:
-                item_stream = "tech"  # default
+                item_stream = "tech"
             if item_stream == stream_key:
                 stream_items.append(item)
 
-        # Group same-author same-day posts (X auto, others per config)
         stream_items = group_by_author_day(stream_items, author_ids=group_author_ids)
+        stream_items_map[stream_key] = stream_items[:max_items]
+
+    # Build daily run log
+    from datetime import datetime as dt
+    run_time = dt.utcnow()
+    runner_status = {
+        "local": "🟢 本地 PC 在线",
+        "cloud": "☁️ GitHub Actions (手动触发)",
+        "fallback": "⚠️ 本地离线 · GitHub Actions 兜底",
+    }
+    run_log = {
+        "title": f"📊 运行日志 | {run_time.strftime('%m月%d日 %H:%M UTC')}",
+        "url": feed_config.get("link", ""),
+        "date": run_time.strftime("%Y-%m-%d"),
+        "generated_at": run_time.isoformat(),
+        "content_html": (
+            f"<p><b>🏃 Runner 状态:</b> {runner_status.get(RUNNER_MODE, RUNNER_MODE)}</p>"
+            f"<p><b>📡 技术资讯流 (tech):</b> {len(stream_items_map.get('tech', []))} items</p>"
+            f"<p><b>🎮 生活分享流 (life):</b> {len(stream_items_map.get('life', []))} items</p>"
+            f"<p><b>🆕 本次新增:</b> {total_new} items</p>"
+            f"<p><b>📦 数据库总量:</b> {get_item_count()} items</p>"
+            f"<hr><p style='color:#888;font-size:11px;'>"
+            f"本地 Runner: {'在线' if RUNNER_MODE == 'local' else '离线/未运行'}"
+            f" | GitHub Actions: {'兜底模式' if RUNNER_MODE == 'fallback' else '未触发' if RUNNER_MODE == 'local' else '手动触发'}"
+            f"</p>"
+        ),
+    }
+
+    # Second pass: generate feeds (run log prepended to tech)
+    for stream_key, stream_cfg in streams_config.items():
+        stream_items = stream_items_map[stream_key]
+
+        if stream_key == "tech":
+            # Prepend run log as first item
+            stream_items = [run_log] + stream_items
 
         feed_url = f"{base_url}/{stream_cfg['file']}"
         stream_feed_config = {
@@ -241,12 +275,11 @@ def run():
             "link": feed_config.get("link", ""),
             "language": feed_config.get("language", "zh-CN"),
         }
-        # Only include digest in tech stream
         stream_digest = digest if stream_key == "tech" else None
-        output_path = generate_feed(stream_feed_config, stream_items[:max_items], stream_digest, feed_url, filename=stream_cfg["file"])
-        logger.info(f"Feed [{stream_key}] written: {output_path} ({len(stream_items[:max_items])} items)")
+        output_path = generate_feed(stream_feed_config, stream_items, stream_digest, feed_url, filename=stream_cfg["file"])
+        logger.info(f"Feed [{stream_key}] written: {output_path} ({len(stream_items)} items)")
 
-    # Backward-compatible combined feed
+    # Backward-compatible combined feed (with run log)
     all_feed_url = f"{base_url}/feed.xml"
     all_config = {
         "title": feed_config.get("title", "个人内容聚合日报"),
@@ -254,7 +287,8 @@ def run():
         "link": feed_config.get("link", ""),
         "language": feed_config.get("language", "zh-CN"),
     }
-    generate_feed(all_config, group_by_author_day(recent_items, author_ids=group_author_ids)[:max_items], digest, all_feed_url, filename="feed.xml")
+    combined_items = [run_log] + group_by_author_day(recent_items, author_ids=group_author_ids)[:max_items]
+    generate_feed(all_config, combined_items, digest, all_feed_url, filename="feed.xml")
     logger.info(f"Feed [combined] written for backward compatibility")
 
     # 7. Write heartbeat for local runner
