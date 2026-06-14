@@ -65,8 +65,22 @@ subscriptions:
       name: "3Blue1Brown"                # 中国官方账号，深入浅出分享数学
 
   xiaohongshu:
-    # - id: "5f1e3b0a0000000001001e6a"
-    #   name: "示例博主"
+    - id: "5fa5d94400000000010001a0"
+      name: "jz"                           # 一个能力很小欲望很大的普通人
+    # - id: "替换为ID"
+    #   name: "持续探索的iris"              # ← 需从小红书 App 找 ID
+    # - id: "替换为ID"
+    #   name: "ai产品折木（建筑跑路）"        # ← 需从小红书 App 找 ID
+    # - id: "替换为ID"
+    #   name: "wood聊大数据"                # ← 需从小红书 App 找 ID
+    # - id: "替换为ID"
+    #   name: "和哥AI产品｜智能问问"          # ← 需从小红书 App 找 ID
+    # - id: "替换为ID"
+    #   name: "几口酱聊AI"                  # ← 需从小红书 App 找 ID
+    # - id: "替换为ID"
+    #   name: "学习笔记"                    # ← 需从小红书 App 找 ID
+    # - id: "替换为ID"
+    #   name: "max for ai"                 # ← 需从小红书 App 找 ID
 
   zhihu:
     # - id: "zhang-jia-wei"
