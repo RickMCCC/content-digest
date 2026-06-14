@@ -5,15 +5,61 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 14 Jun 2026 16:25:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 16:36:04 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 06月14日 16:25 UTC]]></title>
+        <title><![CDATA[📊 今日热点速览 | 06月14日 | 共 15 篇]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
         <guid isPermaLink="false">digest-2026-06-14</guid>
-        <pubDate>Sun, 14 Jun 2026 16:25:10 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ☁️ GitHub Actions (手动触发)</p><p><b>📡 技术资讯流 (tech):</b> 107 items</p><p><b>🎮 生活分享流 (life):</b> 33 items</p><p><b>🆕 本次新增:</b> 1 items</p><p><b>📦 数据库总量:</b> 790 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 手动触发</p>]]></description>
+        <pubDate>Sun, 14 Jun 2026 16:36:04 GMT</pubDate>
+        <description><![CDATA[<h2>📊 今日概览</h2>
+<p>共 15 条新内容，其中 X 6 条、B站 9 条</p>
+
+<h2>⭐ TOP 5 推荐</h2>
+<ol>
+  <li><strong>【中英字幕】华尔街周刊26.06.13完整版：SpaceX万亿美元IPO潮、政府押注量子计算、AI重塑搜索</strong>（B站 · Mr-Pot）— 深度解读资本市场与技术豪赌的交叉点，信息密度极高。</li>
+  <li><strong>【中英字幕】《ALL-IN》播客26.06.13完整版：AI监管风暴与主权财富之争</strong>（B站 · Mr-Pot）— 解析Anthropic“降智门”事件背后的监管博弈，紧跟AI政策热点。</li>
+  <li><strong>中国的危与机？中美俄欧中东，AI美债美元，混乱世界中|正在发生 ep1 翟东升</strong>（B站 · 小王Albert）— 宏观视角剖析当前全球局势，适合想理解大趋势的读者。</li>
+  <li><strong>我把媳妇的备课流程做成了Skill，每天省下2小时（实战教程）</strong>（B站 · IT咖啡馆）— 实用的AI自动化教程，可直接复用到工作流中。</li>
+  <li><strong>It's now possible to compile Python extensions to WebAssembly and distribute them through PyPI</strong>（X · Simon Willison）— 对Python生态有重大影响的技术突破，开发者必读。</li>
+</ol>
+
+<h2>📁 分类速览</h2>
+<h3>X</h3>
+<ul>
+  <li><strong>Two days later and the situation is still confusing.</strong>（Ethan Mollick）— 作者对当前AI领域混乱局势的感慨。</li>
+  <li><strong>Final one-shot prompt I did before the Fable interruption: "build me a cool simulation thing..."</strong>（Ethan Mollick）— 用AI生成了一个展示超光速旅行方式的交互模拟器。</li>
+  <li><strong>I'm just glad nobody at the US government thought to try that Fable 5 "jailbreak"</strong>（Simon Willison）— 调侃Fable 5的“越狱”方法如果被官方利用，周末就干不了正事了。</li>
+  <li><strong>The Build Small Hackathon diary — Day 6</strong>（AK (论文速递)）— 社区已超2000粉丝，400多个Gradio空间，生态活跃。</li>
+  <li><strong>There is no inevitability in AI. We all have agency in what comes next</strong>（Clem (HF CEO)）— 呼吁选择开源AI路径，而非封闭API的垄断未来。</li>
+  <li><strong>It's now possible to compile Python extensions to WebAssembly and distribute them through PyPI</strong>（Simon Willison）— 技术突破：Python原生扩展可编译为Wasm并通过PyPI分发。</li>
+</ul>
+
+<h3>B站</h3>
+<ul>
+  <li><strong>二战日军战斗力有多强？真实的日本鬼子有多难打？【三木说】</strong>（三木説）— 还原二战日军的真实战斗水平。</li>
+  <li><strong>【两站联合】今天的"搭档搭档 好搭档!" 小新 x 小白的 'Boompala' 宣传时间</strong>（全员i人字幕组）— 金采源与中村一叶的合作舞台宣传视频。</li>
+  <li><strong>中国的危与机？中美俄欧中东，AI美债美元，混乱世界中|正在发生 ep1 翟东升</strong>（小王Albert）— 翟东升分析全球地缘与经济的深层矛盾。</li>
+  <li><strong>【睡前消息1066】老佛爷退出北京 布尔乔亚故事过时了</strong>（马督工）— 以老佛爷百货退出北京为例，探讨消费文化变迁。</li>
+  <li><strong>【中英字幕】华尔街周刊26.06.13完整版</strong>（Mr-Pot）— SpaceX IPO、量子计算、AI搜索等资本与技术热点深度分析。</li>
+  <li><strong>【中英字幕】彭博科技前沿26.06.12完整版</strong>（Mr-Pot）— 聚焦SpaceX史诗级IPO首秀及马斯克成为万亿富豪的细节。</li>
+  <li><strong>日本人真心推荐！一生至少要去一次的日本温泉5选</strong>（Yunaty日本語）— 日本当地人推荐的5个顶级温泉目的地。</li>
+  <li><strong>【中英字幕】《ALL-IN》播客26.06.13完整版</strong>（Mr-Pot）— 讨论Anthropic“降智门”及AI监管风暴，涉及桑德斯国有化方案。</li>
+  <li><strong>我把媳妇的备课流程做成了Skill，每天省下2小时（实战教程）</strong>（IT咖啡馆）— 手把手教你用AI自动化备课流程，提升效率。</li>
+</ul>
+
+<p style="color:#888;font-size:12px;">🤖 本日报由 DeepSeek 自动生成</p>]]></description>
+        <author><![CDATA[AI Digest Bot]]></author>
+        <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[📊 运行日志 | 06月14日 16:36 UTC]]></title>
+        <link>https://github.com/RickMCCC/content-digest</link>
+        <guid isPermaLink="false">digest-2026-06-14</guid>
+        <pubDate>Sun, 14 Jun 2026 16:36:04 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> 🟢 本地 PC 在线</p><p><b>📡 技术资讯流 (tech):</b> 107 items</p><p><b>🎮 生活分享流 (life):</b> 33 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 790 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 在线 | GitHub Actions: 未触发</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
