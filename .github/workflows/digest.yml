@@ -32,13 +32,32 @@ jobs:
         run: |
           python -m playwright install --with-deps chromium 2>/dev/null || echo "Playwright install skipped (not needed for normal run)"
 
-      - name: Run content digest
+      - name: Check if local runner is active
+        id: check_runner
+        run: |
+          if [ -f data/.last_run ]; then
+            LAST_RUN=$(cat data/.last_run)
+            LAST_EPOCH=$(date -d "$LAST_RUN" +%s 2>/dev/null || echo 0)
+            NOW_EPOCH=$(date +%s)
+            DIFF=$(( (NOW_EPOCH - LAST_EPOCH) / 3600 ))
+            echo "Local runner last seen: ${DIFF}h ago"
+            if [ "$DIFF" -lt 24 ]; then
+              echo "Local runner is active, skipping cloud run"
+              exit 0
+            fi
+          else
+            echo "No heartbeat file found"
+          fi
+          echo "Local runner offline, entering fallback mode"
+
+      - name: Run content digest (fallback)
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           DEEPSEEK_BASE_URL: ${{ secrets.DEEPSEEK_BASE_URL }}
           BILIBILI_COOKIE: ${{ secrets.BILIBILI_COOKIE }}
           XIAOHONGSHU_COOKIE: ${{ secrets.XIAOHONGSHU_COOKIE }}
           ZHIHU_COOKIE: ${{ secrets.ZHIHU_COOKIE }}
+          FALLBACK_MODE: "1"
         run: python main.py
 
       - name: Commit and push changes

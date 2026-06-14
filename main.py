@@ -26,6 +26,13 @@ logger = logging.getLogger("main")
 
 ROOT_DIR = Path(__file__).resolve().parent
 CONFIG_PATH = ROOT_DIR / "config.yaml"
+HEARTBEAT_PATH = ROOT_DIR / "data" / ".last_run"
+
+RUNNER_MODE = (
+    "fallback" if os.environ.get("FALLBACK_MODE") == "1" else
+    "local" if os.environ.get("LOCAL_RUNNER") == "1" else
+    "cloud"
+)
 
 
 def load_config() -> dict:
@@ -67,9 +74,11 @@ def run():
         finally:
             crawler.close()
 
-    # 知乎
+    # 知乎（仅在非 fallback 模式运行）
     zhihu_subs = config.get("subscriptions", {}).get("zhihu", [])
-    if zhihu_subs:
+    if RUNNER_MODE == "fallback":
+        logger.info("[zhihu] Skipped (fallback mode, local runner offline)")
+    elif zhihu_subs:
         logger.info(f"[zhihu] Processing {len(zhihu_subs)} subscriptions...")
         cookie = os.environ.get("ZHIHU_COOKIE", "")
         crawler = ZhihuCrawler(crawler_config, cookie)
@@ -80,9 +89,11 @@ def run():
         finally:
             crawler.close()
 
-    # 小红书
+    # 小红书（仅在非 fallback 模式运行）
     xhs_subs = config.get("subscriptions", {}).get("xiaohongshu", [])
-    if xhs_subs:
+    if RUNNER_MODE == "fallback":
+        logger.info("[xiaohongshu] Skipped (fallback mode, local runner offline)")
+    elif xhs_subs:
         logger.info(f"[xiaohongshu] Processing {len(xhs_subs)} subscriptions...")
         cookie = os.environ.get("XIAOHONGSHU_COOKIE", "")
         crawler = XiaohongshuCrawler(crawler_config, cookie)
@@ -93,9 +104,11 @@ def run():
         finally:
             crawler.close()
 
-    # RSS 源（如 RSSHub）
+    # RSS 源（仅在非 fallback 模式运行）
     rss_sources = config.get("rss_sources", [])
-    if rss_sources:
+    if RUNNER_MODE == "fallback":
+        logger.info("[rss] Skipped (fallback mode, local runner offline)")
+    elif rss_sources:
         logger.info(f"[rss] Processing {len(rss_sources)} RSS sources...")
         rss_crawler = RssSourceCrawler(crawler_config)
         try:
@@ -128,7 +141,33 @@ def run():
     # 4. Generate AI digest (only on morning run or if there are new items)
     today_items = get_today_items()
     digest = None
-    if today_items:
+
+    # Fallback mode: 注入离线警告
+    if RUNNER_MODE == "fallback":
+        from datetime import datetime as dt
+        now_str = dt.utcnow().strftime("%m月%d日")
+        fallback_digest = {
+            "title": f"⚠️ 本地 Runner 离线 | {now_str}",
+            "content_html": (
+                "<p style='color:#e67e22;font-weight:bold;'>"
+                "⚠️ 本地 Runner 离线，今日仅包含 B站更新。"
+                "小红书、知乎、RSS 源暂不可用。</p>"
+                "<p style='color:#888;font-size:12px;'>"
+                "请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>"
+            ),
+            "item_count": len(today_items),
+            "date": dt.utcnow().strftime("%Y-%m-%d"),
+            "generated_at": dt.utcnow().isoformat(),
+        }
+        insert_digest(
+            fallback_digest["date"],
+            fallback_digest["title"],
+            fallback_digest["content_html"],
+            fallback_digest["item_count"],
+        )
+        digest = fallback_digest
+        logger.info(f"Fallback digest saved: {fallback_digest['title']}")
+    elif today_items:
         deepseek_config = config.get("deepseek", {})
         digest_data = generate_digest(today_items, deepseek_config)
         if digest_data:
@@ -157,8 +196,15 @@ def run():
     output_path = generate_feed(feed_config, recent_items, digest, feed_url)
     logger.info(f"Feed written to: {output_path}")
 
+    # 6. Write heartbeat for local runner
+    if RUNNER_MODE == "local":
+        from datetime import datetime as dt
+        HEARTBEAT_PATH.parent.mkdir(parents=True, exist_ok=True)
+        HEARTBEAT_PATH.write_text(dt.utcnow().isoformat())
+        logger.info(f"Heartbeat written: {HEARTBEAT_PATH}")
+
     logger.info("=" * 60)
-    logger.info(f"Done! {total_new} new, {len(recent_items)} in feed")
+    logger.info(f"Done! [{RUNNER_MODE}] {total_new} new, {len(recent_items)} in feed")
     logger.info("=" * 60)
 
 
