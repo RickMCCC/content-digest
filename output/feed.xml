@@ -5,65 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 14 Jun 2026 20:37:44 GMT</lastBuildDate>
-    <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sun, 14 Jun 2026 22:44:52 GMT</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[📊 今日热点速览 | 06月14日 | 共 19 篇]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 06月14日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
         <guid isPermaLink="false">digest-2026-06-14</guid>
-        <pubDate>Sun, 14 Jun 2026 20:37:44 GMT</pubDate>
-        <description><![CDATA[<h2>📊 今日概览</h2>
-<p>共 19 条新内容，其中 x 10 条、B站 9 条</p>
-
-<h2>⭐ TOP 5 推荐</h2>
-<ol>
-  <li><strong>AI监管风暴与主权财富之争：Anthropic被迫开源、桑德斯50%国有化方案引爆美国大选恐慌</strong>（B站 · Mr-Pot）— <em>ALL-IN播客深度复盘Anthropic“降智门”与AI联邦审批机制，政策棋局走向清晰。</em></li>
-  <li><strong>中国的危与机？中美俄欧中东，AI美债美元，混乱世界中|正在发生 ep1 翟东升</strong>（B站 · 小王Albert）— <em>翟东升教授从地缘政治到AI美债，全景式解读当前混乱世界格局。</em></li>
-  <li><strong>关于AI开放与封闭的路线之争：美国可能自我孤立，中国开源成为全球默认</strong>（x · Yann LeCun）— <em>Yann LeCun转发长文警告：若无西方开放前沿玩家，中国开源模型将成为全球60亿人的默认选择。</em></li>
-  <li><strong>AI Agent时代：我们尚不知如何围绕AI重建公司，实验与失败必不可少</strong>（x · Ethan Mollick）— <em>Ethan Mollick指出实用Agent仅存在数月，最佳实践仍在探索中。</em></li>
-  <li><strong>我把媳妇的备课流程做成了Skill，每天省下2小时（实战教程）</strong>（B站 · IT咖啡馆）— <em>手把手教你用AI自动化日常流程，实用性强。</em></li>
-</ol>
-
-<h2>📁 分类速览</h2>
-<h3>X (Twitter)</h3>
-<ul>
-  <li><strong>We don’t honestly know the best approaches to rebuilding companies around AI agents</strong>（Ethan Mollick）— AI Agent时代尚在早期，实验与失败是必经之路。</li>
-  <li><strong>If your company owned "software for X", chances are it will own "AI for X" as well</strong>（Francois Chollet）— 拥有领域专业知识的公司，将在AI时代延续优势。</li>
-  <li><strong>Near-term AI isn't fundamentally different from past tech waves</strong>（Francois Chollet）— AI是数字杠杆的新形式，仍需人类在环。</li>
-  <li><strong>Two days later and the situation is still confusing</strong>（Ethan Mollick）— 某事件两天后仍让人困惑。</li>
-  <li><strong>Final one-shot prompt: build me a cool simulation thing that lets me demo FTL travel forms</strong>（Ethan Mollick）— 用AI生成超光速旅行模拟演示页面。</li>
-  <li><strong>I'm just glad nobody at the US government thought to try that Fable 5 "jailbreak" against Opus 4.x or GPT 5.x</strong>（Simon Willison）— 庆幸美国政府没对高级模型尝试Fable 5越狱。</li>
-  <li><strong>The Build Small Hackathon diary — Day 6</strong>（AK (论文速递)）— Hugging Face黑客马拉松社区已超2000粉丝、400+ Spaces。</li>
-  <li><strong>This ugly reality: Americans will have walled AI gardens, open source banned, rest of world uses Chinese AI</strong>（Yann LeCun）— 美国若限制开源，中国模型将成全球默认。</li>
-  <li><strong>There is no inevitability in AI. We all have agency: closed-source vs open-source paths</strong>（Clem (HF CEO)）— AI未来两条路：封闭API集中权力 vs 开源人人参与。</li>
-  <li><strong>It's now possible to compile Python extensions to WebAssembly and distribute through PyPI</strong>（Simon Willison）— Python扩展可编译为Wasm并通过PyPI分发，Pyodide可直接安装。</li>
-</ul>
-
-<h3>Bilibili</h3>
-<ul>
-  <li><strong>二战日军战斗力有多强？真实的日本鬼子有多难打？【三木说】</strong>（三木説）— 深度解析二战日军真实战斗力。</li>
-  <li><strong>【两站联合】今天的"搭档搭档 好搭档!" 小新 x 小白的 'Boompala' 宣传时间</strong>（全员i人字幕组）— 金采源 & 中村一叶合作舞台宣传。</li>
-  <li><strong>中国的危与机？中美俄欧中东，AI美债美元，混乱世界中|正在发生 ep1 翟东升</strong>（小王Albert）— 翟东升教授多维度解读全球格局。</li>
-  <li><strong>【睡前消息1066】老佛爷退出北京 布尔乔亚故事过时了</strong>（马督工）— 老佛爷百货的历史与未来。</li>
-  <li><strong>【中英字幕】华尔街周刊26.06.13完整版</strong>（Mr-Pot）— SpaceX万亿美元IPO、量子计算、AI重塑搜索。</li>
-  <li><strong>【中英字幕】彭博科技前沿26.06.12完整版</strong>（Mr-Pot）— SpaceX史诗级IPO：2万亿美元开盘，马斯克成万亿富豪。</li>
-  <li><strong>日本人真心推荐！一生至少要去一次的日本温泉5选</strong>（Yunaty日本語）— 日本温泉推荐清单。</li>
-  <li><strong>【中英字幕】《ALL-IN》播客26.06.13完整版</strong>（Mr-Pot）— Anthropic降智门、桑德斯50%国有化方案。</li>
-  <li><strong>我把媳妇的备课流程做成了Skill，每天省下2小时（实战教程）</strong>（IT咖啡馆）— 用AI自动化备课流程的实战教程。</li>
-</ul>
-
-<p style="color:#888;font-size:12px;">🤖 本日报由 DeepSeek 自动生成</p>]]></description>
+        <pubDate>Sun, 14 Jun 2026 22:44:52 GMT</pubDate>
+        <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 06月14日 20:37 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 06月14日 22:44 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
         <guid isPermaLink="false">digest-2026-06-14</guid>
-        <pubDate>Sun, 14 Jun 2026 20:37:44 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> 🟢 本地 PC 在线</p><p><b>📡 技术资讯流 (tech):</b> 108 items</p><p><b>🎮 生活分享流 (life):</b> 30 items</p><p><b>🆕 本次新增:</b> 7 items</p><p><b>📦 数据库总量:</b> 797 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 在线 | GitHub Actions: 未触发</p>]]></description>
+        <pubDate>Sun, 14 Jun 2026 22:44:52 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 108 items</p><p><b>🎮 生活分享流 (life):</b> 30 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 797 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
