@@ -14,7 +14,7 @@ from crawlers.xiaohongshu import XiaohongshuCrawler
 from crawlers.rss_source import RssSourceCrawler
 from storage.db import insert_item, log_crawl
 from digest.generator import generate_digest
-from feed.generator import generate_feed
+from feed.generator import generate_feed, group_by_author_day
 
 # 配置日志
 logging.basicConfig(
@@ -182,17 +182,22 @@ def run():
     else:
         logger.info("No items today, skipping digest generation")
 
-    # 5. Build stream mapping from config
+    # 5. Build stream mapping and group-daily authors from config
     stream_map = {}  # {(platform, author_id): stream}
+    group_author_ids = set()  # {(platform, author_id)} to group daily
     subs = config.get("subscriptions") or {}
     for platform in subs:
         for sub in subs.get(platform) or []:
             sid = sub.get("id", "")
             if sid:
                 stream_map[(platform, sid)] = sub.get("stream", "tech")
+                if sub.get("group_daily"):
+                    group_author_ids.add((platform, sid))
     for src in config.get("rss_sources", []):
         aid = hashlib.md5(src["url"].encode()).hexdigest()[:12]
         stream_map[(src["platform"], aid)] = src.get("stream", "tech")
+        if src.get("group_daily"):
+            group_author_ids.add((src["platform"], aid))
 
     # 6. Generate RSS feeds per stream
     feed_config = config.get("feed", {})
@@ -226,6 +231,9 @@ def run():
             if item_stream == stream_key:
                 stream_items.append(item)
 
+        # Group same-author same-day posts (X auto, others per config)
+        stream_items = group_by_author_day(stream_items, author_ids=group_author_ids)
+
         feed_url = f"{base_url}/{stream_cfg['file']}"
         stream_feed_config = {
             "title": stream_cfg.get("title", feed_config.get("title", "")),
@@ -246,7 +254,7 @@ def run():
         "link": feed_config.get("link", ""),
         "language": feed_config.get("language", "zh-CN"),
     }
-    generate_feed(all_config, recent_items[:max_items], digest, all_feed_url, filename="feed.xml")
+    generate_feed(all_config, group_by_author_day(recent_items, author_ids=group_author_ids)[:max_items], digest, all_feed_url, filename="feed.xml")
     logger.info(f"Feed [combined] written for backward compatibility")
 
     # 7. Write heartbeat for local runner

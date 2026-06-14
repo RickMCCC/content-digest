@@ -55,6 +55,7 @@ subscriptions:
     - id: "505063095"
       name: "Mr-Pot"                      # don't panic
       stream: "life"
+      group_daily: true                    # 当天多条合并为一条
     - id: "3493137815177378"
       name: "全员i人字幕组"                 # LE SSERAFIM专属字幕组，禁止使用本组译制视频引战
       stream: "life"
@@ -96,7 +97,7 @@ subscriptions:
       stream: "life"
 
   xiaohongshu:
-    - id: "5fa5d94400000000010001a0"
+    - id: "5bf7d30643e93c0001a852b8"
       name: "jz"                           # 一个能力很小欲望很大的普通人
       stream: "life"
 

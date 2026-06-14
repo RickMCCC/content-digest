@@ -1,4 +1,5 @@
 """RSS Feed 生成器 —— Jinja2 → RSS 2.0 XML"""
+import hashlib
 import logging
 from pathlib import Path
 from datetime import datetime, timezone, timedelta
@@ -30,7 +31,7 @@ def _to_rss_date(iso_str: str) -> str:
 
 def _build_item(item: dict) -> dict:
     """Build a single RSS item dict from a DB row or digest."""
-    platform_names = {"bilibili": "B站", "xiaohongshu": "小红书", "zhihu": "知乎"}
+    platform_names = {"bilibili": "B站", "xiaohongshu": "小红书", "zhihu": "知乎", "x": "X"}
 
     if "content_html" in item:
         # This is a digest entry
@@ -42,6 +43,21 @@ def _build_item(item: dict) -> dict:
             "description": item["content_html"],
             "author": "AI Digest Bot",
             "platform": "AI日报",
+        }
+
+    if item.get("_grouped"):
+        # Pre-built grouped item (same-author same-day merge)
+        p_name = platform_names.get(item["platform"], item["platform"])
+        date_str = item["published_at"][:10]
+        count = item.get("_group_count", 0)
+        return {
+            "title": f"[{p_name}] {item['author_name']} ({date_str}): {count} posts",
+            "link": item["url"],
+            "guid": f"{item['platform']}-{item['content_id']}",
+            "pub_date": _to_rss_date(item["published_at"]),
+            "description": item.get("_group_html", ""),
+            "author": item["author_name"],
+            "platform": p_name,
         }
 
     # Regular content entry
@@ -60,6 +76,86 @@ def _build_item(item: dict) -> dict:
         "author": item["author_name"],
         "platform": p_name,
     }
+
+
+def group_by_author_day(items: list[dict], platforms: set = None, author_ids: set = None) -> list[dict]:
+    """Group same-author same-day items for high-volume platforms.
+
+    Items whose platform is in *platforms* (or whose (platform, author_id)
+    is in *author_ids*) are grouped by (platform, author_id, published_at date).
+    Groups of 2+ are merged into a single item with a bullet-point link list.
+    Single items and non-target items pass through unchanged.
+    """
+    if platforms is None:
+        platforms = {"x"}
+    if author_ids is None:
+        author_ids = set()
+
+    # Partition: items to group vs pass-through
+    to_group = []
+    pass_through = []
+    for item in items:
+        pid = item.get("platform", "")
+        aid = item.get("author_id", "")
+        if pid in platforms or (pid, aid) in author_ids:
+            to_group.append(item)
+        else:
+            pass_through.append(item)
+
+    if not to_group:
+        return items
+
+    # Group by (platform, author_id, "YYYY-MM-DD")
+    groups = {}  # (platform, author_id, date) -> list of items
+    for item in to_group:
+        date_str = item["published_at"][:10]
+        key = (item["platform"], item["author_id"], date_str)
+        groups.setdefault(key, []).append(item)
+
+    # Build merged result
+    result = list(pass_through)
+    for (platform, author_id, date_str), group_items in groups.items():
+        if len(group_items) == 1:
+            result.append(group_items[0])
+        else:
+            group_items.sort(key=lambda x: x["published_at"], reverse=True)
+            latest = group_items[0]
+            author_name = latest["author_name"]
+            post_count = len(group_items)
+
+            # Build bullet-list HTML
+            li_items = []
+            for it in group_items:
+                li_items.append(
+                    f'<li><a href="{it["url"]}">{it["title"]}</a></li>'
+                )
+            group_html = "<ul>\n" + "\n".join(li_items) + "\n</ul>"
+
+            # Deterministic content_id for stable RSS GUID
+            cid = (
+                "grouped-"
+                + date_str
+                + "-"
+                + hashlib.md5(author_id.encode()).hexdigest()[:8]
+            )
+
+            result.append({
+                "platform": platform,
+                "author_id": author_id,
+                "author_name": author_name,
+                "content_id": cid,
+                "title": latest["title"],
+                "url": latest["url"],
+                "summary": latest.get("summary", ""),
+                "published_at": latest["published_at"],
+                "_grouped": True,
+                "_group_html": group_html,
+                "_group_count": post_count,
+            })
+
+    # Sort final list by published_at DESC
+    result.sort(key=lambda x: x["published_at"], reverse=True)
+    return result
 
 
 def generate_feed(config: dict, recent_items: list[dict], digest: dict | None = None, feed_url: str = "", filename: str = "feed.xml") -> Path:
