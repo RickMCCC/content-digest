@@ -5,37 +5,52 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 14 Jun 2026 16:25:10 GMT</lastBuildDate>
-    <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sun, 14 Jun 2026 22:44:52 GMT</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 06月14日 16:25 UTC]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 06月14日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
         <guid isPermaLink="false">digest-2026-06-14</guid>
-        <pubDate>Sun, 14 Jun 2026 16:25:10 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ☁️ GitHub Actions (手动触发)</p><p><b>📡 技术资讯流 (tech):</b> 107 items</p><p><b>🎮 生活分享流 (life):</b> 33 items</p><p><b>🆕 本次新增:</b> 1 items</p><p><b>📦 数据库总量:</b> 790 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 手动触发</p>]]></description>
+        <pubDate>Sun, 14 Jun 2026 22:44:52 GMT</pubDate>
+        <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[[X] Ethan Mollick：Two days later and the situation is still confusing.]]></title>
-        <link>https://nitter.net/emollick/status/2066191508579975482#m</link>
-        <guid isPermaLink="false">x-a9b45d7b92c8d4f4</guid>
-        <pubDate>Sun, 14 Jun 2026 16:10:18 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：X</p>
-<p>✍️ 作者：Ethan Mollick</p>
-<p>Two days later and the situation is still confusing.
-
-
-Ethan Mollick (@emollick)
-
-Well, this situation is confusing.
-
-
-
-— https://nitter.net/emollick/status/2065611047248019848#m</p><p><a href="https://nitter.net/emollick/status/2066191508579975482#m">查看原文 →</a></p>]]></description>
+        <title><![CDATA[📊 运行日志 | 06月14日 22:44 UTC]]></title>
+        <link>https://github.com/RickMCCC/content-digest</link>
+        <guid isPermaLink="false">digest-2026-06-14</guid>
+        <pubDate>Sun, 14 Jun 2026 22:44:52 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 108 items</p><p><b>🎮 生活分享流 (life):</b> 30 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 797 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <author><![CDATA[AI Digest Bot]]></author>
+        <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[X] Ethan Mollick (2026-06-15): 2 posts]]></title>
+        <link>https://nitter.net/emollick/status/2066250548790083851#m</link>
+        <guid isPermaLink="false">x-grouped-2026-06-15-c43d5de7</guid>
+        <pubDate>Sun, 14 Jun 2026 20:04:54 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://nitter.net/emollick/status/2066250548790083851#m">We don’t honestly know the best approaches to rebuilding companies around AI agents, especially in ways that expand competitive advantage & augment existing human capabilities. Practical agents are merely months old. Experimentation (and productive failures) will be required.</a></li>
+<li><a href="https://nitter.net/emollick/status/2066191508579975482#m">Two days later and the situation is still confusing.</a></li>
+</ul>]]></description>
         <author><![CDATA[Ethan Mollick]]></author>
+        <category>X</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[X] Francois Chollet (2026-06-15): 2 posts]]></title>
+        <link>https://nitter.net/fchollet/status/2066233044235669765#m</link>
+        <guid isPermaLink="false">x-grouped-2026-06-15-68d795dd</guid>
+        <pubDate>Sun, 14 Jun 2026 18:55:21 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://nitter.net/fchollet/status/2066233044235669765#m">R to @fchollet: If your company owned "software for X", chances are it will own "AI for X" as well, since it has the domain expertise and human capital to turn AI into domain specific value.</a></li>
+<li><a href="https://nitter.net/fchollet/status/2066232539820208212#m">Near-term AI isn't fundamentally different from past tech waves. It's the newest form of digital leverage. It's a force multiplier, and force without direction is just noise. It still requires a human in the loop at every level in order to be useful.</a></li>
+</ul>]]></description>
+        <author><![CDATA[Francois Chollet]]></author>
         <category>X</category>
     </item>
     
@@ -168,6 +183,36 @@ Every Space is different, </p><p><a href="https://nitter.net/jingzi_zhao_x/statu
 </ul>]]></description>
         <author><![CDATA[Mr-Pot]]></author>
         <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[X] Yann LeCun (2026-06-14): 2 posts]]></title>
+        <link>https://nitter.net/Dan_Jeffries1/status/2066067016822165971#m</link>
+        <guid isPermaLink="false">x-grouped-2026-06-14-95e96799</guid>
+        <pubDate>Sun, 14 Jun 2026 07:55:37 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://nitter.net/Dan_Jeffries1/status/2066067016822165971#m">RT by @ylecun: This ugly reality is staring us right in the face:
+
+Americans will have walled AI gardens where we beg for access from a few East India companies, open source will get banned on national security grounds, and 6 billion people who aren't American, aka the rest of the world, will standardized on a Chinese AI stack.
+
+Bloated. Broken. Slow. Ugly.
+
+There's still time to change it but it's slipping through our fingers like fast running sand.
+
+Read this passage below from Bill Gurley because it's about to become our hideous reality if we don't change course quickly. 
+
+"If a credible Western open frontier player does not emerge, the consequences cascade quickly.
+
+This is the inverse of the early Internet wave. In the 2000s and 2010s, Western companies — Google, Facebook, Amazon, Apple, Microsoft — dominated globally while China carved out its own walled garden. The AI version flips that dynamic on its head. Without a credible Western open frontier player, the only open models capable of running entire economies are made in China. If U.S. policy further restricts Chinese open-weight access on national-security grounds, the U.S. ends up with two or three closed Cathedrals serving the U.S. market — and the rest of the world picks the AI stack that is free, capable, self-hostable, and not embargoed. Europe, Africa, Southeast Asia, Latin America, India, the Middle East. Roughly six billion people. Chinese open models become the global default by 2030, and the United States ends up technologically isolated from the majority of the world’s AI users. We would have done it to ourselves."
+
+Fully essay in replies.</a></li>
+<li><a href="https://nitter.net/mark_k/status/2065838368865259892#m">RT by @ylecun: Yann LeCun (LeBased) weighs in on the 
+@AnthropicAI debacle. I have to say I agree with 100% with Yann here.
+
+"One reaps what one sows." 👏</a></li>
+</ul>]]></description>
+        <author><![CDATA[Yann LeCun]]></author>
+        <category>X</category>
     </item>
     
     <item>
@@ -1651,6 +1696,22 @@ LatentMoE was probably inspired by MLA, which was inspired by LoRA, which was in
     </item>
     
     <item>
+        <title><![CDATA[[X] Ethan Mollick：Fable: "create a visually interesting shader that can run in twigl-dot-app make it like an infinite city of neo-gothic towers partially drowned in a stormy ocean with large waves." "Make it better"
+
+All of this is procedurally generated.]]></title>
+        <link>https://nitter.net/emollick/status/2064424775527624736#m</link>
+        <guid isPermaLink="false">x-bb33c79c5ba1ac50</guid>
+        <pubDate>Tue, 09 Jun 2026 19:09:56 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：X</p>
+<p>✍️ 作者：Ethan Mollick</p>
+<p>Fable: "create a visually interesting shader that can run in twigl-dot-app make it like an infinite city of neo-gothic towers partially drowned in a stormy ocean with large waves." "Make it better"
+
+A</p><p><a href="https://nitter.net/emollick/status/2064424775527624736#m">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Ethan Mollick]]></author>
+        <category>X</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[X] Demis Hassabis：RT by @demishassabis: In @GoogleAIStudio we are now making more than 1,200,000 apps a week (and growing) with more than 18,000,000 created since late February 🤯
 
 The progress continues!!!]]></title>
@@ -2336,72 +2397,6 @@ I have a new kind of big button that I can press for Codex. Over the next 100 da
 <p>✍️ 作者：罗翔说刑法</p>
 <p><a href="https://www.bilibili.com/video/BV1rLEh6MEmb">查看原文 →</a></p>]]></description>
         <author><![CDATA[罗翔说刑法]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 学院派Academia：【科技社会学】电车的续航焦虑，是作为现代英雄的「驾驶员主体」的葬礼]]></title>
-        <link>https://www.bilibili.com/video/BV1ipEb6REXR</link>
-        <guid isPermaLink="false">bilibili-116708622734860</guid>
-        <pubDate>Sun, 07 Jun 2026 11:39:04 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：学院派Academia</p>
-<p>为什么男人那么喜欢车？为什么大家嘴上夸电车省钱，心里却怀念油车？究其原因，你买的不只是交通工具，更是那份无需看任何人脸色，使钢铁躯壳听命于自己的“掌控感”，是“绝对自由”的幻觉。但这种幻觉早已在堵车和996中开始崩塌。使我们陷入续航焦虑的，根本不是随时抛锚的风险，而是「驾驶员主体」的死去。本期将从社会学角度分析：为什么电车的续航焦虑，是作为现代英雄的驾驶员主体的葬礼？</p><p><a href="https://www.bilibili.com/video/BV1ipEb6REXR">查看原文 →</a></p>]]></description>
-        <author><![CDATA[学院派Academia]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 马督工：【睡前消息1063】大学关门办学，纯属钱多了烧的]]></title>
-        <link>https://www.bilibili.com/video/BV1smEb6BE5Z</link>
-        <guid isPermaLink="false">bilibili-116708354298935</guid>
-        <pubDate>Sun, 07 Jun 2026 10:44:14 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：马督工</p>
-<p>1 讨论大学是否应该封闭管理。2 地铁外包工作诈骗案。</p><p><a href="https://www.bilibili.com/video/BV1smEb6BE5Z">查看原文 →</a></p>]]></description>
-        <author><![CDATA[马督工]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：【英文原声】【全球好书】《路西法效应》精读]]></title>
-        <link>https://www.bilibili.com/video/BV1QhEb6JEGb</link>
-        <guid isPermaLink="false">bilibili-116708337584879</guid>
-        <pubDate>Sun, 07 Jun 2026 10:29:21 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>菲利普·津巴多通过1971年斯坦福监狱实验，系统论证了情境与系统力量如何凌驾于个人意志之上，使正常人做出违背本性的行为。书中结合阿布格莱布监狱虐囚事件、米尔格伦服从实验及破窗理论，深入剖析群体情境、权威服从与责任分散对人类决策的扭曲机制，并探讨如何在系统压力下维持个体判断力。</p><p><a href="https://www.bilibili.com/video/BV1QhEb6JEGb">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：【全球好书】《路西法效应》精读]]></title>
-        <link>https://www.bilibili.com/video/BV1QhEb6JEBe</link>
-        <guid isPermaLink="false">bilibili-116708337583928</guid>
-        <pubDate>Sun, 07 Jun 2026 10:26:14 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>菲利普·津巴多通过1971年斯坦福监狱实验，系统论证了情境与系统力量如何凌驾于个人意志之上，使正常人做出违背本性的行为。书中结合阿布格莱布监狱虐囚事件、米尔格伦服从实验及破窗理论，深入剖析群体情境、权威服从与责任分散对人类决策的扭曲机制，并探讨如何在系统压力下维持个体判断力。</p><p><a href="https://www.bilibili.com/video/BV1QhEb6JEBe">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot：【中英字幕】CNBC研报：AI支出雪崩，企业开始“分任务选模型”，OpenAI/Anthropic的高溢价还能撑多久？]]></title>
-        <link>https://www.bilibili.com/video/BV1zNEs6DEfe</link>
-        <guid isPermaLink="false">bilibili-116706877901440</guid>
-        <pubDate>Sun, 07 Jun 2026 09:56:19 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Mr-Pot</p>
-<p>本期视频标题：
-AI支出雪崩：企业开始“分任务选模型”，OpenAI/Anthropic的高溢价还能撑多久？
-
-本期视频要点：
-1、OpenRouter 6个月业务量翻5倍，标志着“一个模型包打天下”时代的终结；模型路由（Model Routing）成为主流。
-2、Cognition发布“AI生产力保证”：客户若未获得预期ROI，公司最高赔付1000万美元，倒逼行业转向可衡量价值交付。
-3、思科内</p><p><a href="https://www.bilibili.com/video/BV1zNEs6DEfe">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
         <category>B站</category>
     </item>
     
