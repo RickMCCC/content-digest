@@ -101,6 +101,9 @@ subscriptions:
     - id: "22609783"
       name: "元儿Yuanr"                  # 舞蹈区UP主
       stream: "life"
+    - id: "46405906"
+      name: "阿周的Eureka"                 
+      stream: "life"
 
   xiaohongshu:
     - id: "5bf7d30643e93c0001a852b8"
