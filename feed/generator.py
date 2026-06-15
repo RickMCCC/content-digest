@@ -158,6 +158,94 @@ def group_by_author_day(items: list[dict], platforms: set = None, author_ids: se
     return result
 
 
+def group_by_category(items: list[dict], category_map: dict) -> list[dict]:
+    """Merge same-category same-day items across authors into one feed item.
+
+    Items whose (platform, author_id) is in *category_map* are grouped
+    by (category_name, date). Single items pass through unchanged.
+    Items already grouped by author (have _group_html) are merged per-author.
+    """
+    if not category_map:
+        return items
+
+    # Partition: items to group vs pass-through
+    to_group = []
+    pass_through = []
+    for item in items:
+        key = (item.get("platform", ""), item.get("author_id", ""))
+        if key in category_map:
+            to_group.append(item)
+        else:
+            pass_through.append(item)
+
+    if not to_group:
+        return items
+
+    # Group by (category_name, date)
+    groups = {}  # (category, date) -> list of items
+    for item in to_group:
+        date_str = item["published_at"][:10]
+        cat = category_map[(item["platform"], item["author_id"])]
+        key = (cat, date_str)
+        groups.setdefault(key, []).append(item)
+
+    # Build merged result
+    result = list(pass_through)
+    for (cat, date_str), group_items in groups.items():
+        if len(group_items) == 1:
+            result.append(group_items[0])
+            continue
+
+        group_items.sort(key=lambda x: x["published_at"], reverse=True)
+        latest = group_items[0]
+        author_count = len(group_items)
+        total_posts = sum(it.get("_group_count", 1) for it in group_items)
+
+        # Build per-author sections
+        author_sections = []
+        for it in group_items:
+            author = it["author_name"]
+            if it.get("_grouped"):
+                # Already grouped by author — reuse its HTML
+                author_sections.append(
+                    f"<h5>{author} · {it['_group_count']}条</h5>\n{it['_group_html']}"
+                )
+            else:
+                author_sections.append(
+                    f"<h5>{author}</h5>\n"
+                    f'<ul><li><a href="{it["url"]}">{it["title"]}</a></li></ul>'
+                )
+
+        group_html = (
+            f"<h4>{cat} · {author_count}位作者 · {total_posts}条</h4>\n"
+            + "\n".join(author_sections)
+        )
+
+        cid = (
+            "cat-"
+            + hashlib.md5(cat.encode()).hexdigest()[:8]
+            + "-"
+            + date_str
+        )
+
+        result.append({
+            "platform": latest["platform"],
+            "author_id": hashlib.md5(cat.encode()).hexdigest()[:12],
+            "author_name": cat,
+            "content_id": cid,
+            "title": f"[X] {cat} ({date_str}): {author_count}位作者, {total_posts}条",
+            "url": latest["url"],
+            "summary": "",
+            "published_at": latest["published_at"],
+            "_grouped": True,
+            "_group_html": group_html,
+            "_group_count": total_posts,
+        })
+
+    result.sort(key=lambda x: x["published_at"], reverse=True)
+    return result
+
+
 def generate_feed(config: dict, recent_items: list[dict], digest: dict | None = None, feed_url: str = "", filename: str = "feed.xml") -> Path:
     """Generate feed.xml from items and optional digest."""
     env = Environment(loader=FileSystemLoader(str(FEED_DIR)))

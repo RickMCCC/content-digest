@@ -1,43 +1,358 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-    <title>技术资讯流</title>
+    <title>技术资讯信息</title>
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 14 Jun 2026 22:44:52 GMT</lastBuildDate>
-    <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Mon, 15 Jun 2026 10:29:23 GMT</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 06月14日]]></title>
+        <title><![CDATA[📊 运行日志 | 06月15日 10:29 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-06-14</guid>
-        <pubDate>Sun, 14 Jun 2026 22:44:52 GMT</pubDate>
-        <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
+        <guid isPermaLink="false">digest-2026-06-15</guid>
+        <pubDate>Mon, 15 Jun 2026 10:29:23 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ☁️ GitHub Actions (手动触发)</p><p><b>📡 技术资讯流 (tech):</b> 55 items</p><p><b>🎮 生活分享流 (life):</b> 31 items</p><p><b>🆕 本次新增:</b> 20 items</p><p><b>📦 数据库总量:</b> 817 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 手动触发</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 06月14日 22:44 UTC]]></title>
-        <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-06-14</guid>
-        <pubDate>Sun, 14 Jun 2026 22:44:52 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 108 items</p><p><b>🎮 生活分享流 (life):</b> 30 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 797 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
-        <author><![CDATA[AI Digest Bot]]></author>
-        <category>AI日报</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Ethan Mollick (2026-06-15): 2 posts]]></title>
-        <link>https://nitter.net/emollick/status/2066250548790083851#m</link>
-        <guid isPermaLink="false">x-grouped-2026-06-15-c43d5de7</guid>
-        <pubDate>Sun, 14 Jun 2026 20:04:54 GMT</pubDate>
+        <title><![CDATA[[B站] 华尔街播客 (2026-06-15): 6 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1KrJG6aEEy</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-06-15-d13e0e33</guid>
+        <pubDate>Mon, 15 Jun 2026 10:21:01 GMT</pubDate>
         <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1KrJG6aEEy">高盛观望中国市场，宏观转暖，板块却分化</a></li>
+<li><a href="https://www.bilibili.com/video/BV1KrJG6aENK">高盛观望中国市场，宏观转暖，板块却分化</a></li>
+<li><a href="https://www.bilibili.com/video/BV1UjJV6qEps">【英文原声】摩根看好宁德时代，龙头集中度持续提升中</a></li>
+<li><a href="https://www.bilibili.com/video/BV1UjJV6qEKc">摩根看好宁德时代，龙头集中度持续提升中</a></li>
+<li><a href="https://www.bilibili.com/video/BV1mJJV6vEpn">【英文原声】野村观望半导体封装，先进封装竞争生变局</a></li>
+<li><a href="https://www.bilibili.com/video/BV12JJV6vEsF">野村观望半导体封装，先进封装竞争生变局</a></li>
+</ul>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[X] Ethan Mollick (2026-06-15): 6 posts]]></title>
+        <link>https://nitter.net/emollick/status/2066377646481547324#m</link>
+        <guid isPermaLink="false">x-grouped-2026-06-15-c43d5de7</guid>
+        <pubDate>Mon, 15 Jun 2026 04:29:57 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://nitter.net/emollick/status/2066377646481547324#m">R to @emollick: Github (uploaded by Claude 4.8 Opus, which also added a text size slider, I didn't let Opus touch the somewhat odd prose that was typical of Fable 5): https://github.com/emollick/superluminal</a></li>
+<li><a href="https://nitter.net/emollick/status/2066303566449418739#m">This is a good methodological thread on the debate over a new paper that suggests generalist models beat specialized medical AIs. (And a good overview of the challenges of benchmarking AIs in medicine)</a></li>
+<li><a href="https://nitter.net/emollick/status/2066301578194166046#m">This (from a Google Deepmind researcher) is super interesting, when one AI model is used to help train the next one, the new model can pick up strange habits from the old model & it is hard to filter them
+
+That may help explain why models from the same family can feel so similar</a></li>
+<li><a href="https://nitter.net/emollick/status/2066276656092692935#m">A plus of Fable being down is the number of times the word “toast” appears in Claude Code has dropped dramatically.
+
+That model loved/loves software development and UX jargon more than any other model I have used.</a></li>
 <li><a href="https://nitter.net/emollick/status/2066250548790083851#m">We don’t honestly know the best approaches to rebuilding companies around AI agents, especially in ways that expand competitive advantage & augment existing human capabilities. Practical agents are merely months old. Experimentation (and productive failures) will be required.</a></li>
 <li><a href="https://nitter.net/emollick/status/2066191508579975482#m">Two days later and the situation is still confusing.</a></li>
 </ul>]]></description>
         <author><![CDATA[Ethan Mollick]]></author>
+        <category>X</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[X] Dwarkesh Patel：RT by @dwarkesh_sp: Seeing some ppl interpreting the Fable shutdown as positive news on govt intervention
+
+But i don't think we'll execute a pause well*, or use the pause effectively, if the govt has NO idea how ai tech works and just wades in arbitrarily without consulting experts
+
+it's def evidence for "govt might do lots of random extreme stuff" -- and that's prob good if you're p(doom) is v high and you want to fuck shit up and shake up the game board. but still, if you think alignment is v hard then ultimately we need sane ppl in charge to handle it
+
+*executing a pause well is hard! You need to figure out effective verification, strike a deal with China, avoid  extreme power concentration, catch rogue projects, maintain safety standards even as many unsafe projects catch up to the frontier]]></title>
+        <link>https://nitter.net/TomDavidsonX/status/2066273525246443629#m</link>
+        <guid isPermaLink="false">x-8e6db7f8b304e8b4</guid>
+        <pubDate>Sun, 14 Jun 2026 21:36:12 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：X</p>
+<p>✍️ 作者：Dwarkesh Patel</p>
+<p>Seeing some ppl interpreting the Fable shutdown as positive news on govt intervention
+
+But i don't think we'll execute a pause well*, or use the pause effectively, if the govt has NO idea how ai tech </p><p><a href="https://nitter.net/TomDavidsonX/status/2066273525246443629#m">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Dwarkesh Patel]]></author>
+        <category>X</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[X] AK (论文速递)：RT by @_akhaliq: This is what open AI acceleration looks like
+
+From DeepSeek v3.2 all the way to @MiniMax_AI M3
+
+See https://paperswithcode.co/benchmark/claw-eval]]></title>
+        <link>https://nitter.net/NielsRogge/status/2066251594073530552#m</link>
+        <guid isPermaLink="false">x-7d989a8add5ec9aa</guid>
+        <pubDate>Sun, 14 Jun 2026 20:09:03 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：X</p>
+<p>✍️ 作者：AK (论文速递)</p>
+<p>This is what open AI acceleration looks like
+
+From DeepSeek v3.2 all the way to @MiniMax_AI M3
+
+See paperswithcode.co/benchmark/…</p><p><a href="https://nitter.net/NielsRogge/status/2066251594073530552#m">查看原文 →</a></p>]]></description>
+        <author><![CDATA[AK (论文速递)]]></author>
+        <category>X</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[X] Clem (HF CEO)：RT by @ClementDelangue: 🖥️ Best Local LLMs for Consumer GPUs — llama.cpp Guide (June 2026)
+
+What I actually run on consumer hardware right now. Every model below runs via llama.cpp with a simple one-liner — no Docker, no Python env, no cloud.
+
+━━━ 8-16GB VRAM ━━━
+
+🔹 Gemma 4-12B (Google)
+• Smartest model in this size class — competes with stuff 2× bigger
+• Unsloth's MTP GGUFs: 162 tok/s vs 52 tok/s normal (3× speedup)
+• Minimum 8GB VRAM recommended for Q4_K_M quant
+• GGUF → http://huggingface.co/unsloth/gemma-4-12b-it-GGUF
+
+🔹 LFM2.5-8B-A1B (LiquidAI)
+• Hybrid MoE, only 1B active params — absurdly fast for its size
+• Perfect for 8-12GB cards, MacBooks, or anyone on a tight budget
+• GGUF → http://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF
+
+━━━ 16-32GB VRAM ━━━
+
+🔹 Qwen3.6-27B (Qwen)
+• Scored 1.00 on tool-efficiency benchmarks — best local agent available
+• 40 deterministic tasks, 32k/128k context needle tests — all passed
+• GGUF → http://huggingface.co/unsloth/Qwen3.6-27B-GGUF
+• MTP version (faster) → http://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF
+
+🔹 Qwopus3.6-27B-v2 (Jackrong)
+• Best quantization of Qwen3.6-27B — topped 5 agent & coding benchmarks (1200 samples)
+• If you're running Q4, this is the one to grab
+• GGUF → http://huggingface.co/Jackrong/Qwopus3.6-27B-v2-GGUF
+• MTP version → http://huggingface.co/Jackrong/Qwopus3.6-27B-v2-MTP-GGUF
+
+🔹 Gemma 4-31B QAT (Google/Unsloth)
+• QAT variant with MTP draft head: 76-125 tok/s (1.67× speedup)
+• Excellent for multi-agent / subagent workflows
+• GGUF → http://huggingface.co/unsloth/gemma-4-31B-it-qat-GGUF
+
+🔹 Nex-N2-Mini (Nex AGI)
+• Post-train of Qwen3.5-35B-A3B — MoE with only 3B active params
+• Fits on 16GB+ VRAM, overflow loads from system RAM
+• Adaptive thinking saves ~20% tokens with no quality loss
+• For deep multi-step reasoning, nothing in this size comes close
+• GGUF → http://huggingface.co/sjakek/Nex-N2-mini-GGUF
+
+━━━ Quick Picks ━━━
+
+• 16GB all-rounder → Gemma 4-12B with MTP GGUFs
+• 32GB all-rounder → Qwen3.6-27B / Qwopus-v2
+• Agents & tool use → Qwen3.6-27B or Qwopus Q4
+• Deep reasoning → Nex-N2-Mini (MoE, fits 16GB+)
+• Tight budget → LFM2.5-8B-A1B
+• Cheapest full build: 1× used RTX 3090 (24GB) + rest of PC ≈ $1000-1500
+
+━━━ Setup on Windows ━━━
+
+1. Download llama.cpp → http://github.com/ggml-org/llama.cpp/releases (latest .zip)
+2. Extract to any folder (e.g. C:\llama.cpp)
+3. Download a .gguf from the links above (Q4_K_M or Q5_K_M for best quality/speed balance)
+4. Run one of the commands below depending on your hardware
+
+━━━ Launch Commands ━━━
+
+SINGLE GPU — Standard model (no MTP):
+
+llama-server.exe ^
+  -m C:\models\Qwen3.6-27B-Q5_K_M.gguf ^
+  --ctx-size 180000 ^
+  --flash-attn on ^
+  --cache-type-k q4_0 ^
+  --cache-type-v q4_0 ^
+  --batch-size 1024 --ubatch-size 512 ^
+  -ngl 100 ^
+  -np 1 ^
+  --port 8080 ^
+  --jinja
+
+SINGLE GPU — MTP model (faster inference):
+
+llama-server.exe ^
+  -m C:\models\Qwen3.6-27B-MTP-Q5_K_M.gguf ^
+  --ctx-size 180000 ^
+  --flash-attn on ^
+  --cache-type-k q4_0 ^
+  --cache-type-v q4_0 ^
+  --batch-size 1024 --ubatch-size 512 ^
+  --spec-type draft-mtp ^
+  --spec-draft-n-max 3 ^
+  -ngl 100 ^
+  -np 1 ^
+  --port 8080 ^
+  --jinja
+
+DUAL GPU — Split across two cards:
+
+llama-server.exe ^
+  -m C:\models\Qwen3.6-27B-Q5_K_M.gguf ^
+  --ctx-size 180000 ^
+  --flash-attn on ^
+  --cache-type-k q4_0 ^
+  --cache-type-v q4_0 ^
+  --batch-size 1024 --ubatch-size 512 ^
+  -ngl 100 ^
+  --tensor-split 0.55,0.45 ^
+  --main-gpu 0 ^
+  -np 1 ^
+  --port 8080 ^
+  --jinja
+
+DUAL GPU + MTP + Vision (multimodal):
+
+llama-server.exe ^
+  -m C:\models\Qwen3.6-27B-MTP-Q5_K_M.gguf ^
+  --ctx-size 180000 ^
+  --flash-attn on ^
+  --cache-type-k q4_0 ^
+  --cache-type-v q4_0 ^
+  --batch-size 1024 --ubatch-size 512 ^
+  --spec-type draft-mtp ^
+  --spec-draft-n-max 3 ^
+  -ngl 100 ^
+  --tensor-split 0.60,0.40 ^
+  --main-gpu 0 ^
+  -np 1 ^
+  --port 8080 ^
+  --jinja ^
+  --mmproj C:\models\mmproj-F16.gguf
+
+━━━ Parameter Breakdown ━━━
+
+-m <path>
+  Path to your .gguf model file. Change this to wherever you downloaded it.
+
+--ctx-size 180000
+  Context window in tokens. 180k = huge context for long conversations or big codebases.
+  Reduce to 32768 or 65536 if you don't need long context — uses less VRAM.
+
+--flash-attn on
+  Flash Attention — dramatically speeds up inference and reduces VRAM usage.
+  Works on RTX 30xx/40xx/50xx. Always enable this.
+
+--cache-type-k q4_0 / --cache-type-v q4_0
+  Quantizes the KV cache (key/value attention cache) to 4-bit.
+  This is what makes 180k context fit in VRAM. Without it, huge contexts eat all your memory.
+  Quality impact is minimal — this is a free performance win.
+
+--batch-size 1024 / --ubatch-size 512
+  batch-size = how many tokens are processed in one forward pass (throughput).
+  ubatch-size = micro-batch actually sent to the GPU per step.
+  Higher = faster prompt processing but needs more VRAM.
+  If you run out of VRAM, lower these (e.g. 512/256).
+
+-ngl 100
+  Number of layers to offload to GPU. 100 = all layers on GPU (full offload).
+  This is what you want if the model fits in your VRAM.
+  If it doesn't fit, reduce this (e.g. -ngl 40) — remaining layers run on CPU/RAM.
+
+--tensor-split 0.55,0.45
+  How to split model layers across multiple GPUs. Values are ratios.
+  0.55,0.45 = GPU 0 gets 55% of layers, GPU 1 gets 45%.
+  Adjust based on your VRAM — give more to the card with more memory.
+  Example: 0.70,0.30 for a 24GB + 12GB setup.
+  Not needed for single GPU setups.
+
+--main-gpu 0
+  Which GPU handles the batch computation (the "orchestrator").
+  Set to 0 (your primary GPU). The other GPU(s) handle their assigned layers.
+  Minor performance impact — usually just leave it at 0.
+
+-np 1
+  Number of parallel slots (concurrent requests). 1 = one user at a time.
+  Increase to 2-4 if you want multiple clients connected simultaneously.
+  Each extra slot uses additional VRAM for its own KV cache.
+
+--port 8080
+  Which port the server listens on. Change if port 8080 is busy.
+
+--jinja
+  Enables Jinja2 template processing — required for proper chat formatting.
+  Most modern models expect this. Always include it.
+
+--spec-type draft-mtp
+  Enables Multi-Token Prediction (MTP) speculative decoding.
+  Only works with MTP GGUF models (downloaded separately).
+  The model predicts multiple tokens at once and verifies them — big speed boost.
+
+--spec-draft-n-max 3
+  How many tokens the MTP draft head proposes per step.
+  3 is a good default. Higher = potentially faster but more VRAM and may reduce quality.
+
+--mmproj <path>
+  Path to the multimodal projector file (for vision models).
+  Enables image understanding — paste screenshots into the web chat.
+  Only needed if you want vision capabilities. Omit for text-only use.
+
+━━━ Your Hardware → Your Command ━━━
+
+Single GPU (8-24GB VRAM):
+  Use the "Single GPU" command. Change -m to your model path.
+  8GB card → Gemma 4-12B Q4 or LFM2.5-8B
+  12GB card → Gemma 4-12B Q5/Q6
+  16GB card → Gemma 4-31B QAT Q4 or Nex-N2-Mini
+  24GB card → Qwen3.6-27B Q4/Q5, Qwopus-v2, Gemma 4-31B QAT Q5/Q6
+
+Dual GPU:
+  Use the "Dual GPU" command. Adjust --tensor-split based on your VRAM ratio.
+  24GB + 24GB → --tensor-split 0.50,0.50
+  24GB + 12GB → --tensor-split 0.70,0.30
+  24GB + 8GB → --tensor-split 0.75,0.25
+
+Want speed? Use MTP versions of models with the "MTP" commands.
+
+Want vision? Add --mmproj with the projector file from the model's HuggingFace repo.
+
+5. Once running, you get:
+   • Web chat UI → http://localhost:8080
+   • OpenAI-compatible API → http://localhost:8080/v1
+   • Playground → http://localhost:8080/playground
+
+━━━ Why /v1 API Is the Killer Feature ━━━
+
+One local endpoint replaces your entire cloud API bill. The /v1 endpoint is drop-in OpenAI-spec compatible — every tool that speaks OpenAI just works. No custom code, no glue layer.
+
+Works out of the box with:
+• IDEs: Cursor, Continue, Windsurf, Cline, Roo Code
+• CLI tools: aider, Open Interpreter, OpenCode
+• Frameworks: LangChain, LlamaIndex, LiteLLM
+• Any OpenAI SDK (Python, Node, Go, Rust)
+
+Why this beats cloud APIs:
+• 100% private — code never leaves your machine
+• $0 per token — no rate limits, no quotas, no surprise bills
+• Works fully offline
+• Zero telemetry, no training on your data
+• Swap models by dropping in a different .gguf — no app changes needed
+• Run 32k–128k context windows without burning money
+
+Good combos:
+• Cursor + Qwopus-v2 → near-frontier quality, zero API cost
+• Continue + Qwen3.6-27B → best local coding agent
+• aider + Gemma 4-12B MTP → 162 tok/s, feels instant
+• OpenCode + Nex-N2-Mini → deep reasoning on 16GB
+
+Set any OpenAI-compatible client to your local endpoint:
+   set OPENAI_API_KEY=sk-dummy   (any non-empty string works)
+   set OPENAI_BASE_URL=http://localhost:8080/v1
+   # every OpenAI-compatible tool now hits your local GPU
+
+Shoutouts: @0xSero @rS_alonewolf @witcheer @UnslothAI @LottoLabs]]></title>
+        <link>https://nitter.net/TraffAlex/status/2066236717015728227#m</link>
+        <guid isPermaLink="false">x-e917ed5d00e3e0b8</guid>
+        <pubDate>Sun, 14 Jun 2026 19:09:56 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：X</p>
+<p>✍️ 作者：Clem (HF CEO)</p>
+<p>🖥️ Best Local LLMs for Consumer GPUs — llama.cpp Guide (June 2026)
+
+What I actually run on consumer hardware right now. Every model below runs via llama.cpp with a simple one-liner — no Docker, no Pyt</p><p><a href="https://nitter.net/TraffAlex/status/2066236717015728227#m">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Clem (HF CEO)]]></author>
         <category>X</category>
     </item>
     
@@ -55,11 +370,13 @@
     </item>
     
     <item>
-        <title><![CDATA[[X] Ethan Mollick (2026-06-14): 5 posts]]></title>
+        <title><![CDATA[[X] AI教育实践 (2026-06-14): 7 posts]]></title>
         <link>https://nitter.net/emollick/status/2066162715031224664#m</link>
-        <guid isPermaLink="false">x-grouped-2026-06-14-c43d5de7</guid>
+        <guid isPermaLink="false">x-cat-919c55bf-2026-06-14</guid>
         <pubDate>Sun, 14 Jun 2026 14:15:53 GMT</pubDate>
-        <description><![CDATA[<ul>
+        <description><![CDATA[<h4>AI教育实践 · 2位作者 · 7条</h4>
+<h5>Ethan Mollick · 5条</h5>
+<ul>
 <li><a href="https://nitter.net/emollick/status/2066162715031224664#m">Final one-shot prompt I did before the Fable interruption: "build me a cool simulation thing that lets me demo the various forms of FTL travel from both famous works of fiction and scientific speculation. it should be graphically compelling & interesting." https://superluminal-ftl.netlify.app/</a></li>
 <li><a href="https://nitter.net/emollick/status/2065860129321300240#m">R to @emollick: In fact, areas that are not important in your organization could benefit even more from applying smarter models, since the organizational capabilities & human capital in those areas are weak, and good AI might be a cheap way to increase capacity!</a></li>
 <li><a href="https://nitter.net/emollick/status/2065858389322670201#m">I think the assumption that you should use smaller models for less important tasks is flawed (or at least deserves much more careful consideration). Big models are generally better at everything but cost, so it is worth considering whether gains in non-key tasks would be valuable</a></li>
@@ -67,21 +384,13 @@
 <li><a href="https://nitter.net/emollick/status/2065837438388326474#m">Has there been anything good written about the failure of Mistral to keep up with both the Big Three and Chinese labs?
 
 They have talent and national backing, but despite being Europe’s only frontier lab (Google Deepmind’s UK lab aside), they haven’t been able to close the gap</a></li>
-</ul>]]></description>
-        <author><![CDATA[Ethan Mollick]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Simon Willison (2026-06-14): 2 posts]]></title>
-        <link>https://nitter.net/simonw/status/2066147375119556735#m</link>
-        <guid isPermaLink="false">x-grouped-2026-06-14-f514c514</guid>
-        <pubDate>Sun, 14 Jun 2026 13:14:56 GMT</pubDate>
-        <description><![CDATA[<ul>
+</ul>
+<h5>Simon Willison · 2条</h5>
+<ul>
 <li><a href="https://nitter.net/simonw/status/2066147375119556735#m">I'm just glad nobody at the US government thought to try that Fable 5 "jailbreak" against Opus 4.x or GPT 5.x, or I wouldn't be getting anything useful done this weekend at all</a></li>
 <li><a href="https://nitter.net/simonw/status/2065949364187807818#m">It's now possible to compile Python extensions (C, C++, Rust etc) to WebAssembly and distribute them through PyPI such that Pyodide can install them directly https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/</a></li>
 </ul>]]></description>
-        <author><![CDATA[Simon Willison]]></author>
+        <author><![CDATA[AI教育实践]]></author>
         <category>X</category>
     </item>
     
@@ -140,6 +449,21 @@ Fully essay in replies.</a></li>
 </ul>]]></description>
         <author><![CDATA[Yann LeCun]]></author>
         <category>X</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客 (2026-06-14): 4 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1y1Jc6FE5h</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-06-14-d13e0e33</guid>
+        <pubDate>Sun, 14 Jun 2026 04:00:00 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1y1Jc6FE5h">【全球好书】《黑石的选择》精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1HSJc64EP6">【英文原声】【全球好书】《黑石的选择》精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1J9Jc6REew">【英文原声】高盛看衰中炬高新，调味品复苏与协同效应</a></li>
+<li><a href="https://www.bilibili.com/video/BV1EdJc6pE6f">高盛看衰中炬高新，调味品复苏与协同效应</a></li>
+</ul>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -277,11 +601,13 @@ More details below from Fable (or Opus?) themselves!</a></li>
     </item>
     
     <item>
-        <title><![CDATA[[X] Ethan Mollick (2026-06-13): 10 posts]]></title>
+        <title><![CDATA[[X] AI教育实践 (2026-06-13): 14 posts]]></title>
         <link>https://nitter.net/emollick/status/2065789870975352996#m</link>
-        <guid isPermaLink="false">x-grouped-2026-06-13-c43d5de7</guid>
+        <guid isPermaLink="false">x-cat-919c55bf-2026-06-13</guid>
         <pubDate>Sat, 13 Jun 2026 13:34:20 GMT</pubDate>
-        <description><![CDATA[<ul>
+        <description><![CDATA[<h4>AI教育实践 · 3位作者 · 14条</h4>
+<h5>Ethan Mollick · 10条</h5>
+<ul>
 <li><a href="https://nitter.net/emollick/status/2065789870975352996#m">R to @emollick: And by regulatable amounts of compute, I mean training a Mythos class model uses enough power and chips that national governments will obviously notice. No ine is training a model of that size without permission</a></li>
 <li><a href="https://nitter.net/emollick/status/2065787920473055528#m">I don’t think this is going to result in more open weights models, as I wrote before the Anthropic news, if Mythos-level models are considered risky, China will also not want them to be open. And you can’t build a Mythos-class model without a very regulatable compute footprint</a></li>
 <li><a href="https://nitter.net/emollick/status/2065781497638826399#m">I wrote this a few months ago right after the Anthropic/DoW conflict & Citrini & Block: “But I think that single week is a good illustration of what the near future will feel like… as the stakes go up, it is likely things will feel even more unstable..” https://www.oneusefulthing.org/p/the-shape-of-the-thing</a></li>
@@ -292,8 +618,30 @@ More details below from Fable (or Opus?) themselves!</a></li>
 <li><a href="https://nitter.net/emollick/status/2065537691270213950#m">10 months later, I gave Claude Code with Fable the same brief, asking it to construct SimRefinery from surviving screenshots and documentation. Fully playable, with a learning mode & all sorts of sophistication. Look at the difference from the old version! https://simrefinery.netlify.app/</a></li>
 <li><a href="https://nitter.net/emollick/status/2065513498763800850#m">The shape of the graph is getting very familiar.</a></li>
 <li><a href="https://nitter.net/emollick/status/2065512265290219985#m">R to @emollick: Why this is a big deal.</a></li>
+</ul>
+<h5>Sebastian Raschka</h5>
+<ul><li><a href="https://nitter.net/rasbt/status/2065778965273354545#m">Cool new open-weight model by Cohere: a new lightweight 30B open-weight model for agentic coding tasks.
+
+This one builds on Command A+ using the parallel transformer design. Interestingly, even though it's almost half as big, it almost doubles the number of layers.
+
+Also, they say that it's been specifically developed for agentic coding, not just coding. I.e., the evaluation is inside a workflow, not just on a single prompt-to-code-answer task.
+
+For Terminal-Bench, the model has to use a terminal, inspect the environment, run commands, read outputs, etc.
+
+For SWE-Bench the model works on real GitHub-style software issues where it has to understand the repository, find relevant files, make a patch, pass tests, etc.
+
+SciCode and LiveCodeBench are more traditional because they mostly test whether the model can produce correct code for a specified problem. Sure, this still requires reasoning, but it's more like “Implement a numerical routine to compute a scientific quantity from given equations and inputs.” which doesn't require any interaction with the environment, existing files, tests, etc.
+
+The focus on the agentic code benchmarks is probably why it's far ahead of Gemma 4 on those.
+
+Overall, it's pretty competitive although not quite Qwen3.6-level performance.</a></li></ul>
+<h5>Simon Willison · 3条</h5>
+<ul>
+<li><a href="https://nitter.net/simonw/status/2065618703480414666#m">R to @simonw: I ran a script every minute against the API to see how long I'd maintain access to claude-fable-5 - I lost access 14 minutes ago:</a></li>
+<li><a href="https://nitter.net/simonw/status/2065601635137790440#m">🤯</a></li>
+<li><a href="https://nitter.net/simonw/status/2065586404630139080#m">I got fed up of waiting for OpenAI to bring their much improved gpt-realtime-2 voice conversation model to the ChatGPT product, so I upgraded my OpenAI-WebRTC playground tool to use it and to let you paste in a document to have a conversation about, too https://simonwillison.net/2026/Jun/12/openai-webrtc/</a></li>
 </ul>]]></description>
-        <author><![CDATA[Ethan Mollick]]></author>
+        <author><![CDATA[AI教育实践]]></author>
         <category>X</category>
     </item>
     
@@ -317,48 +665,6 @@ Practical One-shot Pruning Enabling Sparse and Dense GEMMs for LLM Inference</a>
 https://huggingface.co/kernels/MiniMaxAI/msa</a></li>
 </ul>]]></description>
         <author><![CDATA[AK (论文速递)]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Sebastian Raschka：Cool new open-weight model by Cohere: a new lightweight 30B open-weight model for agentic coding tasks.
-
-This one builds on Command A+ using the parallel transformer design. Interestingly, even though it's almost half as big, it almost doubles the number of layers.
-
-Also, they say that it's been specifically developed for agentic coding, not just coding. I.e., the evaluation is inside a workflow, not just on a single prompt-to-code-answer task.
-
-For Terminal-Bench, the model has to use a terminal, inspect the environment, run commands, read outputs, etc.
-
-For SWE-Bench the model works on real GitHub-style software issues where it has to understand the repository, find relevant files, make a patch, pass tests, etc.
-
-SciCode and LiveCodeBench are more traditional because they mostly test whether the model can produce correct code for a specified problem. Sure, this still requires reasoning, but it's more like “Implement a numerical routine to compute a scientific quantity from given equations and inputs.” which doesn't require any interaction with the environment, existing files, tests, etc.
-
-The focus on the agentic code benchmarks is probably why it's far ahead of Gemma 4 on those.
-
-Overall, it's pretty competitive although not quite Qwen3.6-level performance.]]></title>
-        <link>https://nitter.net/rasbt/status/2065778965273354545#m</link>
-        <guid isPermaLink="false">x-a58b9256d32b323a</guid>
-        <pubDate>Sat, 13 Jun 2026 12:51:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：X</p>
-<p>✍️ 作者：Sebastian Raschka</p>
-<p>Cool new open-weight model by Cohere: a new lightweight 30B open-weight model for agentic coding tasks.
-
-This one builds on Command A+ using the parallel transformer design. Interestingly, even though</p><p><a href="https://nitter.net/rasbt/status/2065778965273354545#m">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Sebastian Raschka]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Simon Willison (2026-06-13): 3 posts]]></title>
-        <link>https://nitter.net/simonw/status/2065618703480414666#m</link>
-        <guid isPermaLink="false">x-grouped-2026-06-13-f514c514</guid>
-        <pubDate>Sat, 13 Jun 2026 02:14:10 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://nitter.net/simonw/status/2065618703480414666#m">R to @simonw: I ran a script every minute against the API to see how long I'd maintain access to claude-fable-5 - I lost access 14 minutes ago:</a></li>
-<li><a href="https://nitter.net/simonw/status/2065601635137790440#m">🤯</a></li>
-<li><a href="https://nitter.net/simonw/status/2065586404630139080#m">I got fed up of waiting for OpenAI to bring their much improved gpt-realtime-2 voice conversation model to the ChatGPT product, so I upgraded my OpenAI-WebRTC playground tool to use it and to let you paste in a document to have a conversation about, too https://simonwillison.net/2026/Jun/12/openai-webrtc/</a></li>
-</ul>]]></description>
-        <author><![CDATA[Simon Willison]]></author>
         <category>X</category>
     </item>
     
@@ -411,11 +717,13 @@ And if imitation isn't really a kind of learning, then training LLMs to imitate 
     </item>
     
     <item>
-        <title><![CDATA[[X] 李飞飞 (2026-06-13): 2 posts]]></title>
+        <title><![CDATA[[X] AI研究核心 (2026-06-13): 3 posts]]></title>
         <link>https://nitter.net/jcjohnss/status/2065509836406600141#m</link>
-        <guid isPermaLink="false">x-grouped-2026-06-13-f8e011e3</guid>
+        <guid isPermaLink="false">x-cat-dbae213b-2026-06-13</guid>
         <pubDate>Fri, 12 Jun 2026 19:01:34 GMT</pubDate>
-        <description><![CDATA[<ul>
+        <description><![CDATA[<h4>AI研究核心 · 2位作者 · 3条</h4>
+<h5>李飞飞 · 2条</h5>
+<ul>
 <li><a href="https://nitter.net/jcjohnss/status/2065509836406600141#m">RT by @drfeifei: 3D is an exciting area where we are still figuring out the right tasks, problem formulations, architectures, and the best ways to scale.
 
 We're sharing some of our ideas here in our first-ever papers from @theworldlabs,  led by an awesome set of interns.</a></li>
@@ -424,37 +732,37 @@ We're sharing some of our ideas here in our first-ever papers from @theworldlabs
 These projects were led by our incredible interns @HaoZhang623 @BDuisterhof @DrTunnels
 
 [1/4]</a></li>
-</ul>]]></description>
-        <author><![CDATA[李飞飞]]></author>
+</ul>
+<h5>Andrej Karpathy</h5>
+<ul><li><a href="https://nitter.net/karpathy/status/2065490793092337691#m">In awe of SpaceX and its story - past, present and the future. You can think about it in 10+ different ways and continue re-blowing your mind in circles. Huge congrats to the team! 🚀</a></li></ul>]]></description>
+        <author><![CDATA[AI研究核心]]></author>
         <category>X</category>
     </item>
     
     <item>
-        <title><![CDATA[[X] Andrej Karpathy：In awe of SpaceX and its story - past, present and the future. You can think about it in 10+ different ways and continue re-blowing your mind in circles. Huge congrats to the team! 🚀]]></title>
-        <link>https://nitter.net/karpathy/status/2065490793092337691#m</link>
-        <guid isPermaLink="false">x-a9d85e30ae63549c</guid>
-        <pubDate>Fri, 12 Jun 2026 17:45:54 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：X</p>
-<p>✍️ 作者：Andrej Karpathy</p>
-<p>In awe of SpaceX and its story - past, present and the future. You can think about it in 10+ different ways and continue re-blowing your mind in circles. Huge congrats to the team! 🚀</p><p><a href="https://nitter.net/karpathy/status/2065490793092337691#m">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Andrej Karpathy]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Clem (HF CEO) (2026-06-12): 2 posts]]></title>
+        <title><![CDATA[[X] AI公司掌门 (2026-06-12): 4 posts]]></title>
         <link>https://nitter.net/AndreasPSteiner/status/2065460572414488842#m</link>
-        <guid isPermaLink="false">x-grouped-2026-06-12-55c94613</guid>
+        <guid isPermaLink="false">x-cat-cf9c101e-2026-06-12</guid>
         <pubDate>Fri, 12 Jun 2026 15:45:49 GMT</pubDate>
-        <description><![CDATA[<ul>
+        <description><![CDATA[<h4>AI公司掌门 · 3位作者 · 4条</h4>
+<h5>Clem (HF CEO) · 2条</h5>
+<ul>
 <li><a href="https://nitter.net/AndreasPSteiner/status/2065460572414488842#m">RT by @ClementDelangue: Released last week, and already more than 4M downloads on HuggingFace alone 😊
 
 This makes Gemma 4 12B the most popular encoderfree VLM by a large margin.
 
 In addition to being the first-ever general purpose LLM with encoderfree audio input!</a></li>
 <li><a href="https://nitter.net/victormustar/status/2065392511015596270#m">RT by @ClementDelangue: new frontier code open source model here 👀</a></li>
-</ul>]]></description>
-        <author><![CDATA[Clem (HF CEO)]]></author>
+</ul>
+<h5>Sam Altman</h5>
+<ul><li><a href="https://nitter.net/sama/status/2065160791205310565#m">really looking forward to working together!</a></li></ul>
+<h5>Demis Hassabis</h5>
+<ul><li><a href="https://nitter.net/arena/status/2065112147093545333#m">RT by @demishassabis: Exciting news: Gemini Omni Flash is now #1 in the Video Arena (both Text-to-Video and Image-to-Video)!
+
+For Text-to-Video this is a massive +158 pt improvement over Veo 3.1 (1080p) and a large +61 pt lead over the next best model, Seedance 2.0.
+
+Congrats @GoogleDeepMind for this huge milestone!</a></li></ul>]]></description>
+        <author><![CDATA[AI公司掌门]]></author>
         <category>X</category>
     </item>
     
@@ -510,11 +818,13 @@ Standardizing Cross-Paradigm Representation-Level Evaluation of Tabular Encoders
     </item>
     
     <item>
-        <title><![CDATA[[X] Ethan Mollick (2026-06-12): 5 posts]]></title>
+        <title><![CDATA[[X] AI教育实践 (2026-06-12): 9 posts]]></title>
         <link>https://nitter.net/emollick/status/2065444925483692192#m</link>
-        <guid isPermaLink="false">x-grouped-2026-06-12-c43d5de7</guid>
+        <guid isPermaLink="false">x-cat-919c55bf-2026-06-12</guid>
         <pubDate>Fri, 12 Jun 2026 14:43:39 GMT</pubDate>
-        <description><![CDATA[<ul>
+        <description><![CDATA[<h4>AI教育实践 · 2位作者 · 9条</h4>
+<h5>Ethan Mollick · 5条</h5>
+<ul>
 <li><a href="https://nitter.net/emollick/status/2065444925483692192#m">There has been a push to use OpenEvidence AI for doctors. But this paper suggests general models are much better: “Frontier LLMs outperformed clinical AI tools in all three evaluations. Clinical AI tools performed comparably to auto-enabled Google Search AI Overview on the RCQ.”</a></li>
 <li><a href="https://nitter.net/emollick/status/2065416737705582736#m">Not having access to native imagegen does hold Fable back somewhat. It is really good at making PNGs, etc, but there are lots of areas (including commercially valuable ones like presentations) where having the ability to have multimodal output would be helpful/token efficient.</a></li>
 <li><a href="https://nitter.net/emollick/status/2065407550611136935#m">Are there toolkits (or skillsets) being created specifically for AIs to use for building games? They default to 3js, reinvent how to make sprites from scratch each time, test technical issues but not gameplay loops, etc.
@@ -524,31 +834,35 @@ It would help to point AIs at some tools to focus them.</a></li>
 
 (Also this is a very bad interpretation of Cordwainer Smith, the underpeople felt more than humans! Its the whole reason for The Rediscovery of Man.)</a></li>
 <li><a href="https://nitter.net/emollick/status/2065254523673669787#m">R to @emollick: Out of curiosity, what do you think Cordwainer Smith would have thought of all of this?</a></li>
+</ul>
+<h5>Simon Willison · 4条</h5>
+<ul>
+<li><a href="https://nitter.net/simonw/status/2065218302578983407#m">R to @simonw: This right here is a pretty elegant solution to the problem of wanting to capture measurements from JavaScript in the system Safari without being able to directly access the DOM</a></li>
+<li><a href="https://nitter.net/simonw/status/2065216774992515342#m">After two days with Claude Fable 5 the best way I can describe it is "relentlessly proactive" - here's an example where I dropped in a screenshot of a bug and it span up custom CORS Python servers and used pyobjc-framework-Quartz to capture screenshots https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/</a></li>
+<li><a href="https://nitter.net/simonw/status/2065133346452361453#m">R to @simonw: Since the JSON extras API is a little hard to explain without an example I also had Fable 5 and GPT-5.5 collaborate on this custom API explorer tool for trying out the new feature https://tools.simonwillison.net/datasette-extras-explorer#url=https%3A%2F%2Flatest.datasette.io%2Ffixtures%2Ffacetable.json%3F_size%3D1%26_facet%3Dstate&extras=count%2Ccount_sql%2Cexpandable_columns%2Cfacet_results</a></li>
+<li><a href="https://nitter.net/simonw/status/2065132604786159920#m">New Datasette release: 1.0a33, which finally brings documents the ?_extra= JSON API mechanism and brings it to the row and query pages in addition to the table pages
+
+(Most of the code in this release was built with the help of Claude Fable 5) https://datasette.io/blog/2026/api-extras/</a></li>
 </ul>]]></description>
-        <author><![CDATA[Ethan Mollick]]></author>
+        <author><![CDATA[AI教育实践]]></author>
         <category>X</category>
     </item>
     
     <item>
-        <title><![CDATA[[B站] 华尔街播客：【英文原声】《华尔街日报》6月12日全文精读]]></title>
+        <title><![CDATA[[B站] 华尔街播客 (2026-06-12): 8 posts]]></title>
         <link>https://www.bilibili.com/video/BV1FfJ56fEu6</link>
-        <guid isPermaLink="false">bilibili-116737395851890</guid>
+        <guid isPermaLink="false">bilibili-grouped-2026-06-12-d13e0e33</guid>
         <pubDate>Fri, 12 Jun 2026 13:37:14 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>今日华尔街日报核心议题围绕AI资本浪潮与全球产业格局变迁展开。SpaceX完成史上最大规模IPO，全球机构与散户争相认购，将太空经济叙事推至前所未有的高度。甲骨文和亚马逊的数据中心扩张数据揭示了AI基础设施的资源代价。宏观层面，欧洲央行率先加息以应对能源驱动的通胀回潮；中国原油进口骤降则印证了电动车与高铁替代效应已从趋势转为现实。Waymo宣布首次全国电视广告，自动驾驶商业化进入新阶段。</p><p><a href="https://www.bilibili.com/video/BV1FfJ56fEu6">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：《华尔街日报》6月12日全文精读]]></title>
-        <link>https://www.bilibili.com/video/BV1ffJ56oEjJ</link>
-        <guid isPermaLink="false">bilibili-116737395655684</guid>
-        <pubDate>Fri, 12 Jun 2026 13:35:18 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>今日华尔街日报核心议题围绕AI资本浪潮与全球产业格局变迁展开。SpaceX完成史上最大规模IPO，全球机构与散户争相认购，将太空经济叙事推至前所未有的高度。甲骨文和亚马逊的数据中心扩张数据揭示了AI基础设施的资源代价。宏观层面，欧洲央行率先加息以应对能源驱动的通胀回潮；中国原油进口骤降则印证了电动车与高铁替代效应已从趋势转为现实。Waymo宣布首次全国电视广告，自动驾驶商业化进入新阶段。</p><p><a href="https://www.bilibili.com/video/BV1ffJ56oEjJ">查看原文 →</a></p>]]></description>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1FfJ56fEu6">【英文原声】《华尔街日报》6月12日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1ffJ56oEjJ">《华尔街日报》6月12日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1SnEC6pE8g">【英文原声】高盛看好锐捷网络，高速网络产品升级路径</a></li>
+<li><a href="https://www.bilibili.com/video/BV1SnEC6pESq">高盛看好锐捷网络，高速网络产品升级路径</a></li>
+<li><a href="https://www.bilibili.com/video/BV1EwEC6iEsK">【英文原声】花旗看好平高电气，特高压GIS双重扩张</a></li>
+<li><a href="https://www.bilibili.com/video/BV1cZEk6uEnu">花旗看好平高电气，特高压GIS双重扩张</a></li>
+<li><a href="https://www.bilibili.com/video/BV1ZPEC6PE6L">【英文原声】花旗看好绿的谐波，人形与工业机器人共进</a></li>
+<li><a href="https://www.bilibili.com/video/BV1ZPEC6PExa">花旗看好绿的谐波，人形与工业机器人共进</a></li>
+</ul>]]></description>
         <author><![CDATA[华尔街播客]]></author>
         <category>B站</category>
     </item>
@@ -566,83 +880,13 @@ It would help to point AIs at some tools to focus them.</a></li>
     </item>
     
     <item>
-        <title><![CDATA[[B站] 华尔街播客：【英文原声】高盛看好锐捷网络，高速网络产品升级路径]]></title>
-        <link>https://www.bilibili.com/video/BV1SnEC6pE8g</link>
-        <guid isPermaLink="false">bilibili-116736036701847</guid>
-        <pubDate>Fri, 12 Jun 2026 07:52:39 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>高盛维持对锐捷网络的积极立场，核心看点是公司在中国云厂商算力基础设施建设中的深度受益位置。一季度预付账款跳升超过十倍，反映出大规模交付积压及原材料备货动作。产品方面，400G/800G高速交换机结构升级持续推进，首批400G LPO光模块已完成交付，覆盖范围从交换机延伸至光模块领域。受原材料供应偏紧及研发支出增加影响，高盛下调了2026至2030年盈利预测，但判断下半年若供应端顺畅，积压订单将集中</p><p><a href="https://www.bilibili.com/video/BV1SnEC6pE8g">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：高盛看好锐捷网络，高速网络产品升级路径]]></title>
-        <link>https://www.bilibili.com/video/BV1SnEC6pESq</link>
-        <guid isPermaLink="false">bilibili-116736036700783</guid>
-        <pubDate>Fri, 12 Jun 2026 07:51:23 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>高盛维持对锐捷网络的积极立场，核心看点是公司在中国云厂商算力基础设施建设中的深度受益位置。一季度预付账款跳升超过十倍，反映出大规模交付积压及原材料备货动作。产品方面，400G/800G高速交换机结构升级持续推进，首批400G LPO光模块已完成交付，覆盖范围从交换机延伸至光模块领域。受原材料供应偏紧及研发支出增加影响，高盛下调了2026至2030年盈利预测，但判断下半年若供应端顺畅，积压订单将集中</p><p><a href="https://www.bilibili.com/video/BV1SnEC6pESq">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：【英文原声】花旗看好平高电气，特高压GIS双重扩张]]></title>
-        <link>https://www.bilibili.com/video/BV1EwEC6iEsK</link>
-        <guid isPermaLink="false">bilibili-116735969659661</guid>
-        <pubDate>Fri, 12 Jun 2026 07:33:19 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>花旗分析了国家电网2026年第二批特高压设备采购招标结果，平高电气以22%出头的份额拿下全场最大订单量，79家中标企业中排名第一。本批招标规模是今年第一批的两倍以上。一季度中国电网资本开支同比增幅达40%，电网基建节奏明显加快。平高今年1100kV GIS计划交付15节，同比增长36%，750kV超过100节。管理层预计受铜价走高影响，后续批次招标单价有望上调。花旗维持对平高电气、思源电气、特变电</p><p><a href="https://www.bilibili.com/video/BV1EwEC6iEsK">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：花旗看好平高电气，特高压GIS双重扩张]]></title>
-        <link>https://www.bilibili.com/video/BV1cZEk6uEnu</link>
-        <guid isPermaLink="false">bilibili-116735952816102</guid>
-        <pubDate>Fri, 12 Jun 2026 07:32:38 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>花旗分析了国家电网2026年第二批特高压设备采购招标结果，平高电气以22%出头的份额拿下全场最大订单量，79家中标企业中排名第一。本批招标规模是今年第一批的两倍以上。一季度中国电网资本开支同比增幅达40%，电网基建节奏明显加快。平高今年1100kV GIS计划交付15节，同比增长36%，750kV超过100节。管理层预计受铜价走高影响，后续批次招标单价有望上调。花旗维持对平高电气、思源电气、特变电</p><p><a href="https://www.bilibili.com/video/BV1cZEk6uEnu">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：【英文原声】花旗看好绿的谐波，人形与工业机器人共进]]></title>
-        <link>https://www.bilibili.com/video/BV1ZPEC6PE6L</link>
-        <guid isPermaLink="false">bilibili-116735885705534</guid>
-        <pubDate>Fri, 12 Jun 2026 07:12:51 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>花旗上调对绿的谐波的积极判断，核心依据是工业机器人与人形机器人两端订单可见度均大幅提升。产能端，月产能已提升至当前7500台，管理层规划年底达到月产12万台，2027年年产能扩张至至少200万台。人形机器人端，公司预估在中国市场谐波减速器份额约九成，智元机器人、UBTECH等头部厂商均为主要客户，并向海外人形机器人厂商提供行星滚柱丝杠测试。工业机器人端，公司已覆盖国内主要机器人厂商及三家主要外资品</p><p><a href="https://www.bilibili.com/video/BV1ZPEC6PE6L">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：花旗看好绿的谐波，人形与工业机器人共进]]></title>
-        <link>https://www.bilibili.com/video/BV1ZPEC6PExa</link>
-        <guid isPermaLink="false">bilibili-116735885706770</guid>
-        <pubDate>Fri, 12 Jun 2026 07:11:34 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>花旗上调对绿的谐波的积极判断，核心依据是工业机器人与人形机器人两端订单可见度均大幅提升。产能端，月产能已提升至当前7500台，管理层规划年底达到月产12万台，2027年年产能扩张至至少200万台。人形机器人端，公司预估在中国市场谐波减速器份额约九成，智元机器人、UBTECH等头部厂商均为主要客户，并向海外人形机器人厂商提供行星滚柱丝杠测试。工业机器人端，公司已覆盖国内主要机器人厂商及三家主要外资品</p><p><a href="https://www.bilibili.com/video/BV1ZPEC6PExa">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Yann LeCun (2026-06-12): 5 posts]]></title>
+        <title><![CDATA[[X] AI研究核心 (2026-06-12): 6 posts]]></title>
         <link>https://nitter.net/TheAhmadOsman/status/2065307070044234186#m</link>
-        <guid isPermaLink="false">x-grouped-2026-06-12-95e96799</guid>
+        <guid isPermaLink="false">x-cat-dbae213b-2026-06-12</guid>
         <pubDate>Fri, 12 Jun 2026 05:35:51 GMT</pubDate>
-        <description><![CDATA[<ul>
+        <description><![CDATA[<h4>AI研究核心 · 2位作者 · 6条</h4>
+<h5>Yann LeCun · 5条</h5>
+<ul>
 <li><a href="https://nitter.net/TheAhmadOsman/status/2065307070044234186#m">RT by @ylecun: x.com/i/article/206529156971…</a></li>
 <li><a href="https://nitter.net/randall_balestr/status/2065300665442668609#m">RT by @ylecun: We extended the deadline until Jun 15th (AOE)!</a></li>
 <li><a href="https://nitter.net/NaveenGRao/status/2065282350792282119#m">RT by @ylecun: My team loves Claude from @AnthropicAI . But this new policy of retaining prompts and usage is a red line...we simply can't give over our usage. Prompts contain our IP; literally all our design files and docs. Why would this ever have been ok?
@@ -655,8 +899,10 @@ Phase contrast plays an important role in microscopy, but it was thought close t
 Contrast has been the critical barrier to achieving atomic resolution imaging of the cell. In cryo-electron tomography, a cellular imaging technology that uses electron microscopy, the low contrast makes it impossible to resolve anything but the largest proteins within their cellular context. The laser phase plate removes that barrier.
 
 With advances in AI this breakthrough in contrast will start to open up a new frontier in structural biology, that will allow us to see the molecular machines of the cell, and how they assemble into far more complex and dynamic systems, and understand how they work.</a></li>
-</ul>]]></description>
-        <author><![CDATA[Yann LeCun]]></author>
+</ul>
+<h5>Soumith Chintala</h5>
+<ul><li><a href="https://nitter.net/kchonyc/status/2065104961503948801#m">RT by @soumithchintala: sometimes , it really does take a decade for me to understand a paper and appreciate its insight and foresight. <Discovering Causal Signals in Images> is one such paper. wow ... david, @robertnishihara , @soumithchintala , @bschoelkopf & @LeonBottou really did see the future.</a></li></ul>]]></description>
+        <author><![CDATA[AI研究核心]]></author>
         <category>X</category>
     </item>
     
@@ -675,74 +921,6 @@ https://luma.com/f28a739d</a></li>
 <li><a href="https://nitter.net/dwarkesh_sp/status/2065147194659991663#m">British government plans for WW2 predicted more deaths from aerial bombing in the *first few weeks of war* than actually occurred across the entire war.</a></li>
 </ul>]]></description>
         <author><![CDATA[Dwarkesh Patel]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Simon Willison (2026-06-12): 4 posts]]></title>
-        <link>https://nitter.net/simonw/status/2065218302578983407#m</link>
-        <guid isPermaLink="false">x-grouped-2026-06-12-f514c514</guid>
-        <pubDate>Thu, 11 Jun 2026 23:43:07 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://nitter.net/simonw/status/2065218302578983407#m">R to @simonw: This right here is a pretty elegant solution to the problem of wanting to capture measurements from JavaScript in the system Safari without being able to directly access the DOM</a></li>
-<li><a href="https://nitter.net/simonw/status/2065216774992515342#m">After two days with Claude Fable 5 the best way I can describe it is "relentlessly proactive" - here's an example where I dropped in a screenshot of a bug and it span up custom CORS Python servers and used pyobjc-framework-Quartz to capture screenshots https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/</a></li>
-<li><a href="https://nitter.net/simonw/status/2065133346452361453#m">R to @simonw: Since the JSON extras API is a little hard to explain without an example I also had Fable 5 and GPT-5.5 collaborate on this custom API explorer tool for trying out the new feature https://tools.simonwillison.net/datasette-extras-explorer#url=https%3A%2F%2Flatest.datasette.io%2Ffixtures%2Ffacetable.json%3F_size%3D1%26_facet%3Dstate&extras=count%2Ccount_sql%2Cexpandable_columns%2Cfacet_results</a></li>
-<li><a href="https://nitter.net/simonw/status/2065132604786159920#m">New Datasette release: 1.0a33, which finally brings documents the ?_extra= JSON API mechanism and brings it to the row and query pages in addition to the table pages
-
-(Most of the code in this release was built with the help of Claude Fable 5) https://datasette.io/blog/2026/api-extras/</a></li>
-</ul>]]></description>
-        <author><![CDATA[Simon Willison]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Sam Altman：really looking forward to working together!]]></title>
-        <link>https://nitter.net/sama/status/2065160791205310565#m</link>
-        <guid isPermaLink="false">x-421d868b8286668e</guid>
-        <pubDate>Thu, 11 Jun 2026 19:54:36 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：X</p>
-<p>✍️ 作者：Sam Altman</p>
-<p>really looking forward to working together!
-
-
-Johannes Landgraf (@jolandgraf)
-
-x.com/i/article/206495249936…
-
-
-
-— https://nitter.net/jolandgraf/status/2065089676122235376#m</p><p><a href="https://nitter.net/sama/status/2065160791205310565#m">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Sam Altman]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Demis Hassabis：RT by @demishassabis: Exciting news: Gemini Omni Flash is now #1 in the Video Arena (both Text-to-Video and Image-to-Video)!
-
-For Text-to-Video this is a massive +158 pt improvement over Veo 3.1 (1080p) and a large +61 pt lead over the next best model, Seedance 2.0.
-
-Congrats @GoogleDeepMind for this huge milestone!]]></title>
-        <link>https://nitter.net/arena/status/2065112147093545333#m</link>
-        <guid isPermaLink="false">x-43fcc065ded2c449</guid>
-        <pubDate>Thu, 11 Jun 2026 16:41:18 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：X</p>
-<p>✍️ 作者：Demis Hassabis</p>
-<p>Exciting news: Gemini Omni Flash is now #1 in the Video Arena (both Text-to-Video and Image-to-Video)!
-
-For Text-to-Video this is a massive +158 pt improvement over Veo 3.1 (1080p) and a large +61 pt </p><p><a href="https://nitter.net/arena/status/2065112147093545333#m">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Demis Hassabis]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Soumith Chintala：RT by @soumithchintala: sometimes , it really does take a decade for me to understand a paper and appreciate its insight and foresight. <Discovering Causal Signals in Images> is one such paper. wow ... david, @robertnishihara , @soumithchintala , @bschoelkopf & @LeonBottou really did see the future.]]></title>
-        <link>https://nitter.net/kchonyc/status/2065104961503948801#m</link>
-        <guid isPermaLink="false">x-b6ee94901850d311</guid>
-        <pubDate>Thu, 11 Jun 2026 16:12:45 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：X</p>
-<p>✍️ 作者：Soumith Chintala</p>
-<p>sometimes , it really does take a decade for me to understand a paper and appreciate its insight and foresight. <Discovering Causal Signals in Images> is one such paper. wow ... david, @robertnishihar</p><p><a href="https://nitter.net/kchonyc/status/2065104961503948801#m">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Soumith Chintala]]></author>
         <category>X</category>
     </item>
     
@@ -792,52 +970,66 @@ Watch our back-and-forth on this:</a></li>
     </item>
     
     <item>
-        <title><![CDATA[[X] Demis Hassabis (2026-06-11): 2 posts]]></title>
+        <title><![CDATA[[X] AI公司掌门 (2026-06-11): 9 posts]]></title>
         <link>https://nitter.net/GeminiApp/status/2065097165433983253#m</link>
-        <guid isPermaLink="false">x-grouped-2026-06-11-9dcbb5e1</guid>
+        <guid isPermaLink="false">x-cat-cf9c101e-2026-06-11</guid>
         <pubDate>Thu, 11 Jun 2026 15:41:46 GMT</pubDate>
-        <description><![CDATA[<ul>
+        <description><![CDATA[<h4>AI公司掌门 · 3位作者 · 9条</h4>
+<h5>Demis Hassabis · 2条</h5>
+<ul>
 <li><a href="https://nitter.net/GeminiApp/status/2065097165433983253#m">RT by @demishassabis: Notebooks in Gemini are now available in the European Economic Area, United Kingdom, and Switzerland.
 
 With notebooks, you can organize your projects in a dedicated, focused space that remembers your sources, instructions, and chats.
 
 Create your own notebook at http://gemini.google or in the app today!</a></li>
 <li><a href="https://nitter.net/demishassabis/status/2064873362799600042#m">Awesome to see this innovation in text diffusion. DiffusionGemma is lightning fast, 4x faster than other Gemma 4 models! Congrats to @bodonoghue85 and the team who worked so hard on this - excited to see what people build with it!</a></li>
+</ul>
+<h5>Clem (HF CEO)</h5>
+<ul><li><a href="https://nitter.net/ValsAI/status/2064804074168750458#m">RT by @ClementDelangue: We have added the ability to view Fable 5 scores with Opus 4.8 fallbacks disabled to the Vals AI website (refusals are marked as zero).
+
+The eval community was ill-equipped for this, but transparency is our first priority. 
+
+We’re anticipating more models like this, and are developing our official policy going forward.</a></li></ul>
+<h5>Dario Amodei · 6条</h5>
+<ul>
+<li><a href="https://nitter.net/DarioAmodei/status/2064781782877458612#m">R to @DarioAmodei: Alongside it, Anthropic is releasing a proposal for how governments can address the risks posed by frontier AI and a policy framework for job displacement, for which we intend to provide substantial financial backing.  https://www.anthropic.com/policy-on-the-ai-exponential</a></li>
+<li><a href="https://nitter.net/DarioAmodei/status/2064781785033244851#m">R to @DarioAmodei: Many of these policy ideas have common-sense appeal across the political spectrum, and the sooner we act on them, the sooner everyone shares in AI's benefits.</a></li>
+<li><a href="https://nitter.net/DarioAmodei/status/2064781776904663043#m">R to @DarioAmodei: Anthropic has long advocated for transparency requirements for frontier AI, because the risks weren't yet clear enough to regulate precisely. That is no longer sufficient.</a></li>
+<li><a href="https://nitter.net/DarioAmodei/status/2064781778599268818#m">R to @DarioAmodei: In addition to transparency, I now believe frontier models should face mandatory third-party testing for cyber, bio, and autonomy risks—with the power to block or revoke deployment of models that pose catastrophic risk.</a></li>
+<li><a href="https://nitter.net/DarioAmodei/status/2064781780562137306#m">R to @DarioAmodei: The essay also covers what AI’s steep trajectory means for jobs and the economy, scientific progress, civil liberties, and geopolitics.</a></li>
+<li><a href="https://nitter.net/DarioAmodei/status/2064781775247950326#m">Pinned: Today I'm publishing a new essay, Policy on the AI Exponential. AI is progressing extremely fast—much faster than the policy process was built to handle. The essay lays out where I think the technology is now, and the action needed to close the gap: https://darioamodei.com/post/policy-on-the-ai-exponential</a></li>
 </ul>]]></description>
-        <author><![CDATA[Demis Hassabis]]></author>
+        <author><![CDATA[AI公司掌门]]></author>
         <category>X</category>
     </item>
     
     <item>
-        <title><![CDATA[[B站] 华尔街播客：《华尔街日报》6月11日全文精读]]></title>
+        <title><![CDATA[[B站] 华尔街播客 (2026-06-11): 8 posts]]></title>
         <link>https://www.bilibili.com/video/BV1JmEi6QEMw</link>
-        <guid isPermaLink="false">bilibili-116731741801941</guid>
+        <guid isPermaLink="false">bilibili-grouped-2026-06-11-d13e0e33</guid>
         <pubDate>Thu, 11 Jun 2026 13:44:52 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>2026年6月11日《华尔街日报》聚焦三条主线：能源结构加速重塑，太阳能首次超越煤炭；科技平台竞争升级，OpenAI与Anthropic在AI服务定价上正面交锋；传统行业触底回升，美国货运结束四年低迷。此外SpaceX启动上市，德意志电信谋划跨境合并，全球企业格局加速分化。</p><p><a href="https://www.bilibili.com/video/BV1JmEi6QEMw">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：【英文原声】《华尔街日报》6月11日全文精读]]></title>
-        <link>https://www.bilibili.com/video/BV1F2Ei6pEdM</link>
-        <guid isPermaLink="false">bilibili-116731758511295</guid>
-        <pubDate>Thu, 11 Jun 2026 13:44:46 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>2026年6月11日《华尔街日报》聚焦三条主线：能源结构加速重塑，太阳能首次超越煤炭；科技平台竞争升级，OpenAI与Anthropic在AI服务定价上正面交锋；传统行业触底回升，美国货运结束四年低迷。此外SpaceX启动上市，德意志电信谋划跨境合并，全球企业格局加速分化。</p><p><a href="https://www.bilibili.com/video/BV1F2Ei6pEdM">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Yann LeCun (2026-06-11): 6 posts]]></title>
-        <link>https://nitter.net/Dan_Jeffries1/status/2065028754603135084#m</link>
-        <guid isPermaLink="false">x-grouped-2026-06-11-95e96799</guid>
-        <pubDate>Thu, 11 Jun 2026 11:09:56 GMT</pubDate>
         <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1JmEi6QEMw">《华尔街日报》6月11日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1F2Ei6pEdM">【英文原声】《华尔街日报》6月11日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1muEv6ZEFa">【英文原声】野村看好信维通信，卫星周期叠加AI订单</a></li>
+<li><a href="https://www.bilibili.com/video/BV12uEv6ZERM">野村看好信维通信，卫星周期叠加AI订单</a></li>
+<li><a href="https://www.bilibili.com/video/BV1BUEe6VErg">【英文原声】高盛观望斯达半导，产品线拓展至AI赛道</a></li>
+<li><a href="https://www.bilibili.com/video/BV15dEe6BELT">高盛观望斯达半导，产品线拓展至AI赛道</a></li>
+<li><a href="https://www.bilibili.com/video/BV1iYEv6GEhD">【英文原声】高盛看衰三七互娱，爆款周期结束后的困境</a></li>
+<li><a href="https://www.bilibili.com/video/BV1veEv6rEB2">高盛看衰三七互娱，爆款周期结束后的困境</a></li>
+</ul>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[X] AI研究核心 (2026-06-11): 7 posts]]></title>
+        <link>https://nitter.net/Dan_Jeffries1/status/2065028754603135084#m</link>
+        <guid isPermaLink="false">x-cat-dbae213b-2026-06-11</guid>
+        <pubDate>Thu, 11 Jun 2026 11:09:56 GMT</pubDate>
+        <description><![CDATA[<h4>AI研究核心 · 2位作者 · 7条</h4>
+<h5>Yann LeCun · 6条</h5>
+<ul>
 <li><a href="https://nitter.net/Dan_Jeffries1/status/2065028754603135084#m">RT by @ylecun: Amazing project. We need this now more than ever.</a></li>
 <li><a href="https://nitter.net/DemocraticWins/status/2064814104993231071#m">RT by @ylecun: BREAKING: In a stunning moment, Donald Trump's former economic advisor just admitted on Fox News that inflation is being driven nearly exclusively by bad decisions that Donald Trump has made. Wow.</a></li>
 <li><a href="https://nitter.net/CSProfKGD/status/2064802508589912399#m">RT by @ylecun: The videos from the “Frontiers of Embodied AI” meetup at ETHZ from a few weeks back are now available.
@@ -892,8 +1084,26 @@ Things like managing global energy grids in real-time. Or predicting complex mol
 The entire AI industry is obsessed with building a digital reflection in our own image.
 
 LeCun's paper is a brutal wake-up call.</a></li>
-</ul>]]></description>
-        <author><![CDATA[Yann LeCun]]></author>
+</ul>
+<h5>Francois Chollet</h5>
+<ul><li><a href="https://nitter.net/fchollet/status/2064740102463725853#m">Some considerations that many folks seem not to get:
+
+1. It can be a bubble even if the tech works. (For instance, if the tech doesn't have a high-demand use case.)
+
+2. It can be a bubble even if the tech works and has strong product-market fit. (For instance, if the tech cannot be economically viable.)
+
+3. It can be a bubble even if the tech works, has strong product-market fit, and has a path to eventual economic viability. (For instance, if profitability takes too long to achieve or makes margin/competition assumptions that fail to materialize.)
+
+4. It can be a bubble even if the tech works, has strong product-market fit, and is currently highly profitable. (For instance, if demand has a hard ceiling and growth stops once the ceiling is reached.)
+
+5. It can be a bubble even if the tech works, has strong product-market fit, is currently highly profitable, and has unlimited future demand.
+
+Literally all it takes for something to be a bubble is for lots of people to over-enthusiastically bet their money on it, and subsequently get panicky.
+
+Importantly, bubbles can be attached both to things that are completely hogwash, like the Metaverse, and to world-changing developments like the Internet or railways. Bubbles don't care. They're brought into existence by the thoughts and feelings of investors, not by actual tech or products.
+
+"The bubble has burst" doesn't mean "the tech didn't work" or "people stopped using the tech." It only means that people got panicky, investor money dried up, and valuations collapsed. Internet adoption didn't stop in 2000.</a></li></ul>]]></description>
+        <author><![CDATA[AI研究核心]]></author>
         <category>X</category>
     </item>
     
@@ -910,30 +1120,6 @@ LeCun's paper is a brutal wake-up call.</a></li>
     </item>
     
     <item>
-        <title><![CDATA[[B站] 华尔街播客：【英文原声】野村看好信维通信，卫星周期叠加AI订单]]></title>
-        <link>https://www.bilibili.com/video/BV1muEv6ZEFa</link>
-        <guid isPermaLink="false">bilibili-116730667993852</guid>
-        <pubDate>Thu, 11 Jun 2026 09:11:16 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>野村重申对信维通信的积极判断，核心逻辑来自卫星与消费电子两条主线。卫星端，中国G60星座进入密集发射期，六月单月计划发射六次，GW星座七月接棒，全年发射量有望超过300颗。信维作为卫星射频器件供应商，直接受益于多运营商规模扩张与二代卫星招标落地预期。消费电子端，某美国大客户首款AI硬件预计三季度末启动量产供货，四季度产品发布，为增量打开空间。此外MLCC子公司订单增长强劲，管理层可能在下半年至明年</p><p><a href="https://www.bilibili.com/video/BV1muEv6ZEFa">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：野村看好信维通信，卫星周期叠加AI订单]]></title>
-        <link>https://www.bilibili.com/video/BV12uEv6ZERM</link>
-        <guid isPermaLink="false">bilibili-116730667993141</guid>
-        <pubDate>Thu, 11 Jun 2026 09:05:15 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>野村重申对信维通信的积极判断，核心逻辑来自卫星与消费电子两条主线。卫星端，中国G60星座进入密集发射期，六月单月计划发射六次，GW星座七月接棒，全年发射量有望超过300颗。信维作为卫星射频器件供应商，直接受益于多运营商规模扩张与二代卫星招标落地预期。消费电子端，某美国大客户首款AI硬件预计三季度末启动量产供货，四季度产品发布，为增量打开空间。此外MLCC子公司订单增长强劲，管理层可能在下半年至明年</p><p><a href="https://www.bilibili.com/video/BV12uEv6ZERM">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
         <title><![CDATA[[B站] 巫师财经：【巫师】人类最大IPO来了，行内视角看背后的算计]]></title>
         <link>https://www.bilibili.com/video/BV1ViEg6PESR</link>
         <guid isPermaLink="false">bilibili-116713588791074</guid>
@@ -942,30 +1128,6 @@ LeCun's paper is a brutal wake-up call.</a></li>
 <p>✍️ 作者：巫师财经</p>
 <p><a href="https://www.bilibili.com/video/BV1ViEg6PESR">查看原文 →</a></p>]]></description>
         <author><![CDATA[巫师财经]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：【英文原声】高盛观望斯达半导，产品线拓展至AI赛道]]></title>
-        <link>https://www.bilibili.com/video/BV1BUEe6VErg</link>
-        <guid isPermaLink="false">bilibili-116730567459389</guid>
-        <pubDate>Thu, 11 Jun 2026 08:39:46 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>斯达半导推进产品线从IGBT向SiC、GaN及MCU扩张，终端从电动车延伸至AI数据中心、工业及机器人。1Q26受中国电动车需求低于预期拖累，新产能折旧及研发材料涨价同步施压，短期增长节奏放缓。高盛基于AI应用驱动功率半导体重估逻辑，维持观望。</p><p><a href="https://www.bilibili.com/video/BV1BUEe6VErg">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：高盛观望斯达半导，产品线拓展至AI赛道]]></title>
-        <link>https://www.bilibili.com/video/BV15dEe6BELT</link>
-        <guid isPermaLink="false">bilibili-116730550617846</guid>
-        <pubDate>Thu, 11 Jun 2026 08:38:29 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>斯达半导推进产品线从IGBT向SiC、GaN及MCU扩张，终端从电动车延伸至AI数据中心、工业及机器人。1Q26受中国电动车需求低于预期拖累，新产能折旧及研发材料涨价同步施压，短期增长节奏放缓。高盛基于AI应用驱动功率半导体重估逻辑，维持观望。</p><p><a href="https://www.bilibili.com/video/BV15dEe6BELT">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
         <category>B站</category>
     </item>
     
@@ -986,30 +1148,6 @@ LeCun's paper is a brutal wake-up call.</a></li>
     </item>
     
     <item>
-        <title><![CDATA[[B站] 华尔街播客：【英文原声】高盛看衰三七互娱，爆款周期结束后的困境]]></title>
-        <link>https://www.bilibili.com/video/BV1iYEv6GEhD</link>
-        <guid isPermaLink="false">bilibili-116730416334546</guid>
-        <pubDate>Thu, 11 Jun 2026 08:03:51 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>高盛将三七互娱的研究立场由中性下调，核心依据是公司主力游戏组合集体下行。《寻道大千》、《时间的彼岸》、《英雄没有闪》三款核心产品在微信小游戏畅销榜的排名，与去年同期相比均出现显著退步。同期海外SLG及国内小游戏赛道竞争加剧，流量获取门槛持续拉高。新游方面，《生存33天》和Last Asylum初期表现尚可，但持续性存疑，Z Route上线后体量相对偏小。公司未来半年预计处于新旧爆款换档的空窗期。</p><p><a href="https://www.bilibili.com/video/BV1iYEv6GEhD">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：高盛看衰三七互娱，爆款周期结束后的困境]]></title>
-        <link>https://www.bilibili.com/video/BV1veEv6rEB2</link>
-        <guid isPermaLink="false">bilibili-116730399558460</guid>
-        <pubDate>Thu, 11 Jun 2026 07:57:07 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>高盛将三七互娱的研究立场由中性下调，核心依据是公司主力游戏组合集体下行。《寻道大千》、《时间的彼岸》、《英雄没有闪》三款核心产品在微信小游戏畅销榜的排名，与去年同期相比均出现显著退步。同期海外SLG及国内小游戏赛道竞争加剧，流量获取门槛持续拉高。新游方面，《生存33天》和Last Asylum初期表现尚可，但持续性存疑，Z Route上线后体量相对偏小。公司未来半年预计处于新旧爆款换档的空窗期。</p><p><a href="https://www.bilibili.com/video/BV1veEv6rEB2">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
         <title><![CDATA[[B站] 硅谷101：SpaceX崛起史：一切，为了去火星｜实地探访发射基地与总部【硅谷101】]]></title>
         <link>https://www.bilibili.com/video/BV1y5EY62E8B</link>
         <guid isPermaLink="false">bilibili-116729443260272</guid>
@@ -1025,115 +1163,18 @@ LeCun's paper is a brutal wake-up call.</a></li>
     </item>
     
     <item>
-        <title><![CDATA[[X] Clem (HF CEO)：RT by @ClementDelangue: We have added the ability to view Fable 5 scores with Opus 4.8 fallbacks disabled to the Vals AI website (refusals are marked as zero).
-
-The eval community was ill-equipped for this, but transparency is our first priority. 
-
-We’re anticipating more models like this, and are developing our official policy going forward.]]></title>
-        <link>https://nitter.net/ValsAI/status/2064804074168750458#m</link>
-        <guid isPermaLink="false">x-3a8b15e3f5f7e8e8</guid>
-        <pubDate>Wed, 10 Jun 2026 20:17:08 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：X</p>
-<p>✍️ 作者：Clem (HF CEO)</p>
-<p>We have added the ability to view Fable 5 scores with Opus 4.8 fallbacks disabled to the Vals AI website (refusals are marked as zero).
-
-The eval community was ill-equipped for this, but transparency </p><p><a href="https://nitter.net/ValsAI/status/2064804074168750458#m">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Clem (HF CEO)]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Dario Amodei (2026-06-11): 6 posts]]></title>
-        <link>https://nitter.net/DarioAmodei/status/2064781782877458612#m</link>
-        <guid isPermaLink="false">x-grouped-2026-06-11-87731131</guid>
-        <pubDate>Wed, 10 Jun 2026 18:48:33 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://nitter.net/DarioAmodei/status/2064781782877458612#m">R to @DarioAmodei: Alongside it, Anthropic is releasing a proposal for how governments can address the risks posed by frontier AI and a policy framework for job displacement, for which we intend to provide substantial financial backing.  https://www.anthropic.com/policy-on-the-ai-exponential</a></li>
-<li><a href="https://nitter.net/DarioAmodei/status/2064781785033244851#m">R to @DarioAmodei: Many of these policy ideas have common-sense appeal across the political spectrum, and the sooner we act on them, the sooner everyone shares in AI's benefits.</a></li>
-<li><a href="https://nitter.net/DarioAmodei/status/2064781776904663043#m">R to @DarioAmodei: Anthropic has long advocated for transparency requirements for frontier AI, because the risks weren't yet clear enough to regulate precisely. That is no longer sufficient.</a></li>
-<li><a href="https://nitter.net/DarioAmodei/status/2064781778599268818#m">R to @DarioAmodei: In addition to transparency, I now believe frontier models should face mandatory third-party testing for cyber, bio, and autonomy risks—with the power to block or revoke deployment of models that pose catastrophic risk.</a></li>
-<li><a href="https://nitter.net/DarioAmodei/status/2064781780562137306#m">R to @DarioAmodei: The essay also covers what AI’s steep trajectory means for jobs and the economy, scientific progress, civil liberties, and geopolitics.</a></li>
-<li><a href="https://nitter.net/DarioAmodei/status/2064781775247950326#m">Pinned: Today I'm publishing a new essay, Policy on the AI Exponential. AI is progressing extremely fast—much faster than the policy process was built to handle. The essay lays out where I think the technology is now, and the action needed to close the gap: https://darioamodei.com/post/policy-on-the-ai-exponential</a></li>
-</ul>]]></description>
-        <author><![CDATA[Dario Amodei]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Francois Chollet：Some considerations that many folks seem not to get:
-
-1. It can be a bubble even if the tech works. (For instance, if the tech doesn't have a high-demand use case.)
-
-2. It can be a bubble even if the tech works and has strong product-market fit. (For instance, if the tech cannot be economically viable.)
-
-3. It can be a bubble even if the tech works, has strong product-market fit, and has a path to eventual economic viability. (For instance, if profitability takes too long to achieve or makes margin/competition assumptions that fail to materialize.)
-
-4. It can be a bubble even if the tech works, has strong product-market fit, and is currently highly profitable. (For instance, if demand has a hard ceiling and growth stops once the ceiling is reached.)
-
-5. It can be a bubble even if the tech works, has strong product-market fit, is currently highly profitable, and has unlimited future demand.
-
-Literally all it takes for something to be a bubble is for lots of people to over-enthusiastically bet their money on it, and subsequently get panicky.
-
-Importantly, bubbles can be attached both to things that are completely hogwash, like the Metaverse, and to world-changing developments like the Internet or railways. Bubbles don't care. They're brought into existence by the thoughts and feelings of investors, not by actual tech or products.
-
-"The bubble has burst" doesn't mean "the tech didn't work" or "people stopped using the tech." It only means that people got panicky, investor money dried up, and valuations collapsed. Internet adoption didn't stop in 2000.]]></title>
-        <link>https://nitter.net/fchollet/status/2064740102463725853#m</link>
-        <guid isPermaLink="false">x-3b5586d41a2e52f8</guid>
-        <pubDate>Wed, 10 Jun 2026 16:02:56 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：X</p>
-<p>✍️ 作者：Francois Chollet</p>
-<p>Some considerations that many folks seem not to get:
-
-1. It can be a bubble even if the tech works. (For instance, if the tech doesn't have a high-demand use case.)
-
-2. It can be a bubble even if the </p><p><a href="https://nitter.net/fchollet/status/2064740102463725853#m">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Francois Chollet]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] 李飞飞 (2026-06-10): 2 posts]]></title>
+        <title><![CDATA[[X] AI研究核心 (2026-06-10): 11 posts]]></title>
         <link>https://nitter.net/drfeifei/status/2064735920281313688#m</link>
-        <guid isPermaLink="false">x-grouped-2026-06-10-f8e011e3</guid>
+        <guid isPermaLink="false">x-cat-dbae213b-2026-06-10</guid>
         <pubDate>Wed, 10 Jun 2026 15:46:18 GMT</pubDate>
-        <description><![CDATA[<ul>
+        <description><![CDATA[<h4>AI研究核心 · 4位作者 · 11条</h4>
+<h5>李飞飞 · 2条</h5>
+<ul>
 <li><a href="https://nitter.net/drfeifei/status/2064735920281313688#m">Scientific research is fundamental to advancing civilization and helping people globally to solve the most critical problems, from medicine to materials, from brain science to physics, and much beyond. This is only possible when scientists have access to the best tools of the time to conduct scientific research, including having access to AI-based tools.</a></li>
 <li><a href="https://nitter.net/drfeifei/status/2064387365930676695#m">The creativity and imagination is out of the world! So grateful that @theworldlabs  got to partner with the amazing talents @withloreco to translate their incredible ideas into an interactive experiences for users to enjoy!🤩</a></li>
-</ul>]]></description>
-        <author><![CDATA[李飞飞]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：【英文原声】《华尔街日报》6月10日全文精读]]></title>
-        <link>https://www.bilibili.com/video/BV1jmER6eEbs</link>
-        <guid isPermaLink="false">bilibili-116726373026307</guid>
-        <pubDate>Wed, 10 Jun 2026 14:52:03 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>2026年6月10日华尔街日报聚焦AI产业链深化与传统行业转型。博通联手私募巨头搭建AI算力平台，曼哈顿写字楼租赁创二十六年新高。苹果Siri因内存瓶颈限制AI功能普及，半导体供应链成为消费电子新变量。中国出口激增由AI和绿色能源需求驱动。GSK重返肿瘤赛道，Starbucks布局健康饮品，传统大公司加速转型。</p><p><a href="https://www.bilibili.com/video/BV1jmER6eEbs">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：《华尔街日报》6月10日全文精读]]></title>
-        <link>https://www.bilibili.com/video/BV1KtER6EEpb</link>
-        <guid isPermaLink="false">bilibili-116726322826571</guid>
-        <pubDate>Wed, 10 Jun 2026 14:40:32 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>2026年6月10日华尔街日报聚焦AI产业链深化与传统行业转型。博通联手私募巨头搭建AI算力平台，曼哈顿写字楼租赁创二十六年新高。苹果Siri因内存瓶颈限制AI功能普及，半导体供应链成为消费电子新变量。中国出口激增由AI和绿色能源需求驱动。GSK重返肿瘤赛道，Starbucks布局健康饮品，传统大公司加速转型。</p><p><a href="https://www.bilibili.com/video/BV1KtER6EEpb">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Yann LeCun (2026-06-10): 7 posts]]></title>
-        <link>https://nitter.net/ylecun/status/2064692686313955591#m</link>
-        <guid isPermaLink="false">x-grouped-2026-06-10-95e96799</guid>
-        <pubDate>Wed, 10 Jun 2026 12:54:31 GMT</pubDate>
-        <description><![CDATA[<ul>
+</ul>
+<h5>Yann LeCun · 7条</h5>
+<ul>
 <li><a href="https://nitter.net/ylecun/status/2064692686313955591#m">RT by @ylecun: Everyone, please join Project Tapestry 
 https://thealliance.ai/projects/tapestry</a></li>
 <li><a href="https://nitter.net/sriramk/status/2064643933477490775#m">RT by @ylecun: just to state the obvious: think there's a collison course between those who believe research and science should be open and those who believe we are in an accelerating singularity curve.
@@ -1204,17 +1245,44 @@ Obviously I still think something like RL (optimizing for long term goals) is fu
 <li><a href="https://nitter.net/artetxem/status/2064443007022100785#m">RT by @ylecun: Brilliant idea! Next up: Apple randomly reboots your Mac if you're building competing tech, Gmail silently edits your email if you mention rival platforms, and Tesla Autopilot swerves if it detects you're working on self-driving cars.
 
 All in the name of safety, of course. Because malicious actors controlling the world’s operating systems, inboxes and cars would be extremely dangerous!</a></li>
-</ul>]]></description>
-        <author><![CDATA[Yann LeCun]]></author>
+</ul>
+<h5>Francois Chollet</h5>
+<ul><li><a href="https://nitter.net/fchollet/status/2064543003700838548#m">Ora, lege, relege...</a></li></ul>
+<h5>Andrej Karpathy</h5>
+<ul><li><a href="https://nitter.net/karpathy/status/2064409694761054332#m">This is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but with added safeguards. The benchmarks are great and it's SOTA on everything by a margin but I'll add that *qualitatively* also, this is a major-version-bump-deserving step change forward (imo of the same order as Claude 4.5 was in November), peaking especially for long problem-solving sessions on very difficult problems. You can give it a lot more ambitious tasks than what you're used to, the model "gets it" and it will just go, and it's never felt this tempting to stop looking at the code at all (but don't do this in prod!). The model still has quirks that people will run into and the safeguards are configured to be a little too trigger happy for launch, which can hopefully be tuned over time.
+
+I feel a lot of things changing as working software increasingly comes out on a tap. The Jevon's paradox kicks in and I feel my own demand for software growing substantially. You can ask for anything - explainers, visualizers, dashboards, bespoke single-use apps (e.g. a full wandb that is hyper-specific just for your project), you can 10X your test suite, auto-optimize code, run giant research projects with custom HTML for the results, anything! "Free your mind" (Matrix ref). Really looking forward to all the things people build!</a></li></ul>]]></description>
+        <author><![CDATA[AI研究核心]]></author>
         <category>X</category>
     </item>
     
     <item>
-        <title><![CDATA[[X] Simon Willison (2026-06-10): 6 posts]]></title>
-        <link>https://nitter.net/ClementDelangue/status/2064673792303955985#m</link>
-        <guid isPermaLink="false">x-grouped-2026-06-10-f514c514</guid>
-        <pubDate>Wed, 10 Jun 2026 11:39:26 GMT</pubDate>
+        <title><![CDATA[[B站] 华尔街播客 (2026-06-10): 8 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1jmER6eEbs</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-06-10-d13e0e33</guid>
+        <pubDate>Wed, 10 Jun 2026 14:52:03 GMT</pubDate>
         <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1jmER6eEbs">【英文原声】《华尔街日报》6月10日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1KtER6EEpb">《华尔街日报》6月10日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1hjER6REov">【英文原声】摩根看好中天科技，AIDC光纤结构升级</a></li>
+<li><a href="https://www.bilibili.com/video/BV1ajER6RETv">摩根看好中天科技，AIDC光纤结构升级</a></li>
+<li><a href="https://www.bilibili.com/video/BV1ZAER6eEpt">瑞银看好广东海大，2030年全球化路径</a></li>
+<li><a href="https://www.bilibili.com/video/BV1ZAER6eEHv">【英文原声】瑞银看好广东海大，2030年全球化路径</a></li>
+<li><a href="https://www.bilibili.com/video/BV15uER6bEKG">【英文原声】摩根看好东阿阿胶，并购布局男性健康赛道</a></li>
+<li><a href="https://www.bilibili.com/video/BV1vuER68Ekj">摩根看好东阿阿胶，并购布局男性健康赛道</a></li>
+</ul>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[X] AI教育实践 (2026-06-10): 9 posts]]></title>
+        <link>https://nitter.net/ClementDelangue/status/2064673792303955985#m</link>
+        <guid isPermaLink="false">x-cat-919c55bf-2026-06-10</guid>
+        <pubDate>Wed, 10 Jun 2026 11:39:26 GMT</pubDate>
+        <description><![CDATA[<h4>AI教育实践 · 3位作者 · 9条</h4>
+<h5>Simon Willison · 6条</h5>
+<ul>
 <li><a href="https://nitter.net/ClementDelangue/status/2064673792303955985#m">RT by @simonw: In good faith and with no judgment (mistakes happen), I truly hope that Anthropic will hear the feedback and change course on this. 
 
 Anthropic is a company that has been raising awareness about AI manipulation which is a very important topic! You don’t want to go down as the first company to enable and open the door for human-designed AI manipulation at scale (giving intentionally bad answers to users without them knowing is the highest form of manipulation in my opinion). One way to avoid that is just at the very least to always keep disclosing the limitations and safeguards. 
@@ -1254,8 +1322,18 @@ Overall, I think of it like a warp drive for coding: It can get you across the g
 The ceiling is extraordinarily high on this model though. Even our most advanced testers like @kieranklaassen felt like they were only scratching the surface of it. 
 
 Want our full vibe check with all of our testing and benchmarks? Read it on @every: https://every.to/vibe-check/anthropic-mythos-our-fable-vibe-check</a></li>
-</ul>]]></description>
-        <author><![CDATA[Simon Willison]]></author>
+</ul>
+<h5>Sebastian Raschka · 2条</h5>
+<ul>
+<li><a href="https://nitter.net/rasbt/status/2064425877656543710#m">Turns out Fable 5 is shadowbanning AI researchers  🫤</a></li>
+<li><a href="https://nitter.net/rasbt/status/2064384777663193498#m">Always back to the basics: 
+LatentMoE was probably inspired by MLA, which was inspired by LoRA, which was inspired by SVD, which was inspired by eigendecomposition.</a></li>
+</ul>
+<h5>Ethan Mollick</h5>
+<ul><li><a href="https://nitter.net/emollick/status/2064424775527624736#m">Fable: "create a visually interesting shader that can run in twigl-dot-app make it like an infinite city of neo-gothic towers partially drowned in a stormy ocean with large waves." "Make it better"
+
+All of this is procedurally generated.</a></li></ul>]]></description>
+        <author><![CDATA[AI教育实践]]></author>
         <category>X</category>
     </item>
     
@@ -1270,120 +1348,6 @@ Want our full vibe check with all of our testing and benchmarks? Read it on @eve
 从协调各部门关系，到扮演缓冲垫角色、照顾被马斯克“伤害”的员工，她几乎参与了SpaceX</p><p><a href="https://www.bilibili.com/video/BV1j2EX64ECK">查看原文 →</a></p>]]></description>
         <author><![CDATA[硅谷101]]></author>
         <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：【英文原声】摩根看好中天科技，AIDC光纤结构升级]]></title>
-        <link>https://www.bilibili.com/video/BV1hjER6REov</link>
-        <guid isPermaLink="false">bilibili-116724561085667</guid>
-        <pubDate>Wed, 10 Jun 2026 07:15:34 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>摩根士丹利追踪中天科技来自国内头部算力运营商的光纤大单，标的规模相当于公司光通信业务约四分之一的年度规模。大单以G.657A1高规格光纤为主（约70%），与AIDC高密度走线对弯曲性能的需求直接匹配，区别于电信网络传统使用的G.652D标准光纤。此订单确认了AI驱动下光纤产品结构向高规格升级的趋势，叠加G.657A1供给相对偏紧，综合盈利空间较优。摩根士丹利维持看好立场。</p><p><a href="https://www.bilibili.com/video/BV1hjER6REov">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：摩根看好中天科技，AIDC光纤结构升级]]></title>
-        <link>https://www.bilibili.com/video/BV1ajER6RETv</link>
-        <guid isPermaLink="false">bilibili-116724561086119</guid>
-        <pubDate>Wed, 10 Jun 2026 07:14:08 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>摩根士丹利追踪中天科技来自国内头部算力运营商的光纤大单，标的规模相当于公司光通信业务约四分之一的年度规模。大单以G.657A1高规格光纤为主（约70%），与AIDC高密度走线对弯曲性能的需求直接匹配，区别于电信网络传统使用的G.652D标准光纤。此订单确认了AI驱动下光纤产品结构向高规格升级的趋势，叠加G.657A1供给相对偏紧，综合盈利空间较优。摩根士丹利维持看好立场。</p><p><a href="https://www.bilibili.com/video/BV1ajER6RETv">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：瑞银看好广东海大，2030年全球化路径]]></title>
-        <link>https://www.bilibili.com/video/BV1ZAER6eEpt</link>
-        <guid isPermaLink="false">bilibili-116724443712948</guid>
-        <pubDate>Wed, 10 Jun 2026 07:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>瑞银发布首读报告，解读海大集团在2026年股东大会上披露的2030年战略目标与当年经营指引。管理层设定了全球饲料5150万吨的销量目标，海外市场被定位为未来十年核心增长引擎，目前已覆盖东南亚、非洲和拉美，并计划向欧美延伸。国内维持以水产饲料为核心、家禽与猪料为补充的多品类布局，持续推进行业整合中的份额扩张。2026年总销量指引增速约10%，海外增速达23%。</p><p><a href="https://www.bilibili.com/video/BV1ZAER6eEpt">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：【英文原声】瑞银看好广东海大，2030年全球化路径]]></title>
-        <link>https://www.bilibili.com/video/BV1ZAER6eEHv</link>
-        <guid isPermaLink="false">bilibili-116724443712999</guid>
-        <pubDate>Wed, 10 Jun 2026 07:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>瑞银发布首读报告，解读海大集团在2026年股东大会上披露的2030年战略目标与当年经营指引。管理层设定了全球饲料5150万吨的销量目标，海外市场被定位为未来十年核心增长引擎，目前已覆盖东南亚、非洲和拉美，并计划向欧美延伸。国内维持以水产饲料为核心、家禽与猪料为补充的多品类布局，持续推进行业整合中的份额扩张。2026年总销量指引增速约10%，海外增速达23%。</p><p><a href="https://www.bilibili.com/video/BV1ZAER6eEHv">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：【英文原声】摩根看好东阿阿胶，并购布局男性健康赛道]]></title>
-        <link>https://www.bilibili.com/video/BV15uER6bEKG</link>
-        <guid isPermaLink="false">bilibili-116724376800683</guid>
-        <pubDate>Wed, 10 Jun 2026 06:27:28 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>摩根士丹利发布报告，追踪东阿阿胶内蒙古阿拉善肉苁蓉基地实地调研。在阿胶块终端动销基本持平的背景下，公司通过三次并购——内蒙古阿拉善肉苁蓉及吉林两家鹿茸资产——积极向男性大健康市场拓展。上述并购标的均提供功能性成分或产品，与公司现有女性客群形成互补。接近100%的派息率对稳健型资金持续具有吸引力，并购整合策略有望缓解市场对增长可持续性的担忧。</p><p><a href="https://www.bilibili.com/video/BV15uER6bEKG">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：摩根看好东阿阿胶，并购布局男性健康赛道]]></title>
-        <link>https://www.bilibili.com/video/BV1vuER68Ekj</link>
-        <guid isPermaLink="false">bilibili-116724376536705</guid>
-        <pubDate>Wed, 10 Jun 2026 06:26:26 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>摩根士丹利发布报告，追踪东阿阿胶内蒙古阿拉善肉苁蓉基地实地调研。在阿胶块终端动销基本持平的背景下，公司通过三次并购——内蒙古阿拉善肉苁蓉及吉林两家鹿茸资产——积极向男性大健康市场拓展。上述并购标的均提供功能性成分或产品，与公司现有女性客群形成互补。接近100%的派息率对稳健型资金持续具有吸引力，并购整合策略有望缓解市场对增长可持续性的担忧。</p><p><a href="https://www.bilibili.com/video/BV1vuER68Ekj">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Francois Chollet：Ora, lege, relege...]]></title>
-        <link>https://nitter.net/fchollet/status/2064543003700838548#m</link>
-        <guid isPermaLink="false">x-cd4137e96b6f3ca0</guid>
-        <pubDate>Wed, 10 Jun 2026 02:59:44 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：X</p>
-<p>✍️ 作者：Francois Chollet</p>
-<p>Ora, lege, relege...</p><p><a href="https://nitter.net/fchollet/status/2064543003700838548#m">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Francois Chollet]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Sebastian Raschka (2026-06-10): 2 posts]]></title>
-        <link>https://nitter.net/rasbt/status/2064425877656543710#m</link>
-        <guid isPermaLink="false">x-grouped-2026-06-10-e58c2822</guid>
-        <pubDate>Tue, 09 Jun 2026 19:14:19 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://nitter.net/rasbt/status/2064425877656543710#m">Turns out Fable 5 is shadowbanning AI researchers  🫤</a></li>
-<li><a href="https://nitter.net/rasbt/status/2064384777663193498#m">Always back to the basics: 
-LatentMoE was probably inspired by MLA, which was inspired by LoRA, which was inspired by SVD, which was inspired by eigendecomposition.</a></li>
-</ul>]]></description>
-        <author><![CDATA[Sebastian Raschka]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Ethan Mollick：Fable: "create a visually interesting shader that can run in twigl-dot-app make it like an infinite city of neo-gothic towers partially drowned in a stormy ocean with large waves." "Make it better"
-
-All of this is procedurally generated.]]></title>
-        <link>https://nitter.net/emollick/status/2064424775527624736#m</link>
-        <guid isPermaLink="false">x-bb33c79c5ba1ac50</guid>
-        <pubDate>Tue, 09 Jun 2026 19:09:56 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：X</p>
-<p>✍️ 作者：Ethan Mollick</p>
-<p>Fable: "create a visually interesting shader that can run in twigl-dot-app make it like an infinite city of neo-gothic towers partially drowned in a stormy ocean with large waves." "Make it better"
-
-A</p><p><a href="https://nitter.net/emollick/status/2064424775527624736#m">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Ethan Mollick]]></author>
-        <category>X</category>
     </item>
     
     <item>
@@ -1423,32 +1387,20 @@ The chain of thought looks basically indistinguishable from actual reasoning. Bu
     </item>
     
     <item>
-        <title><![CDATA[[X] Andrej Karpathy：This is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but with added safeguards. The benchmarks are great and it's SOTA on everything by a margin but I'll add that *qualitatively* also, this is a major-version-bump-deserving step change forward (imo of the same order as Claude 4.5 was in November), peaking especially for long problem-solving sessions on very difficult problems. You can give it a lot more ambitious tasks than what you're used to, the model "gets it" and it will just go, and it's never felt this tempting to stop looking at the code at all (but don't do this in prod!). The model still has quirks that people will run into and the safeguards are configured to be a little too trigger happy for launch, which can hopefully be tuned over time.
-
-I feel a lot of things changing as working software increasingly comes out on a tap. The Jevon's paradox kicks in and I feel my own demand for software growing substantially. You can ask for anything - explainers, visualizers, dashboards, bespoke single-use apps (e.g. a full wandb that is hyper-specific just for your project), you can 10X your test suite, auto-optimize code, run giant research projects with custom HTML for the results, anything! "Free your mind" (Matrix ref). Really looking forward to all the things people build!]]></title>
-        <link>https://nitter.net/karpathy/status/2064409694761054332#m</link>
-        <guid isPermaLink="false">x-59cebe8ec89b0a31</guid>
-        <pubDate>Tue, 09 Jun 2026 18:10:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：X</p>
-<p>✍️ 作者：Andrej Karpathy</p>
-<p>This is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but with added safeguards. The benchmarks are great and it's SOTA on everything by a margin but I'll add that *</p><p><a href="https://nitter.net/karpathy/status/2064409694761054332#m">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Andrej Karpathy]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Demis Hassabis：RT by @demishassabis: Introducing Gemini 3.5 Flash Live Translate, our real time speech to speech translation model which supports more than 70 languages (both in and out), and is so natural.
-
-It is available in the Gemini API, AI Studio, & Google Translate right now + coming soon to Google Meet!!]]></title>
+        <title><![CDATA[[X] AI公司掌门 (2026-06-09): 2 posts]]></title>
         <link>https://nitter.net/OfficialLoganK/status/2064369125447864674#m</link>
-        <guid isPermaLink="false">x-f6b4e90410e281a3</guid>
+        <guid isPermaLink="false">x-cat-cf9c101e-2026-06-09</guid>
         <pubDate>Tue, 09 Jun 2026 15:28:48 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：X</p>
-<p>✍️ 作者：Demis Hassabis</p>
-<p>Introducing Gemini 3.5 Flash Live Translate, our real time speech to speech translation model which supports more than 70 languages (both in and out), and is so natural.
+        <description><![CDATA[<h4>AI公司掌门 · 2位作者 · 2条</h4>
+<h5>Demis Hassabis</h5>
+<ul><li><a href="https://nitter.net/OfficialLoganK/status/2064369125447864674#m">RT by @demishassabis: Introducing Gemini 3.5 Flash Live Translate, our real time speech to speech translation model which supports more than 70 languages (both in and out), and is so natural.
 
-It is available in the Gemini</p><p><a href="https://nitter.net/OfficialLoganK/status/2064369125447864674#m">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Demis Hassabis]]></author>
+It is available in the Gemini API, AI Studio, & Google Translate right now + coming soon to Google Meet!!</a></li></ul>
+<h5>Sam Altman</h5>
+<ul><li><a href="https://nitter.net/sama/status/2064088940932641225#m">Here is our current plan for OpenAI:
+
+https://openai.com/index/built-to-benefit-everyone-our-plan/</a></li></ul>]]></description>
+        <author><![CDATA[AI公司掌门]]></author>
         <category>X</category>
     </item>
     
@@ -1511,25 +1463,20 @@ The Rundown stays fully independent, now with the operations, infrastructure, an
     </item>
     
     <item>
-        <title><![CDATA[[B站] 华尔街播客：【英文原声】《华尔街日报》6月9日全文精读]]></title>
+        <title><![CDATA[[B站] 华尔街播客 (2026-06-09): 8 posts]]></title>
         <link>https://www.bilibili.com/video/BV1kyEm6pEj8</link>
-        <guid isPermaLink="false">bilibili-116720266117818</guid>
+        <guid isPermaLink="false">bilibili-grouped-2026-06-09-d13e0e33</guid>
         <pubDate>Tue, 09 Jun 2026 13:02:40 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>本期华尔街日报聚焦AI基础设施建设引发的资本浪潮。科技巨头今年通过债券市场完成创纪录融资，以支撑算力基础设施的大规模扩张。OpenAI正式向SEC提交IPO申请，拟于今年秋季上市。苹果在开发者大会发布与谷歌合作的新版Siri，战略定位是追平市场现有水平。Nvidia与韩国科技巨头结盟，在亚洲布局千兆瓦级AI工厂。百事可乐在亚利桑那州运营35辆无人驾驶卡车，成为首家大规模商用自动驾驶的美国消费品企业</p><p><a href="https://www.bilibili.com/video/BV1kyEm6pEj8">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：《华尔街日报》6月9日全文精读]]></title>
-        <link>https://www.bilibili.com/video/BV1ryEm6pEzf</link>
-        <guid isPermaLink="false">bilibili-116720266119822</guid>
-        <pubDate>Tue, 09 Jun 2026 13:01:20 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>本期华尔街日报聚焦AI基础设施建设引发的资本浪潮。科技巨头今年通过债券市场完成创纪录融资，以支撑算力基础设施的大规模扩张。OpenAI正式向SEC提交IPO申请，拟于今年秋季上市。苹果在开发者大会发布与谷歌合作的新版Siri，战略定位是追平市场现有水平。Nvidia与韩国科技巨头结盟，在亚洲布局千兆瓦级AI工厂。百事可乐在亚利桑那州运营35辆无人驾驶卡车，成为首家大规模商用自动驾驶的美国消费品企业</p><p><a href="https://www.bilibili.com/video/BV1ryEm6pEzf">查看原文 →</a></p>]]></description>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1kyEm6pEj8">【英文原声】《华尔街日报》6月9日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1ryEm6pEzf">《华尔街日报》6月9日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV19sE769Ehu">【英文原声】花旗看好特锐德，AI新品赋能智算中心建设</a></li>
+<li><a href="https://www.bilibili.com/video/BV19sE769EAK">花旗看好特锐德，AI新品赋能智算中心建设</a></li>
+<li><a href="https://www.bilibili.com/video/BV1RNEE64EeU">【英文原声】花旗看好美的，2B转型与品牌出海双战略</a></li>
+<li><a href="https://www.bilibili.com/video/BV1vNEE64EKY">花旗看好美的，2B转型与品牌出海双战略</a></li>
+<li><a href="https://www.bilibili.com/video/BV1N4EE6VEw1">【英文原声】高盛看好中国光伏，2026光储产业格局</a></li>
+<li><a href="https://www.bilibili.com/video/BV1y4EE6GEYN">高盛看好中国光伏，2026光储产业格局</a></li>
+</ul>]]></description>
         <author><![CDATA[华尔街播客]]></author>
         <category>B站</category>
     </item>
@@ -1544,78 +1491,6 @@ The Rundown stays fully independent, now with the operations, infrastructure, an
 <p>Here is @ylecun ‘s recent lecture on world models at @ETH: piped.video/72Xj8k5WQX4</p><p><a href="https://nitter.net/chrisoffner3d/status/2064320485559599247#m">查看原文 →</a></p>]]></description>
         <author><![CDATA[Yann LeCun]]></author>
         <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：【英文原声】花旗看好特锐德，AI新品赋能智算中心建设]]></title>
-        <link>https://www.bilibili.com/video/BV19sE769Ehu</link>
-        <guid isPermaLink="false">bilibili-116719846689726</guid>
-        <pubDate>Tue, 09 Jun 2026 11:16:06 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>花旗发布针对特锐德的闪电研究报告，追踪其新发布的AI Powerhouse一体化智算中心供电解决方案。该预制化系统以碳化硅固态变压器技术为核心，将高压电直接转为800V直流，建设周期压缩至150天，实现100%可再生能源就地消纳。花旗认为特锐德凭借充电桩领域积累的HVDC技术与产能优势，能够及时承接800V直流供电市场需求。公司已从头部电信运营商、腾讯和华能等客户获得初始订单。</p><p><a href="https://www.bilibili.com/video/BV19sE769Ehu">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：花旗看好特锐德，AI新品赋能智算中心建设]]></title>
-        <link>https://www.bilibili.com/video/BV19sE769EAK</link>
-        <guid isPermaLink="false">bilibili-116719846690207</guid>
-        <pubDate>Tue, 09 Jun 2026 11:15:11 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>花旗发布针对特锐德的闪电研究报告，追踪其新发布的AI Powerhouse一体化智算中心供电解决方案。该预制化系统以碳化硅固态变压器技术为核心，将高压电直接转为800V直流，建设周期压缩至150天，实现100%可再生能源就地消纳。花旗认为特锐德凭借充电桩领域积累的HVDC技术与产能优势，能够及时承接800V直流供电市场需求。公司已从头部电信运营商、腾讯和华能等客户获得初始订单。</p><p><a href="https://www.bilibili.com/video/BV19sE769EAK">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：【英文原声】花旗看好美的，2B转型与品牌出海双战略]]></title>
-        <link>https://www.bilibili.com/video/BV1RNEE64EeU</link>
-        <guid isPermaLink="false">bilibili-116719746090598</guid>
-        <pubDate>Tue, 09 Jun 2026 10:48:50 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>花旗发布模型更新报告，核心跟踪管理层在股东会披露的2030年战略与2026年业务指引。管理层的长期目标是将美的从家电制造商转型为科技驱动的全球综合企业，以新能源和库卡机器人为核心推动2B业务超越传统2C家电业务。2026年公司持续推进海外OBM品牌扩张，并实施SKU压缩、渠道周转优化、AIGC节省等多项效率举措。花旗重申对该公司的看好立场。</p><p><a href="https://www.bilibili.com/video/BV1RNEE64EeU">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：花旗看好美的，2B转型与品牌出海双战略]]></title>
-        <link>https://www.bilibili.com/video/BV1vNEE64EKY</link>
-        <guid isPermaLink="false">bilibili-116719746025023</guid>
-        <pubDate>Tue, 09 Jun 2026 10:47:44 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>花旗发布模型更新报告，核心跟踪管理层在股东会披露的2030年战略与2026年业务指引。管理层的长期目标是将美的从家电制造商转型为科技驱动的全球综合企业，以新能源和库卡机器人为核心推动2B业务超越传统2C家电业务。2026年公司持续推进海外OBM品牌扩张，并实施SKU压缩、渠道周转优化、AIGC节省等多项效率举措。花旗重申对该公司的看好立场。</p><p><a href="https://www.bilibili.com/video/BV1vNEE64EKY">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：【英文原声】高盛看好中国光伏，2026光储产业格局]]></title>
-        <link>https://www.bilibili.com/video/BV1N4EE6VEw1</link>
-        <guid isPermaLink="false">bilibili-116719444166631</guid>
-        <pubDate>Tue, 09 Jun 2026 09:35:49 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>高盛出席2026年SNEC展会并广泛走访企业，发现光伏主产业链情绪低迷，二线厂商低价竞争再度抬头，而分布式储能系统多区域需求共振成为最大亮点。国内光伏装机全年预期从200GW上调至220-240GW，136号文件影响低于预期。高盛维持电池组件环节优先于玻璃和硅料的策略，看好隆基绿能，对通威和福莱特持谨慎立场，关注下半年需求拐点信号。</p><p><a href="https://www.bilibili.com/video/BV1N4EE6VEw1">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：高盛看好中国光伏，2026光储产业格局]]></title>
-        <link>https://www.bilibili.com/video/BV1y4EE6GEYN</link>
-        <guid isPermaLink="false">bilibili-116719444101066</guid>
-        <pubDate>Tue, 09 Jun 2026 09:34:21 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>高盛出席2026年SNEC展会并广泛走访企业，发现光伏主产业链情绪低迷，二线厂商低价竞争再度抬头，而分布式储能系统多区域需求共振成为最大亮点。国内光伏装机全年预期从200GW上调至220-240GW，136号文件影响低于预期。高盛维持电池组件环节优先于玻璃和硅料的策略，看好隆基绿能，对通威和福莱特持谨慎立场，关注下半年需求拐点信号。</p><p><a href="https://www.bilibili.com/video/BV1y4EE6GEYN">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
     </item>
     
     <item>
@@ -1636,41 +1511,20 @@ We recently submitted a confidential S-1. We expect</p><p><a href="https://nitte
     </item>
     
     <item>
-        <title><![CDATA[[X] Sam Altman：Here is our current plan for OpenAI:
-
-https://openai.com/index/built-to-benefit-everyone-our-plan/]]></title>
-        <link>https://nitter.net/sama/status/2064088940932641225#m</link>
-        <guid isPermaLink="false">x-0caf74fcf44a82b9</guid>
-        <pubDate>Mon, 08 Jun 2026 20:55:27 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：X</p>
-<p>✍️ 作者：Sam Altman</p>
-<p>Here is our current plan for OpenAI:
-
-openai.com/index/built-to-be…</p><p><a href="https://nitter.net/sama/status/2064088940932641225#m">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Sam Altman]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：【英文原声】《华尔街日报》6月8日全文精读]]></title>
+        <title><![CDATA[[B站] 华尔街播客 (2026-06-08): 8 posts]]></title>
         <link>https://www.bilibili.com/video/BV1VoE36zE8Y</link>
-        <guid isPermaLink="false">bilibili-116715182753565</guid>
+        <guid isPermaLink="false">bilibili-grouped-2026-06-08-d13e0e33</guid>
         <pubDate>Mon, 08 Jun 2026 15:30:49 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>华尔街日报2026年6月8日核心报道：超预期就业数据推动利率预期上行，SpaceX深度绑定美国政府国防体系并筹划大规模IPO；爱尔兰强制数据中心自建电源，揭示AI算力扩张与公共电网承载能力的结构性冲突；英伟达在首届「未来最佳公司」评估中以最高分拔得头筹；大型雇主大幅削减GLP-1减肥药报销覆盖，支付方对高价创新药的抵制态度明显。</p><p><a href="https://www.bilibili.com/video/BV1VoE36zE8Y">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：《华尔街日报》6月8日全文精读]]></title>
-        <link>https://www.bilibili.com/video/BV1afE36TEaZ</link>
-        <guid isPermaLink="false">bilibili-116715165844729</guid>
-        <pubDate>Mon, 08 Jun 2026 15:26:01 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>华尔街日报2026年6月8日核心报道：超预期就业数据推动利率预期上行，SpaceX深度绑定美国政府国防体系并筹划大规模IPO；爱尔兰强制数据中心自建电源，揭示AI算力扩张与公共电网承载能力的结构性冲突；英伟达在首届「未来最佳公司」评估中以最高分拔得头筹；大型雇主大幅削减GLP-1减肥药报销覆盖，支付方对高价创新药的抵制态度明显。</p><p><a href="https://www.bilibili.com/video/BV1afE36TEaZ">查看原文 →</a></p>]]></description>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1VoE36zE8Y">【英文原声】《华尔街日报》6月8日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1afE36TEaZ">《华尔街日报》6月8日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1zyE362EwK">【英文原声】花旗看好恩捷，储能驱动的隔膜产业新周期</a></li>
+<li><a href="https://www.bilibili.com/video/BV1ByE362EZM">花旗看好恩捷，储能驱动的隔膜产业新周期</a></li>
+<li><a href="https://www.bilibili.com/video/BV1oPEu6KEwJ">【英文原声】摩根看好泡泡玛特，海外门店与潮玩新周期</a></li>
+<li><a href="https://www.bilibili.com/video/BV1jPEu6TEp5">摩根看好泡泡玛特，海外门店与潮玩新周期</a></li>
+<li><a href="https://www.bilibili.com/video/BV19gEu6wErU">【英文原声】花旗看好宁德时代，储能爆发与全球化战略</a></li>
+<li><a href="https://www.bilibili.com/video/BV1cXEM6yEdV">花旗看好宁德时代，储能爆发与全球化战略</a></li>
+</ul>]]></description>
         <author><![CDATA[华尔街播客]]></author>
         <category>B站</category>
     </item>
@@ -1698,30 +1552,6 @@ A few humble name proposals for the new overhaul:
 - Apple Intelligence II (ft. G</p><p><a href="https://nitter.net/TheRundownAI/status/2064005154475553178#m">查看原文 →</a></p>]]></description>
         <author><![CDATA[Rowan Cheung]]></author>
         <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：【英文原声】花旗看好恩捷，储能驱动的隔膜产业新周期]]></title>
-        <link>https://www.bilibili.com/video/BV1zyE362EwK</link>
-        <guid isPermaLink="false">bilibili-116715048404145</guid>
-        <pubDate>Mon, 08 Jun 2026 14:55:02 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>花旗在一季报后更新了恩捷股份模型，上调盈利预测，反映近期提价趋势与储能需求的超预期表现。公司将2026年出货指引主动上调，显示管理层对订单能见度有相当把握。供给端持续偏紧，隔膜行业提价确定性较高，产能利用率改善带动整体经营状况好转。花旗维持对恩捷股份的正面看法。</p><p><a href="https://www.bilibili.com/video/BV1zyE362EwK">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：花旗看好恩捷，储能驱动的隔膜产业新周期]]></title>
-        <link>https://www.bilibili.com/video/BV1ByE362EZM</link>
-        <guid isPermaLink="false">bilibili-116715048405855</guid>
-        <pubDate>Mon, 08 Jun 2026 14:54:01 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>花旗在一季报后更新了恩捷股份模型，上调盈利预测，反映近期提价趋势与储能需求的超预期表现。公司将2026年出货指引主动上调，显示管理层对订单能见度有相当把握。供给端持续偏紧，隔膜行业提价确定性较高，产能利用率改善带动整体经营状况好转。花旗维持对恩捷股份的正面看法。</p><p><a href="https://www.bilibili.com/video/BV1ByE362EZM">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
     </item>
     
     <item>
@@ -1793,12 +1623,7 @@ Nobel Prize laureate Demis Hassabis was awarded the Nobel Prize for using AI to 
     </item>
     
     <item>
-        <title><![CDATA[[X] Francois Chollet (2026-06-08): 2 posts]]></title>
-        <link>https://nitter.net/bigaiguy/status/2063903532575752211#m</link>
-        <guid isPermaLink="false">x-grouped-2026-06-08-68d795dd</guid>
-        <pubDate>Mon, 08 Jun 2026 08:38:42 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://nitter.net/bigaiguy/status/2063903532575752211#m">RT by @fchollet: A French engineer who lives quietly in Paris has spent 30 years writing software that the entire internet now runs on without knowing his name.
+        <title><![CDATA[[X] Francois Chollet：RT by @fchollet: A French engineer who lives quietly in Paris has spent 30 years writing software that the entire internet now runs on without knowing his name.
 
 He wrote the code that streams every YouTube video, every Netflix show, every TikTok clip. He wrote the code that runs the virtual servers underneath AWS, Google Cloud, and Microsoft Azure. He calculated more digits of pi than anyone in history. He has no Twitter. He has no marketing. He just keeps shipping.
 
@@ -1830,9 +1655,15 @@ He has no Twitter. He has no Instagram. He gives almost no interviews. His perso
 
 A quiet French engineer who never moved to Silicon Valley wrote the code that quietly runs the internet.
 
-He is still shipping.</a></li>
-<li><a href="https://nitter.net/fchollet/status/2063809469801464007#m">I wrote my first neural networks in pure C, then in Matlab, then in NumPy, before eventually upgrading to Theano. Since then I have seen and tried pretty much every NN framework ever developed. Some are bad, some are good. The good ones understand API design principles.</a></li>
-</ul>]]></description>
+He is still shipping.]]></title>
+        <link>https://nitter.net/bigaiguy/status/2063903532575752211#m</link>
+        <guid isPermaLink="false">x-0e02727110ebbee9</guid>
+        <pubDate>Mon, 08 Jun 2026 08:38:42 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：X</p>
+<p>✍️ 作者：Francois Chollet</p>
+<p>A French engineer who lives quietly in Paris has spent 30 years writing software that the entire internet now runs on without knowing his name.
+
+He wrote the code that streams every YouTube video, eve</p><p><a href="https://nitter.net/bigaiguy/status/2063903532575752211#m">查看原文 →</a></p>]]></description>
         <author><![CDATA[Francois Chollet]]></author>
         <category>X</category>
     </item>
@@ -1850,30 +1681,6 @@ He is still shipping.</a></li>
     </item>
     
     <item>
-        <title><![CDATA[[B站] 华尔街播客：【英文原声】摩根看好泡泡玛特，海外门店与潮玩新周期]]></title>
-        <link>https://www.bilibili.com/video/BV1oPEu6KEwJ</link>
-        <guid isPermaLink="false">bilibili-116712716373960</guid>
-        <pubDate>Mon, 08 Jun 2026 06:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>摩根士丹利跟踪了外部股东H&H国际投资在泡泡玛特的持仓结构变化，分析了其衍生品头寸在期权到期后的潜在调整路径。报告维持对泡泡玛特的正面判断，认为海外门店扩张是吸引新客群、建立复购机制的核心驱动。Labubu与FIFA联名、新品Twinkle Twinkle等是下半年重要观察窗口。中国市场势头保持稳健，海外近期表现趋于稳定。</p><p><a href="https://www.bilibili.com/video/BV1oPEu6KEwJ">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：摩根看好泡泡玛特，海外门店与潮玩新周期]]></title>
-        <link>https://www.bilibili.com/video/BV1jPEu6TEp5</link>
-        <guid isPermaLink="false">bilibili-116712716438937</guid>
-        <pubDate>Mon, 08 Jun 2026 06:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>摩根士丹利跟踪了外部股东H&H国际投资在泡泡玛特的持仓结构变化，分析了其衍生品头寸在期权到期后的潜在调整路径。报告维持对泡泡玛特的正面判断，认为海外门店扩张是吸引新客群、建立复购机制的核心驱动。Labubu与FIFA联名、新品Twinkle Twinkle等是下半年重要观察窗口。中国市场势头保持稳健，海外近期表现趋于稳定。</p><p><a href="https://www.bilibili.com/video/BV1jPEu6TEp5">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
         <title><![CDATA[[B站] 罗翔说刑法：【独家视频】习近平抵达平壤 金正恩夫妇到机场迎接]]></title>
         <link>https://www.bilibili.com/video/BV19VEu6FEPZ</link>
         <guid isPermaLink="false">bilibili-116712682821691</guid>
@@ -1881,107 +1688,6 @@ He is still shipping.</a></li>
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：罗翔说刑法</p>
 <p><a href="https://www.bilibili.com/video/BV19VEu6FEPZ">查看原文 →</a></p>]]></description>
-        <author><![CDATA[罗翔说刑法]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：【英文原声】花旗看好宁德时代，储能爆发与全球化战略]]></title>
-        <link>https://www.bilibili.com/video/BV19gEu6wErU</link>
-        <guid isPermaLink="false">bilibili-116712649262788</guid>
-        <pubDate>Mon, 08 Jun 2026 04:45:06 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>花旗在一季报后更新了宁德时代模型，上调了2026至2028年盈利预测。报告预计2026年电池出货量将首次突破1太瓦时里程碑，其中储能业务增速接近翻倍，是核心驱动。匈牙利欧洲产能项目持续推进，美国市场采取技术授权模式，全球布局框架日趋清晰。花旗维持对宁德时代的正面看法，继续列为首选推荐标的。</p><p><a href="https://www.bilibili.com/video/BV19gEu6wErU">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：花旗看好宁德时代，储能爆发与全球化战略]]></title>
-        <link>https://www.bilibili.com/video/BV1cXEM6yEdV</link>
-        <guid isPermaLink="false">bilibili-116712632487310</guid>
-        <pubDate>Mon, 08 Jun 2026 04:39:56 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>花旗在一季报后更新了宁德时代模型，上调了2026至2028年盈利预测。报告预计2026年电池出货量将首次突破1太瓦时里程碑，其中储能业务增速接近翻倍，是核心驱动。匈牙利欧洲产能项目持续推进，美国市场采取技术授权模式，全球布局框架日趋清晰。花旗维持对宁德时代的正面看法，继续列为首选推荐标的。</p><p><a href="https://www.bilibili.com/video/BV1cXEM6yEdV">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 罗翔说刑法：吃一顿，管五年！我国科学家破解深海“耐饿王”生存密码]]></title>
-        <link>https://www.bilibili.com/video/BV1wQEK6qE18</link>
-        <guid isPermaLink="false">bilibili-116711810404358</guid>
-        <pubDate>Mon, 08 Jun 2026 01:09:08 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：罗翔说刑法</p>
-<p><a href="https://www.bilibili.com/video/BV1wQEK6qE18">查看原文 →</a></p>]]></description>
-        <author><![CDATA[罗翔说刑法]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Sam Altman：interesting recursive loop here maybe]]></title>
-        <link>https://nitter.net/sama/status/2063779477419901071#m</link>
-        <guid isPermaLink="false">x-b52d6371260a13cb</guid>
-        <pubDate>Mon, 08 Jun 2026 00:25:45 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：X</p>
-<p>✍️ 作者：Sam Altman</p>
-<p>interesting recursive loop here maybe
-
-
-Tibo (@thsottiaux)
-
-I have a new kind of big button that I can press for Codex. Over the next 100 days, we will select one person per day who does impressive or</p><p><a href="https://nitter.net/sama/status/2063779477419901071#m">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Sam Altman]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Sebastian Raschka：x.com/i/article/206364780743…]]></title>
-        <link>https://nitter.net/rasbt/status/2063649136323252397#m</link>
-        <guid isPermaLink="false">x-8587c09618f73204</guid>
-        <pubDate>Sun, 07 Jun 2026 15:47:49 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：X</p>
-<p>✍️ 作者：Sebastian Raschka</p>
-<p>x.com/i/article/206364780743…</p><p><a href="https://nitter.net/rasbt/status/2063649136323252397#m">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Sebastian Raschka]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 罗翔说刑法：【财经调查】央视曝光劣质回收料牙刷]]></title>
-        <link>https://www.bilibili.com/video/BV1otEh6FEuh</link>
-        <guid isPermaLink="false">bilibili-116709478438543</guid>
-        <pubDate>Sun, 07 Jun 2026 15:18:58 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：罗翔说刑法</p>
-<p><a href="https://www.bilibili.com/video/BV1otEh6FEuh">查看原文 →</a></p>]]></description>
-        <author><![CDATA[罗翔说刑法]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 罗翔说刑法：【世界周刊】超级“厄尔尼诺”要来了？]]></title>
-        <link>https://www.bilibili.com/video/BV11uEh6GEtX</link>
-        <guid isPermaLink="false">bilibili-116709411262570</guid>
-        <pubDate>Sun, 07 Jun 2026 15:00:39 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：罗翔说刑法</p>
-<p><a href="https://www.bilibili.com/video/BV11uEh6GEtX">查看原文 →</a></p>]]></description>
-        <author><![CDATA[罗翔说刑法]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 罗翔说刑法：【世界周刊】黎以战火重燃]]></title>
-        <link>https://www.bilibili.com/video/BV1rLEh6MEmb</link>
-        <guid isPermaLink="false">bilibili-116709344157379</guid>
-        <pubDate>Sun, 07 Jun 2026 14:48:58 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：罗翔说刑法</p>
-<p><a href="https://www.bilibili.com/video/BV1rLEh6MEmb">查看原文 →</a></p>]]></description>
         <author><![CDATA[罗翔说刑法]]></author>
         <category>B站</category>
     </item>

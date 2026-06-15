@@ -14,7 +14,7 @@ from crawlers.xiaohongshu import XiaohongshuCrawler
 from crawlers.rss_source import RssSourceCrawler
 from storage.db import insert_item, log_crawl
 from digest.generator import generate_digest
-from feed.generator import generate_feed, group_by_author_day
+from feed.generator import generate_feed, group_by_author_day, group_by_category
 
 # 配置日志
 logging.basicConfig(
@@ -185,6 +185,7 @@ def run():
     # 5. Build stream mapping and group-daily authors from config
     stream_map = {}  # {(platform, author_id): stream}
     group_author_ids = set()  # {(platform, author_id)} to group daily
+    category_map = {}  # {(platform, author_id): category} for cross-author merge
     subs = config.get("subscriptions") or {}
     for platform in subs:
         for sub in subs.get(platform) or []:
@@ -193,11 +194,15 @@ def run():
                 stream_map[(platform, sid)] = sub.get("stream", "tech")
                 if sub.get("group_daily"):
                     group_author_ids.add((platform, sid))
+                if sub.get("group"):
+                    category_map[(platform, sid)] = sub["group"]
     for src in config.get("rss_sources", []):
         aid = hashlib.md5(src["url"].encode()).hexdigest()[:12]
         stream_map[(src["platform"], aid)] = src.get("stream", "tech")
         if src.get("group_daily"):
             group_author_ids.add((src["platform"], aid))
+        if src.get("group"):
+            category_map[(src["platform"], aid)] = src["group"]
 
     # 6. Generate RSS feeds per stream
     feed_config = config.get("feed", {})
@@ -232,6 +237,7 @@ def run():
                 stream_items.append(item)
 
         stream_items = group_by_author_day(stream_items, author_ids=group_author_ids)
+        stream_items = group_by_category(stream_items, category_map)
         stream_items_map[stream_key] = stream_items[:max_items]
 
     # Build daily run log
@@ -287,7 +293,7 @@ def run():
         "link": feed_config.get("link", ""),
         "language": feed_config.get("language", "zh-CN"),
     }
-    combined_items = [run_log] + group_by_author_day(recent_items, author_ids=group_author_ids)[:max_items]
+    combined_items = [run_log] + group_by_category(group_by_author_day(recent_items, author_ids=group_author_ids), category_map)[:max_items]
     generate_feed(all_config, combined_items, digest, all_feed_url, filename="feed.xml")
     logger.info(f"Feed [combined] written for backward compatibility")
 
