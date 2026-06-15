@@ -5,15 +5,15 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 15 Jun 2026 10:29:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 11:13:45 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 06月15日 10:29 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 06月15日 11:13 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
         <guid isPermaLink="false">digest-2026-06-15</guid>
-        <pubDate>Mon, 15 Jun 2026 10:29:23 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ☁️ GitHub Actions (手动触发)</p><p><b>📡 技术资讯流 (tech):</b> 55 items</p><p><b>🎮 生活分享流 (life):</b> 31 items</p><p><b>🆕 本次新增:</b> 20 items</p><p><b>📦 数据库总量:</b> 817 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 手动触发</p>]]></description>
+        <pubDate>Mon, 15 Jun 2026 11:13:45 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ☁️ GitHub Actions (手动触发)</p><p><b>📡 技术资讯流 (tech):</b> 49 items</p><p><b>🎮 生活分享流 (life):</b> 33 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 831 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 手动触发</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -1555,18 +1555,6 @@ A few humble name proposals for the new overhaul:
     </item>
     
     <item>
-        <title><![CDATA[[B站] 罗翔说刑法：【独家视频】习近平：时隔七年再次到访美丽的平壤 我感到十分高兴 也格外亲切]]></title>
-        <link>https://www.bilibili.com/video/BV1nsEG6JEC2</link>
-        <guid isPermaLink="false">bilibili-116714813527714</guid>
-        <pubDate>Mon, 08 Jun 2026 13:57:31 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：罗翔说刑法</p>
-<p><a href="https://www.bilibili.com/video/BV1nsEG6JEC2">查看原文 →</a></p>]]></description>
-        <author><![CDATA[罗翔说刑法]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
         <title><![CDATA[[X] Demis Hassabis：RT by @demishassabis: “In the next 10 years we are going to be entering what I feel like is a new renaissance.”
  
 Nobel Prize laureate Demis Hassabis was awarded the Nobel Prize for using AI to predict the structure of proteins. For him, AI is a tool that will help scientists make even more discoveries in the years to come.
@@ -1584,42 +1572,6 @@ Watch the full event at https://www.nobelprize.org/events/nobel-prize-dialogue/l
 Nobel Prize laureate Demis Hassabis was awarded the Nobel Prize for using AI to predict the structure of pro</p><p><a href="https://nitter.net/NobelPrize/status/2063977058170999203#m">查看原文 →</a></p>]]></description>
         <author><![CDATA[Demis Hassabis]]></author>
         <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 罗翔说刑法：习近平同金正恩举行会谈]]></title>
-        <link>https://www.bilibili.com/video/BV1gnEu6xEnB</link>
-        <guid isPermaLink="false">bilibili-116714410939654</guid>
-        <pubDate>Mon, 08 Jun 2026 12:12:01 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：罗翔说刑法</p>
-<p><a href="https://www.bilibili.com/video/BV1gnEu6xEnB">查看原文 →</a></p>]]></description>
-        <author><![CDATA[罗翔说刑法]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 罗翔说刑法：习近平出席金正恩举行的欢迎仪式]]></title>
-        <link>https://www.bilibili.com/video/BV1SAEg6dEVi</link>
-        <guid isPermaLink="false">bilibili-116713941177710</guid>
-        <pubDate>Mon, 08 Jun 2026 10:21:42 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：罗翔说刑法</p>
-<p><a href="https://www.bilibili.com/video/BV1SAEg6dEVi">查看原文 →</a></p>]]></description>
-        <author><![CDATA[罗翔说刑法]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 罗翔说刑法：习近平抵达平壤开始对朝鲜进行国事访问]]></title>
-        <link>https://www.bilibili.com/video/BV1LYEg6KEHX</link>
-        <guid isPermaLink="false">bilibili-116713689452954</guid>
-        <pubDate>Mon, 08 Jun 2026 09:10:18 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：罗翔说刑法</p>
-<p><a href="https://www.bilibili.com/video/BV1LYEg6KEHX">查看原文 →</a></p>]]></description>
-        <author><![CDATA[罗翔说刑法]]></author>
-        <category>B站</category>
     </item>
     
     <item>
@@ -1666,30 +1618,6 @@ He is still shipping.]]></title>
 He wrote the code that streams every YouTube video, eve</p><p><a href="https://nitter.net/bigaiguy/status/2063903532575752211#m">查看原文 →</a></p>]]></description>
         <author><![CDATA[Francois Chollet]]></author>
         <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 罗翔说刑法：【独家视频】习近平出席金正恩举行的欢迎仪式]]></title>
-        <link>https://www.bilibili.com/video/BV1bcEM6JE3W</link>
-        <guid isPermaLink="false">bilibili-116713135805782</guid>
-        <pubDate>Mon, 08 Jun 2026 06:48:23 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：罗翔说刑法</p>
-<p><a href="https://www.bilibili.com/video/BV1bcEM6JE3W">查看原文 →</a></p>]]></description>
-        <author><![CDATA[罗翔说刑法]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 罗翔说刑法：【独家视频】习近平抵达平壤 金正恩夫妇到机场迎接]]></title>
-        <link>https://www.bilibili.com/video/BV19VEu6FEPZ</link>
-        <guid isPermaLink="false">bilibili-116712682821691</guid>
-        <pubDate>Mon, 08 Jun 2026 04:52:52 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：罗翔说刑法</p>
-<p><a href="https://www.bilibili.com/video/BV19VEu6FEPZ">查看原文 →</a></p>]]></description>
-        <author><![CDATA[罗翔说刑法]]></author>
-        <category>B站</category>
     </item>
     
 </channel>

@@ -5,15 +5,15 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 15 Jun 2026 10:29:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 11:13:45 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 06月15日 10:29 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 06月15日 11:13 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
         <guid isPermaLink="false">digest-2026-06-15</guid>
-        <pubDate>Mon, 15 Jun 2026 10:29:23 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ☁️ GitHub Actions (手动触发)</p><p><b>📡 技术资讯流 (tech):</b> 55 items</p><p><b>🎮 生活分享流 (life):</b> 31 items</p><p><b>🆕 本次新增:</b> 20 items</p><p><b>📦 数据库总量:</b> 817 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 手动触发</p>]]></description>
+        <pubDate>Mon, 15 Jun 2026 11:13:45 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ☁️ GitHub Actions (手动触发)</p><p><b>📡 技术资讯流 (tech):</b> 49 items</p><p><b>🎮 生活分享流 (life):</b> 33 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 831 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 手动触发</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -60,6 +60,18 @@
     </item>
     
     <item>
+        <title><![CDATA[[B站] 新西兰三妹：川普今80岁生日办UFC笼格斗! 伊朗军方：美国和以色列“接受投降”! 沈逸 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV1vrJ36kEPY</link>
+        <guid isPermaLink="false">bilibili-116752377710083</guid>
+        <pubDate>Mon, 15 Jun 2026 05:11:57 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV1vrJ36kEPY">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[X] Ethan Mollick (2026-06-15): 6 posts]]></title>
         <link>https://nitter.net/emollick/status/2066377646481547324#m</link>
         <guid isPermaLink="false">x-grouped-2026-06-15-c43d5de7</guid>
@@ -78,6 +90,22 @@ That model loved/loves software development and UX jargon more than any other mo
 </ul>]]></description>
         <author><![CDATA[Ethan Mollick]]></author>
         <category>X</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Mr-Pot：【中英字幕】NBC《与媒体见面》26.06.14完整版]]></title>
+        <link>https://www.bilibili.com/video/BV1WwJg6nEhU</link>
+        <guid isPermaLink="false">bilibili-116751320750124</guid>
+        <pubDate>Mon, 15 Jun 2026 04:18:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：Mr-Pot</p>
+<p>本期视频标题：特朗普80岁生日当口，美伊“停战协议”能否落地？  
+本期视频要点：  
+1、特朗普声称“今日”与伊朗签署停战谅解备忘录，承诺重开霍尔木兹海峡并设定拆除伊朗核设施时间表，但白宫尚未公布最终文本。  
+2、民主党领袖杰弗里斯强硬反驳：战争让伊朗“更强大”、油价飙涨、美国家安全受损，并称该协议缺乏国会立法保障。  
+3、最新NBC民调：特朗普支持率跌至42%创第二任期新低；民主党在普选票</p><p><a href="https://www.bilibili.com/video/BV1WwJg6nEhU">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -1956,18 +1984,6 @@ A few humble name proposals for the new overhaul:
     </item>
     
     <item>
-        <title><![CDATA[[B站] 罗翔说刑法：【独家视频】习近平：时隔七年再次到访美丽的平壤 我感到十分高兴 也格外亲切]]></title>
-        <link>https://www.bilibili.com/video/BV1nsEG6JEC2</link>
-        <guid isPermaLink="false">bilibili-116714813527714</guid>
-        <pubDate>Mon, 08 Jun 2026 13:57:31 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：罗翔说刑法</p>
-<p><a href="https://www.bilibili.com/video/BV1nsEG6JEC2">查看原文 →</a></p>]]></description>
-        <author><![CDATA[罗翔说刑法]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
         <title><![CDATA[[X] Demis Hassabis：RT by @demishassabis: “In the next 10 years we are going to be entering what I feel like is a new renaissance.”
  
 Nobel Prize laureate Demis Hassabis was awarded the Nobel Prize for using AI to predict the structure of proteins. For him, AI is a tool that will help scientists make even more discoveries in the years to come.
@@ -1996,42 +2012,6 @@ Nobel Prize laureate Demis Hassabis was awarded the Nobel Prize for using AI to 
 <p>✍️ 作者：小黛晨读</p>
 <p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1SEEu6dEGC">查看原文 →</a></p>]]></description>
         <author><![CDATA[小黛晨读]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 罗翔说刑法：习近平同金正恩举行会谈]]></title>
-        <link>https://www.bilibili.com/video/BV1gnEu6xEnB</link>
-        <guid isPermaLink="false">bilibili-116714410939654</guid>
-        <pubDate>Mon, 08 Jun 2026 12:12:01 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：罗翔说刑法</p>
-<p><a href="https://www.bilibili.com/video/BV1gnEu6xEnB">查看原文 →</a></p>]]></description>
-        <author><![CDATA[罗翔说刑法]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 罗翔说刑法：习近平出席金正恩举行的欢迎仪式]]></title>
-        <link>https://www.bilibili.com/video/BV1SAEg6dEVi</link>
-        <guid isPermaLink="false">bilibili-116713941177710</guid>
-        <pubDate>Mon, 08 Jun 2026 10:21:42 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：罗翔说刑法</p>
-<p><a href="https://www.bilibili.com/video/BV1SAEg6dEVi">查看原文 →</a></p>]]></description>
-        <author><![CDATA[罗翔说刑法]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 罗翔说刑法：习近平抵达平壤开始对朝鲜进行国事访问]]></title>
-        <link>https://www.bilibili.com/video/BV1LYEg6KEHX</link>
-        <guid isPermaLink="false">bilibili-116713689452954</guid>
-        <pubDate>Mon, 08 Jun 2026 09:10:18 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：罗翔说刑法</p>
-<p><a href="https://www.bilibili.com/video/BV1LYEg6KEHX">查看原文 →</a></p>]]></description>
-        <author><![CDATA[罗翔说刑法]]></author>
         <category>B站</category>
     </item>
     
@@ -2082,18 +2062,6 @@ He wrote the code that streams every YouTube video, eve</p><p><a href="https://n
     </item>
     
     <item>
-        <title><![CDATA[[B站] 罗翔说刑法：【独家视频】习近平出席金正恩举行的欢迎仪式]]></title>
-        <link>https://www.bilibili.com/video/BV1bcEM6JE3W</link>
-        <guid isPermaLink="false">bilibili-116713135805782</guid>
-        <pubDate>Mon, 08 Jun 2026 06:48:23 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：罗翔说刑法</p>
-<p><a href="https://www.bilibili.com/video/BV1bcEM6JE3W">查看原文 →</a></p>]]></description>
-        <author><![CDATA[罗翔说刑法]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
         <title><![CDATA[[B站] 新西兰三妹：以色列防空警报大作! 伊朗发射多轮飞弹! 川普急喊停！沈逸 三妹]]></title>
         <link>https://www.bilibili.com/video/BV1GVEu6cEMG</link>
         <guid isPermaLink="false">bilibili-116712682884863</guid>
@@ -2102,18 +2070,6 @@ He wrote the code that streams every YouTube video, eve</p><p><a href="https://n
 <p>✍️ 作者：新西兰三妹</p>
 <p><a href="https://www.bilibili.com/video/BV1GVEu6cEMG">查看原文 →</a></p>]]></description>
         <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 罗翔说刑法：【独家视频】习近平抵达平壤 金正恩夫妇到机场迎接]]></title>
-        <link>https://www.bilibili.com/video/BV19VEu6FEPZ</link>
-        <guid isPermaLink="false">bilibili-116712682821691</guid>
-        <pubDate>Mon, 08 Jun 2026 04:52:52 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：罗翔说刑法</p>
-<p><a href="https://www.bilibili.com/video/BV19VEu6FEPZ">查看原文 →</a></p>]]></description>
-        <author><![CDATA[罗翔说刑法]]></author>
         <category>B站</category>
     </item>
     

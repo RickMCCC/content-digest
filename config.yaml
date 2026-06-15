@@ -98,6 +98,9 @@ subscriptions:
     - id: "487506341"
       name: "Yunaty日本語"                # 微博：Yunaty日本語
       stream: "life"
+    - id: "22609783"
+      name: "元儿Yuanr"                  # 舞蹈区UP主
+      stream: "life"
 
   xiaohongshu:
     - id: "5bf7d30643e93c0001a852b8"

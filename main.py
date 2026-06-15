@@ -232,7 +232,7 @@ def run():
                         item_stream = src.get("stream", "tech")
                         break
             if item_stream is None:
-                item_stream = "tech"
+                continue  # skip items from authors no longer in config
             if item_stream == stream_key:
                 stream_items.append(item)
 
@@ -293,7 +293,12 @@ def run():
         "link": feed_config.get("link", ""),
         "language": feed_config.get("language", "zh-CN"),
     }
-    combined_items = [run_log] + group_by_category(group_by_author_day(recent_items, author_ids=group_author_ids), category_map)[:max_items]
+    # Filter to only items from active subscriptions then group
+    active_items = [
+        it for it in recent_items
+        if (it["platform"], it.get("author_id", "")) in stream_map
+    ]
+    combined_items = [run_log] + group_by_category(group_by_author_day(active_items, author_ids=group_author_ids), category_map)[:max_items]
     generate_feed(all_config, combined_items, digest, all_feed_url, filename="feed.xml")
     logger.info(f"Feed [combined] written for backward compatibility")
 
