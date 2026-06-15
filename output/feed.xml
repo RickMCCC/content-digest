@@ -5,78 +5,111 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 15 Jun 2026 11:13:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 20:38:03 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 06月15日 11:13 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 06月15日 20:38 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
         <guid isPermaLink="false">digest-2026-06-15</guid>
-        <pubDate>Mon, 15 Jun 2026 11:13:45 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ☁️ GitHub Actions (手动触发)</p><p><b>📡 技术资讯流 (tech):</b> 49 items</p><p><b>🎮 生活分享流 (life):</b> 33 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 831 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 手动触发</p>]]></description>
+        <pubDate>Mon, 15 Jun 2026 20:38:03 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> 🟢 本地 PC 在线</p><p><b>📡 技术资讯流 (tech):</b> 51 items</p><p><b>🎮 生活分享流 (life):</b> 35 items</p><p><b>🆕 本次新增:</b> 37 items</p><p><b>📦 数据库总量:</b> 868 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 在线 | GitHub Actions: 未触发</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-06-15): 6 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1KrJG6aEEy</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-06-15-d13e0e33</guid>
-        <pubDate>Mon, 15 Jun 2026 10:21:01 GMT</pubDate>
+        <title><![CDATA[[X] Ethan Mollick (2026-06-16): 6 posts]]></title>
+        <link>https://nitter.net/emollick/status/2066599457848766626#m</link>
+        <guid isPermaLink="false">x-grouped-2026-06-16-c43d5de7</guid>
+        <pubDate>Mon, 15 Jun 2026 19:11:20 GMT</pubDate>
         <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1KrJG6aEEy">高盛观望中国市场，宏观转暖，板块却分化</a></li>
-<li><a href="https://www.bilibili.com/video/BV1KrJG6aENK">高盛观望中国市场，宏观转暖，板块却分化</a></li>
-<li><a href="https://www.bilibili.com/video/BV1UjJV6qEps">【英文原声】摩根看好宁德时代，龙头集中度持续提升中</a></li>
-<li><a href="https://www.bilibili.com/video/BV1UjJV6qEKc">摩根看好宁德时代，龙头集中度持续提升中</a></li>
-<li><a href="https://www.bilibili.com/video/BV1mJJV6vEpn">【英文原声】野村观望半导体封装，先进封装竞争生变局</a></li>
-<li><a href="https://www.bilibili.com/video/BV12JJV6vEsF">野村观望半导体封装，先进封装竞争生变局</a></li>
+<li><a href="https://nitter.net/emollick/status/2066599457848766626#m">Fable was really good, as I wrote last week after testing it.
+
+It was a leap, but that may because, as exponential gains progress, the improvements in each incremental release are increasingly large. If so, Anthropic will not be the only lab making leaps. https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos</a></li>
+<li><a href="https://nitter.net/emollick/status/2066578892622541004#m">R to @emollick: Also better than being asked about wet Claude.</a></li>
+<li><a href="https://nitter.net/emollick/status/2066578565076746667#m">The le chaton fat meme is leaking to the outside world and I expect to be asked about Mistral's new ginormous cat model with infinite benchmark scores at my next meeting with corporate leaders.
+
+I guess it is better than being asked about the "MIT pilot AI study."</a></li>
+<li><a href="https://nitter.net/emollick/status/2066563652681892133#m">Very clever. And matches what I would expect: models are weak on vision relative to everything else, so visual steps are where errors accumulate most in workflows.</a></li>
+<li><a href="https://nitter.net/emollick/status/2066558338670760226#m">R to @emollick: And AI systems may never be jailbreak-proof or hallucination free. And individual queries may matter less than a bad actor breaking a problem down into pieces and feeding it through multiple projects and prompts. And AIs themselves may change behavior unpredictably with context.</a></li>
+<li><a href="https://nitter.net/emollick/status/2066557403877752915#m">Bright regulatory lines for AI are inherently complicated because models are just a piece of the puzzle: harnesses can make models more capable, a less capable open system may be more or less riskier than a more capable closed one, skills/connected systems change risk levels, etc</a></li>
 </ul>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
+        <author><![CDATA[Ethan Mollick]]></author>
+        <category>X</category>
     </item>
     
     <item>
-        <title><![CDATA[[B站] 小Lin说：AI怎么就成了能源之战？大厂们准备怎么战？]]></title>
-        <link>https://www.bilibili.com/video/BV1TqJg64EhU</link>
-        <guid isPermaLink="false">bilibili-116752881030940</guid>
-        <pubDate>Mon, 15 Jun 2026 10:09:22 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小Lin说</p>
-<p><a href="https://www.bilibili.com/video/BV1TqJg64EhU">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小Lin说]]></author>
-        <category>B站</category>
+        <title><![CDATA[[X] AI资讯聚合 (2026-06-16): 2 posts]]></title>
+        <link>https://nitter.net/Gradio/status/2066580498143649937#m</link>
+        <guid isPermaLink="false">x-cat-127ec8f8-2026-06-16</guid>
+        <pubDate>Mon, 15 Jun 2026 17:56:00 GMT</pubDate>
+        <description><![CDATA[<h4>AI资讯聚合 · 2位作者 · 2条</h4>
+<h5>AK (论文速递)</h5>
+<ul><li><a href="https://nitter.net/Gradio/status/2066580498143649937#m">RT by @_akhaliq: Build Small hackathon closes in just 6 hours!
+
+We’ll disable updates & stop accepting new Spaces in the Hackathon Org after the deadline.
+
+Please do a final README check for tags, demo video, social link, & team member HF usernames.
+
+👉Validate your app: https://build-small-hackathon-field-guide.hf.space/submit</a></li></ul>
+<h5>Rowan Cheung</h5>
+<ul><li><a href="https://nitter.net/TheRundownAI/status/2066559132963131523#m">RT by @rowancheung: Anthropic, the U.S. government, and the Mythos/Fable shutdown - a roundup of the latest news:
+
+- Senior Anthropic staff are reportedly meeting with government officials in Washington today to try and diffuse the situation
+
+- Axios sources framing the issue as a communication breakdown: "
+
+"Anthropic has not done a great job at trying to speak to the administration and appreciate the ideological differences," one source familiar with the administration's thinking said.
+
+"It's like they just speak in different languages," the source said, adding that the company has simply not figured out how to communicate with this administration.
+
+- The Washington Post sources dispute the government's stance that CEO Dario Amodei refused to work with them on the safety issue, and were given just 90 minutes to comply with the order.
+
+“Dario agreed to fix the problem if it was real, but they were never given anything until people started flagging this Amazon report,” one of the people said.
+
+- Security researchers disagree with Trump admin on the alleged Fable jailbreak risk.
+
+An open letter from titled "On Transparent AI Cyber Protections" details why Fable should be restored:
+
+"We, the undersigned executives and technical leaders from across the United States and its allies, write to you to ask you to lift the export control directives on Anthropic’s Fable and Mythos large language models and commit to an open, scientific and transparent process of handling AI risk assessments in the future."
+
+Currently signed by dozens of researchers and industry members.</a></li></ul>]]></description>
+        <author><![CDATA[AI资讯聚合]]></author>
+        <category>X</category>
     </item>
     
     <item>
-        <title><![CDATA[[B站] 鹿头军师：中国制造如何一步步占领世界杯【解读中国经济番外篇9】]]></title>
-        <link>https://www.bilibili.com/video/BV1T7J36FEY1</link>
-        <guid isPermaLink="false">bilibili-116752646217027</guid>
-        <pubDate>Mon, 15 Jun 2026 06:21:52 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：鹿头军师</p>
-<p>辛苦各位老板点赞关注。</p><p><a href="https://www.bilibili.com/video/BV1T7J36FEY1">查看原文 →</a></p>]]></description>
-        <author><![CDATA[鹿头军师]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：川普今80岁生日办UFC笼格斗! 伊朗军方：美国和以色列“接受投降”! 沈逸 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV1vrJ36kEPY</link>
-        <guid isPermaLink="false">bilibili-116752377710083</guid>
-        <pubDate>Mon, 15 Jun 2026 05:11:57 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV1vrJ36kEPY">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Ethan Mollick (2026-06-15): 6 posts]]></title>
-        <link>https://nitter.net/emollick/status/2066377646481547324#m</link>
-        <guid isPermaLink="false">x-grouped-2026-06-15-c43d5de7</guid>
-        <pubDate>Mon, 15 Jun 2026 04:29:57 GMT</pubDate>
+        <title><![CDATA[[X] Francois Chollet (2026-06-16): 2 posts]]></title>
+        <link>https://nitter.net/fchollet/status/2066554426551390457#m</link>
+        <guid isPermaLink="false">x-grouped-2026-06-16-68d795dd</guid>
+        <pubDate>Mon, 15 Jun 2026 16:12:24 GMT</pubDate>
         <description><![CDATA[<ul>
+<li><a href="https://nitter.net/fchollet/status/2066554426551390457#m">R to @fchollet: We desperately need standardized benchmarks for agentic capabilities instead of panic-reacting to prompt-engineering parlor tricks. Until we can objectively and transparently measure what these systems actually do, the entire ecosystem will remain vulnerable to unpredictable and arbitrary government overreach.</a></li>
+<li><a href="https://nitter.net/fchollet/status/2066554345345147288#m">Even if you are in favor of AI regulation, you should recognize that opaque and arbitrary regulatory strikes are counter-productive for the whole industry.</a></li>
+</ul>]]></description>
+        <author><![CDATA[Francois Chollet]]></author>
+        <category>X</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[X] AI教育实践 (2026-06-15): 13 posts]]></title>
+        <link>https://nitter.net/emollick/status/2066543254644928885#m</link>
+        <guid isPermaLink="false">x-cat-919c55bf-2026-06-15</guid>
+        <pubDate>Mon, 15 Jun 2026 15:28:01 GMT</pubDate>
+        <description><![CDATA[<h4>AI教育实践 · 2位作者 · 13条</h4>
+<h5>Ethan Mollick · 10条</h5>
+<ul>
+<li><a href="https://nitter.net/emollick/status/2066543254644928885#m">Weird headline - I am not sure solving 7 out of 10 novel very hard problems meant AI "did not live up to the task," when 15 months ago LLMs couldn't do math.
+
+But the actual study is interesting and illuminates flaws & successes of AIs in math. https://1stproof.org/assets/docs/report.pdf</a></li>
+<li><a href="https://nitter.net/emollick/status/2066536243811201053#m">R to @emollick: Current open models are now good enough to pull off some of these projects if scaffolded properly while others (co-scientist) benefit from the AI frontier.
+
+Because of that, this is an area where nations without frontier labs could contribute to the impact of AI for public good.</a></li>
+<li><a href="https://nitter.net/emollick/status/2066534666257973523#m">It is a good time for moonshots.
+
+AI has reached a level where there are transformative projects that could result in huge social good, but require public R&D, consensus & transparency to pull off. Examples: universal tutors, co-scientist/replication systems, remote medical help.</a></li>
+<li><a href="https://nitter.net/emollick/status/2066532655772950590#m">Deleted a tweet on the fact that API users don't understand how much more powerful the frontier models are in native harnesses since I didn't differentiate in the post (limited characters!) between folks carefully evaluating other harnesses for tasks & those just using naked API.</a></li>
 <li><a href="https://nitter.net/emollick/status/2066377646481547324#m">R to @emollick: Github (uploaded by Claude 4.8 Opus, which also added a text size slider, I didn't let Opus touch the somewhat odd prose that was typical of Fable 5): https://github.com/emollick/superluminal</a></li>
 <li><a href="https://nitter.net/emollick/status/2066303566449418739#m">This is a good methodological thread on the debate over a new paper that suggests generalist models beat specialized medical AIs. (And a good overview of the challenges of benchmarking AIs in medicine)</a></li>
 <li><a href="https://nitter.net/emollick/status/2066301578194166046#m">This (from a Google Deepmind researcher) is super interesting, when one AI model is used to help train the next one, the new model can pick up strange habits from the old model & it is hard to filter them
@@ -87,69 +120,37 @@ That may help explain why models from the same family can feel so similar</a></l
 That model loved/loves software development and UX jargon more than any other model I have used.</a></li>
 <li><a href="https://nitter.net/emollick/status/2066250548790083851#m">We don’t honestly know the best approaches to rebuilding companies around AI agents, especially in ways that expand competitive advantage & augment existing human capabilities. Practical agents are merely months old. Experimentation (and productive failures) will be required.</a></li>
 <li><a href="https://nitter.net/emollick/status/2066191508579975482#m">Two days later and the situation is still confusing.</a></li>
+</ul>
+<h5>Simon Willison · 3条</h5>
+<ul>
+<li><a href="https://nitter.net/simonw/status/2066541619650953497#m">R to @simonw: Here's that document https://www.anthropic.com/legal/privacy - this is the new verification language</a></li>
+<li><a href="https://nitter.net/simonw/status/2066541206402969672#m">Important to note that Anthropic's new privacy policy with language about collecting "verification data" was published on June 8th, the day before the Claude Fable 5 release and four days before the US Government export ban</a></li>
+<li><a href="https://nitter.net/simonw/status/2066495053221286271#m">Doesn't sound like we'll be getting Fable back very soon, then</a></li>
 </ul>]]></description>
-        <author><![CDATA[Ethan Mollick]]></author>
+        <author><![CDATA[AI教育实践]]></author>
         <category>X</category>
     </item>
     
     <item>
-        <title><![CDATA[[B站] Mr-Pot：【中英字幕】NBC《与媒体见面》26.06.14完整版]]></title>
-        <link>https://www.bilibili.com/video/BV1WwJg6nEhU</link>
-        <guid isPermaLink="false">bilibili-116751320750124</guid>
-        <pubDate>Mon, 15 Jun 2026 04:18:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Mr-Pot</p>
-<p>本期视频标题：特朗普80岁生日当口，美伊“停战协议”能否落地？  
-本期视频要点：  
-1、特朗普声称“今日”与伊朗签署停战谅解备忘录，承诺重开霍尔木兹海峡并设定拆除伊朗核设施时间表，但白宫尚未公布最终文本。  
-2、民主党领袖杰弗里斯强硬反驳：战争让伊朗“更强大”、油价飙涨、美国家安全受损，并称该协议缺乏国会立法保障。  
-3、最新NBC民调：特朗普支持率跌至42%创第二任期新低；民主党在普选票</p><p><a href="https://www.bilibili.com/video/BV1WwJg6nEhU">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Dwarkesh Patel：RT by @dwarkesh_sp: Seeing some ppl interpreting the Fable shutdown as positive news on govt intervention
+        <title><![CDATA[[X] Clem (HF CEO) (2026-06-15): 6 posts]]></title>
+        <link>https://nitter.net/mignano/status/2066535541651243294#m</link>
+        <guid isPermaLink="false">x-grouped-2026-06-15-55c94613</guid>
+        <pubDate>Mon, 15 Jun 2026 14:57:22 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://nitter.net/mignano/status/2066535541651243294#m">RT by @ClementDelangue: For the first time in ~3 years, it feels like the AI table has been flipped over. Yes, the labs and hyperscalers will have the highest chance of resetting it before everyone else, given their vast capital, frontier model, and compute advantages.
 
-But i don't think we'll execute a pause well*, or use the pause effectively, if the govt has NO idea how ai tech works and just wades in arbitrarily without consulting experts
+But there is now a window for a new ecosystem to emerge. A "rebel alliance," which is what we're calling it at @USV.
 
-it's def evidence for "govt might do lots of random extreme stuff" -- and that's prob good if you're p(doom) is v high and you want to fuck shit up and shake up the game board. but still, if you think alignment is v hard then ultimately we need sane ppl in charge to handle it
+We are excited by open weight models, distributed compute, human-aligned agents, routing, open source harnesses, the orchestration layer, and a lot more.
 
-*executing a pause well is hard! You need to figure out effective verification, strike a deal with China, avoid  extreme power concentration, catch rogue projects, maintain safety standards even as many unsafe projects catch up to the frontier]]></title>
-        <link>https://nitter.net/TomDavidsonX/status/2066273525246443629#m</link>
-        <guid isPermaLink="false">x-8e6db7f8b304e8b4</guid>
-        <pubDate>Sun, 14 Jun 2026 21:36:12 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：X</p>
-<p>✍️ 作者：Dwarkesh Patel</p>
-<p>Seeing some ppl interpreting the Fable shutdown as positive news on govt intervention
+Basically, anything that gives people and enterprises powerful intelligence while maintaining tight incentive alignment, we're into it.</a></li>
+<li><a href="https://nitter.net/levie/status/2066526720480690221#m">RT by @ClementDelangue: Open source going to win big</a></li>
+<li><a href="https://nitter.net/ClementDelangue/status/2066524369195532312#m">Love this framing from Lin: it’s time for all to own intelligence instead of renting it!</a></li>
+<li><a href="https://nitter.net/ClementDelangue/status/2066506436524327228#m">"The last thing any of us want is a world where every company across every sector is ceding value to a few models that eat everything they see. If all the value is accrued by only a few models, the political economy will simply not tolerate it. There is no societal permission for an AI future that hollows out entire industries."
 
-But i don't think we'll execute a pause well*, or use the pause effectively, if the govt has NO idea how ai tech </p><p><a href="https://nitter.net/TomDavidsonX/status/2066273525246443629#m">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Dwarkesh Patel]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] AK (论文速递)：RT by @_akhaliq: This is what open AI acceleration looks like
-
-From DeepSeek v3.2 all the way to @MiniMax_AI M3
-
-See https://paperswithcode.co/benchmark/claw-eval]]></title>
-        <link>https://nitter.net/NielsRogge/status/2066251594073530552#m</link>
-        <guid isPermaLink="false">x-7d989a8add5ec9aa</guid>
-        <pubDate>Sun, 14 Jun 2026 20:09:03 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：X</p>
-<p>✍️ 作者：AK (论文速递)</p>
-<p>This is what open AI acceleration looks like
-
-From DeepSeek v3.2 all the way to @MiniMax_AI M3
-
-See paperswithcode.co/benchmark/…</p><p><a href="https://nitter.net/NielsRogge/status/2066251594073530552#m">查看原文 →</a></p>]]></description>
-        <author><![CDATA[AK (论文速递)]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Clem (HF CEO)：RT by @ClementDelangue: 🖥️ Best Local LLMs for Consumer GPUs — llama.cpp Guide (June 2026)
+Even the CEO of Microsoft agrees that concentration of power, capabilities and wealth is a challenge in AI!</a></li>
+<li><a href="https://nitter.net/garrytan/status/2066307697574862905#m">RT by @ClementDelangue: Open source is the escape hatch for businesses to be able to continue to control their own destiny long term</a></li>
+<li><a href="https://nitter.net/TraffAlex/status/2066236717015728227#m">RT by @ClementDelangue: 🖥️ Best Local LLMs for Consumer GPUs — llama.cpp Guide (June 2026)
 
 What I actually run on consumer hardware right now. Every model below runs via llama.cpp with a simple one-liner — no Docker, no Python env, no cloud.
 
@@ -395,16 +396,144 @@ Set any OpenAI-compatible client to your local endpoint:
    set OPENAI_BASE_URL=http://localhost:8080/v1
    # every OpenAI-compatible tool now hits your local GPU
 
-Shoutouts: @0xSero @rS_alonewolf @witcheer @UnslothAI @LottoLabs]]></title>
-        <link>https://nitter.net/TraffAlex/status/2066236717015728227#m</link>
-        <guid isPermaLink="false">x-e917ed5d00e3e0b8</guid>
-        <pubDate>Sun, 14 Jun 2026 19:09:56 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：X</p>
-<p>✍️ 作者：Clem (HF CEO)</p>
-<p>🖥️ Best Local LLMs for Consumer GPUs — llama.cpp Guide (June 2026)
-
-What I actually run on consumer hardware right now. Every model below runs via llama.cpp with a simple one-liner — no Docker, no Pyt</p><p><a href="https://nitter.net/TraffAlex/status/2066236717015728227#m">查看原文 →</a></p>]]></description>
+Shoutouts: @0xSero @rS_alonewolf @witcheer @UnslothAI @LottoLabs</a></li>
+</ul>]]></description>
         <author><![CDATA[Clem (HF CEO)]]></author>
+        <category>X</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客 (2026-06-15): 8 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1mBjN6zESN</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-06-15-d13e0e33</guid>
+        <pubDate>Mon, 15 Jun 2026 14:33:01 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1mBjN6zESN">【英文原声】《华尔街日报》6月15日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1UBjN6zE7L">《华尔街日报》6月15日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1KrJG6aEEy">高盛观望中国市场，宏观转暖，板块却分化</a></li>
+<li><a href="https://www.bilibili.com/video/BV1KrJG6aENK">高盛观望中国市场，宏观转暖，板块却分化</a></li>
+<li><a href="https://www.bilibili.com/video/BV1UjJV6qEps">【英文原声】摩根看好宁德时代，龙头集中度持续提升中</a></li>
+<li><a href="https://www.bilibili.com/video/BV1UjJV6qEKc">摩根看好宁德时代，龙头集中度持续提升中</a></li>
+<li><a href="https://www.bilibili.com/video/BV1mJJV6vEpn">【英文原声】野村观望半导体封装，先进封装竞争生变局</a></li>
+<li><a href="https://www.bilibili.com/video/BV12JJV6vEsF">野村观望半导体封装，先进封装竞争生变局</a></li>
+</ul>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第614期】货车集体偏航泌阳；中学生手搓火箭]]></title>
+        <link>https://www.bilibili.com/video/BV1abJG66Ei8</link>
+        <guid isPermaLink="false">bilibili-116754005164580</guid>
+        <pubDate>Mon, 15 Jun 2026 12:10:15 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1abJG66Ei8">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 三木説：二战日军战斗力有多强？真实的日本鬼子有多难打？【三木说】]]></title>
+        <link>https://www.bilibili.com/video/BV1EjJG6UEAm</link>
+        <guid isPermaLink="false">bilibili-116753870888359</guid>
+        <pubDate>Mon, 15 Jun 2026 12:04:21 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：三木説</p>
+<p>本期视频将为大家讲述二战日军的真实作战能力</p><p><a href="https://www.bilibili.com/video/BV1EjJG6UEAm">查看原文 →</a></p>]]></description>
+        <author><![CDATA[三木説]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小Lin说：AI怎么就成了能源之战？大厂们准备怎么战？]]></title>
+        <link>https://www.bilibili.com/video/BV1TqJg64EhU</link>
+        <guid isPermaLink="false">bilibili-116752881030940</guid>
+        <pubDate>Mon, 15 Jun 2026 10:09:22 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小Lin说</p>
+<p><a href="https://www.bilibili.com/video/BV1TqJg64EhU">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小Lin说]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 鹿头军师：中国制造如何一步步占领世界杯【解读中国经济番外篇9】]]></title>
+        <link>https://www.bilibili.com/video/BV1T7J36FEY1</link>
+        <guid isPermaLink="false">bilibili-116752646217027</guid>
+        <pubDate>Mon, 15 Jun 2026 06:21:52 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：鹿头军师</p>
+<p>辛苦各位老板点赞关注。</p><p><a href="https://www.bilibili.com/video/BV1T7J36FEY1">查看原文 →</a></p>]]></description>
+        <author><![CDATA[鹿头军师]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：川普今80岁生日办UFC笼格斗! 伊朗军方：美国和以色列“接受投降”! 沈逸 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV1vrJ36kEPY</link>
+        <guid isPermaLink="false">bilibili-116752377710083</guid>
+        <pubDate>Mon, 15 Jun 2026 05:11:57 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV1vrJ36kEPY">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Mr-Pot：【中英字幕】NBC《与媒体见面》26.06.14完整版]]></title>
+        <link>https://www.bilibili.com/video/BV1WwJg6nEhU</link>
+        <guid isPermaLink="false">bilibili-116751320750124</guid>
+        <pubDate>Mon, 15 Jun 2026 04:18:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：Mr-Pot</p>
+<p>本期视频标题：特朗普80岁生日当口，美伊“停战协议”能否落地？  
+本期视频要点：  
+1、特朗普声称“今日”与伊朗签署停战谅解备忘录，承诺重开霍尔木兹海峡并设定拆除伊朗核设施时间表，但白宫尚未公布最终文本。  
+2、民主党领袖杰弗里斯强硬反驳：战争让伊朗“更强大”、油价飙涨、美国家安全受损，并称该协议缺乏国会立法保障。  
+3、最新NBC民调：特朗普支持率跌至42%创第二任期新低；民主党在普选票</p><p><a href="https://www.bilibili.com/video/BV1WwJg6nEhU">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[X] Dwarkesh Patel：RT by @dwarkesh_sp: Seeing some ppl interpreting the Fable shutdown as positive news on govt intervention
+
+But i don't think we'll execute a pause well*, or use the pause effectively, if the govt has NO idea how ai tech works and just wades in arbitrarily without consulting experts
+
+it's def evidence for "govt might do lots of random extreme stuff" -- and that's prob good if you're p(doom) is v high and you want to fuck shit up and shake up the game board. but still, if you think alignment is v hard then ultimately we need sane ppl in charge to handle it
+
+*executing a pause well is hard! You need to figure out effective verification, strike a deal with China, avoid  extreme power concentration, catch rogue projects, maintain safety standards even as many unsafe projects catch up to the frontier]]></title>
+        <link>https://nitter.net/TomDavidsonX/status/2066273525246443629#m</link>
+        <guid isPermaLink="false">x-8e6db7f8b304e8b4</guid>
+        <pubDate>Sun, 14 Jun 2026 21:36:12 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：X</p>
+<p>✍️ 作者：Dwarkesh Patel</p>
+<p>Seeing some ppl interpreting the Fable shutdown as positive news on govt intervention
+
+But i don't think we'll execute a pause well*, or use the pause effectively, if the govt has NO idea how ai tech </p><p><a href="https://nitter.net/TomDavidsonX/status/2066273525246443629#m">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Dwarkesh Patel]]></author>
+        <category>X</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[X] AK (论文速递)：RT by @_akhaliq: This is what open AI acceleration looks like
+
+From DeepSeek v3.2 all the way to @MiniMax_AI M3
+
+See https://paperswithcode.co/benchmark/claw-eval]]></title>
+        <link>https://nitter.net/NielsRogge/status/2066251594073530552#m</link>
+        <guid isPermaLink="false">x-7d989a8add5ec9aa</guid>
+        <pubDate>Sun, 14 Jun 2026 20:09:03 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：X</p>
+<p>✍️ 作者：AK (论文速递)</p>
+<p>This is what open AI acceleration looks like
+
+From DeepSeek v3.2 all the way to @MiniMax_AI M3
+
+See paperswithcode.co/benchmark/…</p><p><a href="https://nitter.net/NielsRogge/status/2066251594073530552#m">查看原文 →</a></p>]]></description>
+        <author><![CDATA[AK (论文速递)]]></author>
         <category>X</category>
     </item>
     
@@ -864,6 +993,23 @@ https://huggingface.co/kernels/MiniMaxAI/msa</a></li>
 1、伊朗半官方通讯社披露14点美伊协议草案：30天内解除石油制裁、重开霍尔木兹海峡、解冻240亿美元资产，并将黎巴嫩停火纳入条款，消息推动原油日内暴跌逾4%。
 2、全球风险资产共振：MSCI亚太指数涨近3%，欧洲Stoxx 600升1.7%，半导体板块单日暴涨12%，VIX跌破19，市场押注地缘风险溢</p><p><a href="https://www.bilibili.com/video/BV1B4JE6KERs">查看原文 →</a></p>]]></description>
         <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 阿周的Eureka：选对行业却押错了公司？一口气搞懂什么是指数，ETF | 【阿周的 Eureka】]]></title>
+        <link>https://www.bilibili.com/video/BV1n5J56ZEh4</link>
+        <guid isPermaLink="false">bilibili-116737546650253</guid>
+        <pubDate>Sat, 13 Jun 2026 03:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：阿周的Eureka</p>
+<p>这期想和各位玩家搞明白指数和 ETF 是什么？
+ 上证指数、沪深300 这些名字都代表啥？
+一支 ETF 是怎么发出来的: 从募集、建仓,到上市流通的全流程
+场内 vs 场外 :溢价折价、申购赎回、套利到底怎么回事
+持有 ETF 注意事项 : 管理费、托管费,还有看不见的跟踪误差
+科普不荐股,市场有风险,投资需谨慎</p><p><a href="https://www.bilibili.com/video/BV1n5J56ZEh4">查看原文 →</a></p>]]></description>
+        <author><![CDATA[阿周的Eureka]]></author>
         <category>B站</category>
     </item>
     
@@ -1764,15 +1910,19 @@ The chain of thought looks basically indistinguishable from actual reasoning. Bu
     </item>
     
     <item>
-        <title><![CDATA[[X] AI公司掌门 (2026-06-09): 2 posts]]></title>
+        <title><![CDATA[[X] AI公司掌门 (2026-06-09): 3 posts]]></title>
         <link>https://nitter.net/OfficialLoganK/status/2064369125447864674#m</link>
         <guid isPermaLink="false">x-cat-cf9c101e-2026-06-09</guid>
         <pubDate>Tue, 09 Jun 2026 15:28:48 GMT</pubDate>
-        <description><![CDATA[<h4>AI公司掌门 · 2位作者 · 2条</h4>
+        <description><![CDATA[<h4>AI公司掌门 · 3位作者 · 3条</h4>
 <h5>Demis Hassabis</h5>
 <ul><li><a href="https://nitter.net/OfficialLoganK/status/2064369125447864674#m">RT by @demishassabis: Introducing Gemini 3.5 Flash Live Translate, our real time speech to speech translation model which supports more than 70 languages (both in and out), and is so natural.
 
 It is available in the Gemini API, AI Studio, & Google Translate right now + coming soon to Google Meet!!</a></li></ul>
+<h5>Clem (HF CEO)</h5>
+<ul><li><a href="https://nitter.net/arcee_ai/status/2064336668341973445#m">RT by @ClementDelangue: Today we're announcing a multi-million-dollar strategic partnership with @huggingface.
+
+The Hub is now the exclusive home for everything we build: every open model we release, every private run, every proprietary dataset, and every agent trace. All of it lives there.</a></li></ul>
 <h5>Sam Altman</h5>
 <ul><li><a href="https://nitter.net/sama/status/2064088940932641225#m">Here is our current plan for OpenAI:
 
@@ -1940,7 +2090,7 @@ We recently submitted a confidential S-1. We expect</p><p><a href="https://nitte
     </item>
     
     <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-06-08): 8 posts]]></title>
+        <title><![CDATA[[B站] 华尔街播客 (2026-06-08): 4 posts]]></title>
         <link>https://www.bilibili.com/video/BV1VoE36zE8Y</link>
         <guid isPermaLink="false">bilibili-grouped-2026-06-08-d13e0e33</guid>
         <pubDate>Mon, 08 Jun 2026 15:30:49 GMT</pubDate>
@@ -1949,10 +2099,6 @@ We recently submitted a confidential S-1. We expect</p><p><a href="https://nitte
 <li><a href="https://www.bilibili.com/video/BV1afE36TEaZ">《华尔街日报》6月8日全文精读</a></li>
 <li><a href="https://www.bilibili.com/video/BV1zyE362EwK">【英文原声】花旗看好恩捷，储能驱动的隔膜产业新周期</a></li>
 <li><a href="https://www.bilibili.com/video/BV1ByE362EZM">花旗看好恩捷，储能驱动的隔膜产业新周期</a></li>
-<li><a href="https://www.bilibili.com/video/BV1oPEu6KEwJ">【英文原声】摩根看好泡泡玛特，海外门店与潮玩新周期</a></li>
-<li><a href="https://www.bilibili.com/video/BV1jPEu6TEp5">摩根看好泡泡玛特，海外门店与潮玩新周期</a></li>
-<li><a href="https://www.bilibili.com/video/BV19gEu6wErU">【英文原声】花旗看好宁德时代，储能爆发与全球化战略</a></li>
-<li><a href="https://www.bilibili.com/video/BV1cXEM6yEdV">花旗看好宁德时代，储能爆发与全球化战略</a></li>
 </ul>]]></description>
         <author><![CDATA[华尔街播客]]></author>
         <category>B站</category>
@@ -2012,64 +2158,6 @@ Nobel Prize laureate Demis Hassabis was awarded the Nobel Prize for using AI to 
 <p>✍️ 作者：小黛晨读</p>
 <p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1SEEu6dEGC">查看原文 →</a></p>]]></description>
         <author><![CDATA[小黛晨读]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Francois Chollet：RT by @fchollet: A French engineer who lives quietly in Paris has spent 30 years writing software that the entire internet now runs on without knowing his name.
-
-He wrote the code that streams every YouTube video, every Netflix show, every TikTok clip. He wrote the code that runs the virtual servers underneath AWS, Google Cloud, and Microsoft Azure. He calculated more digits of pi than anyone in history. He has no Twitter. He has no marketing. He just keeps shipping.
-
-His name is Fabrice Bellard.
-
-Here is the story, because almost nobody outside the systems programming world knows what one man has built.
-
-Fabrice was born in 1972 in Grenoble, France. He studied at École Polytechnique, the top French engineering school. He never went to Silicon Valley. He never built a startup empire. He just wrote code.
-
-In 2000 he started a project called FFmpeg, an open-source multimedia framework for encoding, decoding, and streaming video. He was 28. The project did one thing nobody else had done well. It handled every video and audio format that existed, in one library, on every operating system. He led it himself for years.
-
-Today FFmpeg is the invisible engine of the internet. YouTube uses it. Netflix uses it. VLC uses it. Chrome and Firefox use parts of it. Every Android phone, every iPhone, every smart TV, every video editing tool you have ever touched runs FFmpeg somewhere underneath. If you have watched a video on a screen in the last 20 years, Fabrice's code processed it.
-
-He was not done.
-
-In 2003 he started QEMU, a machine emulator and virtualizer. He wrote it solo until version 0.7.1 in 2005. QEMU lets you run any operating system on any other operating system. It became the foundation of modern virtualization. KVM, the Linux kernel hypervisor, runs on top of QEMU. Every major cloud provider, AWS, Google Cloud, Microsoft Azure, IBM Cloud, runs virtual machines on infrastructure built around it. The Quick Emulator is the most cited piece of cloud infrastructure code on Earth.
-
-He kept going.
-
-In 2001 he won the International Obfuscated C Code Contest with a small C compiler that grew into TCC, the Tiny C Compiler. TCC can compile and boot a Linux kernel from source in under 15 seconds. In 2004 he calculated the most digits of pi ever computed at the time, using a personal desktop computer and an algorithm he derived himself called Bellard's formula. In 2011 he wrote a complete PC emulator in pure JavaScript that runs Linux in your browser, a project called JSLinux that engineers still cannot believe is real.
-
-In 2019 he released QuickJS, a small but complete JavaScript engine that fits where V8 cannot. In 2021 he released NNCP, a neural network based lossless data compressor that immediately took the lead on the Large Text Compression Benchmark.
-
-Then he turned his attention to large language models. He built TextSynth Server, a web server with a REST API for running LLMs locally. He released ts_zip and ts_sms, compression utilities that use language models to compress text and short messages at ratios traditional algorithms cannot reach. He released TSAC, a very low bitrate audio compression system. In December 2025 he released Micro QuickJS, a new JavaScript engine for microcontrollers, separate from QuickJS, designed for environments with almost no memory.
-
-Fabrice co-founded a telecom company called Amarisoft in 2012, where he serves as CTO. Amarisoft builds 4G and 5G base station software used by carriers and labs around the world. He has been running it for over a decade while continuing to ship personal projects from his own home page at bellard dot org
-
-He has no Twitter. He has no Instagram. He gives almost no interviews. His personal website is a flat list of projects with no styling, no fonts, no marketing copy. Just titles and links.
-
-A quiet French engineer who never moved to Silicon Valley wrote the code that quietly runs the internet.
-
-He is still shipping.]]></title>
-        <link>https://nitter.net/bigaiguy/status/2063903532575752211#m</link>
-        <guid isPermaLink="false">x-0e02727110ebbee9</guid>
-        <pubDate>Mon, 08 Jun 2026 08:38:42 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：X</p>
-<p>✍️ 作者：Francois Chollet</p>
-<p>A French engineer who lives quietly in Paris has spent 30 years writing software that the entire internet now runs on without knowing his name.
-
-He wrote the code that streams every YouTube video, eve</p><p><a href="https://nitter.net/bigaiguy/status/2063903532575752211#m">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Francois Chollet]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：以色列防空警报大作! 伊朗发射多轮飞弹! 川普急喊停！沈逸 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV1GVEu6cEMG</link>
-        <guid isPermaLink="false">bilibili-116712682884863</guid>
-        <pubDate>Mon, 08 Jun 2026 05:01:41 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV1GVEu6cEMG">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
         <category>B站</category>
     </item>
     
