@@ -45,6 +45,10 @@ subscriptions:
     - id: "385670211"
       name: "秋芝2046"                    # AI智能体
       stream: "tech"
+    - id: "1086968038"
+      name: "华尔街播客"                   # 华尔街日报精读
+      stream: "tech"
+      group_daily: true                    # 当天多条合并为一条
     - id: "520819684"
       name: "小Lin说"                     # 北大->哥大->摩根大通->创业
       stream: "life"
