@@ -5,15 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 15 Jun 2026 20:38:03 GMT</lastBuildDate>
-    <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Mon, 15 Jun 2026 23:22:56 GMT</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 06月15日 20:38 UTC]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 06月15日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
         <guid isPermaLink="false">digest-2026-06-15</guid>
-        <pubDate>Mon, 15 Jun 2026 20:38:03 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> 🟢 本地 PC 在线</p><p><b>📡 技术资讯流 (tech):</b> 51 items</p><p><b>🎮 生活分享流 (life):</b> 35 items</p><p><b>🆕 本次新增:</b> 37 items</p><p><b>📦 数据库总量:</b> 868 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 在线 | GitHub Actions: 未触发</p>]]></description>
+        <pubDate>Mon, 15 Jun 2026 23:22:56 GMT</pubDate>
+        <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
+        <author><![CDATA[AI Digest Bot]]></author>
+        <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[📊 运行日志 | 06月15日 23:22 UTC]]></title>
+        <link>https://github.com/RickMCCC/content-digest</link>
+        <guid isPermaLink="false">digest-2026-06-15</guid>
+        <pubDate>Mon, 15 Jun 2026 23:22:56 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 49 items</p><p><b>🎮 生活分享流 (life):</b> 34 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 868 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -1620,63 +1630,16 @@ We recently submitted a confidential S-1. We expect</p><p><a href="https://nitte
     </item>
     
     <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-06-08): 4 posts]]></title>
+        <title><![CDATA[[B站] 华尔街播客 (2026-06-08): 2 posts]]></title>
         <link>https://www.bilibili.com/video/BV1VoE36zE8Y</link>
         <guid isPermaLink="false">bilibili-grouped-2026-06-08-d13e0e33</guid>
         <pubDate>Mon, 08 Jun 2026 15:30:49 GMT</pubDate>
         <description><![CDATA[<ul>
 <li><a href="https://www.bilibili.com/video/BV1VoE36zE8Y">【英文原声】《华尔街日报》6月8日全文精读</a></li>
 <li><a href="https://www.bilibili.com/video/BV1afE36TEaZ">《华尔街日报》6月8日全文精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1zyE362EwK">【英文原声】花旗看好恩捷，储能驱动的隔膜产业新周期</a></li>
-<li><a href="https://www.bilibili.com/video/BV1ByE362EZM">花旗看好恩捷，储能驱动的隔膜产业新周期</a></li>
 </ul>]]></description>
         <author><![CDATA[华尔街播客]]></author>
         <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Rowan Cheung：RT by @rowancheung: It's a big AI day for Apple at WWDC26! 
-
-A few humble name proposals for the new overhaul:
-
-- Apple Intelligence 2: Siri’s Revenge
-- Apple Intelligence: 2 Fast 2 Furious
-- Apple Intelligence II (ft. Gemini)
-- Apple Intelligence Nano Pro Ultra (Preview)]]></title>
-        <link>https://nitter.net/TheRundownAI/status/2064005154475553178#m</link>
-        <guid isPermaLink="false">x-815b9b751a4e0783</guid>
-        <pubDate>Mon, 08 Jun 2026 15:22:30 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：X</p>
-<p>✍️ 作者：Rowan Cheung</p>
-<p>It's a big AI day for Apple at WWDC26! 
-
-A few humble name proposals for the new overhaul:
-
-- Apple Intelligence 2: Siri’s Revenge
-- Apple Intelligence: 2 Fast 2 Furious
-- Apple Intelligence II (ft. G</p><p><a href="https://nitter.net/TheRundownAI/status/2064005154475553178#m">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Rowan Cheung]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Demis Hassabis：RT by @demishassabis: “In the next 10 years we are going to be entering what I feel like is a new renaissance.”
- 
-Nobel Prize laureate Demis Hassabis was awarded the Nobel Prize for using AI to predict the structure of proteins. For him, AI is a tool that will help scientists make even more discoveries in the years to come.
- 
-Hassabis took part in our Nobel Prize Dialogue ‘The Future of Science With AI’ which discussed how AI might transform science in the future.
- 
-Watch the full event at https://www.nobelprize.org/events/nobel-prize-dialogue/london-2026/]]></title>
-        <link>https://nitter.net/NobelPrize/status/2063977058170999203#m</link>
-        <guid isPermaLink="false">x-bc18605b2b63447e</guid>
-        <pubDate>Mon, 08 Jun 2026 13:30:52 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：X</p>
-<p>✍️ 作者：Demis Hassabis</p>
-<p>“In the next 10 years we are going to be entering what I feel like is a new renaissance.”
- 
-Nobel Prize laureate Demis Hassabis was awarded the Nobel Prize for using AI to predict the structure of pro</p><p><a href="https://nitter.net/NobelPrize/status/2063977058170999203#m">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Demis Hassabis]]></author>
-        <category>X</category>
     </item>
     
 </channel>
