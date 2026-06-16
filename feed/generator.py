@@ -62,17 +62,23 @@ def _build_item(item: dict) -> dict:
 
     # Regular content entry
     p_name = platform_names.get(item["platform"], item["platform"])
+    description = (
+        f"<p>📱 平台：{p_name}</p>\n"
+        f"<p>✍️ 作者：{item['author_name']}</p>\n"
+        + (f"<p>{item['summary']}</p>" if item.get("summary") else "")
+        + f'<p><a href="{item["url"]}">查看原文 →</a></p>'
+    )
+    if item.get("translation"):
+        description += (
+            "\n<hr>\n"
+            f"<p style='color:#555;font-size:13px;'>🌐 中文翻译：{item['translation']}</p>"
+        )
     return {
         "title": f"[{p_name}] {item['author_name']}：{item['title']}",
         "link": item["url"],
         "guid": f"{item['platform']}-{item['content_id']}",
         "pub_date": _to_rss_date(item["published_at"]),
-        "description": (
-            f"<p>📱 平台：{p_name}</p>\n"
-            f"<p>✍️ 作者：{item['author_name']}</p>\n"
-            + (f"<p>{item['summary']}</p>" if item.get("summary") else "")
-            + f'<p><a href="{item["url"]}">查看原文 →</a></p>'
-        ),
+        "description": description,
         "author": item["author_name"],
         "platform": p_name,
     }

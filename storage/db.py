@@ -18,14 +18,23 @@ def get_connection() -> sqlite3.Connection:
 
 
 def init_db():
-    """Initialize database schema from schema.sql."""
+    """Initialize database schema from schema.sql and run migrations."""
     schema_path = Path(__file__).resolve().parent / "schema.sql"
     conn = get_connection()
     try:
         conn.executescript(schema_path.read_text(encoding="utf-8"))
+        # Migrations: add columns that may be missing on existing DBs
+        _migrate_add_column(conn, "items", "translation", "TEXT DEFAULT ''")
         conn.commit()
     finally:
         conn.close()
+
+
+def _migrate_add_column(conn, table: str, column: str, col_def: str):
+    """Add a column if it doesn't already exist."""
+    existing = {r[1] for r in conn.execute(f"PRAGMA table_info({table})")}
+    if column not in existing:
+        conn.execute(f"ALTER TABLE {table} ADD COLUMN {column} {col_def}")
 
 
 def insert_item(
@@ -133,5 +142,33 @@ def get_item_count() -> int:
     conn = get_connection()
     try:
         return conn.execute("SELECT COUNT(*) FROM items").fetchone()[0]
+    finally:
+        conn.close()
+
+
+def update_translation(platform: str, content_id: str, translation: str):
+    """Update the translation field for an existing item."""
+    conn = get_connection()
+    try:
+        conn.execute(
+            "UPDATE items SET translation = ? WHERE platform = ? AND content_id = ?",
+            (translation, platform, content_id),
+        )
+        conn.commit()
+    finally:
+        conn.close()
+
+
+def get_untranslated_items(platform: str = "x", limit: int = 100) -> list[dict]:
+    """Get items that need translation (no existing translation, has text)."""
+    conn = get_connection()
+    try:
+        rows = conn.execute(
+            """SELECT * FROM items
+               WHERE platform = ? AND (translation IS NULL OR translation = '')
+               ORDER BY published_at DESC LIMIT ?""",
+            (platform, limit),
+        ).fetchall()
+        return [dict(r) for r in rows]
     finally:
         conn.close()

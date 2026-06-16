@@ -8,6 +8,7 @@ CREATE TABLE IF NOT EXISTS items (
     title TEXT NOT NULL,
     url TEXT NOT NULL,
     summary TEXT DEFAULT '',         -- 内容简介
+    translation TEXT DEFAULT '',     -- 英文推文中文翻译
     published_at TEXT NOT NULL,      -- ISO 8601 时间
     fetched_at TEXT NOT NULL DEFAULT (datetime('now')),
     UNIQUE(platform, content_id)

@@ -5,35 +5,92 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 15 Jun 2026 23:22:56 GMT</lastBuildDate>
-    <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Tue, 16 Jun 2026 12:18:28 GMT</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 06月15日]]></title>
+        <title><![CDATA[📊 运行日志 | 06月16日 12:18 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-06-15</guid>
-        <pubDate>Mon, 15 Jun 2026 23:22:56 GMT</pubDate>
-        <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
+        <guid isPermaLink="false">digest-2026-06-16</guid>
+        <pubDate>Tue, 16 Jun 2026 12:18:28 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ☁️ GitHub Actions (手动触发)</p><p><b>📡 技术资讯流 (tech):</b> 64 items</p><p><b>🎮 生活分享流 (life):</b> 35 items</p><p><b>🆕 本次新增:</b> 22 items</p><p><b>📦 数据库总量:</b> 1279 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 手动触发</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 06月15日 23:22 UTC]]></title>
-        <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-06-15</guid>
-        <pubDate>Mon, 15 Jun 2026 23:22:56 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 49 items</p><p><b>🎮 生活分享流 (life):</b> 34 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 868 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
-        <author><![CDATA[AI Digest Bot]]></author>
-        <category>AI日报</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Ethan Mollick (2026-06-16): 6 posts]]></title>
-        <link>https://nitter.net/emollick/status/2066599457848766626#m</link>
-        <guid isPermaLink="false">x-grouped-2026-06-16-c43d5de7</guid>
-        <pubDate>Mon, 15 Jun 2026 19:11:20 GMT</pubDate>
+        <title><![CDATA[[X] Clem (HF CEO) (2026-06-16): 3 posts]]></title>
+        <link>https://nitter.net/kimmonismus/status/2066837287460053183#m</link>
+        <guid isPermaLink="false">x-grouped-2026-06-16-55c94613</guid>
+        <pubDate>Tue, 16 Jun 2026 10:56:23 GMT</pubDate>
         <description><![CDATA[<ul>
+<li><a href="https://nitter.net/kimmonismus/status/2066837287460053183#m">RT by @ClementDelangue: Crazy: A 3B model is now reaching highly competitive results on verifiable reasoning tasks.
+
+VibeThinker-3B scores 94.3 on AIME26, 80.2 Pass@1 on LiveCodeBench v6, and 96.1% on unseen LeetCode contests.
+
+The gains appear to come primarily from post-training on top of Qwen2.5-Coder: curriculum SFT, multi-domain RL, offline self-distillation, and a final RL-based instruct stage.
+
+The core implication: certain forms of verifiable reasoning may be highly compressible into small dense models. 
+
+Frontier-scale models still matter for broad knowledge and general-purpose capability, but compact reasoning models are becoming a serious complementary path.
+
+Love to see it!</a></li>
+<li><a href="https://nitter.net/f14bertolotti/status/2066752828505288902#m">RT by @ClementDelangue: Stellar performance from a 3B model. These results were achieved primarily through post-training refinements on Qwen2.5-Coder. The paper doesn't provide many details, but it appears they distill from RL ckpts and then do a final RL-based instruct RL.
+
+🔗https://arxiv.org/abs/2606.16140</a></li>
+<li><a href="https://nitter.net/ArtificialAnlys/status/2066700137985081738#m">RT by @ClementDelangue: DeepSeek V4 Pro (max) stands out on the Intelligence vs Cost per Task chart at $0.04 per task for an Intelligence Index of 44, running a single Intelligence Index task over 20x cheaper than GPT-5.5 (xhigh, $0.99) and over 40x cheaper than Claude Opus 4.8 (max, $1.78)</a></li>
+</ul>]]></description>
+        <author><![CDATA[Clem (HF CEO)]]></author>
+        <category>X</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 巫师财经：【巫师】别听发布会吹什么，看《鸿蒙脑洞大开麦》里年轻人把职业生涯押在哪]]></title>
+        <link>https://www.bilibili.com/video/BV1FWju6iEEZ</link>
+        <guid isPermaLink="false">bilibili-116758568508047</guid>
+        <pubDate>Tue, 16 Jun 2026 08:56:01 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：巫师财经</p>
+<p><a href="https://www.bilibili.com/video/BV1FWju6iEEZ">查看原文 →</a></p>]]></description>
+        <author><![CDATA[巫师财经]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客 (2026-06-16): 6 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1FKjG61Ea7</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-06-16-d13e0e33</guid>
+        <pubDate>Tue, 16 Jun 2026 08:05:22 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1FKjG61Ea7">【英文原声】高盛观望中国消费，起底家电消费降温真相</a></li>
+<li><a href="https://www.bilibili.com/video/BV16KjG6yEhB">高盛观望中国消费，起底家电消费降温真相</a></li>
+<li><a href="https://www.bilibili.com/video/BV16NjG6LEQS">【英文原声】高盛看好中国半导体，AI浪潮下国产替代</a></li>
+<li><a href="https://www.bilibili.com/video/BV1HNjG6jEFD">高盛看好中国半导体，AI浪潮下国产替代</a></li>
+<li><a href="https://www.bilibili.com/video/BV1w7ju66EPd">【英文原声】高盛看好安克创新，起底全渠道分销护城河</a></li>
+<li><a href="https://www.bilibili.com/video/BV1cJju6uE11">高盛看好安克创新，起底全渠道分销护城河</a></li>
+</ul>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[X] AI教育实践 (2026-06-16): 13 posts]]></title>
+        <link>https://nitter.net/simonw/status/2066756192823849146#m</link>
+        <guid isPermaLink="false">x-cat-919c55bf-2026-06-16</guid>
+        <pubDate>Tue, 16 Jun 2026 05:34:09 GMT</pubDate>
+        <description><![CDATA[<h4>AI教育实践 · 2位作者 · 13条</h4>
+<h5>Simon Willison · 3条</h5>
+<ul>
+<li><a href="https://nitter.net/simonw/status/2066756192823849146#m">R to @simonw: Published a few more notes on my blog https://simonwillison.net/2026/Jun/16/fable-5-export-controls/</a></li>
+<li><a href="https://nitter.net/simonw/status/2066723602763006286#m">R to @simonw: Yeah, it really does look like the jailbreak was "fix this code"</a></li>
+<li><a href="https://nitter.net/simonw/status/2066722034491789720#m">If this really is the "jailbreak" that got Fable shut down I'm deeply unimpressed</a></li>
+</ul>
+<h5>Ethan Mollick · 10条</h5>
+<ul>
+<li><a href="https://nitter.net/emollick/status/2066678938970079413#m">R to @emollick: Seems like a bad incentive for the rest of the economy, and for workers.</a></li>
+<li><a href="https://nitter.net/emollick/status/2066678678587621522#m">If AGI is achievable & labs can be banned from using a model internally ONLY if they release the model publicly, the Big Three labs may decide it is better to capture all the value from AGI themselves by expansion & acquisition. Sharing AI access with other firms triggers risk.</a></li>
+<li><a href="https://nitter.net/emollick/status/2066661427385917737#m">R to @emollick: Do not dismiss the Powers of Philadelphia.</a></li>
+<li><a href="https://nitter.net/emollick/status/2066660874471755948#m">Unrelated to AI, I find it amusing that my home city has complex civic rituals that can curse or bless you depending on your offerings to a statue. Non-residents do not understand our folkways or their powers.</a></li>
 <li><a href="https://nitter.net/emollick/status/2066599457848766626#m">Fable was really good, as I wrote last week after testing it.
 
 It was a leap, but that may because, as exponential gains progress, the improvements in each incremental release are increasingly large. If so, Anthropic will not be the only lab making leaps. https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos</a></li>
@@ -45,24 +102,88 @@ I guess it is better than being asked about the "MIT pilot AI study."</a></li>
 <li><a href="https://nitter.net/emollick/status/2066558338670760226#m">R to @emollick: And AI systems may never be jailbreak-proof or hallucination free. And individual queries may matter less than a bad actor breaking a problem down into pieces and feeding it through multiple projects and prompts. And AIs themselves may change behavior unpredictably with context.</a></li>
 <li><a href="https://nitter.net/emollick/status/2066557403877752915#m">Bright regulatory lines for AI are inherently complicated because models are just a piece of the puzzle: harnesses can make models more capable, a less capable open system may be more or less riskier than a more capable closed one, skills/connected systems change risk levels, etc</a></li>
 </ul>]]></description>
-        <author><![CDATA[Ethan Mollick]]></author>
+        <author><![CDATA[AI教育实践]]></author>
         <category>X</category>
     </item>
     
     <item>
-        <title><![CDATA[[X] AI资讯聚合 (2026-06-16): 2 posts]]></title>
-        <link>https://nitter.net/Gradio/status/2066580498143649937#m</link>
+        <title><![CDATA[[B站] 橘鸦juya：Anthropic 暂停对第三方用途进行独立计费；字节跳动发布 Seedance 2.0 mini 模型【AI 早报 2026-06-16】]]></title>
+        <link>https://www.bilibili.com/video/BV1k9jT6TEa1</link>
+        <guid isPermaLink="false">bilibili-116757142440949</guid>
+        <pubDate>Tue, 16 Jun 2026 01:21:37 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接及文字版请看：https://mp.weixin.qq.com/s/QWZdp8jt9e5hrX7tSj4dcw</p><p><a href="https://www.bilibili.com/video/BV1k9jT6TEa1">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[X] AI公司官方 (2026-06-16): 6 posts]]></title>
+        <link>https://nitter.net/MiniMax_AI/status/2066678771592356061#m</link>
+        <guid isPermaLink="false">x-cat-9f8bb8e0-2026-06-16</guid>
+        <pubDate>Tue, 16 Jun 2026 00:26:30 GMT</pubDate>
+        <description><![CDATA[<h4>AI公司官方 · 2位作者 · 6条</h4>
+<h5>MiniMax · 4条</h5>
+<ul>
+<li><a href="https://nitter.net/MiniMax_AI/status/2066678771592356061#m">This genuinely made our day. 
+
+Hope the tea held out through the MSA Kernel Design section 🙏</a></li>
+<li><a href="https://nitter.net/MiniMax_AI/status/2066671069310992546#m">Nice demo from @atomic_chat_hq: 
+
+M3 Q4 ran locally with MLX-VLM, and completed a US customs form entirely on a Mac Studio M3 Ultra.</a></li>
+<li><a href="https://nitter.net/MiniMax_AI/status/2066610915517387067#m">.@CommandCodeAI added M3, free through the 17th.  
+
+One npm install and it's in your terminal👇</a></li>
+<li><a href="https://nitter.net/MiniMax_AI/status/2066592449578115284#m">M3's free on @0G_labs 0G compute for three days, starting today. 
+
+Amazing chance to throw a long-running task at it 👇</a></li>
+</ul>
+<h5>xAI · 2条</h5>
+<ul>
+<li><a href="https://nitter.net/xai/status/2066625790704521699#m">You can now use your SuperGrok or X Premium subscription inside @warpdotdev. 
+
+Try it out from Warp Agent Settings and switch to the Grok Build model.
+
+https://x.ai/news/grok-warp</a></li>
+<li><a href="https://nitter.net/grok/status/2066557141868257444#m">RT by @xai: Manage multiple agents at once in the Agent Dashboard.
+
+See what each is doing, reply to the ones that need you, and dispatch new tasks.
+
+Try /dashboard in Grok Build.</a></li>
+</ul>]]></description>
+        <author><![CDATA[AI公司官方]]></author>
+        <category>X</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[X] AI资讯聚合 (2026-06-16): 4 posts]]></title>
+        <link>https://nitter.net/HuggingPapers/status/2066628427164401890#m</link>
         <guid isPermaLink="false">x-cat-127ec8f8-2026-06-16</guid>
-        <pubDate>Mon, 15 Jun 2026 17:56:00 GMT</pubDate>
-        <description><![CDATA[<h4>AI资讯聚合 · 2位作者 · 2条</h4>
-<h5>AK (论文速递)</h5>
-<ul><li><a href="https://nitter.net/Gradio/status/2066580498143649937#m">RT by @_akhaliq: Build Small hackathon closes in just 6 hours!
+        <pubDate>Mon, 15 Jun 2026 21:06:27 GMT</pubDate>
+        <description><![CDATA[<h4>AI资讯聚合 · 2位作者 · 4条</h4>
+<h5>AK (论文速递) · 3条</h5>
+<ul>
+<li><a href="https://nitter.net/HuggingPapers/status/2066628427164401890#m">RT by @_akhaliq: Orchestra-o1
+
+A multi-agent orchestration framework that decomposes complex omnimodal tasks into parallel subtasks.
+
+It achieves 72.8% accuracy on OmniGAIA, surpassing the next best open-source approach by over 10 percentage points.</a></li>
+<li><a href="https://nitter.net/pika_labs/status/2066614201779699728#m">RT by @_akhaliq: What if we told you this 6-minute TV pilot was created end-to-end in one platform?
+
+This is our latest Experiment: Pika Director’s Suite. Run by an agent that builds—and understands—all elements of your video project.
+
+So, when you say “have Doug crash the office party in the first scene,” it knows exactly what you mean.
+
+Walkthrough below 👇</a></li>
+<li><a href="https://nitter.net/Gradio/status/2066580498143649937#m">RT by @_akhaliq: Build Small hackathon closes in just 6 hours!
 
 We’ll disable updates & stop accepting new Spaces in the Hackathon Org after the deadline.
 
 Please do a final README check for tags, demo video, social link, & team member HF usernames.
 
-👉Validate your app: https://build-small-hackathon-field-guide.hf.space/submit</a></li></ul>
+👉Validate your app: https://build-small-hackathon-field-guide.hf.space/submit</a></li>
+</ul>
 <h5>Rowan Cheung</h5>
 <ul><li><a href="https://nitter.net/TheRundownAI/status/2066559132963131523#m">RT by @rowancheung: Anthropic, the U.S. government, and the Mythos/Fable shutdown - a roundup of the latest news:
 
@@ -90,15 +211,28 @@ Currently signed by dozens of researchers and industry members.</a></li></ul>]]>
     </item>
     
     <item>
-        <title><![CDATA[[X] Francois Chollet (2026-06-16): 2 posts]]></title>
-        <link>https://nitter.net/fchollet/status/2066554426551390457#m</link>
-        <guid isPermaLink="false">x-grouped-2026-06-16-68d795dd</guid>
-        <pubDate>Mon, 15 Jun 2026 16:12:24 GMT</pubDate>
-        <description><![CDATA[<ul>
+        <title><![CDATA[[X] AI研究核心 (2026-06-16): 4 posts]]></title>
+        <link>https://nitter.net/StanfordHAI/status/2066562529317527642#m</link>
+        <guid isPermaLink="false">x-cat-dbae213b-2026-06-16</guid>
+        <pubDate>Mon, 15 Jun 2026 16:44:36 GMT</pubDate>
+        <description><![CDATA[<h4>AI研究核心 · 2位作者 · 4条</h4>
+<h5>李飞飞 · 2条</h5>
+<ul>
+<li><a href="https://nitter.net/StanfordHAI/status/2066562529317527642#m">RT by @drfeifei: HAI Founding Director @drfeifei is featured on @FastCompany's cover, explaining "world models" – AI that understand physical space and real-world dynamics. Rooted in human-centered philosophy, she explains what makes it different and what's at stake: https://www.fastcompany.com/91549046/fei-fei-li-world-labs-ai-gets-physical-models-spatial-intelligence</a></li>
+<li><a href="https://nitter.net/theworldlabs/status/2066553733165834426#m">RT by @drfeifei: The future of AI should be grounded in human agency, creativity, and understanding.
+
+@FastCompany explores the rise of world models and features insights from World Labs cofounder @drfeifei:
+
+"Her vision for World Labs—and its human-centered future—is both consistent and persistent. It's like a simulation in her world model. Once in place, it stays put."
+
+Read the full article here ↓</a></li>
+</ul>
+<h5>Francois Chollet · 2条</h5>
+<ul>
 <li><a href="https://nitter.net/fchollet/status/2066554426551390457#m">R to @fchollet: We desperately need standardized benchmarks for agentic capabilities instead of panic-reacting to prompt-engineering parlor tricks. Until we can objectively and transparently measure what these systems actually do, the entire ecosystem will remain vulnerable to unpredictable and arbitrary government overreach.</a></li>
 <li><a href="https://nitter.net/fchollet/status/2066554345345147288#m">Even if you are in favor of AI regulation, you should recognize that opaque and arbitrary regulatory strikes are counter-productive for the whole industry.</a></li>
 </ul>]]></description>
-        <author><![CDATA[Francois Chollet]]></author>
+        <author><![CDATA[AI研究核心]]></author>
         <category>X</category>
     </item>
     
@@ -142,11 +276,63 @@ That model loved/loves software development and UX jargon more than any other mo
     </item>
     
     <item>
-        <title><![CDATA[[X] Clem (HF CEO) (2026-06-15): 6 posts]]></title>
-        <link>https://nitter.net/mignano/status/2066535541651243294#m</link>
+        <title><![CDATA[[X] AI公司官方 (2026-06-15): 7 posts]]></title>
+        <link>https://nitter.net/NVIDIAAI/status/2066543137900937686#m</link>
+        <guid isPermaLink="false">x-cat-9f8bb8e0-2026-06-15</guid>
+        <pubDate>Mon, 15 Jun 2026 15:27:33 GMT</pubDate>
+        <description><![CDATA[<h4>AI公司官方 · 5位作者 · 7条</h4>
+<h5>NVIDIA AI · 3条</h5>
+<ul>
+<li><a href="https://nitter.net/NVIDIAAI/status/2066543137900937686#m">x.com/i/article/206634983276…</a></li>
+<li><a href="https://nitter.net/moritz_reuss/status/2066530578720022835#m">RT by @NVIDIAAI: World-Action Models (WAMs) have become the second dominant recipe for robot foundation models, next to classical VLAs.
+
+So where do they come from, and how do they compare vs VLAs?
+
+I wrote an small overview of the WAM landscape, with some personal takes:
+
+https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/</a></li>
+<li><a href="https://nitter.net/twominutepapers/status/2066208287058485454#m">RT by @NVIDIAAI: NVIDIA's Nemotron 3 Ultra AI is a gift to all of us. I ran my experiments and in my cases, found the following:
+- Blazing fast 🔥
+- Agent stuff ✅
+- Math and science ✅
+- Hard coding tasks 😅
+Full video: https://www.youtube.com/watch?v=zJvN8PDX1is</a></li>
+</ul>
+<h5>Hugging Face</h5>
+<ul><li><a href="https://nitter.net/SergioPaniego/status/2066498136273531363#m">RT by @huggingface: x.com/i/article/206644723464…</a></li></ul>
+<h5>MiniMax</h5>
+<ul><li><a href="https://nitter.net/cast_ai/status/2066495517085835713#m">RT by @MiniMax_AI: @MiniMax_AI M3 lands on @getkimchi Coding by Cast AI, the first autonomous coding agent to launch it. Frontier open-weight performance on Kimchi CLI.
+
+Read more:
+https://cast.ai/press-release/minimax-m3-comes-to-kimchi-coding/</a></li></ul>
+<h5>Kimi 月之暗面</h5>
+<ul><li><a href="https://nitter.net/Kimi_Moonshot/status/2066467110960959833#m">🌘 Meet Kimi K2.7 Code HighSpeed!
+A high-speed mode of our latest open-source multimodal coding model, Kimi K2.7 Code.
+
+⚡️ Up to 6× faster: Around 180 tok/s on coding tasks with median-length inputs, and up to 260 tok/s on shorter-context tasks.
+
+🔷  Rolling out to Kimi Code Beta Program members, Kimi API developers, and Kimi Business users. (Access will remain limited for now due to capacity constraints.)
+
+🔷  No invite needed. Anyone who joins the Beta Program has a chance to get access 👉 https://www.kimi.com/code/beta
+
+Open intelligence should be instant, affordable, and borderless. We'll continue improving the model and expanding access as more capacity becomes available!
+
+🔗 Kimi Code: https://kimi.com/code
+🔗 API: https://platform.kimi.ai/</a></li></ul>
+<h5>xAI</h5>
+<ul><li><a href="https://nitter.net/grok/status/2066241561432895735#m">RT by @xai: Grok Build now renders math, formulas, and LaTeX right in your terminal</a></li></ul>]]></description>
+        <author><![CDATA[AI公司官方]]></author>
+        <category>X</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[X] Clem (HF CEO) (2026-06-15): 8 posts]]></title>
+        <link>https://nitter.net/julien_c/status/2066537073356497147#m</link>
         <guid isPermaLink="false">x-grouped-2026-06-15-55c94613</guid>
-        <pubDate>Mon, 15 Jun 2026 14:57:22 GMT</pubDate>
+        <pubDate>Mon, 15 Jun 2026 15:03:27 GMT</pubDate>
         <description><![CDATA[<ul>
+<li><a href="https://nitter.net/julien_c/status/2066537073356497147#m">RT by @ClementDelangue: old: put storage next to your compute
+new: put compute next to your storage</a></li>
 <li><a href="https://nitter.net/mignano/status/2066535541651243294#m">RT by @ClementDelangue: For the first time in ~3 years, it feels like the AI table has been flipped over. Yes, the labs and hyperscalers will have the highest chance of resetting it before everyone else, given their vast capital, frontier model, and compute advantages.
 
 But there is now a window for a new ecosystem to emerge. A "rebel alliance," which is what we're calling it at @USV.
@@ -159,6 +345,16 @@ Basically, anything that gives people and enterprises powerful intelligence whil
 <li><a href="https://nitter.net/ClementDelangue/status/2066506436524327228#m">"The last thing any of us want is a world where every company across every sector is ceding value to a few models that eat everything they see. If all the value is accrued by only a few models, the political economy will simply not tolerate it. There is no societal permission for an AI future that hollows out entire industries."
 
 Even the CEO of Microsoft agrees that concentration of power, capabilities and wealth is a challenge in AI!</a></li>
+<li><a href="https://nitter.net/UnslothAI/status/2066492839450800427#m">RT by @ClementDelangue: You can now run Kimi K2.7 Code locally! 🌘
+
+We shrank the 1T model to 325GB (-48%) via Dynamic 2-bit where important layers are upcasted.
+
+Run at >40 tok/s on 330GB RAM/VRAM setups.
+
+Run full precision on 610 GB.
+
+Guide: https://unsloth.ai/docs/models/kimi-k2.7-code
+GGUF: https://huggingface.co/unsloth/Kimi-K2.7-Code-GGUF</a></li>
 <li><a href="https://nitter.net/garrytan/status/2066307697574862905#m">RT by @ClementDelangue: Open source is the escape hatch for businesses to be able to continue to control their own destiny long term</a></li>
 <li><a href="https://nitter.net/TraffAlex/status/2066236717015728227#m">RT by @ClementDelangue: 🖥️ Best Local LLMs for Consumer GPUs — llama.cpp Guide (June 2026)
 
@@ -432,6 +628,18 @@ Shoutouts: @0xSero @rS_alonewolf @witcheer @UnslothAI @LottoLabs</a></li>
     </item>
     
     <item>
+        <title><![CDATA[[B站] 橘鸦juya：里约热内卢市信息技术公司Rio 3.5模型被曝融合中国模型Nex与Qwen权重【AI 早报 2026-06-15】]]></title>
+        <link>https://www.bilibili.com/video/BV1WfJu6pEb2</link>
+        <guid isPermaLink="false">bilibili-116751421410682</guid>
+        <pubDate>Mon, 15 Jun 2026 01:04:05 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1WfJu6pEb2">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[X] Dwarkesh Patel：RT by @dwarkesh_sp: Seeing some ppl interpreting the Fable shutdown as positive news on govt intervention
 
 But i don't think we'll execute a pause well*, or use the pause effectively, if the govt has NO idea how ai tech works and just wades in arbitrarily without consulting experts
@@ -567,6 +775,32 @@ Fully essay in replies.</a></li>
     </item>
     
     <item>
+        <title><![CDATA[[X] AI公司官方 (2026-06-14): 4 posts]]></title>
+        <link>https://nitter.net/StepFun_ai/status/2066058341110157423#m</link>
+        <guid isPermaLink="false">x-cat-9f8bb8e0-2026-06-14</guid>
+        <pubDate>Sun, 14 Jun 2026 07:21:08 GMT</pubDate>
+        <description><![CDATA[<h4>AI公司官方 · 2位作者 · 4条</h4>
+<h5>阶跃星辰</h5>
+<ul><li><a href="https://nitter.net/StepFun_ai/status/2066058341110157423#m">Step 3.7 Flash is now live on @DeepInfra 🚀
+
+Builders and teams can now try our open-source multimodal reasoning model through DeepInfra’s API, with private endpoint deployment available for dedicated workloads.
+
+Built for agentic coding, tool use, search, and vision workflows.
+
+Thanks to the DeepInfra team!</a></li></ul>
+<h5>MiniMax · 3条</h5>
+<ul>
+<li><a href="https://nitter.net/MiniMax_AI/status/2065938025432137948#m">All powered by M3 on Hermes Agent @NousResearch</a></li>
+<li><a href="https://nitter.net/MiniMax_AI/status/2065886175056027955#m">Love to see it! 🚀
+
+One day in and the community is already shipping optimizations for faster decode. 🥳</a></li>
+<li><a href="https://nitter.net/MiniMax_AI/status/2065832192580993307#m">Who’s claiming follower #100,000? 🧋👀💃</a></li>
+</ul>]]></description>
+        <author><![CDATA[AI公司官方]]></author>
+        <category>X</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 华尔街播客 (2026-06-14): 4 posts]]></title>
         <link>https://www.bilibili.com/video/BV1y1Jc6FE5h</link>
         <guid isPermaLink="false">bilibili-grouped-2026-06-14-d13e0e33</guid>
@@ -628,6 +862,19 @@ Figuring out the right transparency is hard, but it can't be he said she said be
 </ul>]]></description>
         <author><![CDATA[Clem (HF CEO)]]></author>
         <category>X</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：智谱发布 GLM-5.2 模型，同步更新 ZCode 3.0.0 新用户可免费使用 GLM-5.2【AI 早报 2026-06-14】]]></title>
+        <link>https://www.bilibili.com/video/BV1gRJs63EYX</link>
+        <guid isPermaLink="false">bilibili-116745650046200</guid>
+        <pubDate>Sun, 14 Jun 2026 00:49:29 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接及文字版请看：https://mp.weixin.qq.com/s/ifRbzj62K35yBm4soDllLQ
+立即参与「拼好模」：https://www.bigmodel.cn/glm-coding?ic=QMJIIFZA5H</p><p><a href="https://www.bilibili.com/video/BV1gRJs63EYX">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -784,6 +1031,114 @@ https://huggingface.co/kernels/MiniMaxAI/msa</a></li>
     </item>
     
     <item>
+        <title><![CDATA[[X] AI公司官方 (2026-06-13): 17 posts]]></title>
+        <link>https://nitter.net/MiniMax_AI/status/2065731987823116517#m</link>
+        <guid isPermaLink="false">x-cat-9f8bb8e0-2026-06-13</guid>
+        <pubDate>Sat, 13 Jun 2026 09:44:19 GMT</pubDate>
+        <description><![CDATA[<h4>AI公司官方 · 6位作者 · 17条</h4>
+<h5>MiniMax · 10条</h5>
+<ul>
+<li><a href="https://nitter.net/MiniMax_AI/status/2065731987823116517#m">We love what the community is building with M3 open weights ♥️
+
+Excited for what’s next</a></li>
+<li><a href="https://nitter.net/MiniMax_AI/status/2065645689582006333#m">M3 would never 🙂‍↔️
+
+As a matter of fact, the weights are now open, too.
+
+https://huggingface.co/MiniMaxAI/MiniMax-M3</a></li>
+<li><a href="https://nitter.net/jun_song/status/2065634619073179656#m">RT by @MiniMax_AI: My goal on Minimax M3 post-train :
+
+Uncensored, sovereignty, better performance than Opus-4.7
+
+Let’s start cooking.</a></li>
+<li><a href="https://nitter.net/MiniMax_AI/status/2065626254783717678#m">M3 is running together 🤝 with @togethercompute, and with faster-than-ever inference</a></li>
+<li><a href="https://nitter.net/MiniMax_AI/status/2065623672485015867#m">the kernels are doing the lord's work today, day-0 on @vllm_project, verified on nvidia and amd. 
+
+go read the writeup 👇</a></li>
+<li><a href="https://nitter.net/MiniMax_AI/status/2065578679296500141#m">lmk👀</a></li>
+<li><a href="https://nitter.net/MiniMax_AI/status/2065542980677902611#m">M3 now on @FactoryAI droid</a></li>
+<li><a href="https://nitter.net/MiniMax_AI/status/2065539317821563173#m">With only ~428B params, and ~23B activated params
+
+M3 still handles frontier coding + long-horizon agents + native multimodal (text, image, video) at 1M-token context
+
+few open-weight models do any of this. M3 does all of it.
+
+Thanks @baseten 🚀</a></li>
+<li><a href="https://nitter.net/ivanfioravanti/status/2065525457487888718#m">RT by @MiniMax_AI: M3 is strong! It's my main driver for Hermes Agent can manage anything without problems!</a></li>
+<li><a href="https://nitter.net/MiniMax_AI/status/2065522658498707564#m">appreciate it @SambaNovaAI 🤝 looking forward to M3 on RDUs</a></li>
+</ul>
+<h5>Kimi 月之暗面</h5>
+<ul><li><a href="https://nitter.net/Kimi_Moonshot/status/2065650860861043064#m">Extra API quota for Kimi K2.7 Code builders 🎉
+
+If you're building with Kimi API, get 20%–30% extra quota when you top up $100+ by July 2!
+
+🔷 $100–$299 → +20% quota
+🔷 $300–$999 → +25% quota
+🔷 $1,000+ → +30% quota
+
+(One bonus per account.)
+
+- Details: https://platform.kimi.ai/docs/pricing/promotion
+- Kimi API: https://platform.kimi.ai/</a></li></ul>
+<h5>NVIDIA AI</h5>
+<ul><li><a href="https://nitter.net/alexocheema/status/2065616895563153737#m">RT by @NVIDIAAI: What are people using to run local inference on DGX Spark?
+
+ollama? LM Studio? vLLM? sgLang? TRT-LLM?
+
+Do you run in Docker?
+
+@TheAhmadOsman @AlicanKiraz0 @spark_arena @NVIDIAAI @NVIDIARTXSpark</a></li></ul>
+<h5>Anthropic</h5>
+<ul><li><a href="https://nitter.net/AnthropicAI/status/2065597531644743999#m">The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees.
+
+The net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for all our customers to ensure compliance.
+
+Access to all other Claude models is not affected.
+
+We apologize for this disruption to our customers. We believe this is a misunderstanding and are working to restore access as soon as possible.
+
+Read our full statement: https://www.anthropic.com/news/fable-mythos-access</a></li></ul>
+<h5>Hugging Face · 3条</h5>
+<ul>
+<li><a href="https://nitter.net/ZyphraAI/status/2065498869954490846#m">RT by @huggingface: Today we're releasing ZONOS2, our next-generation real-time TTS model with high-fidelity voice cloning.
+
+ZONOS2 is the most expressive open-source TTS model, released under Apache 2.0 and available on Zyphra Cloud on @AMD. 🧵</a></li>
+<li><a href="https://nitter.net/victormustar/status/2065482087512133826#m">RT by @huggingface: Have a great week end (don't forget to touch grass 🍃)</a></li>
+<li><a href="https://nitter.net/juanjucm/status/2065467870696378558#m">RT by @huggingface: I'm seeing a lot of angry people lately... remember, you can always run your coding agent locally ;)
+
+llama.cpp + OpenCode = fast, reliable and private inference.
+
+This is @UnslothAI North-Mini-Code-1.0-GGUF running at ~50 tokens/s on my Macbook</a></li>
+</ul>
+<h5>Google AI</h5>
+<ul><li><a href="https://nitter.net/GoogleAI/status/2065478191247130703#m">Pinned: Here’s what launched this week:
+
+— Gemini 3.5 Live Translate our latest audio model for live speech-to-speech translation
+
+— @NotebookLM got a major upgrade including agentic capabilities in chat, more advanced reasoning, and a suite of new output formats
+
+— Project Genie from @GoogleLabs is now available to Google AI Ultra 5x subscribers globally
+
+— Notebooks in @GeminiApp are now available in the European Economic Area, United Kingdom, and Switzerland
+
+— DiffusionGemma, our newest experimental open @googlegemma model that explores text diffusion, an exceptionally fast approach to text generation</a></li></ul>]]></description>
+        <author><![CDATA[AI公司官方]]></author>
+        <category>X</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：突发：Anthropic 因美国政府出口管制指令全面禁用 Fable 5 和 Mythos 5]]></title>
+        <link>https://www.bilibili.com/video/BV1fPJ76wEYA</link>
+        <guid isPermaLink="false">bilibili-116740331668076</guid>
+        <pubDate>Sat, 13 Jun 2026 02:03:35 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1fPJ76wEYA">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] IT咖啡馆：「Github一周热点118期」自托管AI工作空间、AI求职系统、Markdown知识库、MD规划SKILL以及大模型解禁工具]]></title>
         <link>https://www.bilibili.com/video/BV1w9J56wEu5</link>
         <guid isPermaLink="false">bilibili-116737462764587</guid>
@@ -797,6 +1152,18 @@ GitHub 链接：https://github.com/santifer/career-ops
 3、项目名称：Tolaria – Markdown 知识库桌面应用
 </p><p><a href="https://www.bilibili.com/video/BV1w9J56wEu5">查看原文 →</a></p>]]></description>
         <author><![CDATA[IT咖啡馆]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：月之暗面发布并开源 Kimi K2.7 Code 模型；MiniMax 正式开放 MiniMax M3 权重【AI 早报 2026-06-13】]]></title>
+        <link>https://www.bilibili.com/video/BV1oMJ76bE73</link>
+        <guid isPermaLink="false">bilibili-116740012900794</guid>
+        <pubDate>Sat, 13 Jun 2026 00:43:47 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接及文字版请看：https://mp.weixin.qq.com/s/MJMzY0X_RTnYB8D3WVRdsg</p><p><a href="https://www.bilibili.com/video/BV1oMJ76bE73">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
@@ -851,6 +1218,208 @@ These projects were led by our incredible interns @HaoZhang623 @BDuisterhof @DrT
 <h5>Andrej Karpathy</h5>
 <ul><li><a href="https://nitter.net/karpathy/status/2065490793092337691#m">In awe of SpaceX and its story - past, present and the future. You can think about it in 10+ different ways and continue re-blowing your mind in circles. Huge congrats to the team! 🚀</a></li></ul>]]></description>
         <author><![CDATA[AI研究核心]]></author>
+        <category>X</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[X] AI公司官方 (2026-06-12): 27 posts]]></title>
+        <link>https://nitter.net/msharmavikram/status/2065461211760886014#m</link>
+        <guid isPermaLink="false">x-cat-9f8bb8e0-2026-06-12</guid>
+        <pubDate>Fri, 12 Jun 2026 15:48:21 GMT</pubDate>
+        <description><![CDATA[<h4>AI公司官方 · 9位作者 · 27条</h4>
+<h5>MiniMax · 2条</h5>
+<ul>
+<li><a href="https://nitter.net/msharmavikram/status/2065461211760886014#m">RT by @MiniMax_AI: Deploy MiniMax M3 with @nvidia  Dynamo at scale using your favorite inference engine - @vllm_project, @sgl_project, or TRTLLM! 
+
+Comes with PD disagg! :)</a></li>
+<li><a href="https://nitter.net/RyanLeeMiniMax/status/2065436138270347577#m">RT by @MiniMax_AI: We’ve been discussing what parameter size works best for the community. While the M3 series boasts a larger parameter count compared to the M2 lineup, we’ve kept its scale deliberately restrained so local model enthusiasts can run it affordably. This time we settled on 428B, hoping it will be accessible to a wider audience.</a></li>
+</ul>
+<h5>Hugging Face · 6条</h5>
+<ul>
+<li><a href="https://nitter.net/mervenoyann/status/2065446109435072957#m">RT by @huggingface: new transformers tutorials just dropped for vision 🔥
+
+🛰️ segmentation on satellite imagery: fine-tune RF-DETR-Seg segment buildings
+📱 object detection on mobile UI: fine-tune RF-DETR on screenshots
+ 
+runs on toaster, converges fast, give to your agent for your use cases🫡</a></li>
+<li><a href="https://nitter.net/ClementDelangue/status/2065442081791758369#m">RT by @huggingface: 🔥🔥🔥
+
+https://huggingface.co/moonshotai/Kimi-K2.7-Code</a></li>
+<li><a href="https://nitter.net/MiniMax_AI/status/2065436935188058208#m">RT by @huggingface: MiniMax M3, Open-Weight, Now On Hugging Face , with only ~428B parameters and ~23B activated parameters
+
+Weights:
+https://huggingface.co/MiniMaxAI/MiniMax-M3
+MiniMax Sparse Attention:
+https://huggingface.co/papers/2606.13392</a></li>
+<li><a href="https://nitter.net/LysandreJik/status/2065434788400656460#m">RT by @huggingface: MiniMax v3 is out and it ships with an MSA kernel that gets crazy speedups the longer your sequence length is.
+
+It's shipped on the Kernel Hub as well and is integrated in transformers: https://huggingface.co/kernels/MiniMaxAI/msa</a></li>
+<li><a href="https://nitter.net/RisingSayak/status/2065392401401987339#m">RT by @huggingface: Published my first kernel to go the last mile to optimize LTX-2.3 from @Lightricks!
+
+torch.compile + cuDNN attn already gave a 1.42x boost. W/ the custom kernel added, I got 1.52x on a GB10 🔥
+
+This was my systematic exploration of a simple agentic kernel dev workflow.
+
+More 👇</a></li>
+<li><a href="https://nitter.net/mercor_ai/status/2065121909852045422#m">RT by @huggingface: Agents are only as good as the environments behind them. At Mercor, we've built deep expertise in the realistic, economically-grounded environments that help agents bridge the gap from the lab to real-world usefulness.
+
+We want to put that expertise to work for the broader ecosystem—so we're glad to be joining the OpenEnv committee, alongside Meta @PyTorch, @nvidia, @PrimeIntellect, @huggingface, and others, to help guide the open foundation for agentic environments.</a></li>
+</ul>
+<h5>NVIDIA AI · 6条</h5>
+<ul>
+<li><a href="https://nitter.net/NVIDIAAI/status/2065445179289665672#m">Congrats to the @MiniMax_AI team on the release of MiniMax M3, a long-context multimodal model for text, image, and video reasoning. 🙌
+
+Try it today with our free GPU-accelerated endpoint on http://build.nvidia.com.
+
+Details: https://nvda.ws/4v4BWhD</a></li>
+<li><a href="https://nitter.net/NVIDIAAI/status/2065196720167047200#m">R to @NVIDIAAI: NVIDIA is coming to #SIGGRAPH2026 in Los Angeles 🌴
+
+Neural rendering, world models, physical AI, hands-on labs, and more.
+
+All the details 👉 https://www.nvidia.com/en-us/events/siggraph</a></li>
+<li><a href="https://nitter.net/NVIDIAAI/status/2065196536276173306#m">One open model. 350,000+ motion clips. 15,000 FPS.
+
+MotionBricks from NVIDIA Research runs real-time character animation at scale, without hand-crafted transitions or fine-tuning. And yes, it works for robotics too.
+
+#SIGGRAPH2026 paper, demos + code: https://nvlabs.github.io/motionbricks</a></li>
+<li><a href="https://nitter.net/NVIDIAAI/status/2065167908750467084#m">Shoutout to Caleb for putting together a great deep dive on Nemotron 3 🙌
+
+Check it out.</a></li>
+<li><a href="https://nitter.net/NVIDIAAI/status/2065132960903565484#m">Generate Synthetic Data for Physical AI With NVIDIA Brev Launchables and Agent Skills https://x.com/i/broadcasts/1MKgNNrAYAyxL</a></li>
+<li><a href="https://nitter.net/NVIDIAAI/status/2065102580821197166#m">Getting Started with NVIDIA Cosmos 3 for Robotics and Physical AI | Cosmos Labs https://x.com/i/broadcasts/1RKZzzrqYErKB</a></li>
+</ul>
+<h5>Kimi 月之暗面 · 4条</h5>
+<ul>
+<li><a href="https://nitter.net/vllm_project/status/2065427423148318747#m">RT by @Kimi_Moonshot: 🎉 Congrats to @Kimi_Moonshot on Kimi K2.7-Code, a coding-focused agentic model built on K2.6.
+
+✨ 1T-parameter Mixture-of-Experts, 32B active per token
+✨ MLA attention with a 256K-token context window
+✨ ~30% fewer thinking tokens than K2.6 for more efficient reasoning
+
+Supported in vLLM, reusing the same deployment as K2.6.
+
+🔗 http://recipes.vllm.ai/moonshotai/Kimi-K2.7-Code</a></li>
+<li><a href="https://nitter.net/Kimi_Moonshot/status/2065379671039189317#m">R to @Kimi_Moonshot: 🔗 Weights & code: https://huggingface.co/moonshotai/Kimi-K2.7-Code</a></li>
+<li><a href="https://nitter.net/Kimi_Moonshot/status/2065377583290814828#m">R to @Kimi_Moonshot: 🎸 We're also launching the Kimi Code Beta Program today. Apply now if you'd like to try upcoming models and features before public release 👉 https://www.kimi.com/code/beta</a></li>
+<li><a href="https://nitter.net/Kimi_Moonshot/status/2065377579130142937#m">Pinned: 🌘 Kimi-K2.7-Code, our latest coding model, is now released and open-sourced!
+
+🔷 Improved coding & agent performance over K2.6: +21.8% on Kimi Code Bench v2, +11.0% on Program Bench, and +31.5% on MLS Bench Lite.
+🔷 Reasoning efficiency: Less overthinking, with 30% lower reasoning-token usage compared to K2.6.
+🔷 Long-horizon coding: Improved instruction following, higher end-to-end coding task success rates.
+
+⚡️ 6x High-Speed Mode coming soon!
+🔌 Available today via Kimi API and Kimi Code.
+
+🔗 Kimi Code: https://kimi.com/code
+🔗 API: https://platform.moonshot.ai</a></li>
+</ul>
+<h5>Google DeepMind</h5>
+<ul><li><a href="https://nitter.net/GoogleDeepMind/status/2065388989146628563#m">Pinned: Our Robotics Accelerator has launched with 15 startups helping shape the future of physical AI in Europe. 🤖
+
+This three-month program will connect them with access to our AI stack, Gemini Robotics models  and hands-on support from our teams.
+
+Meet the companies → https://goo.gle/4oeEk2K</a></li></ul>
+<h5>百度飞桨</h5>
+<ul><li><a href="https://nitter.net/PaddlePaddle/status/2065299834756902995#m">Pinned: 🚀PP-OCRv6 is officially released！
+
+🔥PaddleOCR’s new OCR model series scales from 1.5M to 34.5M parameters, bringing stronger accuracy, faster inference, and broader deployment options — from browsers and edge devices to servers.
+
+📊What’s new:
+🔸Tiny / Small / Medium models: 1.5M, 7.7M, 34.5M params
+🔸+4.9% detection accuracy and +5.1% recognition accuracy over PP-OCRv5
+🔸Up to 5.2× faster CPU inference with OpenVINO
+🔸50 languages in one unified model
+🔸New scenarios: PCB, CAD drawings, digital tubes, dot-matrix text
+🔸Apache 2.0 open source
+
+✨Lightweight OCR, built for the AI data era.
+
+🔗Try it:
+🌐 https://paddleocr.com
+💻 https://github.com/PaddlePaddle/PaddleOCR
+🤗https://huggingface.co/collections/PaddlePaddle/pp-ocrv6
+
+#PaddlePaddle #PaddleOCR #OCR #AI #ComputerVision #OpenSource #EdgeAI</a></li></ul>
+<h5>OpenAI · 2条</h5>
+<ul>
+<li><a href="https://nitter.net/OpenAI/status/2065225374737543376#m">R to @OpenAI: For the next two weeks, Plus and Pro users can invite up to three friends to try Codex.
+
+When a friend sends their first Codex message, you’ll both get another banked reset.</a></li>
+<li><a href="https://nitter.net/OpenAI/status/2065225362544726371#m">We heard you wanted to use Codex rate limit resets on your own time.
+
+Starting today, we’re rolling out the ability to save rate limit resets to use later.
+
+We’re starting Go, Plus, Pro, and Business users with one free reset:</a></li>
+</ul>
+<h5>阶跃星辰 · 2条</h5>
+<ul>
+<li><a href="https://nitter.net/Av1dlive/status/2065194537434382489#m">RT by @StepFun_ai: most people stream music in a browser tab buried behind thirty others.
+
+eating RAM. serving ads between songs.
+
+i wanted to see what happens when you strip music down to pure keyboard control.
+
+so i used Hermes + Step 3.7 Flash to build a spotify-style music player directly in the terminal. took about 3 hours. @StepFun_ai
+
+instead of a heavy web app, the workflow broke the build into clean modules:
+
+→ search module that queries the catalog 
+→ playback engine that streams audio directly 
+→ library manager for playlists and saved tracks 
+→ now-playing view that renders album art as ASCII → keybinding layer so you never touch the mouse
+
+what stood out was how Step 3.7 Flash handled structure. clear modules. organized logic. the entire terminal-first UX generated in one coherent workflow.
+
+i typed a single command and watched it authenticate, pull my playlists, queue an album, and start playing with a live progress bar ; all inside a TUI.
+
+zero browser overhead. it feels closer to a native player than anything running in a tab.
+
+and this is just the starting point. same pattern extends to:
+
+→ a self-hosted music server 
+→ a CLI wrapper for any streaming API 
+→ a developer-focused media player
+
+the terminal isn't dead. it's just been waiting for better tooling.</a></li>
+<li><a href="https://nitter.net/seelffff/status/2065129793956569557#m">RT by @StepFun_ai: i built a production research agent on step-3.7-flash by @StepFun_ai 
+
+20 lines of python. direct api call. no orchestration layer. here's what happened.
+
+the first thing in terminal:
+
+Thinking...
+
+the model reasons out loud before any output.
+you watch it decompose the task, plan the structure, make assumptions explicit.
+when your agent fails at step 4 of 6 - you need to know why. visible reasoning is debugging infrastructure.
+
+architecture:
+→ sparse MoE -198B total params, ~11B active per forward pass
+→ 400 tokens/sec. 256K context window.
+→ 3 reasoning levels: low / medium / high - tune compute to task complexity
+
+what's native, not bolted on:
+→ search - built into the reasoning loop, not an external api stuffed into context
+→ multimodal - screenshots, docs, charts, UI states natively. no extra integration.
+→ tool use - MCP, claude code, kilocode, hermes, cline, roo code out of the box
+
+pricing:
+→ $0.20/M input tokens, $1.15/M output
+→ advisor mode: 97% of claude opus 4.6 coding performance at $0.19/task vs $1.76/task
+
+→ http://static.stepfun.com/blog/step-3.7-flash/
+→ http://platform.stepfun.ai
+→ http://studio.stepfun.com</a></li>
+</ul>
+<h5>xAI · 3条</h5>
+<ul>
+<li><a href="https://nitter.net/xai/status/2065168019891073260#m">Install the @sentry plugin and ask your agent to find and fix errors, analyze stack traces, and triage alerts</a></li>
+<li><a href="https://nitter.net/xai/status/2065143638838157559#m">Use the @vercel plugin to deploy to production, spin up sandboxes, or build apps with Shadcn.</a></li>
+<li><a href="https://nitter.net/xai/status/2065119714658152592#m">The @MongoDB plugin is live in the Grok Build Plugin Marketplace.
+
+Explore data, optimize database performance, and build high performance vector search systems with a single prompt.</a></li>
+</ul>]]></description>
+        <author><![CDATA[AI公司官方]]></author>
         <category>X</category>
     </item>
     
@@ -1040,6 +1609,18 @@ https://luma.com/f28a739d</a></li>
     </item>
     
     <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenAI 为 Codex 用户提供重置速率限制机会并提供重置机会保存功能【AI 早报 2026-06-12】]]></title>
+        <link>https://www.bilibili.com/video/BV1BnEk6eE7x</link>
+        <guid isPermaLink="false">bilibili-116734476488180</guid>
+        <pubDate>Fri, 12 Jun 2026 01:17:35 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/YjM_o9OGoJzjhbQ6wMvCYQ</p><p><a href="https://www.bilibili.com/video/BV1BnEk6eE7x">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[X] Dwarkesh Patel (2026-06-11): 9 posts]]></title>
         <link>https://nitter.net/dwarkesh_sp/status/2065101375764365512#m</link>
         <guid isPermaLink="false">x-grouped-2026-06-11-64b4e98f</guid>
@@ -1081,6 +1662,151 @@ When he came on the show, I pushed back, saying AGI will cause a massive jump in
 Watch our back-and-forth on this:</a></li>
 </ul>]]></description>
         <author><![CDATA[Dwarkesh Patel]]></author>
+        <category>X</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[X] AI公司官方 (2026-06-11): 25 posts]]></title>
+        <link>https://nitter.net/xai/status/2065099299541893577#m</link>
+        <guid isPermaLink="false">x-cat-9f8bb8e0-2026-06-11</guid>
+        <pubDate>Thu, 11 Jun 2026 15:50:15 GMT</pubDate>
+        <description><![CDATA[<h4>AI公司官方 · 6位作者 · 25条</h4>
+<h5>xAI · 3条</h5>
+<ul>
+<li><a href="https://nitter.net/xai/status/2065099299541893577#m">The Grok Build Plugin Marketplace is now in beta. 
+
+Build with MongoDB, Vercel, Sentry, Cloudflare, and Chrome DevTools plugins from your terminal.
+
+Read more https://x.ai/news/grok-plugin-marketplace</a></li>
+<li><a href="https://nitter.net/xai/status/2064777588036530309#m">Grok Voice offers state-of-the-art performance with human-like timing, tone, and warmth. And it's a fraction the price of competitors.
+
+Check it out: http://x.ai/api/voice</a></li>
+<li><a href="https://nitter.net/xai/status/2064771445260230840#m">Read more about how Tori, eToro's agent, leverages models and real-time data from SpaceXAI to help consumers analyze market sentiment
+
+https://x.ai/news/grok-etoro</a></li>
+</ul>
+<h5>Google DeepMind · 9条</h5>
+<ul>
+<li><a href="https://nitter.net/GoogleDeepMind/status/2065093485120700880#m">R to @GoogleDeepMind: To map the pitch, TacticAI uses graph neural networks - treating all 22 players as individual nodes and their physical interactions as connections.
+
+This allows the club's data science department to virtually drag and drop players to test different defensive setups in real time.</a></li>
+<li><a href="https://nitter.net/GoogleDeepMind/status/2065093488627073266#m">R to @GoogleDeepMind: Why does this matter beyond sports?
+
+A live match is a masterclass in partial observability and multimodal data. Solving these continuous spatial problems could translate to leaps in robotics, computer games, and more.
+
+Find out more about TacticAI → https://goo.gle/4uv87Gc</a></li>
+<li><a href="https://nitter.net/GoogleDeepMind/status/2065093482088169719#m">We’re teaming up @Palmeiras, the first football club to meaningfully build upon TacticAI: our AI system that can help simulate field scenarios and predict open play dynamics up to 8 seconds in advance. ⚽</a></li>
+<li><a href="https://nitter.net/GoogleDeepMind/status/2065031279213441309#m">When millions of AI agents interact with each other, new collective behaviors can emerge. 🌐
+
+Together with @schmidtsciences, @coop_ai, @ARIA_research and supported by @GoogleOrg, we’re launching a $10M research fund to help understand how AI systems behave as a group. → https://goo.gle/3Si6rCl</a></li>
+<li><a href="https://nitter.net/GoogleLabs/status/2064801929339752527#m">RT by @GoogleDeepMind: 🌍 Project Genie access is expanding even more! Starting today, Google AI Ultra 5X subscribers (our latest tier!) globally can access Project Genie.
+
+Try it out here! http://labs.google/projectgenie</a></li>
+<li><a href="https://nitter.net/GoogleDeepMind/status/2064785577593995272#m">R to @GoogleDeepMind: We evaluated AI’s impact by looking beyond test scores to behavioral shifts.
+
+Over eight weeks, results suggest students were using AI to understand concepts, not just find answers – with Gemini queries about how to tackle problems rising from 68% to 90%.
+
+Find out more → https://goo.gle/441RTt8</a></li>
+<li><a href="https://nitter.net/GoogleDeepMind/status/2064785573852672275#m">In Sierra Leone, a surging student population is outpacing available teachers.
+
+Our latest research explores how AI can act as a partner to support educators in these environments –  amplifying their reach without replacing their essential expertise and skills. 🧵</a></li>
+<li><a href="https://nitter.net/GoogleDeepMind/status/2064741064099897344#m">R to @GoogleDeepMind: Find out more → https://goo.gle/4vG0xcI</a></li>
+<li><a href="https://nitter.net/GoogleDeepMind/status/2064741061352636762#m">DiffusionGemma is our new experimental open model with up to 4x faster output on dedicated GPUs.
+
+Instead of predicting word-by-word, it generates entire blocks of text simultaneously. This lets the model self-correct and format complex markdown in real time.</a></li>
+</ul>
+<h5>Anthropic · 6条</h5>
+<ul>
+<li><a href="https://nitter.net/AnthropicAI/status/2065057393927467084#m">We’re launching Claude Corps, a national fellowship program matching people early in their careers with US nonprofits.
+
+We'll teach 1,000 people to use Claude, and pay them to use AI to advance their hosts’ missions.
+
+https://www.anthropic.com/claude-corps</a></li>
+<li><a href="https://nitter.net/AnthropicAI/status/2064783425807187970#m">R to @AnthropicAI: By themselves, these projects will not be sufficient to meet the challenge of advanced AI. But they’re a signal of our intent. Over the coming months and years, we will expand our work on these fronts much further.</a></li>
+<li><a href="https://nitter.net/AnthropicAI/status/2064783421860413780#m">R to @AnthropicAI: Our Advanced AI Framework sets out how governments should prepare for and prevent catastrophic risks from frontier AI systems.
+
+The government should have the authority to block or revoke the release of unsafe models, and invest in societal resilience.
+http://www.anthropic.com/policy-on-the-ai-exponential/aaif</a></li>
+<li><a href="https://nitter.net/AnthropicAI/status/2064783424251101553#m">R to @AnthropicAI: And tomorrow, we’ll launch a $150 million national fellowship program designed to help people early in their careers extend the benefits of AI to communities across America.</a></li>
+<li><a href="https://nitter.net/AnthropicAI/status/2064783418844762489#m">AI is advancing at a pace our policymaking institutions were never built for—and the gap between the two is becoming the central challenge of the technology. In his latest essay, our CEO Dario Amodei lays out how to close it.
+
+We're launching three new initiatives to support the efforts he outlines.</a></li>
+<li><a href="https://nitter.net/AnthropicAI/status/2064783420425929169#m">R to @AnthropicAI: An Economic Policy Framework: a proposal for how the US government should manage labor market disruption from advanced AI. We’re contributing $200 million to a new fund to sponsor major evaluations of some of these ideas.
+https://www.anthropic.com/policy-on-the-ai-exponential/epf</a></li>
+</ul>
+<h5>阶跃星辰</h5>
+<ul><li><a href="https://nitter.net/StepFun_ai/status/2065052544716738592#m">Great to see Step 3.7 Flash available on @ZenMuxAI!
+Fast, multimodal, and built for real-world workflows — now free to try on ZenMux for 1 month. 
+Excited to make StepFun models more accessible to builders.</a></li></ul>
+<h5>NVIDIA AI · 5条</h5>
+<ul>
+<li><a href="https://nitter.net/NVIDIAAI/status/2065041436870074529#m">Distributed AI Inference at Scale on NVIDIA Dynamo With Gcore and Orange Business https://x.com/i/broadcasts/1vJpPPVLeLZJE</a></li>
+<li><a href="https://nitter.net/NVIDIAAI/status/2064841054877274181#m">Love seeing photos like this.
+
+Let's see some more setups.
+
+Curious what everyone's running these days. What models are you using and what are you building?</a></li>
+<li><a href="https://nitter.net/NVIDIAAI/status/2064771416806081016#m">R to @NVIDIAAI: and here's the link to NVFP4 on @huggingface🤗https://huggingface.co/nvidia/diffusiongemma-26B-A4B-it-NVFP4</a></li>
+<li><a href="https://nitter.net/NVIDIAAI/status/2064770996603863328#m">Congrats to @GoogleDeepMind on the launch of DiffusionGemma.
+
+The model generates 256 tokens in parallel per step, delivering 150+ TPS on DGX Spark, and 1,000+ TPS on a single H100.
+
+We're supporting it from day one with:
+• BF16 and NVFP4 checkpoints on @huggingface🤗
+• Free GPU-accelerated endpoints on http://build.nvidia.com
+• @vllm_project  support with FP8 precision
+
+Get started with DiffusionGemma on NVIDIA: https://nvda.ws/43ro19u</a></li>
+<li><a href="https://nitter.net/harvey/status/2064757424540749879#m">RT by @NVIDIAAI: We partnered with @trajectorylabs to post-train NVIDIA Nemotron 3 Ultra for legal. Here’s what we found:
+
+1) Open-weight models can reach frontier legal performance.
+
+On our Legal Agent Benchmark (LAB), Nemotron 3 Ultra started at a 0% all-pass rate. After post-training, it reached 5.8%, placing it between Sonnet 4.6 at 4.2% and Opus 4.6 at 6.6%.
+
+2) Post-training dramatically improves reliability.
+
+Before training, many held-out tasks missed enough rubric dimensions to land around ~70% pass rates. After training, those tasks shifted toward ~95% pass rates.
+
+3) Open-weight performance comes at much lower cost.
+
+Post-trained Nemotron 3 Ultra reached a similar quality band to leading closed models while running at roughly 1/8th to 1/50th the per-token price of Sonnet 4.6 and Opus 4.6.
+
+Most importantly: we post-trained this model on the @trajectorylabs platform less than 24 hours after Nemotron 3 Ultra launched, using the same harness, data, and recipe we used for Nemotron 3 Super.
+
+More to come as we continue to experiment with open-weight legal agents. 
+
+Read more on post-training with Trajectory below:</a></li>
+</ul>
+<h5>小米 MiMo</h5>
+<ul><li><a href="https://nitter.net/XiaomiMiMo/status/2064799879352959085#m">🚀 MiMo Code V0.1 is now live and open-source！
+
+More than an AI coding assistant in your terminal — it's the smartest coding partner you'll ever work with.
+
+Comes with MiMo V2.5, a multimodal model available free for a limited time, featuring a million-token context window—ready to use out of the box.
+
+♾️ Infinite Context: Knowledge accumulates automatically, and with lossless compression, even million-line projects keep every critical detail intact—quality never drops.
+🧠 Agent-Model Synergy: An Agent framework deeply optimized for MiMo, with a full closed loop of testing, review, and validation—so complex tasks get done in one pass.
+📝 Compose Mode: Specs → Plans → Build → Report. Design first, code second—clear thinking, no rework.
+🔄 Self-Evolving System: Every session is automatically reviewed, distilling experience and best practices—the more you use it, the smarter it gets.
+🎙️ Voice Input: Powered by MiMo-V2.5-ASR — just speak instead of type, and your voice becomes the prompt for truly hands-free coding.
+🔌 Claude Code Compatible: Automatically loads your existing skills, MCP servers and commands, and reuses your API configuration—zero-cost migration, no setup required.
+🌐 Open & Flexible: MIT licensed, with support for leading model providers including Anthropic, OpenAI, DeepSeek, Kimi, GLM and more.
+
+Install in one line:
+Mac & Linux
+curl -fsSL https://mimo.xiaomi.com/install | bash
+(For the best experience，we recommand Mac user use it on iTerm or vscode terminal)
+Windows
+npm install -g @mimo-ai/cli
+
+ 🔗 Learn more
+Website ↓
+https://mimo.xiaomi.com/mimocode
+Blog ↓
+https://mimo.xiaomi.com/zh/blog/mimo-code-long-horizon
+GitHub ↓
+https://github.com/XiaomiMiMo/MiMo-Code</a></li></ul>]]></description>
+        <author><![CDATA[AI公司官方]]></author>
         <category>X</category>
     </item>
     
@@ -1223,6 +1949,19 @@ Importantly, bubbles can be attached both to things that are completely hogwash,
     </item>
     
     <item>
+        <title><![CDATA[[B站] 橘鸦juya：【橘鸦Juya】AI视频创作领域的 Codex 来了，普通人零基础也能生成大片！（附彩蛋）]]></title>
+        <link>https://www.bilibili.com/video/BV19rEq6yELS</link>
+        <guid isPermaLink="false">bilibili-116730886162501</guid>
+        <pubDate>Thu, 11 Jun 2026 10:30:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>速速体验Seko：https://seko.sensetime.com/explore?utm_source=juya
+限时福利啦！新用户一注册直接送算力。现在开通会员也非常划算，Seedance 2.0 直接低至4.8折，包年最高还能白拿4200积分。另外，《「神作」星探局》的活动已开启，参与就有机会赢取万元大奖和各种官方扶持，大家千万别错过啦。”</p><p><a href="https://www.bilibili.com/video/BV19rEq6yELS">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] IT咖啡馆：3个开源项目打造AI分身！以后更新视频，可以不用我了]]></title>
         <link>https://www.bilibili.com/video/BV1eXEe6BES2</link>
         <guid isPermaLink="false">bilibili-116730517260434</guid>
@@ -1274,6 +2013,18 @@ Importantly, bubbles can be attached both to things that are completely hogwash,
 在SpaceX冲击“人类史上最大IPO”之际，我们与SpaceX前高管Lewis Hong一起走进了SpaceX的两个关键现场：德州最南端的Boca Chica星舰发射中心，以及见证SpaceX早期成长的洛杉矶总部。
 从洛杉矶机场旁的小仓库到Starbase，从猎鹰1号到星舰，SpaceX正在把发射、通信、国防、</p><p><a href="https://www.bilibili.com/video/BV1y5EY62E8B">查看原文 →</a></p>]]></description>
         <author><![CDATA[硅谷101]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Google 发布 DiffusionGemma 模型；小米发布编程工具 MiMo Code【AI 早报 2026-06-11】]]></title>
+        <link>https://www.bilibili.com/video/BV1M4Ee6tEgL</link>
+        <guid isPermaLink="false">bilibili-116728721836592</guid>
+        <pubDate>Thu, 11 Jun 2026 00:51:47 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接及文字版请看：https://mp.weixin.qq.com/s/Pf3uXNJaz8jusqJRakzhzg</p><p><a href="https://www.bilibili.com/video/BV1M4Ee6tEgL">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
@@ -1466,6 +2217,42 @@ All of this is procedurally generated.</a></li></ul>]]></description>
     </item>
     
     <item>
+        <title><![CDATA[[B站] 橘鸦juya：Anthropic 推出 Claude Fable 5 及 Claude Mythos 5【AI 早报 2026-06-10】]]></title>
+        <link>https://www.bilibili.com/video/BV1cQES64Euq</link>
+        <guid isPermaLink="false">bilibili-116723168641625</guid>
+        <pubDate>Wed, 10 Jun 2026 01:28:27 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接及文字版请看：https://mp.weixin.qq.com/s/f8Y80SarzbUmbX5D9r9qzA</p><p><a href="https://www.bilibili.com/video/BV1cQES64Euq">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[X] AI公司官方 (2026-06-10): 5 posts]]></title>
+        <link>https://nitter.net/NVIDIAAI/status/2064470795917889556#m</link>
+        <guid isPermaLink="false">x-cat-9f8bb8e0-2026-06-10</guid>
+        <pubDate>Tue, 09 Jun 2026 22:12:48 GMT</pubDate>
+        <description><![CDATA[<h4>AI公司官方 · 3位作者 · 5条</h4>
+<h5>NVIDIA AI · 3条</h5>
+<ul>
+<li><a href="https://nitter.net/NVIDIAAI/status/2064470795917889556#m">R to @NVIDIAAI: 👀@llm_wizard @akashlives @gayanlol @JeremyK_TO @lironkatsif_ @ANonABento @ben_petlach</a></li>
+<li><a href="https://nitter.net/NVIDIAAI/status/2064469683835900085#m">x.com/i/article/206446101319…</a></li>
+<li><a href="https://nitter.net/NVIDIAAI/status/2064407154770182282#m">Ask the Experts: Nemotron 3 Ultra | Nemotron Labs https://x.com/i/broadcasts/1nxnRRyOabmxO</a></li>
+</ul>
+<h5>xAI</h5>
+<ul><li><a href="https://nitter.net/xai/status/2064426048146800780#m">Learn more about our work with @gopuff to build a personalized shopping assistant with chat, voice, and image models
+
+https://x.ai/news/grok-gopuff</a></li></ul>
+<h5>Anthropic</h5>
+<ul><li><a href="https://nitter.net/claudeai/status/2064394146916229443#m">RT by @AnthropicAI: Introducing Claude Fable 5: a Mythos-class model that we’ve made safe for general use.
+
+Its capabilities exceed those of any model we’ve ever made generally available.</a></li></ul>]]></description>
+        <author><![CDATA[AI公司官方]]></author>
+        <category>X</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[X] Demis Hassabis：RT by @demishassabis: In @GoogleAIStudio we are now making more than 1,200,000 apps a week (and growing) with more than 18,000,000 created since late February 🤯
 
 The progress continues!!!]]></title>
@@ -1502,144 +2289,50 @@ The chain of thought looks basically indistinguishable from actual reasoning. Bu
     </item>
     
     <item>
-        <title><![CDATA[[X] AI公司掌门 (2026-06-09): 3 posts]]></title>
+        <title><![CDATA[[X] Demis Hassabis：RT by @demishassabis: Introducing Gemini 3.5 Flash Live Translate, our real time speech to speech translation model which supports more than 70 languages (both in and out), and is so natural.
+
+It is available in the Gemini API, AI Studio, & Google Translate right now + coming soon to Google Meet!!]]></title>
         <link>https://nitter.net/OfficialLoganK/status/2064369125447864674#m</link>
-        <guid isPermaLink="false">x-cat-cf9c101e-2026-06-09</guid>
+        <guid isPermaLink="false">x-f6b4e90410e281a3</guid>
         <pubDate>Tue, 09 Jun 2026 15:28:48 GMT</pubDate>
-        <description><![CDATA[<h4>AI公司掌门 · 3位作者 · 3条</h4>
-<h5>Demis Hassabis</h5>
-<ul><li><a href="https://nitter.net/OfficialLoganK/status/2064369125447864674#m">RT by @demishassabis: Introducing Gemini 3.5 Flash Live Translate, our real time speech to speech translation model which supports more than 70 languages (both in and out), and is so natural.
-
-It is available in the Gemini API, AI Studio, & Google Translate right now + coming soon to Google Meet!!</a></li></ul>
-<h5>Clem (HF CEO)</h5>
-<ul><li><a href="https://nitter.net/arcee_ai/status/2064336668341973445#m">RT by @ClementDelangue: Today we're announcing a multi-million-dollar strategic partnership with @huggingface.
-
-The Hub is now the exclusive home for everything we build: every open model we release, every private run, every proprietary dataset, and every agent trace. All of it lives there.</a></li></ul>
-<h5>Sam Altman</h5>
-<ul><li><a href="https://nitter.net/sama/status/2064088940932641225#m">Here is our current plan for OpenAI:
-
-https://openai.com/index/built-to-benefit-everyone-our-plan/</a></li></ul>]]></description>
-        <author><![CDATA[AI公司掌门]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Rowan Cheung (2026-06-09): 10 posts]]></title>
-        <link>https://nitter.net/TheRundownAI/status/2064336855663837387#m</link>
-        <guid isPermaLink="false">x-grouped-2026-06-09-a5af7487</guid>
-        <pubDate>Tue, 09 Jun 2026 13:20:34 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://nitter.net/TheRundownAI/status/2064336855663837387#m">RT by @rowancheung: Today, we're announcing our first strategic investment from Electrify.
-
-The partnership will help us expand our content, education, and products far faster than we could alone.
-
-Details explained by @rowancheung in the thread below:</a></li>
-<li><a href="https://nitter.net/rowancheung/status/2064334378797330818#m">R to @rowancheung: It's a huge honor to translate the fastest-moving industry of our time for millions of people every day. My job is awesome.
-
-Our mission is to turn AI into a practical skill for 1 billion people.
-
-This partnership is how we get there faster, and we're just getting started 🫡</a></li>
-<li><a href="https://nitter.net/rowancheung/status/2064334380839878707#m">R to @rowancheung: Sign up at http://therundown.ai and read more about the partnership here: https://www.electrify.video/news/electrify-partners-with-the-rundown</a></li>
-<li><a href="https://nitter.net/rowancheung/status/2064334376184303641#m">R to @rowancheung: Crazy to think a simple daily email turned into a real business, now with real investors.
-
-Incredibly grateful to my team for turning this vision into reality, to the millions of readers who trust us as their AI news and education source, and to our partners who support us!</a></li>
-<li><a href="https://nitter.net/rowancheung/status/2064334372426101136#m">R to @rowancheung: Once the newsletter model worked, we expanded fast.
-
-At the time, there were hundreds of other AI newsletters, so we focused on giving readers more value:
-
--More newsletters (Robotics and Tech)
--YouTube interviews with A-list guests
--A custom edTech platform for AI upskilling</a></li>
-<li><a href="https://nitter.net/rowancheung/status/2064334374238130427#m">R to @rowancheung: Three years later, the newsletter turned into a full ecosystem:
-
--2.6M active subscribers (50%+ open rates)
--A-list interviews with guests like Zuck, Sama, and Satya
--A social audience in the multi-millions
--AI training  for 63k+ professionals and companies</a></li>
-<li><a href="https://nitter.net/rowancheung/status/2064334367753642134#m">R to @rowancheung: Three years ago, I started by posting Twitter threads into the void (back when it was called Twitter)
-
-I had no following, no co-founder, no investors, and was working 12+ hours a day making content, writing a daily newsletter, AND testing every new AI tool.</a></li>
-<li><a href="https://nitter.net/rowancheung/status/2064334370039648575#m">R to @rowancheung: But I got VERY lucky early on in two ways:
-
-1) My content took off, which fed organic growth into the newsletter
-
-2) I brought on two amazing people: @joeycyliu to run partnerships and @Ghost_Z12 to write the daily newsletter</a></li>
-<li><a href="https://nitter.net/rowancheung/status/2064334363622244824#m">Pinned: NEWS:
-
-The Rundown just took its first strategic investment from Electrify (behind brands like Veritasium, Fireship, and more)!
-
-Through this partnership, we can scale significantly faster toward our mission of educating 1B people on AI.
-
-The story below:</a></li>
-<li><a href="https://nitter.net/rowancheung/status/2064334365883036110#m">R to @rowancheung: First, the shape of the deal.
-
-Electrify took a stake in the business, and I'm staying on as CEO with full control of editorial, content, and direction.
-
-The Rundown stays fully independent, now with the operations, infrastructure, and advisory support of a huge media company.</a></li>
-</ul>]]></description>
-        <author><![CDATA[Rowan Cheung]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-06-09): 8 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1kyEm6pEj8</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-06-09-d13e0e33</guid>
-        <pubDate>Tue, 09 Jun 2026 13:02:40 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1kyEm6pEj8">【英文原声】《华尔街日报》6月9日全文精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1ryEm6pEzf">《华尔街日报》6月9日全文精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV19sE769Ehu">【英文原声】花旗看好特锐德，AI新品赋能智算中心建设</a></li>
-<li><a href="https://www.bilibili.com/video/BV19sE769EAK">花旗看好特锐德，AI新品赋能智算中心建设</a></li>
-<li><a href="https://www.bilibili.com/video/BV1RNEE64EeU">【英文原声】花旗看好美的，2B转型与品牌出海双战略</a></li>
-<li><a href="https://www.bilibili.com/video/BV1vNEE64EKY">花旗看好美的，2B转型与品牌出海双战略</a></li>
-<li><a href="https://www.bilibili.com/video/BV1N4EE6VEw1">【英文原声】高盛看好中国光伏，2026光储产业格局</a></li>
-<li><a href="https://www.bilibili.com/video/BV1y4EE6GEYN">高盛看好中国光伏，2026光储产业格局</a></li>
-</ul>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] Yann LeCun：RT by @ylecun: Here is @ylecun ‘s recent lecture on world models at @ETH: https://youtu.be/72Xj8k5WQX4]]></title>
-        <link>https://nitter.net/chrisoffner3d/status/2064320485559599247#m</link>
-        <guid isPermaLink="false">x-97c665ade30a4348</guid>
-        <pubDate>Tue, 09 Jun 2026 12:15:31 GMT</pubDate>
         <description><![CDATA[<p>📱 平台：X</p>
-<p>✍️ 作者：Yann LeCun</p>
-<p>Here is @ylecun ‘s recent lecture on world models at @ETH: piped.video/72Xj8k5WQX4</p><p><a href="https://nitter.net/chrisoffner3d/status/2064320485559599247#m">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Yann LeCun]]></author>
+<p>✍️ 作者：Demis Hassabis</p>
+<p>Introducing Gemini 3.5 Flash Live Translate, our real time speech to speech translation model which supports more than 70 languages (both in and out), and is so natural.
+
+It is available in the Gemini</p><p><a href="https://nitter.net/OfficialLoganK/status/2064369125447864674#m">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Demis Hassabis]]></author>
         <category>X</category>
     </item>
     
     <item>
-        <title><![CDATA[[X] Simon Willison：That's both OpenAI and Anthropic with confidential S-1s filed with the SEC - Anthropic filed theirs on June 1st]]></title>
-        <link>https://nitter.net/simonw/status/2064094592300134652#m</link>
-        <guid isPermaLink="false">x-6801116e252eb916</guid>
-        <pubDate>Mon, 08 Jun 2026 21:17:54 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：X</p>
-<p>✍️ 作者：Simon Willison</p>
-<p>That's both OpenAI and Anthropic with confidential S-1s filed with the SEC - Anthropic filed theirs on June 1st
+        <title><![CDATA[[X] AI公司官方 (2026-06-09): 5 posts]]></title>
+        <link>https://nitter.net/GoogleDeepMind/status/2064366509216928102#m</link>
+        <guid isPermaLink="false">x-cat-9f8bb8e0-2026-06-09</guid>
+        <pubDate>Tue, 09 Jun 2026 15:18:24 GMT</pubDate>
+        <description><![CDATA[<h4>AI公司官方 · 2位作者 · 5条</h4>
+<h5>Google DeepMind · 3条</h5>
+<ul>
+<li><a href="https://nitter.net/GoogleDeepMind/status/2064366509216928102#m">R to @GoogleDeepMind: 3.5 Live Translate can convert speech into over 70 languages and processes it as it’s streamed - while keeping tone, pace and pitch intact - allowing for more natural conversations.</a></li>
+<li><a href="https://nitter.net/GoogleDeepMind/status/2064366510932439413#m">R to @GoogleDeepMind: Try it in the @Google Translate app or build in preview via the API in @GoogleAIStudio. Find out more ↓ https://goo.gle/4aEtspk</a></li>
+<li><a href="https://nitter.net/GoogleDeepMind/status/2064366504745828689#m">Say hello, hola, 你好 to Gemini 3.5 Live Translate: our latest audio model built for fast, cross-language communication. 🌐</a></li>
+</ul>
+<h5>Google AI · 2条</h5>
+<ul>
+<li><a href="https://nitter.net/GoogleAI/status/2064366505630802081#m">R to @GoogleAI: Read the blog to learn more: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/</a></li>
+<li><a href="https://nitter.net/GoogleAI/status/2064366504112505266#m">Today, we released Gemini 3.5 Live Translate, our latest audio model for live speech-to-speech translation.
 
+It supports over 70 languages and starts translating as soon as you start talking, streaming translations while listening to what you say next. No awkward pauses or choppy audio, just real connection without language barriers.
 
-OpenAI Newsroom (@OpenAINewsroom)
+So, how does it work? 🤔
 
-We recently submitted a confidential S-1. We expect</p><p><a href="https://nitter.net/simonw/status/2064094592300134652#m">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Simon Willison]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-06-08): 2 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1VoE36zE8Y</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-06-08-d13e0e33</guid>
-        <pubDate>Mon, 08 Jun 2026 15:30:49 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1VoE36zE8Y">【英文原声】《华尔街日报》6月8日全文精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1afE36TEaZ">《华尔街日报》6月8日全文精读</a></li>
+The model is able to make split-second decisions to juggle speed and translation quality so conversations actually feel fluid, human, and natural. In order to do this, the model must receive and contextualize the input while simultaneously outputting the translated speech.
+
+Through this process, Gemini 3.5 Live Translate manages to stay mere seconds behind each speaker and can even maintain pacing, pitch, and intonation across extended sessions.
+
+See it in action below, or try it yourself in the Google Translate app on iOS & Android.</a></li>
 </ul>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
+        <author><![CDATA[AI公司官方]]></author>
+        <category>X</category>
     </item>
     
 </channel>

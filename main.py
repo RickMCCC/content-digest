@@ -6,7 +6,7 @@ import logging
 import yaml
 from pathlib import Path
 
-from storage.db import init_db, get_recent_items, get_today_items, insert_digest, get_item_count
+from storage.db import init_db, get_recent_items, get_today_items, insert_digest, get_item_count, update_translation, get_untranslated_items
 from crawlers.base import CrawlerConfig
 from crawlers.bilibili import BilibiliCrawler
 from crawlers.zhihu import ZhihuCrawler
@@ -15,6 +15,7 @@ from crawlers.rss_source import RssSourceCrawler
 from storage.db import insert_item, log_crawl
 from digest.generator import generate_digest
 from feed.generator import generate_feed, group_by_author_day, group_by_category
+from translate.translator import is_mostly_english, translate_to_chinese
 
 # 配置日志
 logging.basicConfig(
@@ -129,12 +130,51 @@ def run():
                         if inserted:
                             total_new += 1
                             logger.info(f"[rss] New ({src['platform']}): {item['title'][:50]}")
+                            # Translate English X tweets
+                            if item["platform"] == "x":
+                                text_to_check = item["title"]
+                                if item.get("summary"):
+                                    text_to_check += " " + item["summary"]
+                                if is_mostly_english(text_to_check):
+                                    translation = translate_to_chinese(
+                                        text_to_check,
+                                        config.get("deepseek", {}),
+                                    )
+                                    if translation:
+                                        update_translation(
+                                            item["platform"],
+                                            item["content_id"],
+                                            translation,
+                                        )
+                                        logger.debug(
+                                            f"[translate] {item['title'][:30]}... → {translation[:30]}..."
+                                        )
                     log_crawl(src["platform"], src["url"], "success", len(items), None, 0)
                 except Exception as e:
                     logger.error(f"[rss] Failed for {src['name']}: {e}")
                     log_crawl(src["platform"], src["url"], "error", 0, str(e), 0)
         finally:
             rss_crawler.close()
+
+    # Backfill translations for existing untranslated X items (up to 20 per run)
+    if RUNNER_MODE != "fallback":
+        untranslated = get_untranslated_items("x", limit=20)
+        if untranslated:
+            logger.info(f"[translate] Backfilling {len(untranslated)} untranslated X items...")
+            deepseek_cfg = config.get("deepseek", {})
+            translated_count = 0
+            for item in untranslated:
+                text = item["title"]
+                if item.get("summary"):
+                    text += " " + item["summary"]
+                if is_mostly_english(text):
+                    translation = translate_to_chinese(text, deepseek_cfg)
+                    if translation:
+                        update_translation(item["platform"], item["content_id"], translation)
+                        translated_count += 1
+            logger.info(f"[translate] Backfilled {translated_count} translations")
+        else:
+            logger.debug("[translate] No untranslated X items to backfill")
 
     logger.info(f"Crawl complete: {total_new} new items found")
 
