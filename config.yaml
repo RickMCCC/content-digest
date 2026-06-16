@@ -104,6 +104,9 @@ subscriptions:
     - id: "285286947"
       name: "橘鸦juya"
       stream: "tech"
+    - id: "46405906"
+      name: "阿周的Eureka"
+      stream: "life"
 
   xiaohongshu:
     - id: "5bf7d30643e93c0001a852b8"
