@@ -5,15 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 17 Jun 2026 20:38:49 GMT</lastBuildDate>
-    <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Wed, 17 Jun 2026 23:03:22 GMT</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 06月17日 20:38 UTC]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 06月17日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
         <guid isPermaLink="false">digest-2026-06-17</guid>
-        <pubDate>Wed, 17 Jun 2026 20:38:49 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> 🟢 本地 PC 在线</p><p><b>📡 技术资讯流 (tech):</b> 56 items</p><p><b>🎮 生活分享流 (life):</b> 31 items</p><p><b>🆕 本次新增:</b> 87 items</p><p><b>📦 数据库总量:</b> 1438 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 在线 | GitHub Actions: 未触发</p>]]></description>
+        <pubDate>Wed, 17 Jun 2026 23:03:22 GMT</pubDate>
+        <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
+        <author><![CDATA[AI Digest Bot]]></author>
+        <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[📊 运行日志 | 06月17日 23:03 UTC]]></title>
+        <link>https://github.com/RickMCCC/content-digest</link>
+        <guid isPermaLink="false">digest-2026-06-17</guid>
+        <pubDate>Wed, 17 Jun 2026 23:03:22 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 57 items</p><p><b>🎮 生活分享流 (life):</b> 31 items</p><p><b>🆕 本次新增:</b> 1 items</p><p><b>📦 数据库总量:</b> 1439 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -1015,6 +1025,18 @@ Real-Time Vision-Language Interaction Intelligence</a></li>
 <p>✍️ 作者：新西兰三妹</p>
 <p><a href="https://www.bilibili.com/video/BV1xwL96vEur">查看原文 →</a></p>]]></description>
         <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：SpaceX 宣布正式以600亿美元收购 Cursor；智谱正式发布 GLM-5.2【AI 早报 2026-06-17】]]></title>
+        <link>https://www.bilibili.com/video/BV12cjj6eEnW</link>
+        <guid isPermaLink="false">bilibili-116762880247152</guid>
+        <pubDate>Wed, 17 Jun 2026 01:42:42 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/qUQrti04igqD6wguDy3dcQ</p><p><a href="https://www.bilibili.com/video/BV12cjj6eEnW">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
@@ -2792,11 +2814,11 @@ These projects were led by our incredible interns @HaoZhang623 @BDuisterhof @DrT
     </item>
     
     <item>
-        <title><![CDATA[[X] AI公司官方 (2026-06-12): 16 posts]]></title>
+        <title><![CDATA[[X] AI公司官方 (2026-06-12): 15 posts]]></title>
         <link>https://nitter.net/msharmavikram/status/2065461211760886014#m</link>
         <guid isPermaLink="false">x-cat-9f8bb8e0-2026-06-12</guid>
         <pubDate>Fri, 12 Jun 2026 15:48:21 GMT</pubDate>
-        <description><![CDATA[<h4>AI公司官方 · 7位作者 · 16条</h4>
+        <description><![CDATA[<h4>AI公司官方 · 7位作者 · 15条</h4>
 <h5>MiniMax · 2条</h5>
 <ul>
 <li><a href="https://nitter.net/msharmavikram/status/2065461211760886014#m">RT by @MiniMax_AI: Deploy MiniMax M3 with @nvidia  Dynamo at scale using your favorite inference engine - @vllm_project, @sgl_project, or TRTLLM! 
@@ -2890,17 +2912,10 @@ Meet the companies → https://goo.gle/4oeEk2K</a></li></ul>
 🤗https://huggingface.co/collections/PaddlePaddle/pp-ocrv6
 
 #PaddlePaddle #PaddleOCR #OCR #AI #ComputerVision #OpenSource #EdgeAI</a></li></ul>
-<h5>OpenAI · 2条</h5>
-<ul>
-<li><a href="https://nitter.net/OpenAI/status/2065225374737543376#m">R to @OpenAI: For the next two weeks, Plus and Pro users can invite up to three friends to try Codex.
+<h5>OpenAI</h5>
+<ul><li><a href="https://nitter.net/OpenAI/status/2065225374737543376#m">R to @OpenAI: For the next two weeks, Plus and Pro users can invite up to three friends to try Codex.
 
-When a friend sends their first Codex message, you’ll both get another banked reset.</a></li>
-<li><a href="https://nitter.net/OpenAI/status/2065225362544726371#m">We heard you wanted to use Codex rate limit resets on your own time.
-
-Starting today, we’re rolling out the ability to save rate limit resets to use later.
-
-We’re starting Go, Plus, Pro, and Business users with one free reset:</a></li>
-</ul>]]></description>
+When a friend sends their first Codex message, you’ll both get another banked reset.</a></li></ul>]]></description>
         <author><![CDATA[AI公司官方]]></author>
         <category>X</category>
     </item>
