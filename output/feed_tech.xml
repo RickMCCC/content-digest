@@ -5,15 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 19 Jun 2026 20:38:26 GMT</lastBuildDate>
-    <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Fri, 19 Jun 2026 22:37:17 GMT</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 06月19日 20:38 UTC]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 06月19日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
         <guid isPermaLink="false">digest-2026-06-19</guid>
-        <pubDate>Fri, 19 Jun 2026 20:38:26 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> 🟢 本地 PC 在线</p><p><b>📡 技术资讯流 (tech):</b> 43 items</p><p><b>🎮 生活分享流 (life):</b> 22 items</p><p><b>🆕 本次新增:</b> 65 items</p><p><b>📦 数据库总量:</b> 1610 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 在线 | GitHub Actions: 未触发</p>]]></description>
+        <pubDate>Fri, 19 Jun 2026 22:37:17 GMT</pubDate>
+        <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
+        <author><![CDATA[AI Digest Bot]]></author>
+        <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[📊 运行日志 | 06月19日 22:37 UTC]]></title>
+        <link>https://github.com/RickMCCC/content-digest</link>
+        <guid isPermaLink="false">digest-2026-06-19</guid>
+        <pubDate>Fri, 19 Jun 2026 22:37:17 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 43 items</p><p><b>🎮 生活分享流 (life):</b> 23 items</p><p><b>🆕 本次新增:</b> 1 items</p><p><b>📦 数据库总量:</b> 1611 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -2399,7 +2409,7 @@ GGUF: https://huggingface.co/unsloth/Kimi-K2.7-Code-GGUF</a></li>
     </item>
     
     <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-06-15): 8 posts]]></title>
+        <title><![CDATA[[B站] 华尔街播客 (2026-06-15): 7 posts]]></title>
         <link>https://www.bilibili.com/video/BV1mBjN6zESN</link>
         <guid isPermaLink="false">bilibili-grouped-2026-06-15-d13e0e33</guid>
         <pubDate>Mon, 15 Jun 2026 14:33:01 GMT</pubDate>
@@ -2411,7 +2421,6 @@ GGUF: https://huggingface.co/unsloth/Kimi-K2.7-Code-GGUF</a></li>
 <li><a href="https://www.bilibili.com/video/BV1UjJV6qEps">【英文原声】摩根看好宁德时代，龙头集中度持续提升中</a></li>
 <li><a href="https://www.bilibili.com/video/BV1UjJV6qEKc">摩根看好宁德时代，龙头集中度持续提升中</a></li>
 <li><a href="https://www.bilibili.com/video/BV1mJJV6vEpn">【英文原声】野村观望半导体封装，先进封装竞争生变局</a></li>
-<li><a href="https://www.bilibili.com/video/BV12JJV6vEsF">野村观望半导体封装，先进封装竞争生变局</a></li>
 </ul>]]></description>
         <author><![CDATA[华尔街播客]]></author>
         <category>B站</category>
