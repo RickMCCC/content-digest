@@ -129,12 +129,17 @@ def group_by_author_day(items: list[dict], platforms: set = None, author_ids: se
             author_name = latest["author_name"]
             post_count = len(group_items)
 
-            # Build bullet-list HTML
+            # Build bullet-list HTML (with translations if available)
             li_items = []
             for it in group_items:
-                li_items.append(
-                    f'<li><a href="{it["url"]}">{it["title"]}</a></li>'
-                )
+                li = f'<li><a href="{it["url"]}">{it["title"]}</a>'
+                if it.get("translation"):
+                    li += (
+                        f'<br><span style="color:#555;font-size:13px;">'
+                        f'🌐 中文翻译：{it["translation"]}</span>'
+                    )
+                li += "</li>"
+                li_items.append(li)
             group_html = "<ul>\n" + "\n".join(li_items) + "\n</ul>"
 
             # Deterministic content_id for stable RSS GUID
@@ -195,13 +200,9 @@ def group_by_category(items: list[dict], category_map: dict) -> list[dict]:
         key = (cat, date_str)
         groups.setdefault(key, []).append(item)
 
-    # Build merged result
+    # Build merged result — always wrap in category format
     result = list(pass_through)
     for (cat, date_str), group_items in groups.items():
-        if len(group_items) == 1:
-            result.append(group_items[0])
-            continue
-
         group_items.sort(key=lambda x: x["published_at"], reverse=True)
         latest = group_items[0]
         author_count = len(group_items)
@@ -217,10 +218,17 @@ def group_by_category(items: list[dict], category_map: dict) -> list[dict]:
                     f"<h5>{author} · {it['_group_count']}条</h5>\n{it['_group_html']}"
                 )
             else:
-                author_sections.append(
+                entry = (
                     f"<h5>{author}</h5>\n"
-                    f'<ul><li><a href="{it["url"]}">{it["title"]}</a></li></ul>'
+                    f'<ul><li><a href="{it["url"]}">{it["title"]}</a>'
                 )
+                if it.get("translation"):
+                    entry += (
+                        f'<br><span style="color:#555;font-size:13px;">'
+                        f'🌐 中文翻译：{it["translation"]}</span>'
+                    )
+                entry += "</li></ul>"
+                author_sections.append(entry)
 
         group_html = (
             f"<h4>{cat} · {author_count}位作者 · {total_posts}条</h4>\n"

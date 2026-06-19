@@ -246,6 +246,7 @@ rss_sources:
     platform: "x"
     name: "Dwarkesh Patel"
     stream: "tech"
+    group: "AI资讯聚合"
 
   # ====== AI 公司官方 ======
   - url: "https://nitter.net/OpenAI/rss"
