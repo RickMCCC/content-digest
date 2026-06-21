@@ -43,14 +43,17 @@ jobs:
             echo "Local runner last seen: ${DIFF}h ago"
             if [ "$DIFF" -lt 24 ]; then
               echo "Local runner is active, skipping cloud run"
+              echo "run_fallback=false" >> "$GITHUB_OUTPUT"
               exit 0
             fi
           else
             echo "No heartbeat file found"
           fi
           echo "Local runner offline, entering fallback mode"
+          echo "run_fallback=true" >> "$GITHUB_OUTPUT"
 
       - name: Run content digest (fallback)
+        if: steps.check_runner.outputs.run_fallback == 'true'
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           DEEPSEEK_BASE_URL: ${{ secrets.DEEPSEEK_BASE_URL }}
@@ -61,6 +64,7 @@ jobs:
         run: python main.py
 
       - name: Commit and push changes
+        if: steps.check_runner.outputs.run_fallback == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"

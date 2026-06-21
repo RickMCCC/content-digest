@@ -156,12 +156,13 @@ def run():
         finally:
             rss_crawler.close()
 
-    # Backfill translations for existing untranslated X items (up to 20 per run)
-    if RUNNER_MODE != "fallback":
-        untranslated = get_untranslated_items("x", limit=20)
+    # Backfill translations for existing untranslated X items when API access is available.
+    deepseek_cfg = config.get("deepseek", {})
+    translation_limit = deepseek_cfg.get("translation_backfill_limit", 20)
+    if os.environ.get("DEEPSEEK_API_KEY"):
+        untranslated = get_untranslated_items("x", limit=translation_limit)
         if untranslated:
             logger.info(f"[translate] Backfilling {len(untranslated)} untranslated X items...")
-            deepseek_cfg = config.get("deepseek", {})
             translated_count = 0
             for item in untranslated:
                 text = item["title"]
@@ -175,6 +176,8 @@ def run():
             logger.info(f"[translate] Backfilled {translated_count} translations")
         else:
             logger.debug("[translate] No untranslated X items to backfill")
+    else:
+        logger.info("[translate] DEEPSEEK_API_KEY not set, skipping X translation backfill")
 
     logger.info(f"Crawl complete: {total_new} new items found")
 
