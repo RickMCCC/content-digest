@@ -5,107 +5,116 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 24 Jun 2026 20:39:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 20:39:09 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 06月24日 20:39 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 06月25日 20:39 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-06-24</guid>
-        <pubDate>Wed, 24 Jun 2026 20:39:24 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> 🟢 本地 PC 在线</p><p><b>📡 技术资讯流 (tech):</b> 49 items</p><p><b>🎮 生活分享流 (life):</b> 26 items</p><p><b>🆕 本次新增:</b> 79 items</p><p><b>📦 数据库总量:</b> 1939 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 在线 | GitHub Actions: 未触发</p>]]></description>
+        <guid isPermaLink="false">digest-2026-06-25</guid>
+        <pubDate>Thu, 25 Jun 2026 20:39:09 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> 🟢 本地 PC 在线</p><p><b>📡 技术资讯流 (tech):</b> 47 items</p><p><b>🎮 生活分享流 (life):</b> 26 items</p><p><b>🆕 本次新增:</b> 79 items</p><p><b>📦 数据库总量:</b> 2018 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 在线 | GitHub Actions: 未触发</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[[X] AI公司掌门 (2026-06-25): 6 posts]]></title>
-        <link>https://nitter.net/samcharrington/status/2069878355671838909#m</link>
-        <guid isPermaLink="false">x-cat-cf9c101e-2026-06-25</guid>
-        <pubDate>Wed, 24 Jun 2026 20:20:31 GMT</pubDate>
-        <description><![CDATA[<h4>AI公司掌门 · 1位作者 · 6条</h4>
-<h5>Clem (HF CEO) · 6条</h5>
+        <title><![CDATA[[X] AI资讯聚合 (2026-06-26): 14 posts]]></title>
+        <link>https://nitter.net/dwarkesh_sp/status/2070222272594583669#m</link>
+        <guid isPermaLink="false">x-cat-127ec8f8-2026-06-26</guid>
+        <pubDate>Thu, 25 Jun 2026 19:07:07 GMT</pubDate>
+        <description><![CDATA[<h4>AI资讯聚合 · 2位作者 · 14条</h4>
+<h5>Dwarkesh Patel · 3条</h5>
 <ul>
-<li><a href="https://nitter.net/samcharrington/status/2069878355671838909#m">RT by @ClementDelangue: .@cristianoamon and @ClementDelangue drop a "one more thing" at @Qualcomm investor day: Qualcomm and @huggingface partner to bring open models to Qualcomm platforms and beyond. - Users will be able to take any model, big or small, and deploy on Qualcomm platforms and (with @Modular) beyond - HF to deploy Qualcomm platforms to support inference for Pro subscribers</a></li>
-<li><a href="https://nitter.net/gatobaker/status/2069876250957463700#m">RT by @ClementDelangue: One more thing. NEWS with @huggingface @ClementDelangue @durga_malladi</a></li>
-<li><a href="https://nitter.net/ClementDelangue/status/2069872844851306775#m">Qualcomm!</a></li>
-<li><a href="https://nitter.net/ClementDelangue/status/2069839095577084364#m">Kog open-sourced on @huggingface the 2B model that they used to show a model running at 3,000+ tokens per second. Very cool work! https://huggingface.co/blog/kogai/kog-laneformer-2b-the-latency-first-model</a></li>
-<li><a href="https://nitter.net/graceisford/status/2069835026687050019#m">RT by @ClementDelangue: A huge moment for open source AI - as token usage skyrockets across orgs, so do concerns over cost & data/vendor lock-in & necessity of a multi-AI strategy Keep an eye on @Lux_Capital portfolio cos @huggingface @togethercompute @SakanaAILabs & more! 🚀</a></li>
-<li><a href="https://nitter.net/kevincodex/status/2069822667763638323#m">RT by @ClementDelangue: Building a Gitlawb Nodes adapter for Hugging Face buckets. Decentralized git storage should be able to live on the most supportive OSS infrastructure in the world. cc: @ClementDelangue @huggingface</a></li>
-</ul>]]></description>
-        <author><![CDATA[AI公司掌门]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] AI资讯聚合 (2026-06-25): 6 posts]]></title>
-        <link>https://nitter.net/dwarkesh_sp/status/2069862602973614437#m</link>
-        <guid isPermaLink="false">x-cat-127ec8f8-2026-06-25</guid>
-        <pubDate>Wed, 24 Jun 2026 19:17:55 GMT</pubDate>
-        <description><![CDATA[<h4>AI资讯聚合 · 2位作者 · 6条</h4>
-<h5>Dwarkesh Patel · 4条</h5>
-<ul>
-<li><a href="https://nitter.net/dwarkesh_sp/status/2069862602973614437#m">R to @dwarkesh_sp: Watch my full interview with Tony Blair: https://www.dwarkesh.com/p/tony-blair</a></li>
-<li><a href="https://nitter.net/dwarkesh_sp/status/2069862590755570039#m">Lee Kuan Yew's biggest ideas went entirely against the grain of postcolonial states across the rest of the world. In many ways, that is exactly why he was successful.</a></li>
-<li><a href="https://nitter.net/dwarkesh_sp/status/2069823296603050364#m">R to @dwarkesh_sp: Watch the full episode with Patrick Collison: https://www.dwarkesh.com/p/patrick-collison</a></li>
-<li><a href="https://nitter.net/dwarkesh_sp/status/2069823284158550248#m">The invention of the printing press didn't just make information transfer more efficient. It made the whole culture put more weight on the words in front of them. Before the printing press, you might only have had access to a single copy of Aristotle or whoever. This scarcity made ideas slippery. Even if you had evidence that disproved Aristotle, it was easy for someone to argue that Aristotle didn't really mean that - maybe the scribe made a mistake copying the book. But once you had a uniform printed text, with many identical copies, the written word became more load-bearing. When actual evidence conflicted with authority, it wasn't so easy to ignore. Arguably this was a major contributor to the Scientific Revolution. Ideas became more rigid, easier to pin down - and so easier to test and disprove. The broader point is that the shift from oral culture to written culture didn't just happen once. Writing has become more and more load-bearing over time, as technology has changed, and it's hugely changed culture with it. And if writing remains the key component of how AI gets up-to-speed with tasks, then this process could get accelerated.</a></li>
+<li><a href="https://nitter.net/dwarkesh_sp/status/2070222272594583669#m">The way math is presented can be really misleading about the actual nature of math. In theory, someone could have discovered quantum information theory decades before quantum mechanics even existed. It's just about combining linear algebra with probability. But nobody would have known it was worth combining these fields - or how, exactly, to combine them - before QM. Math papers and textbooks go rigourously step-by-step, starting with axioms and definitions, then deducing theorems. It's great for making sure proofs can be verified and ensuring the subject is based on sound logic. But for learners, it hides the really important thing: where did the axioms come from? Why these definitions and not others? The thing that's missing is the sense that there were concrete problems that these ideas helped solve.</a></li>
+<li><a href="https://nitter.net/dwarkesh_sp/status/2070179375153377543#m">R to @dwarkesh_sp: Watch the full episode with Casey, about energy and AGI: https://www.dwarkesh.com/p/casey-handmer</a></li>
+<li><a href="https://nitter.net/dwarkesh_sp/status/2070179362750845038#m">Plots of empty desert could soon be worth more than the most fertile farmland in human history. @CJHandmer ran through the back-of-the-envelope math. 10 acres of solar is enough for 1 MW of H100s. And the FLOPS done by those H100s is roughly equivalent to 1000 human brains. If we build models that match human performance per FLOP, we could produce 100 humans' worth of cognition per acre of solar. And that's just the floor. Today's chips are far less energy-efficient than the brain, so the actual number could be bigger still by >50x. The implied land value is insane. The clear incentive would be to use up almost all the world's land for solar.</a></li>
 </ul>
-<h5>AK (论文速递) · 2条</h5>
+<h5>AK (论文速递) · 11条</h5>
 <ul>
-<li><a href="https://nitter.net/_akhaliq/status/2069830900687282233#m">R to @_akhaliq: paper: https://huggingface.co/papers/2606.24597</a></li>
-<li><a href="https://nitter.net/_akhaliq/status/2069830898522951821#m">Qwen-AgentWorld Language World Models for General Agents</a></li>
+<li><a href="https://nitter.net/_akhaliq/status/2070203449556316531#m">R to @_akhaliq: docs: https://huggingface.co/docs/inference-providers/integrations/claude-code</a></li>
+<li><a href="https://nitter.net/_akhaliq/status/2070203092868497721#m">glm 5.2 in hf-claude building a gradio server app for Ornith-1.0-9B</a></li>
+<li><a href="https://nitter.net/victormustar/status/2070190749002441133#m">RT by @_akhaliq: result (you can deploy in one-click with the rocket icon): https://victor-victor-mustar-personal-website.static.hf.space</a></li>
+<li><a href="https://nitter.net/victormustar/status/2070190742991994967#m">RT by @_akhaliq: Cool: if you have a Hugging Face account you have enough free credits to ask GLM-5.2 to build your website on HuggingChat (it will use Exa to do some research about you) and you can deploy it for free in a static HF Space. Also this model has good taste 🤌</a></li>
+<li><a href="https://nitter.net/_akhaliq/status/2070185392192585843#m">Wan-Streamer v0.1 End-to-end Real-time Interactive Foundation Models</a></li>
+<li><a href="https://nitter.net/_akhaliq/status/2070185393958355403#m">R to @_akhaliq: paper: https://huggingface.co/papers/2606.25041</a></li>
+<li><a href="https://nitter.net/_akhaliq/status/2070184699247411490#m">DomainShuttle Freeform Open Domain Subject-driven Text-to-video Generation</a></li>
+<li><a href="https://nitter.net/_akhaliq/status/2070184700908311034#m">R to @_akhaliq: paper: https://huggingface.co/papers/2606.26058</a></li>
+<li><a href="https://nitter.net/googlegemma/status/2070180154069176399#m">RT by @_akhaliq: Gemma 4 just hit 200M downloads in only 2.5 months! For context, total downloads across the entire Gemma family of models were at 100M when we launched Gemma 3. The community's acceleration is incredible. Thank you to everyone building with Gemma. Watch how developers are driving real-world impact:</a></li>
+<li><a href="https://nitter.net/_akhaliq/status/2070175866428989584#m">Are We Ready For An Agent-Native Memory System?</a></li>
+<li><a href="https://nitter.net/_akhaliq/status/2070175868601630940#m">R to @_akhaliq: paper: https://huggingface.co/papers/2606.24775</a></li>
 </ul>]]></description>
         <author><![CDATA[AI资讯聚合]]></author>
         <category>X</category>
     </item>
     
     <item>
-        <title><![CDATA[[X] AI公司官方 (2026-06-25): 7 posts]]></title>
-        <link>https://nitter.net/NVIDIARobotics/status/2069860852963143745#m</link>
-        <guid isPermaLink="false">x-cat-9f8bb8e0-2026-06-25</guid>
-        <pubDate>Wed, 24 Jun 2026 19:10:58 GMT</pubDate>
-        <description><![CDATA[<h4>AI公司官方 · 3位作者 · 7条</h4>
-<h5>NVIDIA AI · 4条</h5>
+        <title><![CDATA[[X] AI教育实践 (2026-06-26): 2 posts]]></title>
+        <link>https://nitter.net/simonw/status/2070212662903099536#m</link>
+        <guid isPermaLink="false">x-cat-919c55bf-2026-06-26</guid>
+        <pubDate>Thu, 25 Jun 2026 18:28:56 GMT</pubDate>
+        <description><![CDATA[<h4>AI教育实践 · 1位作者 · 2条</h4>
+<h5>Simon Willison · 2条</h5>
 <ul>
-<li><a href="https://nitter.net/NVIDIARobotics/status/2069860852963143745#m">RT by @NVIDIAAI: Cosmos 3 wins another leaderboard. The power of an open frontier model. 🎉 Ranked #1 on @allen_ai's MolmoSpaces robot policies leaderboard, a policy model post-trained on Cosmos 3 Nano shows the strongest performance in environments that require models to interpret, reason, and act in real time. Not just understanding the world, but interacting with it. 📊 https://molmospaces.allen.ai/leaderboard Drop what you're building in the comments 👇</a></li>
-<li><a href="https://nitter.net/NVIDIAAI/status/2069858097930121319#m">NVIDIA Metropolis Blueprint for video search and summarization (VSS) 3 is here. Now your coding agent can analyze massive live streams and libraries of videos with a simple natural language prompt. Here's what's new: - 16 new agent skills: Search, summarize, alert, report, review clips. All from natural language prompts. - One unified open source repo: Source code, Docker and Helm deployment profiles for fast, easy deployment. - Multi-video reports and Nemotron 3 Nano Omni: Insights across video and audio at scale. - 3D multi-camera tracking: Production ready + #1 SOTA for smarter scene understanding. Try VSS skills 👉 https://nvda.ws/4g0DTY1</a></li>
-<li><a href="https://nitter.net/NVIDIAAI/status/2069843008665850050#m">Spark Hack Toronto Winner Spotlight: Better Cities with Cracked City https://x.com/i/broadcasts/1jGXggnzNddKZ</a></li>
-<li><a href="https://nitter.net/NVIDIAAI/status/2069813582825418828#m">The rise of MoE models introduced new challenges in training, and @huggingface's Transformers v5 brought first-class support for solving them. Now, NeMo AutoModel builds on top of v5. Part of the NeMo framework for building models at scale, NeMo AutoModel brings optimizations to a broad set of model families through support for Expert Parallelism, DeepEP, and TransformerEngine kernels with a few lines of code. We found NeMo AutoModel brings a 3.4 to 3.7x higher training throughput for popular MoE models. You can read more here: https://nvda.ws/4eopYty</a></li>
-</ul>
+<li><a href="https://nitter.net/simonw/status/2070212662903099536#m">Also not a great advertisement for a sandboxing product: @daytonaio effectively saying they don't trust the security of their product enough to expose the source code</a></li>
+<li><a href="https://nitter.net/simonw/status/2070177896237543874#m">R to @simonw: Update: it's fixed!</a></li>
+</ul>]]></description>
+        <author><![CDATA[AI教育实践]]></author>
+        <category>X</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[X] AI公司官方 (2026-06-26): 7 posts]]></title>
+        <link>https://nitter.net/OpenAI/status/2070196107699970398#m</link>
+        <guid isPermaLink="false">x-cat-9f8bb8e0-2026-06-26</guid>
+        <pubDate>Thu, 25 Jun 2026 17:23:09 GMT</pubDate>
+        <description><![CDATA[<h4>AI公司官方 · 5位作者 · 7条</h4>
 <h5>OpenAI · 2条</h5>
 <ul>
-<li><a href="https://nitter.net/DeryaTR_/status/2069846329287651765#m">RT by @OpenAI: I’m very excited about this article from @OpenAI on my attempt to use GPT-5 Pro to understand the results of an experiment we did several years ago. Remarkably, GPT-5 Pro figured out the key mechanisms, as explained in the article & infographic below! https://openai.com/index/gpt-5-immunology-mystery/</a></li>
-<li><a href="https://nitter.net/OpenAI/status/2069843083701915755#m">We have a new version of GPT-5.5 Instant for you, and it's much more fun to talk to. Our most-used model is now better at understanding the intent behind a question and adapting its response accordingly. It also handles complex constraints more reliably and makes shopping and local recommendations more useful and cohesive. Rolling out today to paid users, tomorrow to free users.</a></li>
+<li><a href="https://nitter.net/OpenAI/status/2070196107699970398#m">R to @OpenAI: openai.com/index/how-agents-…</a></li>
+<li><a href="https://nitter.net/OpenAI/status/2070196105745518913#m">Work at OpenAI is being transformed by agents, in every department. Across our entire company, people are using Codex to do work that is more complex, longer-running, and increasingly cross-functional. Our internal usage offers an early look at how agentic tools may reshape work as they become more capable and broadly available.</a></li>
 </ul>
+<h5>xAI</h5>
+<ul><li><a href="https://nitter.net/xai/status/2070195830192320600#m">You can now use your SuperGrok and X subscriptions inside T3code</a></li></ul>
+<h5>Google DeepMind · 2条</h5>
+<ul>
+<li><a href="https://nitter.net/ElevenLabs/status/2070190716232282550#m">RT by @GoogleDeepMind: As our models improve, identifying AI-generated audio requires more than the human ear. We're partnering with @GoogleDeepMind to embed SynthID - an inaudible digital watermark - directly into ElevenLabs-generated audio. These watermarks will be detectable using our new free ElevenLabs Audio Detector.</a></li>
+<li><a href="https://nitter.net/GoogleDeepMind/status/2070180509523546481#m">Gemini 3.5 Flash now supports native computer use. This built-in tool lets developers build custom agents that can see and take action across browser, mobile, and desktop interfaces. Find out more → https://goo.gle/4f4sNQA</a></li>
+</ul>
+<h5>Anthropic</h5>
+<ul><li><a href="https://nitter.net/AnthropicAI/status/2070183531612172697#m">We're joining @raiseus_ai as a founding partner. RAISE US is a nonprofit coalition working to strengthen the American workforce through employer-led action, AI-enabled training, and policy innovation to support the transition to transformative AI.</a></li></ul>
 <h5>Hugging Face</h5>
-<ul><li><a href="https://nitter.net/halcyonrayes/status/2069838572862255266#m">RT by @huggingface: i’m excited to share that i’m joining @huggingface as a ml dev🥑engineer for cv/3d! huge thanks to @mervenoyann, @ariG23498, @pcuenq, and @LysandreJik for everything in the process, looking forward to making 🤗 the home of 3d. if you’re working on 3d/cv, i want to hear from 🫵</a></li></ul>]]></description>
+<ul><li><a href="https://nitter.net/braintrust/status/2070177203787067498#m">RT by @huggingface: We analyzed 1,781 real agent traces from @huggingface to understand what actually drives agent success across models, benchmarks, and harnesses. What we found: - The harness matters ~7× more than the model. - Open-weight models are production-ready for coding. - Cost per task and cost per success rank configs very differently.</a></li></ul>]]></description>
         <author><![CDATA[AI公司官方]]></author>
         <category>X</category>
     </item>
     
     <item>
-        <title><![CDATA[[X] AI研究核心 (2026-06-25): 2 posts]]></title>
-        <link>https://nitter.net/fchollet/status/2069858556552298519#m</link>
-        <guid isPermaLink="false">x-cat-dbae213b-2026-06-25</guid>
-        <pubDate>Wed, 24 Jun 2026 19:01:50 GMT</pubDate>
-        <description><![CDATA[<h4>AI研究核心 · 1位作者 · 2条</h4>
-<h5>Francois Chollet · 2条</h5>
-<ul>
-<li><a href="https://nitter.net/fchollet/status/2069858556552298519#m">This is the strongest ARC-AGI-2 performance to date by an open-source model.</a></li>
-<li><a href="https://nitter.net/fchollet/status/2069842045779517644#m">The most complex phenomena arise from scalable recombination of very simple rules. Whether it's galaxies, chips, or neural networks, if you find the right primitive building blocks, the complexity takes care of itself.</a></li>
-</ul>]]></description>
+        <title><![CDATA[[X] AI研究核心 (2026-06-26): 1 posts]]></title>
+        <link>https://nitter.net/fchollet/status/2070191976134435032#m</link>
+        <guid isPermaLink="false">x-cat-dbae213b-2026-06-26</guid>
+        <pubDate>Thu, 25 Jun 2026 17:06:44 GMT</pubDate>
+        <description><![CDATA[<h4>AI研究核心 · 1位作者 · 1条</h4>
+<h5>Francois Chollet</h5>
+<ul><li><a href="https://nitter.net/fchollet/status/2070191976134435032#m">When the cost of execution drops, the value of taste, strategy, and architectural vision skyrockets. Previously, you were spending most of your cognitive budget on the micro. Now you are free to focus on the macro.</a></li></ul>]]></description>
         <author><![CDATA[AI研究核心]]></author>
         <category>X</category>
     </item>
     
     <item>
-        <title><![CDATA[[X] AI教育实践 (2026-06-25): 4 posts]]></title>
-        <link>https://nitter.net/emollick/status/2069857050016776227#m</link>
+        <title><![CDATA[[X] AI教育实践 (2026-06-25): 10 posts]]></title>
+        <link>https://nitter.net/emollick/status/2070171580030656744#m</link>
         <guid isPermaLink="false">x-cat-919c55bf-2026-06-25</guid>
-        <pubDate>Wed, 24 Jun 2026 18:55:51 GMT</pubDate>
-        <description><![CDATA[<h4>AI教育实践 · 2位作者 · 4条</h4>
-<h5>Ethan Mollick · 2条</h5>
+        <pubDate>Thu, 25 Jun 2026 15:45:41 GMT</pubDate>
+        <description><![CDATA[<h4>AI教育实践 · 2位作者 · 10条</h4>
+<h5>Ethan Mollick · 8条</h5>
 <ul>
+<li><a href="https://nitter.net/emollick/status/2070171580030656744#m">This is a fascinating and important set of data which shows us where things are going, using OpenAI as a canary in the coal mine. The chatbot era is over, and agentic systems are coming to tasks beyond engineering. And skills show promise as a way to standardize AI use in firms.</a></li>
+<li><a href="https://nitter.net/emollick/status/2070020948326035771#m">State of the art in AI image generation less than 5 years ago.</a></li>
+<li><a href="https://nitter.net/emollick/status/2070020417985581498#m">Does X search just not work at all anymore? It used to sort-of work but now it doesn’t. Going to Grok for every search, even simple ones, is annoying.</a></li>
+<li><a href="https://nitter.net/emollick/status/2069979125838700736#m">R to @emollick: I know this is a common thing to mention in some corners of X, but there is still so much focus on future model development & innovation bringing transformation that people are really overlooking the degree to which the transformation is already baked in, no AGI needed.</a></li>
+<li><a href="https://nitter.net/emollick/status/2069978495690707147#m">The capability overhang from the models we have today is big enough that large-scale change to work and society over the next 5+ years is now inevitable even if AI development stops. (And there is no real sign that AI development is slowing down, it appears to be accelerating)</a></li>
+<li><a href="https://nitter.net/emollick/status/2069920008293978489#m">A lot of people who say they never use AI are using AI, but secretly. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5464215</a></li>
 <li><a href="https://nitter.net/emollick/status/2069857050016776227#m">Gemini 3 Pro was the first model to achieve at least 23% on ARC-AGI-2, which it did in November, 2025 (it actually scored 31%). So the 8-12 month gap between closed and open weights models still seems to hold. But they are also more jagged, better at some tasks, worse at others.</a></li>
 <li><a href="https://nitter.net/emollick/status/2069838427499962716#m">The ability of Codex (and Code) to solve problems on my various Windows machines has saved me so much effort. Just one of the most annoying uses of time, and an example of a clear small win.</a></li>
 </ul>
@@ -119,20 +128,222 @@
     </item>
     
     <item>
-        <title><![CDATA[[X] AI公司官方 (2026-06-24): 31 posts]]></title>
+        <title><![CDATA[[X] AI公司掌门 (2026-06-25): 11 posts]]></title>
+        <link>https://nitter.net/huggingface/status/2070160187751850242#m</link>
+        <guid isPermaLink="false">x-cat-cf9c101e-2026-06-25</guid>
+        <pubDate>Thu, 25 Jun 2026 15:00:25 GMT</pubDate>
+        <description><![CDATA[<h4>AI公司掌门 · 1位作者 · 11条</h4>
+<h5>Clem (HF CEO) · 11条</h5>
+<ul>
+<li><a href="https://nitter.net/huggingface/status/2070160187751850242#m">RT by @ClementDelangue: Welcome to Open Source AI: Run Your Own Models Locally https://x.com/i/broadcasts/1AGRnnELNODGl</a></li>
+<li><a href="https://nitter.net/tbpn/status/2070131557608697947#m">RT by @ClementDelangue: BREAKING: Hugging Face has crossed $100M ARR</a></li>
+<li><a href="https://nitter.net/ClementDelangue/status/2070104323481104674#m">We just crossed $100M annual run-rate. I know many AI companies are capturing much more $$$ these days, but still proud of the milestone! Maximizing short-term revenue has never been our priority. In fact, we're proud to manage to store and serve hundreds of petabytes of models and datasets while keeping HF free and open-source for 97% of our users. As a platform, we’re happy to hopefully create orders of magnitude more value for the community than what we capture. To me, that’s the very definition of a platform. And it has helped us build one of the most loved platform in tech, with network effects, a defensible position and a sustainable business which is quite unique in AI. Many many thanks to all the community members for building with us, we wouldn't be anywhere without you! Can’t wait for what’s next, especially as more companies start to see the value of open and local AI! Next milestone $1B?</a></li>
+<li><a href="https://nitter.net/chris_j_paxton/status/2070009005439603083#m">RT by @ClementDelangue: I think this means you can collect ~10k hours just from open source datasets, which means basically anyone should be able to build a decent robot foundation model: 500 from the new BitRobot dataset 500 from galaxea https://huggingface.co/datasets/OpenGalaxea/Galaxea-Open-World-Dataset 3000 from agibot https://huggingface.co/datasets/agibot-world/AgiBotWorld2026 ~3000 from Open X embodiment (though it's mostly pretty bad data) https://robotics-transformer-x.github.io/ 830 from EgoDex https://github.com/apple/ml-egodex ~30 from humanoid-everyday (but good quality) https://huggingface.co/datasets/USC-PSI-Lab/humanoid-everyday 3500 from ABC https://huggingface.co/datasets/XDOF/ABC-130k</a></li>
+<li><a href="https://nitter.net/ClementDelangue/status/2069903426654212447#m">Thanks for the "one more thing" @cristianoamon @Qualcomm!</a></li>
+<li><a href="https://nitter.net/samcharrington/status/2069878355671838909#m">RT by @ClementDelangue: .@cristianoamon and @ClementDelangue drop a "one more thing" at @Qualcomm investor day: Qualcomm and @huggingface partner to bring open models to Qualcomm platforms and beyond. - Users will be able to take any model, big or small, and deploy on Qualcomm platforms and (with @Modular) beyond - HF to deploy Qualcomm platforms to support inference for Pro subscribers</a></li>
+<li><a href="https://nitter.net/gatobaker/status/2069876250957463700#m">RT by @ClementDelangue: One more thing. NEWS with @huggingface @ClementDelangue @durga_malladi</a></li>
+<li><a href="https://nitter.net/ClementDelangue/status/2069872844851306775#m">Qualcomm!</a></li>
+<li><a href="https://nitter.net/ClementDelangue/status/2069839095577084364#m">Kog open-sourced on @huggingface the 2B model that they used to show a model running at 3,000+ tokens per second. Very cool work! https://huggingface.co/blog/kogai/kog-laneformer-2b-the-latency-first-model</a></li>
+<li><a href="https://nitter.net/graceisford/status/2069835026687050019#m">RT by @ClementDelangue: A huge moment for open source AI - as token usage skyrockets across orgs, so do concerns over cost & data/vendor lock-in & necessity of a multi-AI strategy Keep an eye on @Lux_Capital portfolio cos @huggingface @togethercompute @SakanaAILabs & more! 🚀</a></li>
+<li><a href="https://nitter.net/kevincodex/status/2069822667763638323#m">RT by @ClementDelangue: Building a Gitlawb Nodes adapter for Hugging Face buckets. Decentralized git storage should be able to live on the most supportive OSS infrastructure in the world. cc: @ClementDelangue @huggingface</a></li>
+</ul>]]></description>
+        <author><![CDATA[AI公司掌门]]></author>
+        <category>X</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[X] AI资讯聚合 (2026-06-25): 12 posts]]></title>
+        <link>https://nitter.net/dzhulgakov/status/2070155929992253769#m</link>
+        <guid isPermaLink="false">x-cat-127ec8f8-2026-06-25</guid>
+        <pubDate>Thu, 25 Jun 2026 14:43:30 GMT</pubDate>
+        <description><![CDATA[<h4>AI资讯聚合 · 2位作者 · 12条</h4>
+<h5>AK (论文速递) · 6条</h5>
+<ul>
+<li><a href="https://nitter.net/dzhulgakov/status/2070155929992253769#m">RT by @_akhaliq: HF is awesome. Fun fact: it started back in 2018 as pytorch-pretrained-bert back when 0.34B params was "large" model It's been an honor to collaborate with the great team and community at HF over the years from PyTorch and now Fireworks side Congrats and onwards!</a></li>
+<li><a href="https://nitter.net/zRdianjiao/status/2070136322023657958#m">RT by @_akhaliq: 🚀 Huge congrats! HuggingFace's contribution to open source is truly unforgettable. 🙌</a></li>
+<li><a href="https://nitter.net/_akhaliq/status/2069936937205436512#m">glm 5.2 in hf-claude working on a gradio workflow for krea-2-turbo</a></li>
+<li><a href="https://nitter.net/HuggingPapers/status/2069912457825378321#m">RT by @_akhaliq: NVIDIA just released an NVFP4-quantized MiniMax-M3 on Hugging Face A 428B parameter multimodal MoE model with a 1M-token context window, now compressed to 4-bit precision for 2x memory savings on Blackwell GPUs. https://huggingface.co/nvidia/MiniMax-M3-NVFP4</a></li>
+<li><a href="https://nitter.net/_akhaliq/status/2069830900687282233#m">R to @_akhaliq: paper: https://huggingface.co/papers/2606.24597</a></li>
+<li><a href="https://nitter.net/_akhaliq/status/2069830898522951821#m">Qwen-AgentWorld Language World Models for General Agents</a></li>
+</ul>
+<h5>Dwarkesh Patel · 6条</h5>
+<ul>
+<li><a href="https://nitter.net/dwarkesh_sp/status/2069894375912730826#m">R to @dwarkesh_sp: Full episode with Noam Shazeer and Jeff Dean: https://www.dwarkesh.com/p/jeff-dean-and-noam-shazeer</a></li>
+<li><a href="https://nitter.net/dwarkesh_sp/status/2069894362675441667#m">How many of the big ideas of the past 15 years of AI are downstream of hardware constraints? The big hardware story over that period is that logic has become way cheaper than data transfer. Stacking huge numbers of matrix multiplies was perfect for this hardware regime, because matrix multiplication is logic-intensive but requires less data transfer. And so we got matmul-heavy deep learning. It's interesting to think about what AI would look like in a world where these costs didn't diverge so much.</a></li>
+<li><a href="https://nitter.net/dwarkesh_sp/status/2069862602973614437#m">R to @dwarkesh_sp: Watch my full interview with Tony Blair: https://www.dwarkesh.com/p/tony-blair</a></li>
+<li><a href="https://nitter.net/dwarkesh_sp/status/2069862590755570039#m">Lee Kuan Yew's biggest ideas went entirely against the grain of postcolonial states across the rest of the world. In many ways, that is exactly why he was successful.</a></li>
+<li><a href="https://nitter.net/dwarkesh_sp/status/2069823296603050364#m">R to @dwarkesh_sp: Watch the full episode with Patrick Collison: https://www.dwarkesh.com/p/patrick-collison</a></li>
+<li><a href="https://nitter.net/dwarkesh_sp/status/2069823284158550248#m">The invention of the printing press didn't just make information transfer more efficient. It made the whole culture put more weight on the words in front of them. Before the printing press, you might only have had access to a single copy of Aristotle or whoever. This scarcity made ideas slippery. Even if you had evidence that disproved Aristotle, it was easy for someone to argue that Aristotle didn't really mean that - maybe the scribe made a mistake copying the book. But once you had a uniform printed text, with many identical copies, the written word became more load-bearing. When actual evidence conflicted with authority, it wasn't so easy to ignore. Arguably this was a major contributor to the Scientific Revolution. Ideas became more rigid, easier to pin down - and so easier to test and disprove. The broader point is that the shift from oral culture to written culture didn't just happen once. Writing has become more and more load-bearing over time, as technology has changed, and it's hugely changed culture with it. And if writing remains the key component of how AI gets up-to-speed with tasks, then this process could get accelerated.</a></li>
+</ul>]]></description>
+        <author><![CDATA[AI资讯聚合]]></author>
+        <category>X</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[X] AI研究核心 (2026-06-25): 6 posts]]></title>
+        <link>https://nitter.net/fchollet/status/2070148984002469917#m</link>
+        <guid isPermaLink="false">x-cat-dbae213b-2026-06-25</guid>
+        <pubDate>Thu, 25 Jun 2026 14:15:53 GMT</pubDate>
+        <description><![CDATA[<h4>AI研究核心 · 2位作者 · 6条</h4>
+<h5>Francois Chollet · 3条</h5>
+<ul>
+<li><a href="https://nitter.net/fchollet/status/2070148984002469917#m">Agentic coding forces you to design clean interfaces and document them well. An agent cannot read the implicit mental model shared by your engineering team, it can only read your API contracts and docstrings.</a></li>
+<li><a href="https://nitter.net/fchollet/status/2069858556552298519#m">This is the strongest ARC-AGI-2 performance to date by an open-source model.</a></li>
+<li><a href="https://nitter.net/fchollet/status/2069842045779517644#m">The most complex phenomena arise from scalable recombination of very simple rules. Whether it's galaxies, chips, or neural networks, if you find the right primitive building blocks, the complexity takes care of itself.</a></li>
+</ul>
+<h5>Yann LeCun · 3条</h5>
+<ul>
+<li><a href="https://nitter.net/rodneyabrooks/status/2069883158787498289#m">RT by @ylecun: Image</a></li>
+<li><a href="https://nitter.net/KenRoth/status/2069830476332712013#m">RT by @ylecun: More than 4.7 million people in the US have lost their Supplemental Nutrition Assistance Program benefits, also known as food stamps, since Trump’s signature tax and spending law took effect last July, with Arizona the hardest hit. https://trib.al/O6iE9mn</a></li>
+<li><a href="https://nitter.net/ihtesham2005/status/2069827998271099365#m">RT by @ylecun: Elon Musk built one of the largest AI compute clusters on earth. Yann LeCun just explained why xAI now rents it out to rivals instead of winning with it. Musk has antagonized so much AI talent he structurally cannot hire the people he needs. LeCun is not a critic on the sidelines. He won the Turing Award and ran AI at Meta for a decade. When he talks about who can and cannot build a frontier lab, he is describing his own world. His verdict on xAI was blunt. He called it kind of a failure and did not soften it. His reasoning had nothing to do with money. The founding team left or was fired. There is some uncertainty about which. Either way, the people who started the company are gone. That is the part that matters. A frontier lab is its researchers. Lose them and the compute is just hardware. By March, all eleven co-founders Musk recruited in 2023 had walked out. Researchers who came from DeepMind, Google, and OpenAI. Musk himself posted that xAI was not built right the first time and had to be rebuilt from the foundations up. So Musk is left with one of the biggest clusters on earth and no way to win with it. He rents it out to other companies to recoup the cost. The most expensive infrastructure in AI, built by someone who can no longer staff it. Asked directly if xAI can compete at the frontier, LeCun gave a one word answer. No. What do you guys think about this? Source: CNBC International Live</a></li>
+</ul>]]></description>
+        <author><![CDATA[AI研究核心]]></author>
+        <category>X</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客 (2026-06-25): 7 posts]]></title>
+        <link>https://www.bilibili.com/video/BV17L7a6PE93</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-06-25-d13e0e33</guid>
+        <pubDate>Thu, 25 Jun 2026 14:07:14 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV17L7a6PE93">【英文原声】《华尔街日报》6月25日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1BL7a6PEh7">《华尔街日报》6月25日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1pw786NEES">高盛聚焦AI服务器ODM，内部分化加剧</a></li>
+<li><a href="https://www.bilibili.com/video/BV1pF786iEp2">【英文原声】高盛聚焦AI服务器ODM，内部分化加剧</a></li>
+<li><a href="https://www.bilibili.com/video/BV17g786fEbG">高盛聚焦全球服务器，云厂商加码结构升级</a></li>
+<li><a href="https://www.bilibili.com/video/BV1EM786cEmc">【英文原声】伯恩斯坦聚焦全球半导体，AI强但需观望</a></li>
+<li><a href="https://www.bilibili.com/video/BV1JM786cEJj">伯恩斯坦聚焦全球半导体，AI强但需观望</a></li>
+</ul>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[X] AI公司官方 (2026-06-25): 13 posts]]></title>
+        <link>https://nitter.net/XiaomiMiMoDevs/status/2070146753056395425#m</link>
+        <guid isPermaLink="false">x-cat-9f8bb8e0-2026-06-25</guid>
+        <pubDate>Thu, 25 Jun 2026 14:07:02 GMT</pubDate>
+        <description><![CDATA[<h4>AI公司官方 · 6位作者 · 13条</h4>
+<h5>小米 MiMo</h5>
+<ul><li><a href="https://nitter.net/XiaomiMiMoDevs/status/2070146753056395425#m">RT by @XiaomiMiMo: MiMo-V2.5-Pro-UltraSpeed Beta Access Extended Driven by overwhelming developer demand, we’ve extended the UltraSpeed trial window to unlock 1,000 tokens/s ultra-low-latency inference for more builders. Key traction as of June 23（UTC+8）： • 📈 66,000+ applications submitted • 🌐 Users spanning Fortune 500s, industry leaders, independent developers & academia • 🚀 Coverage across finance, legal, telecom, logistics, automotive, media and research Applications remain open, and approved users keep their access. We'll give advance notice before access closes, with time to migrate. Access: • 📝 Apply: https://platform.xiaomimimo.com/ultraspeed • ⚙️ API — limited-time pricing (3× MiMo-V2.5-Pro), ~10× faster output: https://mimo.mi.com/models/zh-CN/mimo-v2.5-pro-ultraspeed • 💬 Chat — free for approved users: https://ultraspeed.xiaomimimo.com Commercial or large-scale use: 📮business-mimo@xiaomi.com</a></li></ul>
+<h5>百度飞桨 · 2条</h5>
+<ul>
+<li><a href="https://nitter.net/PaddlePaddle/status/2070135642617782531#m">🧵PP-OCRv6 Tech Deep Dive Ep.3: How CTC + NRTR Dual-Head Architecture Prevents Hallucination in Text Recognition — PP-OCRv6 Recognition Module Deep Dive When VLMs read text, they may guess, OCR can't afford that. PP-OCRv6 Tech Deep Dive Ep.3: after detection locks the location, recognition must read it right. In hallucination tests, best VLM reaches only 85.0%, while PP-OCRv6_medium hits 93.2%. The recognition design is built on visual evidence, not language priors: 🔸 LightSVTR neck: 1×7 depthwise conv scans local text structures before global attention — +0.47% accuracy. Additive skip connections replace Concat, reducing parameters and stabilizing training. 🔸 CTC + NRTR dual-head training: CTC decodes purely from visual features at inference — no language prior, no hallucination. NRTR joins only during training, providing language regularization at zero inference cost — +1.16% accuracy. 🔸 Knowledge distillation boosts Tiny from 71.83% to 74.52% — recovering the capacity loss from removing the neck. Result: 83.2% recognition accuracy across 15 scenarios, surpassing PP-OCRv5_server (78.1%), with especially strong gains on Japanese (+16.8%), ancient Chinese (+12.0%), and screen text (+14.4%). 💬 What's your deployment environment — cloud GPU, on-prem CPU, or edge device? 📅 Next in the final episode (Ep.4): 3.9x Faster on CPU, 0.13s per Image on A100 — PP-OCRv6 Deployment & Model Selection Guide #PPOCRv6 #OCR #TextRecognition #AntiHallucination #VLM</a></li>
+<li><a href="https://nitter.net/PaddlePaddle/status/2070105557760143422#m">👏Great to see PP-OCRv6 land on @huggingface 👍Better accuracy, plus transformers & ONNX Runtime backends. Definitely worth a try！ #OCR #OpenSource #HuggingFace</a></li>
+</ul>
+<h5>Hugging Face · 2条</h5>
+<ul>
+<li><a href="https://nitter.net/mervenoyann/status/2070097263477637358#m">RT by @huggingface: celebrating my birthday at @huggingface Giverny office today it has a pretty garden</a></li>
+<li><a href="https://nitter.net/halcyonrayes/status/2069838572862255266#m">RT by @huggingface: i’m excited to share that i’m joining @huggingface as a ml dev🥑engineer for cv/3d! huge thanks to @mervenoyann, @ariG23498, @pcuenq, and @LysandreJik for everything in the process, looking forward to making 🤗 the home of 3d. if you’re working on 3d/cv, i want to hear from 🫵</a></li>
+</ul>
+<h5>MiniMax · 2条</h5>
+<ul>
+<li><a href="https://nitter.net/MiniMax_AI/status/2069916651500556686#m">R to @cast_ai: Read the story here -> https://itbrief.co.uk/story/cast-ai-adds-minimax-m3-to-kimchi-coding-as-default-model</a></li>
+<li><a href="https://nitter.net/MiniMax_AI/status/2069916389746659363#m">M3 is now the default builder model in Kimchi Coding by @cast_ai not every coding task should go through the same model. Kimchi routes work based on complexity, cost, and deployment needs. that makes it a natural fit for M3: open weights, 1M context, and strong coding performance with more control. article in the comments. #MiniMaxM3 #AICoding</a></li>
+</ul>
+<h5>NVIDIA AI · 4条</h5>
+<ul>
+<li><a href="https://nitter.net/NVIDIARobotics/status/2069860852963143745#m">RT by @NVIDIAAI: Cosmos 3 wins another leaderboard. The power of an open frontier model. 🎉 Ranked #1 on @allen_ai's MolmoSpaces robot policies leaderboard, a policy model post-trained on Cosmos 3 Nano shows the strongest performance in environments that require models to interpret, reason, and act in real time. Not just understanding the world, but interacting with it. 📊 https://molmospaces.allen.ai/leaderboard Drop what you're building in the comments 👇</a></li>
+<li><a href="https://nitter.net/NVIDIAAI/status/2069858097930121319#m">NVIDIA Metropolis Blueprint for video search and summarization (VSS) 3 is here. Now your coding agent can analyze massive live streams and libraries of videos with a simple natural language prompt. Here's what's new: - 16 new agent skills: Search, summarize, alert, report, review clips. All from natural language prompts. - One unified open source repo: Source code, Docker and Helm deployment profiles for fast, easy deployment. - Multi-video reports and Nemotron 3 Nano Omni: Insights across video and audio at scale. - 3D multi-camera tracking: Production ready + #1 SOTA for smarter scene understanding. Try VSS skills 👉 https://nvda.ws/4g0DTY1</a></li>
+<li><a href="https://nitter.net/NVIDIAAI/status/2069843008665850050#m">Spark Hack Toronto Winner Spotlight: Better Cities with Cracked City https://x.com/i/broadcasts/1jGXggnzNddKZ</a></li>
+<li><a href="https://nitter.net/NVIDIAAI/status/2069813582825418828#m">The rise of MoE models introduced new challenges in training, and @huggingface's Transformers v5 brought first-class support for solving them. Now, NeMo AutoModel builds on top of v5. Part of the NeMo framework for building models at scale, NeMo AutoModel brings optimizations to a broad set of model families through support for Expert Parallelism, DeepEP, and TransformerEngine kernels with a few lines of code. We found NeMo AutoModel brings a 3.4 to 3.7x higher training throughput for popular MoE models. You can read more here: https://nvda.ws/4eopYty</a></li>
+</ul>
+<h5>OpenAI · 2条</h5>
+<ul>
+<li><a href="https://nitter.net/DeryaTR_/status/2069846329287651765#m">RT by @OpenAI: I’m very excited about this article from @OpenAI on my attempt to use GPT-5 Pro to understand the results of an experiment we did several years ago. Remarkably, GPT-5 Pro figured out the key mechanisms, as explained in the article & infographic below! https://openai.com/index/gpt-5-immunology-mystery/</a></li>
+<li><a href="https://nitter.net/OpenAI/status/2069843083701915755#m">We have a new version of GPT-5.5 Instant for you, and it's much more fun to talk to. Our most-used model is now better at understanding the intent behind a question and adapting its response accordingly. It also handles complex constraints more reliably and makes shopping and local recommendations more useful and cohesive. Rolling out today to paid users, tomorrow to free users.</a></li>
+</ul>]]></description>
+        <author><![CDATA[AI公司官方]]></author>
+        <category>X</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Mr-Pot (2026-06-25): 7 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1xZ7h61EzE</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-06-25-a1c5d27b</guid>
+        <pubDate>Thu, 25 Jun 2026 13:12:41 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1xZ7h61EzE">【中英字幕】Anthropic CEO最新专访：如何带领AI巨头穿越指数风暴</a></li>
+<li><a href="https://www.bilibili.com/video/BV1t97h6EEkP">【中英字幕】彭博科技前沿26.06.24完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1sR746wEZG">【中英字幕】26.06.24美众议院议长就川普取消住房法案签署发表声明</a></li>
+<li><a href="https://www.bilibili.com/video/BV1TN746iEz4">【中英字幕】彭博财经简报26.06.24</a></li>
+<li><a href="https://www.bilibili.com/video/BV1M47t6gEkV">【中英字幕】26.06.24鲁比奥与中东领导人会面后发表讲话</a></li>
+<li><a href="https://www.bilibili.com/video/BV1sd746hEKN">【中英字幕】26.06.24川普在白宫会面北约秘书长并回答记者提问完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV14y7s6cEkG">【中英字幕】彭博财经观察26.06.24完整版</a></li>
+</ul>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第617期】“一删了之”化债；“三支一扶”缩招]]></title>
+        <link>https://www.bilibili.com/video/BV1XN7Y6fEmw</link>
+        <guid isPermaLink="false">bilibili-116810561096265</guid>
+        <pubDate>Thu, 25 Jun 2026 11:44:07 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1XN7Y6fEmw">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：日本证实两国民在中国被抓 沈逸 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV1ZV7a6vEUA</link>
+        <guid isPermaLink="false">bilibili-116809319714066</guid>
+        <pubDate>Thu, 25 Jun 2026 06:30:15 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV1ZV7a6vEUA">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenAI 联合 Broadcom 推出自研 AI 芯片 Jalapeño【AI 早报 2026-06-25】]]></title>
+        <link>https://www.bilibili.com/video/BV1BW746pEBz</link>
+        <guid isPermaLink="false">bilibili-116807927074375</guid>
+        <pubDate>Thu, 25 Jun 2026 00:33:26 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/t0G_YP5dVR5OlzN1SEYEKw</p><p><a href="https://www.bilibili.com/video/BV1BW746pEBz">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[X] AI公司官方 (2026-06-24): 34 posts]]></title>
         <link>https://nitter.net/xai/status/2069809728088350789#m</link>
         <guid isPermaLink="false">x-cat-9f8bb8e0-2026-06-24</guid>
         <pubDate>Wed, 24 Jun 2026 15:47:49 GMT</pubDate>
-        <description><![CDATA[<h4>AI公司官方 · 11位作者 · 31条</h4>
+        <description><![CDATA[<h4>AI公司官方 · 11位作者 · 34条</h4>
 <h5>xAI · 2条</h5>
 <ul>
 <li><a href="https://nitter.net/xai/status/2069809728088350789#m">Use the official @MongoDB plugin in Grok Build to query data, optimize indexes, and manage databases.</a></li>
 <li><a href="https://nitter.net/xai/status/2069536627349962987#m">Try the new Firecrawl plugin in the Grok Build Plugin Marketplace</a></li>
 </ul>
+<h5>Hugging Face · 4条</h5>
+<ul>
+<li><a href="https://nitter.net/slimcat0101/status/2069796275000848388#m">RT by @huggingface: PP-OCRv6 is now on @HuggingFace! 🎉 Not just better accuracy— PaddleOCR 3.7 also adds transformers & ONNX Runtime backends. Huge thanks to @mervenoyann for championing this integration, and the amazing @HuggingFace team for making it happen! 🙌 https://huggingface.co/blog/PaddlePaddle/pp-ocrv6</a></li>
+<li><a href="https://nitter.net/mervenoyann/status/2069780936397291700#m">RT by @huggingface: icymi we are doing a joint livestream with @UnslothAI to onboard you to open models 🔥 we cover from inference engines to open harnesses, so make sure not to miss! tune in tomorrow 8AM PST/5PM CEST @huggingface X and YT 🤗</a></li>
+<li><a href="https://nitter.net/BitRobotNetwork/status/2069767641892520003#m">RT by @huggingface: 1/ Introducing HIW-500 (Humanoids-in-the-Wild 500): the largest open-source humanoid teleop dataset collected in real homes Built w/ @UnitreeRobotics @huggingface across 12 homes in Southeast Asia, it covers: > 500+ hrs > 23K+ episodes > 10+ TB > 10+ household tasks</a></li>
+<li><a href="https://nitter.net/pollenrobotics/status/2069758872944853227#m">RT by @huggingface: Reachy Mini's new pricing kicks in July 1st. Order before Monday and we'll ship yours in the next batch, first 3 weeks of July 🙌 Get it there : https://reachy-mini.ai/buy</a></li>
+</ul>
 <h5>Google DeepMind · 2条</h5>
 <ul>
 <li><a href="https://nitter.net/GoogleDeepMind/status/2069785318887174217#m">R to @GoogleDeepMind: Watch → https://goo.gle/4w7S3LM Spotify → https://goo.gle/4eFgIA9 Apple Podcasts → https://goo.gle/3Sn4ZyM Or listen wherever you get your podcasts! 🎧</a></li>
 <li><a href="https://nitter.net/GoogleDeepMind/status/2069785314663497966#m">What happens when millions of AI agents start negotiating, transacting, and delegating to one another? @weballergy joined our podcast with @fryrsquared to explore the rise of agentic economies – and how we can diversify agent decision-making to avoid AI groupthink. Timecodes: 00:00 Intro 1:07 Defining AI agents 4:44 Agentic exploration in science and research 15:46 Delegation between agents 22:46 Agentic security and traps 29:31 Building an agentic economy 33:22 Cognitive monoculture 36:29 Distributed intelligence</a></li>
+</ul>
+<h5>MiniMax · 7条</h5>
+<ul>
+<li><a href="https://nitter.net/CreaoAI/status/2069784607742992665#m">RT by @MiniMax_AI: Last night in SF, we gave a room full of creators one challenge: come with an idea, leave with a working demo. Our CTO @intuitiveml opened with a talk on what it actually takes to build AI-first. Agents that run on loops and improve with every run. A harness that makes the whole operation reliable enough to trust with real work. The difference between adding AI to your brand and building your brand around it. Then the room had 30 minutes to put that into practice, building their own content agents live, with our team on the floor. The audience voted on the best demo of the night. Most events like this are about watching. This one was about building. Every creator in that room walked away with an agent they built themselves, one that takes on the tedious chores so they can focus on the work that actually needs them. Thanks to @BytedanceTalk , @MiniMax_AI, @novita_labs & @JELabs2024 for joining us. More from @CreaoAI soon</a></li>
+<li><a href="https://nitter.net/MiniMax_AI/status/2069651048156012806#m">research -> synthesize -> build. fun example of using M3 and @opencode to learn about a new domain instead of reading 20 tabs</a></li>
+<li><a href="https://nitter.net/MiniMax_AI/status/2069531717308944854#m">Exciting conversations happening on July 1st with @friendliai @NVIDIAAI @kilocode</a></li>
+<li><a href="https://nitter.net/MiniMax_AI/status/2069502267343163647#m">R to @hud_evals: Tera — zero-token browser use solve once, reuse forever: a browser RL env that learns from past traces, then replays matched workflows with 0 LLM tokens. took #3 overall. https://youtu.be/OR2yB6rWRLo</a></li>
+<li><a href="https://nitter.net/MiniMax_AI/status/2069502201450619206#m">R to @hud_evals: Warehouse AI an RL environment for autonomous warehouse robot fleets: fulfill orders, avoid collisions, coordinate dispatch, and learn before touching the real world. https://youtu.be/BYLHFm-GFRs</a></li>
+<li><a href="https://nitter.net/MiniMax_AI/status/2069502153081971131#m">R to @hud_evals: Atomz autonomous Mars construction rovers in simulation — tracked robots navigating terrain, scanning sites, and 3D-printing habitat structures from regolith. https://youtu.be/7sEZRRWo6_A</a></li>
+<li><a href="https://nitter.net/MiniMax_AI/status/2069501794661859545#m">some scenes from the @hud_evals × @ycombinator Frontier RL Environments Hackathon over the weekend. 24 intense, collaborative hours with 200 of the top builders in the world turning browser-use, robotics, logistics, and worldsims into environments where models can actually learn from. a few highlights built with MiniMax M3: Tera — zero-token browser-use RL env, #3 overall Warehouse AI — autonomous warehouse robot fleet coordination Atomz — Mars construction rovers in simulation project videos in the comments.</a></li>
 </ul>
 <h5>百度飞桨</h5>
 <ul><li><a href="https://nitter.net/PaddlePaddle/status/2069771534890336539#m">🧵PP-OCRv6 Tech Deep Dive Ep.2: Text Detection Demystified: Precise Localization for Small, Curved, and Industrial Text — PP-OCRv6 Text Detection Text detection is the key to the success or failure of OCR. In benchmark tests, general-purpose VLMs still underperformed: Gemini-3.1-Pro's detection Hmean was only 46.8%, while GPT-5.5 dropped to 38.3%. In contrast, PP-OCRv6_medium achieved a detection Hmean of 86.2%. PP-OCRv6 Tech Deep Dive Ep.2 breaks down the "three-pronged" strategy behind its detection module: 🔸 RepLKFPN replaces the 3×3 kernels in RSEFPN with 7×7 large kernels, expanding the receptive field while reducing FPN neck parameters from 172K to 118K — a 31% reduction. 🔸 Auxiliary deep supervision adds training-only heads on P2, P3, and P4, providing direct gradient signals to intermediate layers to learn discriminative edge and texture features. 🔸 Focal Loss works in tandem with Dice Loss — Dice aligns overall shape, while Focal Loss mines hard pixels — contributing +1.15% Hmean in ablation. From curved text on tires to dense small text on electronic screens, dot-matrix text, and cards, PP-OCRv6_medium delivers more comprehensive and accurate localization. 💬 Does your recognizer ever misread numbers or hallucinate on low-res text? 📅 Next in Ep.3: How CTC + NRTR Dual-Head Architecture Prevents Hallucination in Text Recognition — PP-OCRv6 Recognition Module Deep Dive #PPOCRv6 #TechDeepDive #OCR #TextDetection #VLM</a></li></ul>
@@ -148,11 +359,6 @@
 <li><a href="https://nitter.net/StepFun_ai/status/2069767756099301420#m">This is the kind of agent workflow Step Plan was built for: connect it once, push through a real build, and keep experimenting without thinking about every single API call. Love the tarot generator demo. Thanks for testing Step 3.7 Flash in Claude Code, @codedailyML 🙌</a></li>
 <li><a href="https://nitter.net/StepFun_ai/status/2069683766805819402#m">This is the pain we kept hearing from builders: once an agent starts doing real work, the meter becomes part of the workflow. Step Plan is our attempt to make that less of a distraction. Thanks for putting Step Plan + Step 3.7 Flash through a real Claude Code setup 🙌</a></li>
 </ul>
-<h5>Hugging Face · 2条</h5>
-<ul>
-<li><a href="https://nitter.net/BitRobotNetwork/status/2069767641892520003#m">RT by @huggingface: 1/ Introducing HIW-500 (Humanoids-in-the-Wild 500): the largest open-source humanoid teleop dataset collected in real homes Built w/ @UnitreeRobotics @huggingface across 12 homes in Southeast Asia, it covers: > 500+ hrs > 23K+ episodes > 10+ TB > 10+ household tasks</a></li>
-<li><a href="https://nitter.net/pollenrobotics/status/2069758872944853227#m">RT by @huggingface: Reachy Mini's new pricing kicks in July 1st. Order before Monday and we'll ship yours in the next batch, first 3 weeks of July 🙌 Get it there : https://reachy-mini.ai/buy</a></li>
-</ul>
 <h5>阿里 Qwen · 5条</h5>
 <ul>
 <li><a href="https://nitter.net/Alibaba_Qwen/status/2069720412481888400#m">R to @Alibaba_Qwen: We open-source Qwen-AgentWorld-35B-A3B (MoE, 35B/3B active, 256K context) and AgentWorldBench. Two routes, one roadmap: 🔬 Build the simulator — scalable, controllable, surpassing real environments 🧠 Internalize world modeling — predict before you act Qwen-AgentWorld is our attempt to investigate how language world modeling can further expand the boundaries of general agent capabilities. Go build on it 🏃🏃‍♂️ 📑 Paper: https://arxiv.org/abs/2606.24597 📖 Blog: https://qwen.ai/blog?id=qwen-agentworld 💻 GitHub: https://github.com/QwenLM/Qwen-AgentWorld 🤗 HuggingFace: https://huggingface.co/collections/Qwen/qwen-agentworld 🧩 ModelScope: https://modelscope.cn/collections/Qwen/Qwen-AgentWorld</a></li>
@@ -163,15 +369,6 @@
 </ul>
 <h5>Kimi 月之暗面</h5>
 <ul><li><a href="https://nitter.net/Kimi_Moonshot/status/2069718757338202140#m">The Kimi API is now live on AWS Marketplace. 🚀 If your team is already running on AWS, you can now access Kimi with consolidated billing. Plus, eligible customers can apply Kimi API usage directly toward their AWS EDP commitments. Build and scale with Kimi today: https://aws.amazon.com/marketplace/pp/prodview-rfjb2elzc5jp4</a></li></ul>
-<h5>MiniMax · 6条</h5>
-<ul>
-<li><a href="https://nitter.net/MiniMax_AI/status/2069651048156012806#m">research -> synthesize -> build. fun example of using M3 and @opencode to learn about a new domain instead of reading 20 tabs</a></li>
-<li><a href="https://nitter.net/MiniMax_AI/status/2069531717308944854#m">Exciting conversations happening on July 1st with @friendliai @NVIDIAAI @kilocode</a></li>
-<li><a href="https://nitter.net/MiniMax_AI/status/2069502267343163647#m">R to @hud_evals: Tera — zero-token browser use solve once, reuse forever: a browser RL env that learns from past traces, then replays matched workflows with 0 LLM tokens. took #3 overall. https://youtu.be/OR2yB6rWRLo</a></li>
-<li><a href="https://nitter.net/MiniMax_AI/status/2069502201450619206#m">R to @hud_evals: Warehouse AI an RL environment for autonomous warehouse robot fleets: fulfill orders, avoid collisions, coordinate dispatch, and learn before touching the real world. https://youtu.be/BYLHFm-GFRs</a></li>
-<li><a href="https://nitter.net/MiniMax_AI/status/2069502153081971131#m">R to @hud_evals: Atomz autonomous Mars construction rovers in simulation — tracked robots navigating terrain, scanning sites, and 3D-printing habitat structures from regolith. https://youtu.be/7sEZRRWo6_A</a></li>
-<li><a href="https://nitter.net/MiniMax_AI/status/2069501794661859545#m">some scenes from the @hud_evals × @ycombinator Frontier RL Environments Hackathon over the weekend. 24 intense, collaborative hours with 200 of the top builders in the world turning browser-use, robotics, logistics, and worldsims into environments where models can actually learn from. a few highlights built with MiniMax M3: Tera — zero-token browser-use RL env, #3 overall Warehouse AI — autonomous warehouse robot fleet coordination Atomz — Mars construction rovers in simulation project videos in the comments.</a></li>
-</ul>
 <h5>NVIDIA AI · 5条</h5>
 <ul>
 <li><a href="https://nitter.net/haoailab/status/2069493820732170695#m">RT by @NVIDIAAI: (1/5) 5 seconds of video. 1.8s seconds of generation. One NVIDIA GeForce RTX 5090 on FastVideo. 🤯🚀 - FastWan-QAD, a new family of video generation models - Trained with FastVideo's Quantization-Aware Distillation (QAD) recipe. - Powered by FastVideo, we push a single NVIDIA GeForce RTX 5090 to its absolute limit: generating a 5-second 480P video in 1.8s end-to-end! 📜 Blog: https://haoailab.com/blogs/fastwan-qad/ 💻 Code: https://github.com/hao-ai-lab/FastVideo 💽 Model: https://huggingface.co/FastVideo/FastWan-QAD-1.3B</a></li>
@@ -187,11 +384,11 @@
     </item>
     
     <item>
-        <title><![CDATA[[X] AI研究核心 (2026-06-24): 8 posts]]></title>
+        <title><![CDATA[[X] AI研究核心 (2026-06-24): 11 posts]]></title>
         <link>https://nitter.net/fchollet/status/2069808712890585191#m</link>
         <guid isPermaLink="false">x-cat-dbae213b-2026-06-24</guid>
         <pubDate>Wed, 24 Jun 2026 15:43:46 GMT</pubDate>
-        <description><![CDATA[<h4>AI研究核心 · 3位作者 · 8条</h4>
+        <description><![CDATA[<h4>AI研究核心 · 3位作者 · 11条</h4>
 <h5>Francois Chollet · 5条</h5>
 <ul>
 <li><a href="https://nitter.net/fchollet/status/2069808712890585191#m">The best way to understand a complex system is via edge cases and failure modes, because they define the contour of the system.</a></li>
@@ -200,8 +397,13 @@
 <li><a href="https://nitter.net/fchollet/status/2069483131447738768#m">In software, complexity is a tax you pay on every future change. You might think, "as long as it works, I'm good, I don't care about aesthetics", but elegant code is about maintainability, not aesthetics. Elegant code is deeply practical.</a></li>
 <li><a href="https://nitter.net/fchollet/status/2069457210456019363#m">AI in 2040 will not be built on the stack we are using today. It will be much closer to optimal. The current stack has 3-4 orders of magnitude of data inefficiency and 4-5 orders of magnitude of compute inefficiency. Near-optimal AI is what symbolic learning will deliver.</a></li>
 </ul>
-<h5>Yann LeCun</h5>
-<ul><li><a href="https://nitter.net/ylecun/status/2069765820121485385#m">webtv.un.org/en/asset/k14/k1…</a></li></ul>
+<h5>Yann LeCun · 4条</h5>
+<ul>
+<li><a href="https://nitter.net/randall_balestr/status/2069787965815972157#m">RT by @ylecun: It's a bird, it's a plane, it's a JEPA! Congrats on that great work that brought SIGReg and JEPAs to the sky--in the real world! Check out the paper! https://arxiv.org/abs/2606.23444</a></li>
+<li><a href="https://nitter.net/lawfare/status/2069783024783229168#m">RT by @ylecun: lawfaremedia.org/article/tul…</a></li>
+<li><a href="https://nitter.net/ylecun/status/2069765820121485385#m">webtv.un.org/en/asset/k14/k1…</a></li>
+<li><a href="https://nitter.net/PratyakshRao5/status/2069462393244266638#m">RT by @ylecun: What should a world model for agile quadrotor control actually provide? 📄 Arxiv: https://arxiv.org/pdf/2606.23444 🌐 Project: https://pratyaksh10.github.io/skyjepa-project-page/ 💻 Code: https://github.com/arplaboratory/SkyJEPA Excited to share SkyJEPA: Learning Long-Horizon World Models for Zero-Shot Sim-to-Real Control of Quadrotors A useful quadrotor world model should provide: ✅ Accurate long-horizon prediction ✅ Interpretability ✅ Real-time inference for closed-loop control ✅ Zero-shot task generalization SkyJEPA learns dynamics in latent space, uses a physics-inspired prober to recover meaningful states, and enables real-time control in outdoor flights. 🔑 Takeaways: • Less compounding error • Smoother latent trajectories • Robustness to corrupted/noisy inputs • Generalization to unseen settings like propeller switching and payload changes • Zero-shot sim-to-real transfer without real-world fine-tuning to scenarios not seen during training such as propeller switching and payload changes. Huge thanks to my collaborators: @kevinghstz, @randall_balestr, @ylecun, and @loiannog #Robotics #Quadrotors #WorldModels #Sim2Real #JEPA #RepresentationLearning #Drones</a></li>
+</ul>
 <h5>Andrej Karpathy · 2条</h5>
 <ul>
 <li><a href="https://nitter.net/karpathy/status/2069547676849557725#m">This is a new paradigm for interacting with Claude that is significantly more "inline" with all the other human activity org-wide. Once you do all of the under the hood engineering work to make this "just work" (e.g. across tools, integrations, compute environments, memory, security, etc.), Claude basically joins the team in a seamless way - you can talk to it as you would talk to a person and it can help with a very large variety of workloads. Imo this is the 3rd major redesign of LLM UIUX. The first paradigm was that the LLM is a website you go to, the second was that it is an app you download to your computer. This third one is that it is a self-contained, persistent, asynchronous entity with org-wide tools and context, working alongside teams of humans. It really takes a while to wrap your head around it, but it works and it is awesome.</a></li>
@@ -290,6 +492,20 @@
 </ul>]]></description>
         <author><![CDATA[AI资讯聚合]]></author>
         <category>X</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Mr-Pot (2026-06-24): 3 posts]]></title>
+        <link>https://www.bilibili.com/video/BV113jX6YEVP</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-06-24-a1c5d27b</guid>
+        <pubDate>Wed, 24 Jun 2026 12:23:07 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV113jX6YEVP">【中英字幕】《ALL IN》访谈26.06.22完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1DcjX6gEpY">【中英字幕】彭博科技前沿26.06.23完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV144jQ6eEhD">【中英字幕】26.06.23川普在宾州麦克卡车工厂发表演讲完整版</a></li>
+</ul>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -410,11 +626,11 @@ Instagram: iamhenryhsu</p><p><a href="https://www.bilibili.com/video/BV1neLR6YEi
     </item>
     
     <item>
-        <title><![CDATA[[X] AI公司官方 (2026-06-23): 16 posts]]></title>
+        <title><![CDATA[[X] AI公司官方 (2026-06-23): 17 posts]]></title>
         <link>https://nitter.net/IBMDeveloper/status/2069444781084733773#m</link>
         <guid isPermaLink="false">x-cat-9f8bb8e0-2026-06-23</guid>
         <pubDate>Tue, 23 Jun 2026 15:37:38 GMT</pubDate>
-        <description><![CDATA[<h4>AI公司官方 · 7位作者 · 16条</h4>
+        <description><![CDATA[<h4>AI公司官方 · 8位作者 · 17条</h4>
 <h5>Hugging Face · 2条</h5>
 <ul>
 <li><a href="https://nitter.net/IBMDeveloper/status/2069444781084733773#m">RT by @huggingface: AI agents are easy to demo. Production is a different problem. Enter CUGA. 🦉 An open-source agent harness that lets you focus on building instead of plumbing: https://ibm.co/6011EO64S</a></li>
@@ -430,6 +646,8 @@ Instagram: iamhenryhsu</p><p><a href="https://www.bilibili.com/video/BV1neLR6YEi
 <ul><li><a href="https://nitter.net/PaddlePaddle/status/2069424694848340171#m">🧵PP-OCRv6 Tech Deep Dive Ep.1: In the Era of Large Models, Why Does Lightweight OCR Still Have Irreplaceable Value? — PP-OCRv6 Architecture Design Can a 34.5M-param OCR model challenge 100B-scale VLMs? PP-OCRv6 Tech Deep Dive Ep.1 explains why lightweight OCR still matters in the large-model era. In real-world OCR scenarios, VLMs still struggle with inaccurate localization, hallucinations, and high inference costs. So PP-OCRv6 rebuilds the backbone around LCNetV4: 🔸 MetaFormer-style design: Token Mixer answers “where is the text?”, while Channel Mixer answers “what is the text?” 🔸 Structural re-parameterization: multi-branch training, fused 3×3 DWConv inference, with no extra overhead or accuracy loss 🔸 One backbone, two task modes: a 2D feature pyramid for detection, and an asymmetric stride (2,1) for recognition 🔸 Three model specs: Tiny for edge CPU devices, Small for balanced deployment, Medium for industrial high-accuracy pipelines With this design, PP-OCRv6_medium reaches 86.2% detection Hmean and 83.2% recognition accuracy, fully surpassing PP-OCRv5_server while running faster. 💬 Where does your OCR pipeline struggle most—tiny text, curved text, or edge speed? 📅 Next in Ep.2: Text Detection Demystified: Precise Localization for Small, Curved, and Industrial Text — PP-OCRv6 Text Detection #PPOCRv6 #OCR #MetaFormer #PaddleOCR #VLM</a></li></ul>
 <h5>Google DeepMind</h5>
 <ul><li><a href="https://nitter.net/jonathanrichens/status/2069418365609705767#m">RT by @GoogleDeepMind: Turns out you can invert the Bellman equation to recover an agent's world model from its value function. Excited by the potential applications of this work, lead by @_aletcher. My fave bit - RL agents implicitly model latent variables they were never trained to optimize for..🧵</a></li></ul>
+<h5>百度研究院</h5>
+<ul><li><a href="https://nitter.net/BaiduAI_News/status/2069322806748410291#m">RT by @BaiduResearch: We’re open-sourcing Unlimited OCR — built to read long documents in one pass. With 3B total parameters and only 500M activated, Unlimited OCR sets new end-to-end SOTA results on OmniDocBench v1.5 and v1.6. The key innovation is Reference Sliding Window Attention (R-SWA), inspired by how humans transcribe books: keeping the source, recent context, and next words in focus, while softly forgetting what’s no longer needed. With constant KV Cache size and lower attention cost, Unlimited OCR can transcribe 40+ pages in a single forward pass — without losing context or slowing down. Explore the model👇: --GitHub: https://github.com/baidu/Unlimited-OCR --Hugging Face: https://huggingface.co/baidu/Unlimited-OCR</a></li></ul>
 <h5>MiniMax · 2条</h5>
 <ul>
 <li><a href="https://nitter.net/MiniMax_AI/status/2069241888130146611#m">Always fun to see frontier models tested in hackathon conditions. Looking forward to the projects with @SinguarityNET and free M3 through @S_Compute</a></li>
@@ -645,6 +863,41 @@ Instagram: iamhenryhsu</p><p><a href="https://www.bilibili.com/video/BV1neLR6YEi
     </item>
     
     <item>
+        <title><![CDATA[[X] AI研究核心 (2026-06-22): 19 posts]]></title>
+        <link>https://nitter.net/ylecun/status/2069084444070199602#m</link>
+        <guid isPermaLink="false">x-cat-dbae213b-2026-06-22</guid>
+        <pubDate>Mon, 22 Jun 2026 15:45:47 GMT</pubDate>
+        <description><![CDATA[<h4>AI研究核心 · 2位作者 · 19条</h4>
+<h5>Yann LeCun · 10条</h5>
+<ul>
+<li><a href="https://nitter.net/ylecun/status/2069084444070199602#m">RT @sapinker: "We Have to Stop Freaking Out About A.I." warns Nobel laureate Robert Shiller. Depressions, formerly called panics, are cause…</a></li>
+<li><a href="https://nitter.net/sapinker/status/2069021519649391025#m">RT by @ylecun: "We Have to Stop Freaking Out About A.I." warns Nobel laureate Robert Shiller. Depressions, formerly called panics, are caused by self-fulfilling fears (the only thing we have to fear is fear itself), i.e., common knowledge about those very fears. https://www.nytimes.com/2026/06/22/opinion/ai-doom-jobs-economy.html?unlocked_article_code=1.sFA.7Zm3.hEXTlVPaqGjk&smid=tw-share</a></li>
+<li><a href="https://nitter.net/EricTopol/status/2068902397808676983#m">RT by @ylecun: Two of the most important biomedical breakthroughs came from science of the Gila lizard venom (GLP-1s) and yogurt (CRISPR genome editing). "The system that turned that lizard into a medicine is now being dismantled." "Less support for scientists means strange questions no one will get to chase." gift link https://www.nytimes.com/2026/06/20/opinion/glp1-research-science-funding.html?unlocked_article_code=1.sFA.op9Q.RxAEhIN5qcbq&smid=url-share</a></li>
+<li><a href="https://nitter.net/4HumanUnity/status/2068811530150523386#m">RT by @ylecun: 🚨🚨🚨A standing ovation for the Washington Post, @wapo . 👏👏👏 You spent a full year investigating whether America's Director of National Intelligence, the woman with access to every classified secret this country has, was being directed by a cult leader who got busted for pyramid schemes in multiple countries. And you held it until she resigned? This same cult leader, Chris Butler, has his sect directly tied to QI Group (QNET), a Hong Kong-based company with operations across Asia, Africa, and the Middle East. So the real question: Which countries now have access to our national intelligence? Which of our spy names are compromised? And let's not forget, this is the same Tulsi Gabbard who used her position to do a coordinated hit job on Dr. Fauci, a man who spent his entire life saving Americans. Imagine if this story dropped while she still had her hands on our nation's secrets. Our press and mainstream media are failing us at every level. https://www.mediaite.com/media/news/tulsi-gabbards-entire-career-was-guided-by-an-eccentric-religious-leader-she-once-called-her-guru-wild-washington-post-story-suggests</a></li>
+<li><a href="https://nitter.net/JamesTate121/status/2068809990890983771#m">RT by @ylecun: Step 1: Remove filters in Reflecting Pool because Obama put them in. Step 2: Give your criminal neighbor who runs "Greenwater Services" a $20 million no-bid contract to paint the pool. Step 3: Fill the pool with water from the Potomac River, the phosphates from which cause algae blooms. Step 4: Freshly sealed pool and extreme heat result in a super scum event Step 5: Direct National Park Service to dump hydrogen peroxide into the pool which causes the paint to peel. Step 5: Deploy US National Guard to stop people from taking photos of the swamp as a perfect metaphor for the administration. Step 6: Blame someone else.</a></li>
+<li><a href="https://nitter.net/RichardHanania/status/2068804903355789663#m">RT by @ylecun: Absolutely insane revelations about Tulsi Gabbard. Throughout her public life, she's been a puppet for a Hindu cult. Washington Post got access to 25,000 pages of documents including directives from Tulsi Gabbard's cult leader telling her which policy positions to take and how to present herself throughout her career. It matches her record in Congress. At one point, she was instructed to say "It’s not a ‘boohoo, I don’t get to go to the party’ situation, Wolf" during a CNN interview, and used that exact phrase. This is one of several examples of her taking direct orders about what to say on TV. They told her what to tweet about too. The cult set up fake accounts to boost her on social media. Gabbard was aware, at one point telling them to add a photo to a profile. An email records a phone call where she was yelled at, but Tulsi is reminded at the end that "we still love you." This woman was always a freak, which is why she ended up in the MAGA coalition. Anti-vaxxers, criminals, racist, and a woman in a weird cult all end up as allies. Trumpism is Kakistocracy.</a></li>
+<li><a href="https://nitter.net/sarrah_bellus/status/2068781205080732041#m">RT by @ylecun: Donald Trump will go down in history as the only US President to be outwitted by a single-celled organism.</a></li>
+<li><a href="https://nitter.net/anneapplebaum/status/2068751279011090513#m">RT by @ylecun: So @jonswaine @washingtonpost has seen hundreds of documents containing evidence that Tulsi Gabbard, Donald Trump's Director of National Intelligence, was directed throughout her career by the leader of the cult she grew up in https://www.washingtonpost.com/investigations/2026/06/21/tulsi-gabbard-her-guru-mysterious-messages-that-helped-shape-her-political-career/</a></li>
+<li><a href="https://nitter.net/pentagoniac/status/2068732200783360331#m">RT by @ylecun: Honored to welcome @iitbombay and BharatGen as founding contributors to Project Tapestry. India isn’t just adopting open & frontier AI — it’s helping build it, in its own languages and on its own terms. Sovereign by architecture, advanced together. Cc @ylecun @FerrettiAgata @thealliance_ai</a></li>
+<li><a href="https://nitter.net/drterrysimpson/status/2068728357668495525#m">RT by @ylecun: Fauci was a hero - he didn't kill millions, but he did save millions of lives. Highest paid? Hardly - he was a civil servant getting paid much less than had he gone into private practice. People like you who don't know science are a clear and present danger to society</a></li>
+</ul>
+<h5>Francois Chollet · 9条</h5>
+<ul>
+<li><a href="https://nitter.net/fchollet/status/2069059823069753486#m">Programming is not about code, just like music is not about notation. It is the art & science of managing complexity through layers of abstraction. AI is simply a part of it.</a></li>
+<li><a href="https://nitter.net/fchollet/status/2068874676475179508#m">A company is not its share price; it's possible for a company to execute exceptionally well while its share price declines, much like it's possible for a company in terminal decline to see its share price surge.</a></li>
+<li><a href="https://nitter.net/fchollet/status/2068866857176797210#m">R to @fchollet: TL;DR: Adobe is currently the most profitable it has ever been, and it is using AI to accelerating its adoption and earning growth (now 13%, up from 10-11% last year). For all the talk about "Adobe is over", every creative I know is still using Photoshop and Premiere. And those are some of the people who are leaning the hardest into AI image and video generation. People still love these products.</a></li>
+<li><a href="https://nitter.net/fchollet/status/2068866756261843078#m">R to @fchollet: Adobe has also been successful at using AI to make its software easier to use for new users, resulting in a large increase of its freemium-tier MAUs (now 850M, up from 700M last year).</a></li>
+<li><a href="https://nitter.net/fchollet/status/2068866713412854037#m">R to @fchollet: Their AI-first ARR tripled year-over-year to surpass $500 million. Very few enterprise software companies are reporting this level of direct, paid AI adoption. The breakout driver is Firefly, now at $300M in ARR, growing approximately 50% quarter-over-quarter through apps and credit packs. That's better growth than most top AI startups. Paid users for the Acrobat AI Assistant also grew by more than 150%.</a></li>
+<li><a href="https://nitter.net/fchollet/status/2068866573558022201#m">R to @fchollet: Adobe hit a record $6.62 billion in Q2 revenue (up 13% YoY) while non-GAAP EPS jumped 18% to $5.96. Its net margins are at 36%, close to an all-time high. They are absorbing the compute costs of generative AI while expanding their profitability.</a></li>
+<li><a href="https://nitter.net/fchollet/status/2068866514233827741#m">The market is treating Adobe like a legacy software company in terminal decline. Yet the actual data shows it's one of the biggest beneficiaries of the rise of GenAI. In fact, it's one of the top 5 most profitable & fastest-growing AI companies today, in an industry where profitability is rare.</a></li>
+<li><a href="https://nitter.net/fchollet/status/2068791840955043850#m">Books are so OP</a></li>
+<li><a href="https://nitter.net/fchollet/status/2068771319341367390#m">The hardest part of any task is overcoming the activation energy. The rest is just riding the momentum.</a></li>
+</ul>]]></description>
+        <author><![CDATA[AI研究核心]]></author>
+        <category>X</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[X] AI资讯聚合 (2026-06-22): 5 posts]]></title>
         <link>https://nitter.net/_akhaliq/status/2069079747225702502#m</link>
         <guid isPermaLink="false">x-cat-127ec8f8-2026-06-22</guid>
@@ -694,40 +947,6 @@ Instagram: iamhenryhsu</p><p><a href="https://www.bilibili.com/video/BV1neLR6YEi
 <li><a href="https://nitter.net/LottoLabs/status/2068801441373073809#m">RT by @ClementDelangue: If you’ve been thinking about training models or like the idea but don’t know where to start This is one of the best reads worth your time, it’s like being able to go back in time and read your own notes before starting fresh It’s very demystifying https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook#introduction</a></li>
 </ul>]]></description>
         <author><![CDATA[AI公司掌门]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] AI研究核心 (2026-06-22): 18 posts]]></title>
-        <link>https://nitter.net/fchollet/status/2069059823069753486#m</link>
-        <guid isPermaLink="false">x-cat-dbae213b-2026-06-22</guid>
-        <pubDate>Mon, 22 Jun 2026 14:07:57 GMT</pubDate>
-        <description><![CDATA[<h4>AI研究核心 · 2位作者 · 18条</h4>
-<h5>Francois Chollet · 9条</h5>
-<ul>
-<li><a href="https://nitter.net/fchollet/status/2069059823069753486#m">Programming is not about code, just like music is not about notation. It is the art & science of managing complexity through layers of abstraction. AI is simply a part of it.</a></li>
-<li><a href="https://nitter.net/fchollet/status/2068874676475179508#m">A company is not its share price; it's possible for a company to execute exceptionally well while its share price declines, much like it's possible for a company in terminal decline to see its share price surge.</a></li>
-<li><a href="https://nitter.net/fchollet/status/2068866857176797210#m">R to @fchollet: TL;DR: Adobe is currently the most profitable it has ever been, and it is using AI to accelerating its adoption and earning growth (now 13%, up from 10-11% last year). For all the talk about "Adobe is over", every creative I know is still using Photoshop and Premiere. And those are some of the people who are leaning the hardest into AI image and video generation. People still love these products.</a></li>
-<li><a href="https://nitter.net/fchollet/status/2068866756261843078#m">R to @fchollet: Adobe has also been successful at using AI to make its software easier to use for new users, resulting in a large increase of its freemium-tier MAUs (now 850M, up from 700M last year).</a></li>
-<li><a href="https://nitter.net/fchollet/status/2068866713412854037#m">R to @fchollet: Their AI-first ARR tripled year-over-year to surpass $500 million. Very few enterprise software companies are reporting this level of direct, paid AI adoption. The breakout driver is Firefly, now at $300M in ARR, growing approximately 50% quarter-over-quarter through apps and credit packs. That's better growth than most top AI startups. Paid users for the Acrobat AI Assistant also grew by more than 150%.</a></li>
-<li><a href="https://nitter.net/fchollet/status/2068866573558022201#m">R to @fchollet: Adobe hit a record $6.62 billion in Q2 revenue (up 13% YoY) while non-GAAP EPS jumped 18% to $5.96. Its net margins are at 36%, close to an all-time high. They are absorbing the compute costs of generative AI while expanding their profitability.</a></li>
-<li><a href="https://nitter.net/fchollet/status/2068866514233827741#m">The market is treating Adobe like a legacy software company in terminal decline. Yet the actual data shows it's one of the biggest beneficiaries of the rise of GenAI. In fact, it's one of the top 5 most profitable & fastest-growing AI companies today, in an industry where profitability is rare.</a></li>
-<li><a href="https://nitter.net/fchollet/status/2068791840955043850#m">Books are so OP</a></li>
-<li><a href="https://nitter.net/fchollet/status/2068771319341367390#m">The hardest part of any task is overcoming the activation energy. The rest is just riding the momentum.</a></li>
-</ul>
-<h5>Yann LeCun · 9条</h5>
-<ul>
-<li><a href="https://nitter.net/sapinker/status/2069021519649391025#m">RT by @ylecun: "We Have to Stop Freaking Out About A.I." warns Nobel laureate Robert Shiller. Depressions, formerly called panics, are caused by self-fulfilling fears (the only thing we have to fear is fear itself), i.e., common knowledge about those very fears. https://www.nytimes.com/2026/06/22/opinion/ai-doom-jobs-economy.html?unlocked_article_code=1.sFA.7Zm3.hEXTlVPaqGjk&smid=tw-share</a></li>
-<li><a href="https://nitter.net/EricTopol/status/2068902397808676983#m">RT by @ylecun: Two of the most important biomedical breakthroughs came from science of the Gila lizard venom (GLP-1s) and yogurt (CRISPR genome editing). "The system that turned that lizard into a medicine is now being dismantled." "Less support for scientists means strange questions no one will get to chase." gift link https://www.nytimes.com/2026/06/20/opinion/glp1-research-science-funding.html?unlocked_article_code=1.sFA.op9Q.RxAEhIN5qcbq&smid=url-share</a></li>
-<li><a href="https://nitter.net/4HumanUnity/status/2068811530150523386#m">RT by @ylecun: 🚨🚨🚨A standing ovation for the Washington Post, @wapo . 👏👏👏 You spent a full year investigating whether America's Director of National Intelligence, the woman with access to every classified secret this country has, was being directed by a cult leader who got busted for pyramid schemes in multiple countries. And you held it until she resigned? This same cult leader, Chris Butler, has his sect directly tied to QI Group (QNET), a Hong Kong-based company with operations across Asia, Africa, and the Middle East. So the real question: Which countries now have access to our national intelligence? Which of our spy names are compromised? And let's not forget, this is the same Tulsi Gabbard who used her position to do a coordinated hit job on Dr. Fauci, a man who spent his entire life saving Americans. Imagine if this story dropped while she still had her hands on our nation's secrets. Our press and mainstream media are failing us at every level. https://www.mediaite.com/media/news/tulsi-gabbards-entire-career-was-guided-by-an-eccentric-religious-leader-she-once-called-her-guru-wild-washington-post-story-suggests</a></li>
-<li><a href="https://nitter.net/JamesTate121/status/2068809990890983771#m">RT by @ylecun: Step 1: Remove filters in Reflecting Pool because Obama put them in. Step 2: Give your criminal neighbor who runs "Greenwater Services" a $20 million no-bid contract to paint the pool. Step 3: Fill the pool with water from the Potomac River, the phosphates from which cause algae blooms. Step 4: Freshly sealed pool and extreme heat result in a super scum event Step 5: Direct National Park Service to dump hydrogen peroxide into the pool which causes the paint to peel. Step 5: Deploy US National Guard to stop people from taking photos of the swamp as a perfect metaphor for the administration. Step 6: Blame someone else.</a></li>
-<li><a href="https://nitter.net/RichardHanania/status/2068804903355789663#m">RT by @ylecun: Absolutely insane revelations about Tulsi Gabbard. Throughout her public life, she's been a puppet for a Hindu cult. Washington Post got access to 25,000 pages of documents including directives from Tulsi Gabbard's cult leader telling her which policy positions to take and how to present herself throughout her career. It matches her record in Congress. At one point, she was instructed to say "It’s not a ‘boohoo, I don’t get to go to the party’ situation, Wolf" during a CNN interview, and used that exact phrase. This is one of several examples of her taking direct orders about what to say on TV. They told her what to tweet about too. The cult set up fake accounts to boost her on social media. Gabbard was aware, at one point telling them to add a photo to a profile. An email records a phone call where she was yelled at, but Tulsi is reminded at the end that "we still love you." This woman was always a freak, which is why she ended up in the MAGA coalition. Anti-vaxxers, criminals, racist, and a woman in a weird cult all end up as allies. Trumpism is Kakistocracy.</a></li>
-<li><a href="https://nitter.net/sarrah_bellus/status/2068781205080732041#m">RT by @ylecun: Donald Trump will go down in history as the only US President to be outwitted by a single-celled organism.</a></li>
-<li><a href="https://nitter.net/anneapplebaum/status/2068751279011090513#m">RT by @ylecun: So @jonswaine @washingtonpost has seen hundreds of documents containing evidence that Tulsi Gabbard, Donald Trump's Director of National Intelligence, was directed throughout her career by the leader of the cult she grew up in https://www.washingtonpost.com/investigations/2026/06/21/tulsi-gabbard-her-guru-mysterious-messages-that-helped-shape-her-political-career/</a></li>
-<li><a href="https://nitter.net/pentagoniac/status/2068732200783360331#m">RT by @ylecun: Honored to welcome @iitbombay and BharatGen as founding contributors to Project Tapestry. India isn’t just adopting open & frontier AI — it’s helping build it, in its own languages and on its own terms. Sovereign by architecture, advanced together. Cc @ylecun @FerrettiAgata @thealliance_ai</a></li>
-<li><a href="https://nitter.net/drterrysimpson/status/2068728357668495525#m">RT by @ylecun: Fauci was a hero - he didn't kill millions, but he did save millions of lives. Highest paid? Hardly - he was a civil servant getting paid much less than had he gone into private practice. People like you who don't know science are a clear and present danger to society</a></li>
-</ul>]]></description>
-        <author><![CDATA[AI研究核心]]></author>
         <category>X</category>
     </item>
     
@@ -1042,11 +1261,11 @@ At least build architectures where you can flexibly experiment with smarter mode
     </item>
     
     <item>
-        <title><![CDATA[[X] AI资讯聚合 (2026-06-20): 7 posts]]></title>
+        <title><![CDATA[[X] AI资讯聚合 (2026-06-20): 5 posts]]></title>
         <link>https://nitter.net/_akhaliq/status/2068350916680720754#m</link>
         <guid isPermaLink="false">x-cat-127ec8f8-2026-06-20</guid>
         <pubDate>Sat, 20 Jun 2026 15:11:01 GMT</pubDate>
-        <description><![CDATA[<h4>AI资讯聚合 · 2位作者 · 7条</h4>
+        <description><![CDATA[<h4>AI资讯聚合 · 2位作者 · 5条</h4>
 <h5>AK (论文速递) · 3条</h5>
 <ul>
 <li><a href="https://nitter.net/_akhaliq/status/2068350916680720754#m">S-Agent
@@ -1057,33 +1276,13 @@ Spatial Tool-Use Elicits Reasoning for Spatial Intelligence</a></li>
 
 Check how it compares to other text-to-image models at the bottom</a></li>
 </ul>
-<h5>Dwarkesh Patel · 4条</h5>
+<h5>Dwarkesh Patel · 2条</h5>
 <ul>
 <li><a href="https://nitter.net/dwarkesh_sp/status/2068347320094294502#m">R to @dwarkesh_sp: Watch the full episode with Carl Shulman:
 https://www.dwarkesh.com/p/carl-shulman</a></li>
 <li><a href="https://nitter.net/dwarkesh_sp/status/2068347307486232622#m">Even though intelligence brings evolutionary benefits, it hasn't been worth the time and energy costs for the vast majority of animals.
 
 So why did humans end up in an evolutionary niche which rewarded marginal increases in intelligence?</a></li>
-<li><a href="https://nitter.net/dwarkesh_sp/status/2068019716849815869#m">Narration: the data efficiency black hole. 
-
-00:00:00 – What is really driving AI progress?
-00:03:11 – Comparing human vs AI sample efficiency
-00:08:46 – Does sample efficiency matter?
-
-Also on pod and YouTube feed.</a></li>
-<li><a href="https://nitter.net/dwarkesh_sp/status/2068007292985901301#m">Copyright was invented by the Inquisition.
-
-Before the printing press, copying a book was too expensive and labor-intensive for anyone to worry about cheap unauthorised versions.
-
-But the new technology outran the law, and suddenly there was unmet demand for a solution to the problem of low-quality copies.
-
-The Inquisition responded to the demand. The deal was: if you agreed to submit your book to be censored, the Inquisition would give you a monopoly license.
-
-Suddenly, anyone who tried to plagiarise a book found themselves in a similar category as heretics - publishing books against the Inquisition's rules.
-
-It worked so well that even Protestant countries copied it. The scheme became the direct ancestor of modern copyright in the UK and US.
-
-It's a surprising example of how new technologies create novel problems, and the unexpected places solutions come from.</a></li>
 </ul>]]></description>
         <author><![CDATA[AI资讯聚合]]></author>
         <category>X</category>
@@ -1109,12 +1308,12 @@ It's a surprising example of how new technologies create novel problems, and the
     </item>
     
     <item>
-        <title><![CDATA[[X] AI公司掌门 (2026-06-20): 14 posts]]></title>
+        <title><![CDATA[[X] AI公司掌门 (2026-06-20): 12 posts]]></title>
         <link>https://nitter.net/ZixuanLi_/status/2068323095446716679#m</link>
         <guid isPermaLink="false">x-cat-cf9c101e-2026-06-20</guid>
         <pubDate>Sat, 20 Jun 2026 13:20:28 GMT</pubDate>
-        <description><![CDATA[<h4>AI公司掌门 · 2位作者 · 14条</h4>
-<h5>Clem (HF CEO) · 13条</h5>
+        <description><![CDATA[<h4>AI公司掌门 · 1位作者 · 12条</h4>
+<h5>Clem (HF CEO) · 12条</h5>
 <ul>
 <li><a href="https://nitter.net/ZixuanLi_/status/2068323095446716679#m">RT by @ClementDelangue: GLM-5.2 has been "stuck" at No.2 on Hugging Face Trending for three days, but I'm thrilled to have connected with the creator behind the No.1 project this afternoon. It's been amazing to see open-source work resonating with so many people.</a></li>
 <li><a href="https://nitter.net/Yuchenj_UW/status/2068182756132376668#m">RT by @ClementDelangue: After using GLM-5.2 for a day, I’m surprised by how often it feels close to Opus 4.8/GPT-5.5 level.
@@ -1184,29 +1383,18 @@ There's been a situation in AI.</a></li>
 <li><a href="https://nitter.net/0xSero/status/2068033735103250904#m">RT by @ClementDelangue: Makes my heart melt to see people riffing off my ideas, the RTX Pro 6000 community has been working for 3 days now to make my REAPs the best they possibly can be. 
 
 Isn't this better than complaining? Doing things, trying new things.</a></li>
-<li><a href="https://nitter.net/HarryStebbings/status/2068032816286150974#m">RT by @ClementDelangue: “We have a crisis of open source models in the Western world.
-
-Outside of China, there are no good open source models. We don't even have any in the US now.
-
-The talent, the capital and the focus to be best-in-class at pre-training, mid-training, post-training is an extremely scarce skillset.
-
-The answer for a lot of countries may just be to take an open weights model from China, post-train or fine-tune their own version, and have that be what they start from." @EverettRandle 
-
-Why does the West have such poor open source models and is it a national security threat to rely on open-source Chinese models @demishassabis @ylecun @aidangomez @lilianweng @janleike</a></li>
-</ul>
-<h5>Demis Hassabis</h5>
-<ul><li><a href="https://nitter.net/demishassabis/status/2068002732250640603#m">Thanks John for an extraordinary partnership and wonderful collaboration over the past 9 years! What we achieved with AlphaFold changed the world, and showed the field what was possible with AI for science and medicine, lighting the way for how AI can benefit humanity.</a></li></ul>]]></description>
+</ul>]]></description>
         <author><![CDATA[AI公司掌门]]></author>
         <category>X</category>
     </item>
     
     <item>
-        <title><![CDATA[[X] AI公司官方 (2026-06-20): 3 posts]]></title>
+        <title><![CDATA[[X] AI公司官方 (2026-06-20): 2 posts]]></title>
         <link>https://nitter.net/BAI_AGI/status/2068310759050993803#m</link>
         <guid isPermaLink="false">x-cat-9f8bb8e0-2026-06-20</guid>
         <pubDate>Sat, 20 Jun 2026 12:31:26 GMT</pubDate>
-        <description><![CDATA[<h4>AI公司官方 · 1位作者 · 3条</h4>
-<h5>MiniMax · 3条</h5>
+        <description><![CDATA[<h4>AI公司官方 · 1位作者 · 2条</h4>
+<h5>MiniMax · 2条</h5>
 <ul>
 <li><a href="https://nitter.net/BAI_AGI/status/2068310759050993803#m">RT by @MiniMax_AI: 📅 June 19 | http://B.AI Insights
 AI is moving rapidly into production, with developers driving the next wave of growth.
@@ -1220,16 +1408,6 @@ AI is moving rapidly into production, with developers driving the next wave of g
 🎁 MiniMax M3, top-ranked on Artificial Analysis, is now available on http://B.AI for FREE for a limited time!
 👉 Build your AI workflows on http://B.AI: http://b.ai</a></li>
 <li><a href="https://nitter.net/justinsuntron/status/2068277165884690574#m">RT by @MiniMax_AI: .@MiniMax_AI M3 is. No.1 on http://B.AI leaderboard.</a></li>
-<li><a href="https://nitter.net/CreaoAI/status/2068027417458069731#m">RT by @MiniMax_AI: You can't learn this from a tutorial. On June 23, you'll learn it straight from the people who build the AI tools you use.
-
-@BytedanceTalk and @CreaoAI are co-hosting AI Helps You: From 0 to Content Creator in San Francisco. 
-
-Join this 3-hour, hands-on workshop where the people building today's leading AI tools teach you how to create with them. Then you build live, pitch on stage, and the room votes the top three for prizes.
-
-📍 1242 Market St in San Francisco · 5-8 PM · Co-hosted by CREAO × ByteDance · with partners @MiniMax_AI,  @novita_labs  & @JELabs2024 
-
-Spots are limited 👇
-https://luma.com/b8fhbyh6</a></li>
 </ul>]]></description>
         <author><![CDATA[AI公司官方]]></author>
         <category>X</category>
@@ -1349,11 +1527,11 @@ Instagram: iamhenryhsu</p><p><a href="https://www.bilibili.com/video/BV1mPjr6zE1
     </item>
     
     <item>
-        <title><![CDATA[[X] AI研究核心 (2026-06-20): 2 posts]]></title>
+        <title><![CDATA[[X] AI研究核心 (2026-06-20): 1 posts]]></title>
         <link>https://nitter.net/AndrewYNg/status/2068039709126017356#m</link>
         <guid isPermaLink="false">x-cat-dbae213b-2026-06-20</guid>
         <pubDate>Fri, 19 Jun 2026 18:34:23 GMT</pubDate>
-        <description><![CDATA[<h4>AI研究核心 · 2位作者 · 2条</h4>
+        <description><![CDATA[<h4>AI研究核心 · 1位作者 · 1条</h4>
 <h5>Andrew Ng</h5>
 <ul><li><a href="https://nitter.net/AndrewYNg/status/2068039709126017356#m">Over the last two weeks, both the U.S. Government and Anthropic took significant actions that demonstrated their power to control access to AI by restricting what others can do with frontier models. This has been one of those moments that, once seen, will be hard to unsee, and it is significantly accelerating many businesses’ and nation states’ efforts to ensure reliable access to AI that no one else can terminate.
 
@@ -1377,453 +1555,7 @@ Satya Nadella wrote an essay about the importance of building a healthy ecosyste
 
 I hope we can build a more free, more open world, where research is freely shared, and laws and societal norms shape a level playing field that allows everyone to make progress. A silver lining of the events of these past two weeks is now that everyone better realizes key points of instability of the current system, we can all work to create a more stable foundation.
 
-[Original text: The Batch newsletter]</a></li></ul>
-<h5>Yann LeCun</h5>
-<ul><li><a href="https://nitter.net/matthieurouif/status/2068020352601424145#m">RT by @ylecun: We are so confident that @photoroom_ML  has the highest product fidelity in the world for images that we guarantee it. Fidelity or token refunded.
-
-Just walked off the Black Stage at VivaTech with an announcement I’ve wanted to make for a long time.
-
-Photoroom  now comes with a product fidelity guarantee: if our AI ever changes your actual product , your logo, your colors, the details that matter, you get your token back.
-
-In ecommerce, fidelity isn’t optional. The customer has to receive exactly what they saw. What you see is what you get. 
-
-It only works because of two models behind the scenes, our foundation model research PRX Pixel , and a visual quality model that catches any drift before an image ships. 
-
-Also great to catch up on research with our long time advisors thanks to @ylecun  and @julien_c   . 🙏</a></li></ul>]]></description>
-        <author><![CDATA[AI研究核心]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] AI公司掌门 (2026-06-19): 18 posts]]></title>
-        <link>https://nitter.net/julien_c/status/2068000772852248990#m</link>
-        <guid isPermaLink="false">x-cat-cf9c101e-2026-06-19</guid>
-        <pubDate>Fri, 19 Jun 2026 15:59:40 GMT</pubDate>
-        <description><![CDATA[<h4>AI公司掌门 · 1位作者 · 18条</h4>
-<h5>Clem (HF CEO) · 18条</h5>
-<ul>
-<li><a href="https://nitter.net/julien_c/status/2068000772852248990#m">RT by @ClementDelangue: There's a new rust client for Storage Buckets 🦀
-
-OpenDAL is awesome</a></li>
-<li><a href="https://nitter.net/Thom_Wolf/status/2067996287530684826#m">RT by @ClementDelangue: To all the newcomers excited to try Opus 4.8-level models at home: welcome to OpenWeightLand!
-
-Things work a little differently here than in ClosedSourcistan. Might seem strange at first but you'll quickly get used to it:
-- there are many providers for the same model and they compete on price and features.
-- as a result intelligence is abundant and typically much cheaper
-- you can run the model on-prem, in your region, locally, or with the provider of your choice
-- you can fine-tune it, modify it, and build businesses on top of it without asking anyone for permission
-
-Turns out open weights create markets, not kingdoms.
-
-A good central train station to start exploring is the Hugging Face page for GLM-5.2 under "Use this model":
--> https://huggingface.co/zai-org/GLM-5.2
-
-And if you just want to chat with it, it's free on HuggingChat:
--> https://huggingface.co/chat/</a></li>
-<li><a href="https://nitter.net/lhoestq/status/2067995184378331495#m">RT by @ClementDelangue: Apache OpenDAL 0.57 added access to @huggingface  Buckets in rust 🦀
-
-- nice file system interface
-- list/read/write support
-- optimized with Xet dedupe
-- with bindings in many languages
-
-The best part: it's also in arrow-rs to read @ApacheParquet  data (via object_store_opendal)</a></li>
-<li><a href="https://nitter.net/etnshow/status/2067978328641007809#m">RT by @ClementDelangue: "Owning your AI and adopting open-source models is the single most important thing we can do."
-
-@MeryemArik9 Co-Founder & CEO of @Doubleword_ says step zero to AI sovereignty is using open-source models to reduce leverage and supply chain risk:
-
-"What matters is reducing the leverage other people have over you."
-
-"When you're running open-source models on your own infrastructure, no one can come and turn them off."
-
-"Every application built on proprietary models carries a supply chain risk."
-
-"Wherever open-source capabilities exist, we should be using them. That's step zero to achieving sovereignty."</a></li>
-<li><a href="https://nitter.net/rohanpaul_ai/status/2067947789578125391#m">RT by @ClementDelangue: The White House and Anthropic may have found the first serious path to restore Mythos and Fable access without pretending jailbreaks can be eliminated.
-
-AI regulation may be shifting from vague fear to a benchmark based tests of model failure, because completely removing absolutely all jailbreak is probably not a possible target.
-
-The proposed framework would score how far the bypass went, what capabilities became reachable, how repeatable the attack was, and whether the exposed behavior had real operational consequences.
-
-Both sides are now moving toward a shared way to score what a jailbreak actually means.
-
-The hard truth is that perfect immunity is probably the wrong target; a recent red-team study found even hardened frontier models still produced confirmed harmful completions under sustained automated attack, with Fable 5 remaining more robust than Opus 4.8 but not invulnerable.
-
-So once, for a newly released model, the governments can ask the same questions every time, how much was bypassed, what capability was exposed, how reproducible was the attack, and what damage could follow, thats a much more practical path.</a></li>
-<li><a href="https://nitter.net/VikParuchuri/status/2067941596306231421#m">RT by @ClementDelangue: We're open sourcing a 9B model that extracts structured data from documents at near-frontier performance.
-
-- 90.2% on our bench, vs Gemini 3.5 Flash at 91.3%
-- Leads extraction models like NuExtract3 (81.5%)
-- 9.5s p50 timings
-- Pass JSON schema</a></li>
-<li><a href="https://nitter.net/gneubig/status/2067936197888930263#m">RT by @ClementDelangue: OK, I tried GLM-5.2 and this is a good model.
-
-Probably the first model good enough to eschew closed models from your workflow entirely (except if you need vision).
-
-I know this won't run on your laptop, but what are the best current  vllm/sglang serving recipes?</a></li>
-<li><a href="https://nitter.net/matvelloso/status/2067791546335019439#m">RT by @ClementDelangue: All day using GLM 5.2. Didn't miss much. First open model that passes the bar as a daily driver. Things are not going to be the same. 
-
-Damn, now I want to buy some serious hardware.</a></li>
-<li><a href="https://nitter.net/ClementDelangue/status/2067768150612193390#m">“Cost per task varies by ~800x across models tested: Claude Fable 5 leads the benchmark but costs more than $31 per task on average, compared to ~$0.04 for DeepSeek V4 Flash (max). The strongest price/performance options are open weights models such as GLM-5.2 (max) and DeepSeek V4 Pro (max), with GLM-5.2 (max) scoring only ~90 Elo below Claude Opus 4.8 (max) for less than 25% of the cost”</a></li>
-<li><a href="https://nitter.net/AndrewCurran_/status/2067767824525996481#m">RT by @ClementDelangue: Rave reviews all over my timeline for GLM 5.2 the last 48 hours, open source is having an exceptional month.</a></li>
-<li><a href="https://nitter.net/jeremyphoward/status/2067757468189679764#m">RT by @ClementDelangue: Wow.
-
-@Zai_org GLM 5.2 is a marvel! It is *at least* as good as Opus 4.8 and GPT 5.5. It's super fast, inexpensive, and not too verbose.
-
-It responds with nuance and judgement, & handles long context VERY well.
-
-I've never experienced an open weights model like this before.</a></li>
-<li><a href="https://nitter.net/elliotarledge/status/2067754690247528578#m">RT by @ClementDelangue: i used an extractor on my cursor, claude code, codex, etc sessions to make a private dataset on hf to train/calibrate my own models on.</a></li>
-<li><a href="https://nitter.net/elliotarledge/status/2067750051343184067#m">RT by @ClementDelangue: make your own datasets</a></li>
-<li><a href="https://nitter.net/ClementDelangue/status/2067723930341646748#m">Let’s face it: after-the-fact API guardrails are not the right safety tool for frontier models.
-
-They don’t make dangerous capabilities disappear. They just hide them behind a brittle interface that can be easily jailbroken.
-
-A better safety agenda:
-
-- don’t train models for very high-risk capabilities without strong evals, justification, and containment
-
-- use staged release, as pioneered by @IreneSolaiman, from trusted testers to broader access, and open release for transparency and accountability
-
-- massively support open-source AI so the gap between players does not become so large that a few closed labs and governments end up with overwhelming capabilities and power over everyone else
-
-- enable independent evaluation instead of asking everyone to trust a black-box API
-
-- give law enforcement, courts, regulators, auditors, journalists, and civil society strong AI tools to detect, investigate, and hold accountable unlawful uses of AI
-
-Safety means transparency, staged deployment, distributed power, and making sure democratic institutions can actually enforce the law.</a></li>
-<li><a href="https://nitter.net/poolsideai/status/2067711022115471532#m">RT by @ClementDelangue: someone asked if they could try getting Laguna M.1 running on a Mac.
-
-we said yes.
-
-they came back with a 3-bit MLX build running locally on Apple Silicon: ~26 tok/s, with ~100 GB peak memory on an M3 Max with 128 GB unified.
-
-absolute GOAT behavior from @eauchs
-
-https://huggingface.co/ox-ox/Laguna-M.1-MLX-Q3</a></li>
-<li><a href="https://nitter.net/ClementDelangue/status/2067690103451918721#m">"Open weights are now our default" https://huggingface.co/collections/poolside/laguna-m1</a></li>
-<li><a href="https://nitter.net/ClementDelangue/status/2067689576940933595#m">Image</a></li>
-<li><a href="https://nitter.net/robrombach/status/2067683174981812712#m">RT by @ClementDelangue: Yesterday, I had the insane experience of joining the G7 summit in Evian and present our perspective on open innovation in AI to the G7+ world leaders.
-With openness under pressure around the world, it is vital that we preserve a culture that makes open and responsible development the norm, not the exception
-
-My full remarks below. 
-
-> Thank you, President Macron, for organizing this important conversation, and for bringing together this excellent group of people. I think I represent the youngest company in this room. I am Robin Rombach, co-founder and CEO of Black Forest Labs: a 90-person frontier AI lab, built on both sides of the Atlantic in Germany and the United States. We develop “world models”. These are visual AI models that understand and simulate our complex physical world.
-
-Many of you have probably never heard of us. But if you’ve ever generated an AI image or AI video—I’m sure some of you have done so—you’ve probably encountered our research. Not far from here, at universities in Germany, our team pioneered and published many of the techniques that gave rise to visual generative AI. Our team has co-developed 3 of the top 5 most popular open generative AI models of all time, including Stable Diffusion, and the only open models as popular as DeepSeek.
-
-We’ve talked a lot about language models today. They are remarkable. But language is a compressed, and ultimately limited, representation of the world. We are building models that learn from thousands of years of video, and can reason in complex visual environments—the rich, messy, complicated world we actually live in.
-
-These are still early days, but this technology is going to transform every corner of the economy. For that reason, we believe that visual models, alongside language models, will soon be critical economic infrastructure.
-
-That’s why we are passionately committed to open innovation. Sharing our technology openly means that businesses around the world can build their own AI systems, rather than renting them from a handful of companies. Open technology is vital for transparency, competition, and strategic independence in AI. A culture of open innovation made AI possible in the first place, including the transformer paper that gave birth to today’s language models, and we need to preserve that culture.
-
-But we are fully aware that open innovation poses unique challenges, especially in image, video, and audio. Open AI models can be misused or modified to produce unlawful and deeply harmful content, and it can be difficult to withdraw these models once they're released.
-
-Our commitment is to show that innovation in visual AI can be both open and responsible, not one or the other. This is partly a technical challenge, and we are making good progress. For example, our latest open models demonstrated over 10 times fewer vulnerabilities for sexual deepfakes and child abuse material than the open models released by other Big Tech firms.
-
-But there is a role for governments too, from safety tools to evaluation standards to targeted regulation. For example, we have welcomed the leadership of the Trump Administration, as well as the European Union and the UK Government, in developing new legal strategies to combat sexual deepfakes.
-
-It’s crucial that we strike the right balance. The future of our societies depends on getting this technology out into the world safely. But a climate of fear around open technology, or a focus on suppression over diffusion, will leave the world reliant on a handful of firms for critical infrastructure. We are ready to work with you all to make open and responsible innovation the norm, not the exception.</a></li>
-</ul>]]></description>
-        <author><![CDATA[AI公司掌门]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] AI教育实践 (2026-06-19): 16 posts]]></title>
-        <link>https://nitter.net/emollick/status/2067991571266417132#m</link>
-        <guid isPermaLink="false">x-cat-919c55bf-2026-06-19</guid>
-        <pubDate>Fri, 19 Jun 2026 15:23:06 GMT</pubDate>
-        <description><![CDATA[<h4>AI教育实践 · 2位作者 · 16条</h4>
-<h5>Ethan Mollick · 12条</h5>
-<ul>
-<li><a href="https://nitter.net/emollick/status/2067991571266417132#m">R to @emollick: I talk about the research on when AI undermines, versus supporting, thinking and learning here: https://www.oneusefulthing.org/p/choosing-to-stay-human</a></li>
-<li><a href="https://nitter.net/emollick/status/2067989839740309698#m">R to @emollick: The instinct of students is often to use AI to help with homework, even if they are not trying to cheat. And because off-the-shelf chatbots are a helpful assistant, rather than a tutor, they give you the answer and undermine learning.
-
-Paper: https://cepr.org/publications/dp21577</a></li>
-<li><a href="https://nitter.net/emollick/status/2067988324984217626#m">More evidence, from a large-scale study in China, that using AI hurts learning if it undermines mental effort. When homework time drops due to AI use, so do test scores.
-
-Across studies, a theme: AI tutoring in support of classes is good, using AI to "help" with homework is bad.</a></li>
-<li><a href="https://nitter.net/emollick/status/2067844731539751010#m">R to @emollick: And this really is early evidence: sample size was excellent and approach to verifying outputs makes sense, but there are lots of unobservable elements that could play a role in relative success rates.</a></li>
-<li><a href="https://nitter.net/emollick/status/2067840160234868965#m">R to @emollick: And here is the Anthropic report with the chart: https://cdn.sanity.io/files/4zrzovbb/website/b93c7465925dc052b9102209b29b58f11df4fe55.pdf</a></li>
-<li><a href="https://nitter.net/emollick/status/2067839690158268923#m">Some (early) evidence that managers have the highest success rate in using Claude Code for coding.
-
-I have been arguing that management is an AI superpower, as clearly specifying what you want, how to do it & what good looks like is key to using agents. https://www.oneusefulthing.org/p/management-as-ai-superpower</a></li>
-<li><a href="https://nitter.net/emollick/status/2067803678002594021#m">There are papers that show training AI on "evil" data results in general misalignment, so it is nice to know the opposite is  true and that beneficial RL data in one field leads to more aligned models across a range of tasks.</a></li>
-<li><a href="https://nitter.net/emollick/status/2067767909770805685#m">One of the key moments of the LLM era, ali g with GPT-3.5 and the decision by Microsoft to not take down Bing/Sydney/GPT-4 after the @kevinroose New York Times article.</a></li>
-<li><a href="https://nitter.net/emollick/status/2067757196188774660#m">I have given AA a hard time about its previous agentic evaluation but this looks like a good and impressive benchmark for real world knowledge work that is unsaturated and had private hold out tests.
-
-This is one to watch - I didn’t see a human comparison score though?</a></li>
-<li><a href="https://nitter.net/emollick/status/2067680363804020979#m">R to @emollick: Kind of a big deal that no one has been able to answer this question definitively?
-
-(The only complimentary asset owner open weights makes sense for is Nvidia)</a></li>
-<li><a href="https://nitter.net/emollick/status/2067670308937437542#m">R to @emollick: I know I keep harping on this theme but open weights models are quite valuable to AI users, and people seem to assume that they will always keep up as training costs grow, but I don’t really understand the incentives as opposed to open source, which was much clearer</a></li>
-<li><a href="https://nitter.net/emollick/status/2067669551685218638#m">Is there a business model for being profitable off training frontier open weights models? 
-
-Other people can host, fine-tune, consult etc. as least as cheaply as you can. There are no ancilary product sales & it is fantastically expensive to make compared to most open source work</a></li>
-</ul>
-<h5>Simon Willison · 4条</h5>
-<ul>
-<li><a href="https://nitter.net/simonw/status/2067834436172071342#m">Really looking forward to one of the super-fast custom silicon inference providers like @GroqInc or @cerebras getting GLM 5.2 running
-
-Cerebras has GLM-4.7, Groq is still mostly Llama 3.x and gpt-oss</a></li>
-<li><a href="https://nitter.net/simonw/status/2067760286426337405#m">R to @simonw: Lots more information in this post on the Datasette project blog, including details on our live demo and uv one-liners you can use to try this out on your own machine https://datasette.io/blog/2026/datasette-apps/</a></li>
-<li><a href="https://nitter.net/simonw/status/2067759963322404896#m">R to @simonw: Think of this as Claude Artifacts reimagined for Datasette - you get all the power of artifacts but with a JSON API to a full relational database, allowing your HTML+JS apps to access and store data in all shapes and sizes</a></li>
-<li><a href="https://nitter.net/simonw/status/2067759482009194527#m">Just launched Datasette Apps - a plugin for Datasette that lets you host full HTML+JS apps in an iframe sandbox that can query your database and do interesting things with your data 
-https://simonwillison.net/2026/Jun/18/datasette-apps/</a></li>
-</ul>]]></description>
-        <author><![CDATA[AI教育实践]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot (2026-06-19): 5 posts]]></title>
-        <link>https://www.bilibili.com/video/BV12bj66YEFq</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-06-19-a1c5d27b</guid>
-        <pubDate>Fri, 19 Jun 2026 15:15:30 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV12bj66YEFq">【中英字幕】鸡毛秀26.06.19</a></li>
-<li><a href="https://www.bilibili.com/video/BV1VSjB63EAq">【中英字幕】彭博财经观察26.06.18完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1v6jw6rEs1">【中英字幕】26.06.17彭博财经观察美联储议息决议分析特刊完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1oHjq6rEKC">【中英字幕】彭博财经简报26.06.18完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1KRje6HEvY">【中英字幕】26.06.18美副总统万斯代班主持白宫新闻发布会</a></li>
-</ul>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] AI公司官方 (2026-06-19): 14 posts]]></title>
-        <link>https://nitter.net/SergioPaniego/status/2067977955171614932#m</link>
-        <guid isPermaLink="false">x-cat-9f8bb8e0-2026-06-19</guid>
-        <pubDate>Fri, 19 Jun 2026 14:29:00 GMT</pubDate>
-        <description><![CDATA[<h4>AI公司官方 · 4位作者 · 14条</h4>
-<h5>Hugging Face</h5>
-<ul><li><a href="https://nitter.net/SergioPaniego/status/2067977955171614932#m">RT by @huggingface: continuous batching just landed in TRL for GRPO
-
-at 64 generations it runs faster and uses less VRAM than plain generate, no vLLM needed
-
-how it works and when to reach for it, below</a></li></ul>
-<h5>MiniMax · 3条</h5>
-<ul>
-<li><a href="https://nitter.net/MiniMax_AI/status/2067913044752044159#m">Thanks to the @BAI_AGI team for making M3 available from day one.</a></li>
-<li><a href="https://nitter.net/MiniMax_AI/status/2067711854802047107#m">Big thank you to everyone using @opencode who has been testing M3, breaking it, and showing us what matters.
-
-@opencode has now extended the 3x limits so everyone can keep building 🚀</a></li>
-<li><a href="https://nitter.net/MiniMax_AI/status/2067663374272405712#m">Appreciate the support from @BAI_AGI 
-
-Glad we could provide more builders access to M3 🤝</a></li>
-</ul>
-<h5>OpenAI · 9条</h5>
-<ul>
-<li><a href="https://nitter.net/OpenAI/status/2067722693714338044#m">R to @OpenAI: The most interesting test was cross-domain transfer.
-
-When beneficial behavior training was limited to health conversations, the model still improved on non-health evaluations of misalignment, deception, and reward hacking—even though those tasks looked very different from the training data.</a></li>
-<li><a href="https://nitter.net/OpenAI/status/2067722695270334549#m">R to @OpenAI: We also tested whether alignment persisted under pressure. 
-
-The model was harder to steer toward harmful behavior with adversarial prompts, while remaining responsive to helpful instructions.
-
-We saw preliminary evidence of greater resistance to harmful fine-tuning.</a></li>
-<li><a href="https://nitter.net/OpenAI/status/2067722696759329125#m">R to @OpenAI: This is an early step toward more robustly beneficial and aligned models: training models to carry beneficial traits into new situations, so as AI becomes more capable, it also becomes more reliable, transparent, and helpful for people.</a></li>
-<li><a href="https://nitter.net/OpenAI/status/2067722689515856262#m">R to @OpenAI: We trained models with reinforcement learning on realistic conversations to reinforce beneficial traits like truthfulness, humility under uncertainty, openness to correction, fairness, and concern for human welfare, across 12 domains, including health, science, and education.</a></li>
-<li><a href="https://nitter.net/OpenAI/status/2067722691675824637#m">R to @OpenAI: A small amount of this data produced broad gains beyond the training scenarios.
-
-Compared with a compute-matched baseline, the trained model improved on 44 of 53 independent evaluations of alignment and benefits, spanning deception, reward hacking, safety, health, and mental health.
-
-These evals varied widely in domain, task format, and grading scheme.</a></li>
-<li><a href="https://nitter.net/OpenAI/status/2067722688165232654#m">As AI takes on longer, higher-stakes tasks, we want models to carry beneficial and safe behavior into new domains beyond their training—and maintain it under pressure.
-
-That’s the idea behind our new research on training models to be broadly and persistently beneficial. https://alignment.openai.com/beneficial-rl/</a></li>
-<li><a href="https://nitter.net/OpenAI/status/2067672744108724635#m">R to @OpenAI: Improving human health will be one of the most personal, tangible impacts of AGI.
-
-As our models continue to improve, our goal is to make ChatGPT more accurate, more useful, and more impactful in those moments — and to keep bringing that progress to more people.  
-
-https://openai.com/index/improving-health-intelligence-in-chatgpt/</a></li>
-<li><a href="https://nitter.net/OpenAI/status/2067672740539306261#m">GPT-5.5 Instant is now on par with our frontier Thinking models for health-related questions.
-
-Every week, more than 230 million people turn to ChatGPT with health and wellness questions, and GPT-5.5 Instant is better at recognizing when urgent care may be needed, asking for relevant context, explaining uncertainty, and making complex information easier to understand.
-
-Because GPT-5.5 Instant is available to all free users in ChatGPT, these improvements can help more people. 
-
-Physician-led evaluation was critical to making these major intelligence gains.</a></li>
-<li><a href="https://nitter.net/OpenAI/status/2067672742426775728#m">R to @OpenAI: To improve our models, we collaborate with a global network of hundreds of physicians across 60 countries, 49 languages, and 26 specialties.
-
-Their feedback helps us identify where responses miss important context, sound overly confident, need clearer next steps, or should more strongly encourage someone to seek medical care. 
-
-Those insights directly shape how we train and improve our models.</a></li>
-</ul>
-<h5>xAI</h5>
-<ul><li><a href="https://nitter.net/grok/status/2067711154986852669#m">RT by @xai: The Grok plugin for Word is live.
-
-Draft documents, summarize research from the web and X, or generate diagrams for your writing.
-
-Try it now https://x.ai/grok/word</a></li></ul>]]></description>
-        <author><![CDATA[AI公司官方]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：很荣幸受邀参加甘肃天水公祭伏羲大典！还有老朋友和新朋友也会来，大家猜猜是谁？除了家喻户晓的天水麻辣烫外，还有哪些特色美食评论区快来分享一下吧！]]></title>
-        <link>https://www.bilibili.com/video/BV1stj66PEKH</link>
-        <guid isPermaLink="false">bilibili-116777224768986</guid>
-        <pubDate>Fri, 19 Jun 2026 14:28:38 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p>-</p><p><a href="https://www.bilibili.com/video/BV1stj66PEKH">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] AI资讯聚合 (2026-06-19): 7 posts]]></title>
-        <link>https://nitter.net/NielsRogge/status/2067971861955194882#m</link>
-        <guid isPermaLink="false">x-cat-127ec8f8-2026-06-19</guid>
-        <pubDate>Fri, 19 Jun 2026 14:04:47 GMT</pubDate>
-        <description><![CDATA[<h4>AI资讯聚合 · 2位作者 · 7条</h4>
-<h5>AK (论文速递) · 5条</h5>
-<ul>
-<li><a href="https://nitter.net/NielsRogge/status/2067971861955194882#m">RT by @_akhaliq: Here's how to use Claude Code with GLM-5.2 via
-@huggingface Inference Providers:  
-
-1. Create a token at https://huggingface.co/settings/tokens (fine-grained, enable "Make calls to Inference Providers") 
-2. Set the environment variables below
-3. ??? 
-4. Profit</a></li>
-<li><a href="https://nitter.net/llleizhang/status/2067692719095656525#m">RT by @_akhaliq: 🚀 Excited to see our work accepted by ECCV 2026.</a></li>
-<li><a href="https://nitter.net/pika_labs/status/2067674905970352130#m">RT by @_akhaliq: 📣 Calling all influencers and wannabe influencers: we’re here to help you blow up.
-
-Introducing the Influencer Ignition Kit—4 new follower-boosting skills:
-
->Persona Builder
->Content Director
->Viral Hook
->Fix My Look
-
-Available for any agent with the Pika MCP.</a></li>
-<li><a href="https://nitter.net/oodgnas/status/2067671671302246626#m">RT by @_akhaliq: Accepted at ECCV 2026 :)</a></li>
-<li><a href="https://nitter.net/cohere/status/2067671126176563330#m">RT by @_akhaliq: The 4-bit quant is now available, making our first open-source agentic coding model small enough to be run on a Mac. Get the weights here: https://cohere.link/FjIq0uD</a></li>
-</ul>
-<h5>Dwarkesh Patel · 2条</h5>
-<ul>
-<li><a href="https://nitter.net/albrgr/status/2067767687074427163#m">RT by @dwarkesh_sp: Come work with me! I’m hiring a Senior Operations Associate in the office of the CEO at @coeff_giving (reporting to my awesome chief of staff @AbieRohrig).
-
-Looking for someone who moves fast, learns quickly, has high attention to detail, and is obsessed w/ our mission.
-
-We're also opening a broader expression of interest form to make opportunistic hires within the office of the CEO - is there more you think Abie and I should be doing, and you could help with? Pitch us!
-
-Links to apply in thread!</a></li>
-<li><a href="https://nitter.net/dwarkesh_sp/status/2067682864825778198#m">The massacre that shaped Machiavelli's thinking.
-
-In 1502 at Senigallia, Cesare Borgia betrayed his men, massacred his guests, and violated sacred oaths made before God - and found himself in a much stronger position than he had been before.
-
-Machiavelli watched this from up close - so close that his family were even worried he might have been one of Borgia's victims.
-
-It was a brutal confrontation with the realities of power that inspired the ideas in The Prince.</a></li>
-</ul>]]></description>
-        <author><![CDATA[AI资讯聚合]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：【橘鸦Juya】买了个迷你主机跑Agent……]]></title>
-        <link>https://www.bilibili.com/video/BV1ifjq6LESH</link>
-        <guid isPermaLink="false">bilibili-116776771783954</guid>
-        <pubDate>Fri, 19 Jun 2026 12:29:19 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1ifjq6LESH">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 马督工：【睡前消息1068】散户炒美股 试验结束了]]></title>
-        <link>https://www.bilibili.com/video/BV1vNjB63ELy</link>
-        <guid isPermaLink="false">bilibili-116776704679898</guid>
-        <pubDate>Fri, 19 Jun 2026 12:28:32 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：马督工</p>
-<p>证监会查处富途等平台，阻止中国散户自由炒美股。</p><p><a href="https://www.bilibili.com/video/BV1vNjB63ELy">查看原文 →</a></p>]]></description>
-        <author><![CDATA[马督工]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 饲养员小谢：结婚三年多，老婆越来越会玩了怎么办？]]></title>
-        <link>https://www.bilibili.com/video/BV1qLjA6mETM</link>
-        <guid isPermaLink="false">bilibili-116771185102581</guid>
-        <pubDate>Fri, 19 Jun 2026 10:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：饲养员小谢</p>
-<p>觉得我给狗哥准备的礼物帅的，投个币不过分吧哈哈哈</p><p><a href="https://www.bilibili.com/video/BV1qLjA6mETM">查看原文 →</a></p>]]></description>
-        <author><![CDATA[饲养员小谢]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-06-19): 6 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1CCjq6xEf2</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-06-19-d13e0e33</guid>
-        <pubDate>Fri, 19 Jun 2026 04:59:17 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1CCjq6xEf2">【英文原声】摩根看好鼎力，30%增速背后的结构变化</a></li>
-<li><a href="https://www.bilibili.com/video/BV1PCjq64Ekj">摩根看好鼎力，30%增速背后的结构变化</a></li>
-<li><a href="https://www.bilibili.com/video/BV1Amjq69E3d">【英文原声】高盛看好思源电气，出口增速曲线悄悄上扬</a></li>
-<li><a href="https://www.bilibili.com/video/BV1kmjq6XEWS">高盛看好思源电气，出口增速曲线悄悄上扬</a></li>
-<li><a href="https://www.bilibili.com/video/BV12qjq68EQw">【英文原声】伯恩斯坦看好澜起瑞萨，TAM冲击被夸大</a></li>
-<li><a href="https://www.bilibili.com/video/BV1tqjq6hE7x">伯恩斯坦看好澜起瑞萨，TAM冲击被夸大</a></li>
-</ul>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：DeepSeek 正式上线识图模式；Codex 上线 Record & Replay 功能【AI 早报 2026-06-19】]]></title>
-        <link>https://www.bilibili.com/video/BV1fSjv6CEBv</link>
-        <guid isPermaLink="false">bilibili-116774154603779</guid>
-        <pubDate>Fri, 19 Jun 2026 01:23:26 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/plc1gZfmtTljggcK7eXqxQ</p><p><a href="https://www.bilibili.com/video/BV1fSjv6CEBv">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] AI研究核心 (2026-06-19): 2 posts]]></title>
-        <link>https://nitter.net/drfeifei/status/2067701705827848521#m</link>
-        <guid isPermaLink="false">x-cat-dbae213b-2026-06-19</guid>
-        <pubDate>Thu, 18 Jun 2026 20:11:17 GMT</pubDate>
-        <description><![CDATA[<h4>AI研究核心 · 1位作者 · 2条</h4>
-<h5>李飞飞 · 2条</h5>
-<ul>
-<li><a href="https://nitter.net/drfeifei/status/2067701705827848521#m">Your thoughtful reflection is so inspiring and encouraging @smallfly ! As everyone talks about AI and automation, human creativity, story telling and productivity are even more important and essential to our society. @theworldlabs is founded on the premise of empowering human ingenuity and productivity. We are very grateful to be able to work with people like you! 🙏🌐</a></li>
-<li><a href="https://nitter.net/ManlingLi_/status/2067697152722415623#m">RT by @drfeifei: Planning with the views:
-
-Can VLMs predict how each camera move changes the view, and plan many such moves ahead?
-
-We introduce ViewSuite with 6 DoF camera control and ~165K task instances, testing:
-Path-to-View
-View-to-Path
-Interactive View Planning
-
-A sharp Planning Gap emerges:
-+ can roughly "track" how camera action changes views
-- cannot "compose" a plan towards a target view at all
-
-We then try to teach VLMs with Reinforcement Learning.  - RL cannot teach VLMs such planning ability, only 2.5% success rate with Qwen2.5-VL-7B.
-+ With View Graph Distillation (our RL-Graph-SFT framework), 2.5% → 47.8%
-
-Below, we answer these questions: 
-Q1. What are the failure modes?
-Q2. How can we make RL work? 
-Q3. What has the model learned? Can we open up the model to see before/after? Can such spatial priors transfer to other view related tasks?
-
-Led by @James_KKW, great to work with @LINJIEFUN @zhengyuan_yang @shiqi_chen17 " Wang">@wzenus @drfeifei @jiajunwu_cs Leonidas Guibas, Lijuan Wang.
-
-A joint efforts with @StanfordAILab @StanfordSVL @MSFTResearch.</a></li>
-</ul>]]></description>
+[Original text: The Batch newsletter]</a></li></ul>]]></description>
         <author><![CDATA[AI研究核心]]></author>
         <category>X</category>
     </item>
