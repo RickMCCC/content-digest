@@ -131,7 +131,7 @@ def run():
                             total_new += 1
                             logger.info(f"[rss] New ({src['platform']}): {item['title'][:50]}")
                             # Translate English X tweets
-                            if item["platform"] == "x":
+                            if item["platform"] == "x" and os.environ.get("DEEPSEEK_API_KEY"):
                                 text_to_check = item["title"]
                                 if item.get("summary"):
                                     text_to_check += " " + item["summary"]
