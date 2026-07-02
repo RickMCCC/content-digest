@@ -5,17 +5,91 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 01 Jul 2026 20:38:51 GMT</lastBuildDate>
-    <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Thu, 02 Jul 2026 22:43:59 GMT</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 07月01日 20:38 UTC]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月02日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-01</guid>
-        <pubDate>Wed, 01 Jul 2026 20:38:51 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> 🟢 本地 PC 在线</p><p><b>📡 技术资讯流 (tech):</b> 51 items</p><p><b>🎮 生活分享流 (life):</b> 25 items</p><p><b>🆕 本次新增:</b> 78 items</p><p><b>📦 数据库总量:</b> 2489 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 在线 | GitHub Actions: 未触发</p>]]></description>
+        <guid isPermaLink="false">digest-2026-07-02</guid>
+        <pubDate>Thu, 02 Jul 2026 22:43:59 GMT</pubDate>
+        <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[📊 运行日志 | 07月02日 22:43 UTC]]></title>
+        <link>https://github.com/RickMCCC/content-digest</link>
+        <guid isPermaLink="false">digest-2026-07-02</guid>
+        <pubDate>Thu, 02 Jul 2026 22:43:59 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 50 items</p><p><b>🎮 生活分享流 (life):</b> 26 items</p><p><b>🆕 本次新增:</b> 20 items</p><p><b>📦 数据库总量:</b> 2509 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <author><![CDATA[AI Digest Bot]]></author>
+        <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客 (2026-07-02): 10 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1hsTn6wEut</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-07-02-d13e0e33</guid>
+        <pubDate>Thu, 02 Jul 2026 15:17:52 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1hsTn6wEut">《华尔街日报》7月2日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1hsTn6wEM6">【英文原声】《华尔街日报》7月2日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1LUTj6FEpa">【英文原声】高盛看衰，佩蒂股份出口复苏减亏改善</a></li>
+<li><a href="https://www.bilibili.com/video/BV1oUTj6FEc2">高盛看衰，佩蒂股份出口复苏减亏改善</a></li>
+<li><a href="https://www.bilibili.com/video/BV1aoTj69EPH">【英文原声】花旗看好，德业股份工商业储能份额提升</a></li>
+<li><a href="https://www.bilibili.com/video/BV13oTj69EEQ">花旗看好，德业股份工商业储能份额提升</a></li>
+<li><a href="https://www.bilibili.com/video/BV1qJTi6DE6v">高盛看好迈瑞医疗，AI深耕与海外新通道</a></li>
+<li><a href="https://www.bilibili.com/video/BV17ETi6HEQg">【英文原声】高盛看好迈瑞医疗，AI深耕与海外新通道</a></li>
+<li><a href="https://www.bilibili.com/video/BV1UnTz62EdF">《华尔街日报》7月1日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1DJTz67EWr">【英文原声】《华尔街日报》7月1日全文精读</a></li>
+</ul>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Mr-Pot (2026-07-02): 8 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1r1Tr6MEiT</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-07-02-a1c5d27b</guid>
+        <pubDate>Thu, 02 Jul 2026 12:44:10 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1r1Tr6MEiT">【中英字幕】彭博科技前沿26.07.01完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1LhT66fEtW">【中英字幕】26.07.01万斯在弗吉尼亚军事基地发表演讲完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1gWTr6WEbG">【中英字幕】彭博财经观察26.07.01完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1HgTw6fEU8">【中英字幕】巴伦周刊26.07.01完整版：康宁CEO威克斯谈“玻璃+AI”：175年老店如何再造数据中心革命</a></li>
+<li><a href="https://www.bilibili.com/video/BV1J4T66aEw6">【中英字幕】26.07.01全球四大央行掌门在欧洲央行论坛辩论完整版：通胀见顶了吗？资产负债表该怎么缩</a></li>
+<li><a href="https://www.bilibili.com/video/BV1bUT667Eui">【中英字幕】26.07.01川普在罗斯福图书馆开馆仪式上发表演讲完整版：重温250年美国的荣耀与野望</a></li>
+<li><a href="https://www.bilibili.com/video/BV1GqT66REj5">【中英字幕】26.07.01川普在"空军二号"首航仪式上回答记者提问</a></li>
+<li><a href="https://www.bilibili.com/video/BV1gBTi6BEVQ">【中英字幕】彭博财经简报26.07.01完整版</a></li>
+</ul>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第620期】泰山刀片铁丝网；“特训学校”谁能治？]]></title>
+        <link>https://www.bilibili.com/video/BV14tTE6HEZY</link>
+        <guid isPermaLink="false">bilibili-116850423760939</guid>
+        <pubDate>Thu, 02 Jul 2026 12:41:35 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>-</p><p><a href="https://www.bilibili.com/video/BV14tTE6HEZY">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Anthropic 正式恢复 Claude Fable 5 访问【AI 早报 2026-07-02】]]></title>
+        <link>https://www.bilibili.com/video/BV1DcT66JExB</link>
+        <guid isPermaLink="false">bilibili-116847672362624</guid>
+        <pubDate>Thu, 02 Jul 2026 01:02:04 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/DlCe_aRgC8m1stpv22GoIQ</p><p><a href="https://www.bilibili.com/video/BV1DcT66JExB">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -1381,116 +1455,39 @@ Instagram: iamhenryhsu</p><p><a href="https://www.bilibili.com/video/BV1i5j26TES
     </item>
     
     <item>
-        <title><![CDATA[[X] AI教育实践 (2026-06-26): 3 posts]]></title>
+        <title><![CDATA[[X] AI教育实践 (2026-06-26): 1 posts]]></title>
         <link>https://nitter.net/emollick/status/2070537422027342085#m</link>
         <guid isPermaLink="false">x-cat-919c55bf-2026-06-26</guid>
         <pubDate>Fri, 26 Jun 2026 15:59:24 GMT</pubDate>
-        <description><![CDATA[<h4>AI教育实践 · 3位作者 · 3条</h4>
+        <description><![CDATA[<h4>AI教育实践 · 1位作者 · 1条</h4>
 <h5>Ethan Mollick</h5>
-<ul><li><a href="https://nitter.net/emollick/status/2070537422027342085#m">Great experiment testing how good AIs are getting at very ambitious end-to-end coding tasks. Opus 4.7, in 14 hours, was able to build a software package that would take 2-17 weeks of human engineering work. It cost $251. The models are still not perfect, but are improving fast.</a></li></ul>
-<h5>Simon Willison</h5>
-<ul><li><a href="https://nitter.net/binarybits/status/2070527944817053862#m">RT by @simonw: This is like saying there's no learning curve to being a manager because your employees will just do whatever you tell them to do.</a></li></ul>
-<h5>Sebastian Raschka</h5>
-<ul><li><a href="https://nitter.net/rasbt/status/2070518167399698490#m">Have been taking different local open-weight LLMs for a test drive in different harnesses (Qwen-Code, Codex, Claude Code). 30B Mixture-of-Expert models are kind of a nice sweet spot and can solve challenging problems. And they get roughly 40 tok/sec on a Mac or DGX Spark, which is similar to GPT 5.5 in a Pro subscription and totally useable for everyday work. More interesting is also the harness choice! Claude Code seems to be using 2x many tokens as Codex. Gemma 4 E2B is here just for reference to show that the tasks can't be trivially solved by smaller models. Just finishing a longer write-up about this and will share soon (likely tomorrow)!</a></li></ul>]]></description>
+<ul><li><a href="https://nitter.net/emollick/status/2070537422027342085#m">Great experiment testing how good AIs are getting at very ambitious end-to-end coding tasks. Opus 4.7, in 14 hours, was able to build a software package that would take 2-17 weeks of human engineering work. It cost $251. The models are still not perfect, but are improving fast.</a></li></ul>]]></description>
         <author><![CDATA[AI教育实践]]></author>
         <category>X</category>
     </item>
     
     <item>
-        <title><![CDATA[[X] AI公司掌门 (2026-06-26): 3 posts]]></title>
+        <title><![CDATA[[X] AI公司掌门 (2026-06-26): 1 posts]]></title>
         <link>https://nitter.net/FoundationOAI/status/2070533340416164196#m</link>
         <guid isPermaLink="false">x-cat-cf9c101e-2026-06-26</guid>
         <pubDate>Fri, 26 Jun 2026 15:43:11 GMT</pubDate>
-        <description><![CDATA[<h4>AI公司掌门 · 2位作者 · 3条</h4>
+        <description><![CDATA[<h4>AI公司掌门 · 1位作者 · 1条</h4>
 <h5>Sam Altman</h5>
-<ul><li><a href="https://nitter.net/FoundationOAI/status/2070533340416164196#m">RT by @sama: The OpenAI Foundation is joining Intercept as a founding partner through our AI resilience program. As AI accelerates advances in biology and medicine, we also need to prepare for the risks of misuse, including the potential for engineered outbreaks. Intercept Health Fund is working to end respiratory pandemics through a pathogen-agnostic approach, investing in broad-spectrum preventatives and non-pharmaceutical interventions that can protect against a wide range of threats and strengthen a new layer of resilience for humanity. https://blog.interceptfund.com/p/ending-respiratory-infections</a></li></ul>
-<h5>Clem (HF CEO) · 2条</h5>
-<ul>
-<li><a href="https://nitter.net/usv/status/2070531279586468150#m">RT by @ClementDelangue: The best products at each layer will be built by teams who are obsessed with that layer.</a></li>
-<li><a href="https://nitter.net/ClementDelangue/status/2070498777635398047#m">The biggest risk in AI is concentration: of power, capabilities and economic wealth. Who can doubt it with trillion dollar companies and government now already controlling a massive part of it? So we need more rebels and more rebel alliance like this one from @usv and friends. Beautiful message!</a></li>
-</ul>]]></description>
+<ul><li><a href="https://nitter.net/FoundationOAI/status/2070533340416164196#m">RT by @sama: The OpenAI Foundation is joining Intercept as a founding partner through our AI resilience program. As AI accelerates advances in biology and medicine, we also need to prepare for the risks of misuse, including the potential for engineered outbreaks. Intercept Health Fund is working to end respiratory pandemics through a pathogen-agnostic approach, investing in broad-spectrum preventatives and non-pharmaceutical interventions that can protect against a wide range of threats and strengthen a new layer of resilience for humanity. https://blog.interceptfund.com/p/ending-respiratory-infections</a></li></ul>]]></description>
         <author><![CDATA[AI公司掌门]]></author>
         <category>X</category>
     </item>
     
     <item>
-        <title><![CDATA[[X] AI资讯聚合 (2026-06-26): 7 posts]]></title>
+        <title><![CDATA[[X] AI资讯聚合 (2026-06-26): 1 posts]]></title>
         <link>https://nitter.net/_akhaliq/status/2070532756044439938#m</link>
         <guid isPermaLink="false">x-cat-127ec8f8-2026-06-26</guid>
         <pubDate>Fri, 26 Jun 2026 15:40:52 GMT</pubDate>
-        <description><![CDATA[<h4>AI资讯聚合 · 1位作者 · 7条</h4>
-<h5>AK (论文速递) · 7条</h5>
-<ul>
-<li><a href="https://nitter.net/_akhaliq/status/2070532756044439938#m">ViQ Text-Aligned Visual Quantized Representations at Any Resolution</a></li>
-<li><a href="https://nitter.net/_akhaliq/status/2070532758124781746#m">R to @_akhaliq: paper: https://huggingface.co/papers/2606.27313</a></li>
-<li><a href="https://nitter.net/_akhaliq/status/2070532336886648899#m">DanceOPD On-Policy Generative Field Distillation</a></li>
-<li><a href="https://nitter.net/_akhaliq/status/2070532338224660483#m">R to @_akhaliq: paper: https://huggingface.co/papers/2606.27377</a></li>
-<li><a href="https://nitter.net/fal/status/2070523008398065785#m">RT by @_akhaliq: Model on Hugging Face https://huggingface.co/fal/LTX-2.3-3DREAL-LoRA Try it on fal https://fal.ai/models/fal-ai/ltx-2.3-quality/render-to-real</a></li>
-<li><a href="https://nitter.net/MaziyarPanahi/status/2070504079051112512#m">RT by @_akhaliq: locally on the Mac, nothing leaves anyway. but if you don't have the hardware, you can run GLM-5.2 via HF Inference Providers instead, and OpenMed still de-identifies every name on-device FIRST. Live redaction. Open models: https://huggingface.co/OpenMed</a></li>
-<li><a href="https://nitter.net/MaziyarPanahi/status/2070503452178796704#m">RT by @_akhaliq: Got GLM-5.2 running on my Mac Studio via llama.cpp, the reasoning behind all my medical agentic workflows. It orchestrates a swarm of tiny on-device OpenMed experts: oncology, meds, labs. No cloud, no rate limits, nobody can take it away. AI must be owned, not rented.</a></li>
-</ul>]]></description>
+        <description><![CDATA[<h4>AI资讯聚合 · 1位作者 · 1条</h4>
+<h5>AK (论文速递)</h5>
+<ul><li><a href="https://nitter.net/_akhaliq/status/2070532756044439938#m">ViQ Text-Aligned Visual Quantized Representations at Any Resolution</a></li></ul>]]></description>
         <author><![CDATA[AI资讯聚合]]></author>
         <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] AI公司官方 (2026-06-26): 6 posts]]></title>
-        <link>https://nitter.net/AnthropicAI/status/2070528971687755796#m</link>
-        <guid isPermaLink="false">x-cat-9f8bb8e0-2026-06-26</guid>
-        <pubDate>Fri, 26 Jun 2026 15:25:50 GMT</pubDate>
-        <description><![CDATA[<h4>AI公司官方 · 1位作者 · 6条</h4>
-<h5>Anthropic · 6条</h5>
-<ul>
-<li><a href="https://nitter.net/AnthropicAI/status/2070528971687755796#m">R to @AnthropicAI: AI's impact on the economy will ultimately show up in aggregate data like employment and productivity. But it will first be visible where AI is doing the most work. By tracking how usage shifts, hour by hour, surface by surface, we can start to see those changes as they happen. Read the full report: https://www.anthropic.com/research/economic-index-june-2026-report</a></li>
-<li><a href="https://nitter.net/AnthropicAI/status/2070528967501849073#m">R to @AnthropicAI: This Econ Index is also the first to survey Claude users. Over 1/3 expect AI to be able to do most or nearly all of their work tasks within a year. But those who delegate the most work to AI are also the most optimistic about what it means for their pay and job security.</a></li>
-<li><a href="https://nitter.net/AnthropicAI/status/2070528969523499460#m">R to @AnthropicAI: Nearly half of respondents expect their work responsibilities to significantly change in the next 12 months. Fewer than 10% think they'll lose their own job within a year, but far more worry for coworkers: over 1/3 put the odds of a junior colleague losing their job above 60%.</a></li>
-<li><a href="https://nitter.net/AnthropicAI/status/2070528964989456753#m">R to @AnthropicAI: The Econ Index now tracks artifacts—the primary output Claude produces in a session. We looked across Claude conversations and compared how often each artifact was used for work, coursework, or personal life. Blogging is mostly a work activity; translation falls in between.</a></li>
-<li><a href="https://nitter.net/AnthropicAI/status/2070528961235575278#m">To keep pace with AI progress, we're advancing how we study Claude's economic impact. Hourly sampling and survey data show us how the cadences of life shape usage, what people produce with Claude, and how perceptions of AI's impact may be changing. https://www.anthropic.com/research/economic-index-june-2026-report</a></li>
-<li><a href="https://nitter.net/AnthropicAI/status/2070528962602901624#m">R to @AnthropicAI: Hour by hour, Claude usage is woven into how people live and work. Prompts for news rise in the morning, while recipe requests peak in the evening. People most often seek sleep advice at 5am. Gardening, meanwhile, is stable from dawn until dusk—a perennial topic of interest.</a></li>
-</ul>]]></description>
-        <author><![CDATA[AI公司官方]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-06-26): 2 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1P97L6PEyb</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-06-26-d13e0e33</guid>
-        <pubDate>Fri, 26 Jun 2026 14:55:36 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1P97L6PEyb">【英文原声】《华尔街日报》6月26日全文精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1y97L6AEjC">《华尔街日报》6月26日全文精读</a></li>
-</ul>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] AI研究核心 (2026-06-26): 1 posts]]></title>
-        <link>https://nitter.net/fchollet/status/2070507776259022872#m</link>
-        <guid isPermaLink="false">x-cat-dbae213b-2026-06-26</guid>
-        <pubDate>Fri, 26 Jun 2026 14:01:36 GMT</pubDate>
-        <description><![CDATA[<h4>AI研究核心 · 1位作者 · 1条</h4>
-<h5>Francois Chollet</h5>
-<ul><li><a href="https://nitter.net/fchollet/status/2070507776259022872#m">Autonomy isn't the ability to act without human supervision. It's the ability to *learn* without human bottlenecks in the process. A system that is fully dependent on human training data and RL environments is only an imprint of human knowledge.</a></li></ul>]]></description>
-        <author><![CDATA[AI研究核心]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot：【中英字幕】彭博科技前沿26.06.25完整版]]></title>
-        <link>https://www.bilibili.com/video/BV1bN7B6NECC</link>
-        <guid isPermaLink="false">bilibili-116813731995469</guid>
-        <pubDate>Fri, 26 Jun 2026 13:21:11 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Mr-Pot</p>
-<p>本期视频标题：AI内存荒引爆涨价潮：美光飙涨、苹果提价、高通布局万亿新战场
-
-本期视频要点：
-1、美光第四财季营收指引爆表：510亿美元 vs 华尔街430亿预期，并预警AI驱动的内存短缺或持续至2027年以后。  
-2、苹果罕见全面提价：iPad、Mac、HomePod、Apple TV、Vision Pro 全线涨价，归因内存/存储成本高企，并暗示9月iPhone/Watch可能继续跟涨。  </p><p><a href="https://www.bilibili.com/video/BV1bN7B6NECC">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
     </item>
     
 </channel>
