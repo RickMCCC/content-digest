@@ -5,27 +5,173 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 03 Jul 2026 22:39:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 22:34:23 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月03日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月04日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-03</guid>
-        <pubDate>Fri, 03 Jul 2026 22:39:54 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-07-04</guid>
+        <pubDate>Sat, 04 Jul 2026 22:34:23 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 07月03日 22:39 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 07月04日 22:34 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-03</guid>
-        <pubDate>Fri, 03 Jul 2026 22:39:54 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 50 items</p><p><b>🎮 生活分享流 (life):</b> 35 items</p><p><b>🆕 本次新增:</b> 24 items</p><p><b>📦 数据库总量:</b> 2533 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-07-04</guid>
+        <pubDate>Sat, 04 Jul 2026 22:34:23 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 44 items</p><p><b>🎮 生活分享流 (life):</b> 36 items</p><p><b>🆕 本次新增:</b> 19 items</p><p><b>📦 数据库总量:</b> 2552 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 学院派Academia：西方经济最成功的26年，靠的竟然是“计划经济”？【硬核经济学】]]></title>
+        <link>https://www.bilibili.com/video/BV1aTMN6pEKP</link>
+        <guid isPermaLink="false">bilibili-116861916287463</guid>
+        <pubDate>Sat, 04 Jul 2026 13:33:23 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：学院派Academia</p>
+<p>二战后，西方经济迎来了史上最长的繁荣期。而在这个空前绝后的“黄金时代”，西方政府的经济政策却极其接近我们所理解的计划经济，而非自由市场：当时的最高边际税率高达91%，跨境资本被严厉管制，汇率由政治决定，金融危机几乎绝迹，工资由工会和企业谈判得来。
+换句话来说，是计划经济造就了现代西方世界那庞大的中产阶级，让生产率与工资得以同步增长。
+但遗憾的是，这套体系虽然造福了绝大多数人，但让顶层的1%富豪“不</p><p><a href="https://www.bilibili.com/video/BV1aTMN6pEKP">查看原文 →</a></p>]]></description>
+        <author><![CDATA[学院派Academia]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第621期】新能源交车船税；严打恶意唱衰车市]]></title>
+        <link>https://www.bilibili.com/video/BV1VVMw6DEpp</link>
+        <guid isPermaLink="false">bilibili-116861731604677</guid>
+        <pubDate>Sat, 04 Jul 2026 12:50:36 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1VVMw6DEpp">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Mr-Pot (2026-07-04): 2 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1NLMA6uE1f</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-07-04-a1c5d27b</guid>
+        <pubDate>Sat, 04 Jul 2026 11:42:11 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1NLMA6uE1f">【中英字幕】26.07.03川普在"总统山"就美国建国250周年发表演讲:誓言“永不成为共产主义国家</a></li>
+<li><a href="https://www.bilibili.com/video/BV1HvMF6ZEgu">【中英字幕】26.07.03纽约市长曼达尼就美国建国250周年发表演讲完整版</a></li>
+</ul>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客 (2026-07-04): 10 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1ErMF69Em4</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-07-04-d13e0e33</guid>
+        <pubDate>Sat, 04 Jul 2026 10:00:00 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1ErMF69Em4">杰富瑞看好，潍柴动力发电机组放量在即</a></li>
+<li><a href="https://www.bilibili.com/video/BV1f6MF6WEyB">【英文原声】杰富瑞看好，潍柴动力发电机组放量在即</a></li>
+<li><a href="https://www.bilibili.com/video/BV1TWMF6KEuv">摩根看好，万华化学迎来竞对扩产冲击</a></li>
+<li><a href="https://www.bilibili.com/video/BV1TWMF6KEp3">摩根看好，万华化学迎来竞对扩产冲击</a></li>
+<li><a href="https://www.bilibili.com/video/BV1yuMc6eEXn">【英文原声】瑞银看好，Meta测试算力对外开放</a></li>
+<li><a href="https://www.bilibili.com/video/BV12mMc6BEin">瑞银看好，Meta测试算力对外开放</a></li>
+<li><a href="https://www.bilibili.com/video/BV1bYTp6eENV">高盛观望，阳光电源回应美国禁令传闻</a></li>
+<li><a href="https://www.bilibili.com/video/BV1UYTp6eEtk">【英文原声】高盛观望，阳光电源回应美国禁令传闻</a></li>
+<li><a href="https://www.bilibili.com/video/BV1cBTt6iEpq">《华尔街日报》7月3日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV13ZTt6XEyU">【英文原声】《华尔街日报》7月3日全文精读</a></li>
+</ul>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点121期」DeepSeek推理加速框架、Google设计记忆规范、AI投研技能包、AI渗透测试和免费开发者资源清单]]></title>
+        <link>https://www.bilibili.com/video/BV19SMF67EoZ</link>
+        <guid isPermaLink="false">bilibili-116860171323901</guid>
+        <pubDate>Sat, 04 Jul 2026 06:04:56 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：IT咖啡馆</p>
+<p>1、项目名称：DeepSpec - DeepSeek 的推理加速框架
+GitHub 链接：https://github.com/deepseek-ai/DeepSpec
+2、项目名称：DESIGN.md - 给 AI 编程 Agent 用的设计系统记忆格式
+GitHub 链接：https://github.com/google-labs-code/design.md
+3、项目名称：AI Berks</p><p><a href="https://www.bilibili.com/video/BV19SMF67EoZ">查看原文 →</a></p>]]></description>
+        <author><![CDATA[IT咖啡馆]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 全员i人字幕组：【两站联合】260627 恩採姐姐, 我们能做好这份工作吗?🙉💦热闹非凡的游乐园打工体验!✨ | 沅禧的二十岁 EP.04]]></title>
+        <link>https://www.bilibili.com/video/BV1oCTZ6CEYX</link>
+        <guid isPermaLink="false">bilibili-116859466684228</guid>
+        <pubDate>Sat, 04 Jul 2026 03:01:36 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p>网络
+本视频中字由@李沅禧Wonhee_Whitley、@全员i人字幕组两站联合制作
+
+@李沅禧Wonhee_Whitley
+翻译：外包
+时间轴：外包
+校对压制：外包
+
+@全员i人字幕组
+翻译：小猫
+时间轴：大癫
+
+转载请标明出处，禁二改二传。</p><p><a href="https://www.bilibili.com/video/BV1oCTZ6CEYX">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] torazyz：北京真实日常vlog✨torazyz]]></title>
+        <link>https://www.bilibili.com/video/BV1vxT46RESc</link>
+        <guid isPermaLink="false">bilibili-116855658252506</guid>
+        <pubDate>Sat, 04 Jul 2026 02:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：torazyz</p>
+<p>更多内容 欢迎关注 Find me on：
+RED: torazyz
+Instagram: torazyz
+YouTube: Tora Zhang
+Bili: @torazyz    
+
+Henry’s
+RED: HenryHsu
+YouTube: Henry Hsu
+Bili: @iamHenryHsu    
+Instagram: iamhenryhsu</p><p><a href="https://www.bilibili.com/video/BV1vxT46RESc">查看原文 →</a></p>]]></description>
+        <author><![CDATA[torazyz]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小王Albert：250岁的美国，从灯塔到沉疴，全球革命要来了吗？【王骁×毕英杰×老蒋】]]></title>
+        <link>https://www.bilibili.com/video/BV1ThTE6nE6G</link>
+        <guid isPermaLink="false">bilibili-116850457450629</guid>
+        <pubDate>Sat, 04 Jul 2026 01:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小王Albert</p>
+<p>一键三连推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV1ThTE6nE6G">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小王Albert]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Mistral AI 发布开源形式化验证模型 Leanstra 1.5【AI 早报 2026-07-04】]]></title>
+        <link>https://www.bilibili.com/video/BV1hYTf6gEQY</link>
+        <guid isPermaLink="false">bilibili-116858929809863</guid>
+        <pubDate>Sat, 04 Jul 2026 00:46:08 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/0mtyup3VpwnYQqO_E10jxw</p><p><a href="https://www.bilibili.com/video/BV1hYTf6gEQY">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -1336,267 +1482,6 @@
 该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1BrTA64ESt">查看原文 →</a></p>]]></description>
         <author><![CDATA[全员i人字幕组]]></author>
         <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【生肉】钩织直播🧶宮脇咲良wvs直播(中字待更) 260626]]></title>
-        <link>https://www.bilibili.com/video/BV12N7s6oEQW</link>
-        <guid isPermaLink="false">bilibili-116822523255740</guid>
-        <pubDate>Sat, 27 Jun 2026 14:32:55 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>wvs
-资源：末末
-翻译：
-时间轴：
-校对/合轴/压制：
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV12N7s6oEQW">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-06-27): 8 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1KT7s64EFZ</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-06-27-d13e0e33</guid>
-        <pubDate>Sat, 27 Jun 2026 14:26:39 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1KT7s64EFZ">【英文原声】《华尔街日报》6月27日全文精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1r57s6DEoS">《华尔街日报》6月27日全文精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1MV7H6REQB">高盛聚焦中信银行，零售资产质量现改善信号</a></li>
-<li><a href="https://www.bilibili.com/video/BV1bV7H6RETC">【英文原声】高盛聚焦中信银行，零售资产质量现改善信号</a></li>
-<li><a href="https://www.bilibili.com/video/BV1Pp7H6UEyo">高盛聚焦小米，新车型AI双线密集催化</a></li>
-<li><a href="https://www.bilibili.com/video/BV1sp7H6UEao">【英文原声】高盛聚焦小米，新车型AI双线密集催化</a></li>
-<li><a href="https://www.bilibili.com/video/BV1KJ7H6DEAg">【英文原声】摩根聚焦美光科技，HBM需求强劲打开局</a></li>
-<li><a href="https://www.bilibili.com/video/BV1NJ7H6DEff">摩根聚焦美光科技，HBM需求强劲打开局</a></li>
-</ul>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] AI教育实践 (2026-06-27): 5 posts]]></title>
-        <link>https://nitter.net/rasbt/status/2070871630201463137#m</link>
-        <guid isPermaLink="false">x-cat-919c55bf-2026-06-27</guid>
-        <pubDate>Sat, 27 Jun 2026 14:07:26 GMT</pubDate>
-        <description><![CDATA[<h4>AI教育实践 · 3位作者 · 5条</h4>
-<h5>Sebastian Raschka · 2条</h5>
-<ul>
-<li><a href="https://nitter.net/rasbt/status/2070871630201463137#m">I put together a new article on setting up local coding agents with open-weight models. Everything runs 100% locally. I thought it might be useful putting this together because many people asked me about my setup in the past, and I thought it would also motivate people to get started tinkering with local models for serious work (yes, things got incredibly capable this year with better LLMs and better harnesses). So, here's a walkthrough of how to connect a local LLM to a local coding harness (could be Claude Code or Codex, which you may already be familiar with). I also included some assessment notes that are useful as a checklist to select between and consider certain LLMs over others: - Checking RAM usage at long contexts to see if the model is suitable for real work - Measuring prefill and decoding tok/sec to see whether it's fast enough to not be annoying - Making sure the model has sufficient tool-calling capabilities in theory - Assessing whether the model can solve some more challenging tasks when used in a coding harness. Of course, there are always more specialized tools that can squeeze a bit more performance out of things, but I hope this is a good starter kit that stays flexible; that is you can easily switch to newer models as they are released or even tap into cloud models in your familiar harness if the current ones are not sufficient enough for a given task.</a></li>
-<li><a href="https://nitter.net/rasbt/status/2070871632759927196#m">R to @rasbt: Link to the full article: https://magazine.sebastianraschka.com/p/using-local-coding-agents</a></li>
-</ul>
-<h5>Ethan Mollick</h5>
-<ul><li><a href="https://nitter.net/emollick/status/2070729413520396475#m">One of the recovered passages, read for the first time in two thousand years: “Having…strained ourselves to the utmost through research and learning…possessing the same practical wisdom…”</a></li></ul>
-<h5>Simon Willison · 2条</h5>
-<ul>
-<li><a href="https://nitter.net/simonw/status/2070610733763903845#m">R to @simonw: Not sure if that's a change in default preferences from the models or just that I'm often prompting inside existing projects and the models know full well not to introduce React to a project that isn't using it already I tried in a fresh project just now and got vanilla HTML+JS</a></li>
-<li><a href="https://nitter.net/simonw/status/2070610501630042599#m">Is it just me, or are today's LLMs less likely to default to building everything in React than they were last year? I used to have to say "don't use React" in almost all of my frontend web dev prompts, I've not had to do that for most of the models in quite a while now</a></li>
-</ul>]]></description>
-        <author><![CDATA[AI教育实践]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] AI研究核心 (2026-06-27): 8 posts]]></title>
-        <link>https://nitter.net/HaiyuWu1/status/2070866534462087626#m</link>
-        <guid isPermaLink="false">x-cat-dbae213b-2026-06-27</guid>
-        <pubDate>Sat, 27 Jun 2026 13:47:11 GMT</pubDate>
-        <description><![CDATA[<h4>AI研究核心 · 3位作者 · 8条</h4>
-<h5>Yann LeCun · 4条</h5>
-<ul>
-<li><a href="https://nitter.net/HaiyuWu1/status/2070866534462087626#m">RT by @ylecun: Working on world model or SSL? You definitely need to try our new work: VISReg! What does it achieve? 💪 Strong collapse prevention: High gradient when embedding collapse ⚡ Friendly to scale training: Linear complexity to scaling factors 🧩 Easy to train: Similar to LeJEPA, it is a heuristic-free method 🏆 Best OOD performance: Achieving the best accuracy on 6 OOD datasets 📉 Data efficiency: Achieving a similar OOD average accuracy to DINOv2 with 90% less data 🧬 Robust to low-quality datasets: It is robust to long-tailed and sparse datasets Our results also indicate that SIGReg type methods can scale up, filling in the missing piece in @ylecun's great talk https://www.youtube.com/watch?v=72Xj8k5WQX4. A big thanks to my co-author @randall_balestr and my manager @DrMorganLevine. Also, huge gratitude to @ylecun for connecting us to make this project happen! 🤝 #SelfSupervisedLearning #JEPA #WorldModel</a></li>
-<li><a href="https://nitter.net/KenRoth/status/2070703799727952228#m">RT by @ylecun: The Trump administration claims that mass deportations will free millions of jobs for Americans by reducing foreigner competiton. In fact, in the first nine months of 2025, ICE operations led to at least 668,000 lost jobs across 86 US metropolitan areas. https://trib.al/3wB3dd9</a></li>
-<li><a href="https://nitter.net/paulg/status/2070652798698492317#m">RT by @ylecun: Step 1: Invent a new extra-bad category of crime, like "hate crime" or "terrorism", with extra-harsh punishments. Step 2: Expand the definition of the new kind of crime to include anything, or anyone, that you want to punish extra harshly.</a></li>
-<li><a href="https://nitter.net/KenRoth/status/2070641468553695430#m">RT by @ylecun: The decades-long prison sentences imposed on a group of Texas activists who were protesting against ICE, using the guise of "terrorism," are an outrage clearly designed to suppress such activism. https://trib.al/OzfJuFw</a></li>
-</ul>
-<h5>Chris Olah</h5>
-<ul><li><a href="https://nitter.net/mattbotvinick/status/2070841025195647161#m">RT by @ch402: We're building a team at @Anthropic focusing on AI and the rule of law. We've made our first hires, and are now opening up a new research engineer role. We're looking for people with advanced technical skills, including AI/deep learning/NLP, full-stack development and data science, paired with training or experience in law, government, political science, or a related field. If this is you, or a friend, please get in touch. https://job-boards.greenhouse.io/anthropic/jobs/5278065008</a></li></ul>
-<h5>Francois Chollet · 3条</h5>
-<ul>
-<li><a href="https://nitter.net/fchollet/status/2070614739944980677#m">R to @fchollet: If you wanted to do the same in SF, you could start by extending Treasure Island. Obviously the value of that new land would be considerably less than in SF proper. Perhaps 10x less. It would be economically viable though.</a></li>
-<li><a href="https://nitter.net/fchollet/status/2070612257684570535#m">R to @fchollet: This is also why a lot of land reclamation in Tokyo bay first takes the form of fully-separated islands: you don't want to disrupt established coastline usage (docks, etc.)</a></li>
-<li><a href="https://nitter.net/fchollet/status/2070611679281557992#m">A good chunk of Tokyo is also reclaimed from the bay, a process that continues to this day but has slowed down significantly (peak was in the 1960s-1970s alongside other major infrastructure buildups). It's not due to regulation: land reclamation has diminishing returns and conflicts with existing coastline usage. Easier to do when you're also building the rest of the city at the same time.</a></li>
-</ul>]]></description>
-        <author><![CDATA[AI研究核心]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] AI资讯聚合 (2026-06-27): 7 posts]]></title>
-        <link>https://nitter.net/_akhaliq/status/2070865840069595203#m</link>
-        <guid isPermaLink="false">x-cat-127ec8f8-2026-06-27</guid>
-        <pubDate>Sat, 27 Jun 2026 13:44:25 GMT</pubDate>
-        <description><![CDATA[<h4>AI资讯聚合 · 2位作者 · 7条</h4>
-<h5>AK (论文速递) · 3条</h5>
-<ul>
-<li><a href="https://nitter.net/_akhaliq/status/2070865840069595203#m">hf-claude lets you use over 100 open models in claude code including glm 5.2, minimax-m3, deepseek v4 pro</a></li>
-<li><a href="https://nitter.net/hqmank/status/2070777464255885442#m">RT by @_akhaliq: DeepSeek uploaded DSpark checkpoints for DeepSeek-V4 Flash and Pro. Same checkpoints, with a speculative decoding module attached. DeepSeek claims 60%-85% faster generation for Flash in live traffic. "Spark" is doing exactly what the name says.</a></li>
-<li><a href="https://nitter.net/AlexFinn/status/2070670926803542304#m">RT by @_akhaliq: I’ve had enough With Fable 5 being gatekept from us, and now GPT 5.6 being gatekept, I’m going full open source Just went to Microcenter and built this RTX 5090 computer. Will be adding a RTX Pro 6000 to it shortly This brings my home AI lab to: • 3 Mac Studio 512gb • DGX Spark • RTX 5090 • 2 Mac Minis I’m building a home AI lab that will allow me to run and support as many local models as possible I already have Qwen 3.6, Orinth1.0 and GLM 5.2 running. Will be adding more. They’re all running on my new custom built AI lab platform that’s making sure these models do work 24 hours a day for me With frontier models being gatekept, and hardware prices becoming outrageous (this build cost $9,000), it was time to pull the trigger In 1 year I believe prices for hardware will be triple from here. Mac Studios starting at $10,000. Mac Minis starting at $2,000. MacBook Pros starting at $5,000. 2 years from now I don’t believe any hardware will be available to consumers The time to strike was now and I struck In an age where intelligence both in the cloud and in your home are being limited, I’m becoming sovereign. It might be time for you to do the same.</a></li>
-</ul>
-<h5>Dwarkesh Patel · 4条</h5>
-<ul>
-<li><a href="https://nitter.net/sirbayes/status/2070673408145375541#m">RT by @dwarkesh_sp: Dwarkesh is on fire atm! Sample efficiency, continual learning, OPSD, World Models, etc. But data privacy will be a blocker. We need personalized models! https://www.dwarkesh.com/p/the-next-paradigm</a></li>
-<li><a href="https://nitter.net/dwarkesh_sp/status/2070672008946589922#m">Here's a question I find confusing and interesting and which actually tells us a lot about the nature of current AI progress: Why has progress on computer use been so slow? Computer use is so clearly verifiable. I think the answer is that it is not enough for a domain to be verifiable. It also has to be very grindable—in the sense that you can run lots of parallel rollouts against a deterministic and replayable simulator. If you’re trying to make a model better at coding, you can create an environment that has a software repo with some missing feature that you’ve tasked the AIs with creating, and then you have a thousand parallel agents just go at the problem, each with their identical copy of the container. But this doesn’t work with computer use—at least not trivially. You can’t have a thousand agents go try the same checkout flow on Amazon. Because Andy Jassy will find and detect your bots and shut your ass down. How would we train an AI to build a business? How would you make an AI that’s really good at winning court cases? Or having a profitable day trading in the markets? Or helping a candidate win an election? What is the RL environment to make an AI as good at politics as Lyndon Johnson, or as good at building a space launch business as Elon Musk? The rollout requires interacting with the world and cannot be recreated simply within the datacenter. And the outer loop verification may take months or years of real world actions to elicit, and cannot be re-observed by perturbing the model’s actions thousands of times in parallel so that you can isolate what exactly the model did that actually worked.</a></li>
-<li><a href="https://nitter.net/dwarkesh_sp/status/2070627236005417399#m">Suppose an AI model fully automates a $200k job. Its economic value - measured in contribution to GDP - will be both far more and far less than $200k. There are two ways of thinking about the model's economic value: (1) It'll be far more than $200k. After all, the human worker's labor was worth $200k; AI workers will have a bunch of advantages over humans, like not needing to sleep and being able to run in parallel, so their labor will be worth even more. (2) It'll be far less than $200k. Competition between labs might drive the price of AI down until it's basically equal to the cost of the GPUs and energy. And this is obviously way lower than the human worker's contribution to GDP. The important idea is that both are right. The marginal contribution to GDP of running an additional instance of this model will probably be relatively low. But we'll end up running way more copies of it, so the model's total contribution to GDP will be way higher than the human workers it replaced.</a></li>
-<li><a href="https://nitter.net/dwarkesh_sp/status/2070581940886089907#m">Why was the denazification of West Germany so successful? Arguably, it's because it was antidemocratic. If the Western Allies had immediately held free elections after the war, they might just have produced another fascist government. But instead, the Allies transferred power to avowedly anti-Nazi German elites. Democracy was introduced only gradually, and always with limits and checks.</a></li>
-</ul>]]></description>
-        <author><![CDATA[AI资讯聚合]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] AI公司官方 (2026-06-27): 6 posts]]></title>
-        <link>https://nitter.net/PaddlePaddle/status/2070857237548155256#m</link>
-        <guid isPermaLink="false">x-cat-9f8bb8e0-2026-06-27</guid>
-        <pubDate>Sat, 27 Jun 2026 13:10:14 GMT</pubDate>
-        <description><![CDATA[<h4>AI公司官方 · 4位作者 · 6条</h4>
-<h5>百度飞桨</h5>
-<ul><li><a href="https://nitter.net/PaddlePaddle/status/2070857237548155256#m">PaddleFormers 1.2 is officially out — DeepSeek-V4 training now supported! 🔥 128K+ long-context training, highly efficient and fully open-source. 📊 Highlights: 🔸 DeepSeek-V4 training support: the industry's most complete open-source training solutions. 🔸 Large-scale training features: Context Parallel, Packing, Document Mask Attention & Muon optimizer. 🔸 Performance boost: ultra-fused mHC / CSA / HCA operators, DeepEP / HybridEP communication, lossless FP8 training & AutoSubbatch memory balancing. ✨ Built for large-scale LLM training — longer context, higher efficiency, better optimization. 🔗 Check it out: https://github.com/PaddlePaddle/PaddleFormers #PaddlePaddle #PaddleFormers #PaddleFleet #DeepSeekV4 #LLMTraining #LongContext</a></li></ul>
-<h5>MiniMax</h5>
-<ul><li><a href="https://nitter.net/MiniMax_AI/status/2070679110180073484#m">👀 Looking forward to seeing builders give it a try tomorrow. Curious what model is powering it, @browser_use</a></li></ul>
-<h5>Anthropic</h5>
-<ul><li><a href="https://nitter.net/AnthropicAI/status/2070665903440871779#m">Since June 12, we’ve been working closely with the US government to restore access to Claude Mythos 5 and Fable 5. Today, the government notified us that Mythos 5, our strongest cybersecurity model, can be redeployed to a set of US organizations that operate and defend critical infrastructure. We’re restoring access for these organizations quickly, and we’re continuing to work with the government to expand access to Mythos 5 and make Fable 5 available for general use again.</a></li></ul>
-<h5>NVIDIA AI · 3条</h5>
-<ul>
-<li><a href="https://nitter.net/NVIDIAAI/status/2070654232139833720#m">How Thousands of NVIDIA Engineers Access 100+ AI Models Through a Unified Inference Service</a></li>
-<li><a href="https://nitter.net/ctnzr/status/2070636734178828657#m">RT by @NVIDIAAI: Really proud to see Nemotron 3 Ultra generalizing to agentic tasks that didn't exist when we trained it!</a></li>
-<li><a href="https://nitter.net/NVIDIAAI/status/2070602795737035252#m">.@ArtificialAnlys just dropped a brand new leaderboard called AA-Briefcase for evaluating realistic tasks in complex projects. Nemotron 3 Ultra ranks among the top open models, with strong performance across a wide range of long-running agentic tasks, even when encountering them for the first time. 🔗 https://nvda.ws/4grnX1h</a></li>
-</ul>]]></description>
-        <author><![CDATA[AI公司官方]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小黛晨读：【参考信息第618期】Top10基金关门谢客；开屏广告滚出手机]]></title>
-        <link>https://www.bilibili.com/video/BV1dr7H6vE2z</link>
-        <guid isPermaLink="false">bilibili-116822019933051</guid>
-        <pubDate>Sat, 27 Jun 2026 12:24:19 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小黛晨读</p>
-<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1dr7H6vE2z">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小黛晨读]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点120期」Agent视频生产系统、用户名情报搜索工具、Agent联网冲浪工具、代码库记忆MCP和开源剪辑工具]]></title>
-        <link>https://www.bilibili.com/video/BV1eH7n68EUm</link>
-        <guid isPermaLink="false">bilibili-116820476430155</guid>
-        <pubDate>Sat, 27 Jun 2026 05:45:17 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：IT咖啡馆</p>
-<p>1、项目名称：OpenMontage – Agent 视频生产系统
-GitHub 链接：https://github.com/calesthio/OpenMontage
-2、项目名称：Maigret – 用户名情报搜索工具
-GitHub 链接：https://github.com/soxoj/maigret
-3、项目名称：Agent-Reach – 给 Agent 一键装上互联网能力
-GitHub</p><p><a href="https://www.bilibili.com/video/BV1eH7n68EUm">查看原文 →</a></p>]]></description>
-        <author><![CDATA[IT咖啡馆]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 硅谷101：对话王熙乔：AI时代的教育者、十年沉浮，与人类文明的下一步【101视频播客】]]></title>
-        <link>https://www.bilibili.com/video/BV1Ed7n6TEr1</link>
-        <guid isPermaLink="false">bilibili-116820308662439</guid>
-        <pubDate>Sat, 27 Jun 2026 05:06:06 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：硅谷101</p>
-<p>十年前，18岁的王熙乔在一篇万字长文里写到，“大量职业会被AI替代，新职业会更需要创造力和好奇心。” 
-他意识到，科技如果按照推演般发展，“教育要出大问题了”。于是他放弃了美国大学的offer，决定自己创办一所学校：探月学校。
-
-然而，接下来的十年，做创新教育的困难程度超出了他的想象：扩张失误、“双减”政策、疫情等事件让王熙乔不得不带着几百名学生和老师被迫搬校区，一度在酒店、老年活动中心、保险公司</p><p><a href="https://www.bilibili.com/video/BV1Ed7n6TEr1">查看原文 →</a></p>]]></description>
-        <author><![CDATA[硅谷101]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot (2026-06-27): 3 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1Rq776QEak</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-06-27-a1c5d27b</guid>
-        <pubDate>Sat, 27 Jun 2026 04:01:02 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1Rq776QEak">【中英字幕】彭博财经观察26.06.26完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1p17E6KETk">【中英字幕】26.06.26川普在白宫主持宗教自由会议完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1wn776eEbr">【中英字幕】彭博财经简报26.06.26完整版</a></li>
-</ul>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] torazyz：东京一周穿搭合集🤍夏天穿搭灵感｜torazyz]]></title>
-        <link>https://www.bilibili.com/video/BV1i5j26TESV</link>
-        <guid isPermaLink="false">bilibili-116799270030762</guid>
-        <pubDate>Sat, 27 Jun 2026 02:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：torazyz</p>
-<p>更多内容 欢迎关注 Find me on：
-RED: torazyz
-Instagram: torazyz
-YouTube: Tora Zhang
-Bili: @torazyz    
-
-Henry’s
-RED: HenryHsu
-YouTube: Henry Hsu
-Bili: @iamHenryHsu    
-Instagram: iamhenryhsu</p><p><a href="https://www.bilibili.com/video/BV1i5j26TESV">查看原文 →</a></p>]]></description>
-        <author><![CDATA[torazyz]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：OpenAI 开启 GPT-5.6 系列模型有限预览；Mythos 5 获批向美国关键基础设施运营和防护机构开放【AI 早报 2026-06-27】]]></title>
-        <link>https://www.bilibili.com/video/BV1n17E6KEmb</link>
-        <guid isPermaLink="false">bilibili-116819385910483</guid>
-        <pubDate>Sat, 27 Jun 2026 01:12:22 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/GGiFTBQognQhXn-P7vaFIw</p><p><a href="https://www.bilibili.com/video/BV1n17E6KEmb">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小王Albert：一条视频看6月：西方还剩多少牌？美伊和谈赔钱，马斯克上市造富，G7越谈越糟心]]></title>
-        <link>https://www.bilibili.com/video/BV1bG7J6mEbB</link>
-        <guid isPermaLink="false">bilibili-116819285318182</guid>
-        <pubDate>Sat, 27 Jun 2026 01:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小王Albert</p>
-<p>一键三连推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV1bG7J6mEbB">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小王Albert]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] AI公司掌门 (2026-06-27): 12 posts]]></title>
-        <link>https://nitter.net/sporadica/status/2070673369079701569#m</link>
-        <guid isPermaLink="false">x-cat-cf9c101e-2026-06-27</guid>
-        <pubDate>Sat, 27 Jun 2026 00:59:37 GMT</pubDate>
-        <description><![CDATA[<h4>AI公司掌门 · 2位作者 · 12条</h4>
-<h5>Clem (HF CEO) · 6条</h5>
-<ul>
-<li><a href="https://nitter.net/sporadica/status/2070673369079701569#m">RT by @ClementDelangue: not dunking on Dario here bc Mythos is to GPT2 what a lion is to a bumblebee, but it’s insane that GPT-2, and successive models, have had ~0% impact on causing bad universal outcomes & so SHOULD HAVE caused AI safety folks to update their priors YET none of them seem to have??</a></li>
-<li><a href="https://nitter.net/brian_armstrong/status/2070670644577280109#m">RT by @ClementDelangue: How to keep AI spend flat while token usage grows exponentially: Not with friction and spend alerts. With better defaults, routing, and caching. Better Defaults (not Usage Caps) – Engineers can choose any model they want, but defaults matter. We’re experimenting with defaulting to open weight models like GLM 5.2 and Kimi 2.7 through our LLM gateway, while still encouraging engineers to choose the right model for the task. 91% of our employees were never hitting their usage caps, so instead of lowering caps and driving up alerts, we're moving to cheaper defaults. Note that code reviews use a diversity of models, so they can check each other's work. Better Routing – In our custom harnesses, we preprocess prompts and route to the best model for the job, considering cache hits and model pricing. For instance, you may want a frontier model for planning, but not for execution where they can be overkill. Ultimately, humans shouldn't be choosing models - AI can automate this task. Better Caching – Cache misses are the easiest way to drive your cost up. All of our requests are cache aware, so we’re reusing a warm cache wherever possible. For example, our cache hit rate went from 5% → 60% in LibreChat once properly implemented. Keep Context Lean – Start fresh sessions when switching tasks. Scope file context narrowly. Disconnect unused tools. Don't just compact. The goal isn't fewer tokens used, it's fewer tokens wasted. Better Visibility – Our engineers can use as many tokens as they want, from whatever model they want, but we’ve made usage visible – and the more you spend on AI, the more impact we expect. The goal isn't to suppress usage. It's to build the infrastructure that makes exponential growth sustainable. Putting this into practice has cut our AI spend nearly in half, while our token usage continues to grow.</a></li>
-<li><a href="https://nitter.net/MTSlive/status/2070649148890812888#m">RT by @ClementDelangue: SITUATION EXPLAINED: What is at stake in the open source AI race? We asked @perrymetzger, chairman of Alliance for the Future. "Open source models are a sort of cultural ambassador and civilizational ambassador." "If everyone ends up using Chinese open source models, it means that the answers that they get to their questions and the way that their software is and is not willing to behave ends up being dictated by the Chinese." "It would be better from my point of view if the US was putting out a steady stream of open source AI models that were getting as much traction." "It used to be that a number of these labs put out open source models regularly. Whisper, one of the early pioneering voice recognition models, came from OpenAI. Google still does open source with Gemma. But that's about it, it's like the only frontier lab that still does open source in America."</a></li>
-<li><a href="https://nitter.net/MatthewBerman/status/2070583061339938883#m">RT by @ClementDelangue: > mythos is so good at cyber it can't be released also > mythos can't detect 20k fraudulent chinese accounts attacking it</a></li>
-<li><a href="https://nitter.net/natolambert/status/2070582348203389035#m">RT by @ClementDelangue: There's a lot of sloppy thinking around open models. You can ban them and make it impossible for US companies to use them, but this won't stop A) global open model progress B) bad actors using them So what exactly is gained by banning open models, including those from China?</a></li>
-<li><a href="https://nitter.net/MTSlive/status/2070577548837409000#m">RT by @ClementDelangue: SITUATION EXPLAINED: The frontier lab regulatory problem. @ClementDelangue, co-founder and CEO of @huggingface: "The frontier labs were basically doing marketing for the past few years. If you remember, GPT-2 was too dangerous to release. What, like four or five years ago. So I can't really blame them for doing things like that." "I just hope that progressively we'll get a little bit more transparency about what is safe, not safe... more focus on transparent evaluation of models." "I hope it's gonna stay contained to frontier generalist models and not permeate to a lot of different players... startups, small companies, academia, people who don't necessarily have the money, the size, the ability to really deal with these things."</a></li>
-</ul>
-<h5>Sam Altman · 6条</h5>
-<ul>
-<li><a href="https://nitter.net/sama/status/2070614769678393846#m">R to @sama: not quite all-you-can-eat tokens, but we are working on it</a></li>
-<li><a href="https://nitter.net/sama/status/2070614666288795703#m">team cooked, spicily</a></li>
-<li><a href="https://nitter.net/sama/status/2070612055225483692#m">in other news, we updated the 5.5 instant model used in chatgpt this week. i like its vibes.</a></li>
-<li><a href="https://nitter.net/sama/status/2070609922631537024#m">R to @sama: oh and also...750 token/sec coming to 5.6 sol in july!</a></li>
-<li><a href="https://nitter.net/sama/status/2070608004500857256#m">R to @sama: Also, I am happy to answer questions if people have some.</a></li>
-<li><a href="https://nitter.net/sama/status/2070607488274358364#m">Good new first: Sol is a smart, efficient, and a significant step forward. It is the same price as GPT-5.5. Also launching in the GPT-5.6 family is Terra, with 5.5-level performance at half the price. Bad news: at the request of the US government, it is launching today in limited preview instead of the open access launch we were planning on. We are working with the government to get to general availability as fast as we can. I think it is quite reasonable to roll out models--especially as they reach significant new levels of capability--in this way. It fits with our long-held strategy of iterative deployment. But this isn't quite the process that we think is optimal. Now we will with the government to attempt to get to a transparent, reliable process for early access, and to ensure that as long as our safeguards work as intended we can release widely. We want to be a reliable, dependable partner that works with all stakeholders, and we also want to live by our mission of benefiting all of humanity. I believe the government shares most of our goals, and that they are overall doing a good job in a very difficult situation. We will work as quickly as we can to get this model in your hands and we hope you will love it.</a></li>
-</ul>]]></description>
-        <author><![CDATA[AI公司掌门]]></author>
-        <category>X</category>
     </item>
     
 </channel>
