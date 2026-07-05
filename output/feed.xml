@@ -5,27 +5,98 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 04 Jul 2026 22:34:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 22:37:12 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月04日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月05日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-04</guid>
-        <pubDate>Sat, 04 Jul 2026 22:34:23 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-07-05</guid>
+        <pubDate>Sun, 05 Jul 2026 22:37:12 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 07月04日 22:34 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 07月05日 22:37 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-04</guid>
-        <pubDate>Sat, 04 Jul 2026 22:34:23 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 44 items</p><p><b>🎮 生活分享流 (life):</b> 36 items</p><p><b>🆕 本次新增:</b> 19 items</p><p><b>📦 数据库总量:</b> 2552 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-07-05</guid>
+        <pubDate>Sun, 05 Jul 2026 22:37:12 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 43 items</p><p><b>🎮 生活分享流 (life):</b> 32 items</p><p><b>🆕 本次新增:</b> 11 items</p><p><b>📦 数据库总量:</b> 2563 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 马督工：【睡前消息1074】上访要开“进京证”]]></title>
+        <link>https://www.bilibili.com/video/BV1fGTC6zELs</link>
+        <guid isPermaLink="false">bilibili-116867117293161</guid>
+        <pubDate>Sun, 05 Jul 2026 11:42:57 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：马督工</p>
+<p>2026年上访新规分析。</p><p><a href="https://www.bilibili.com/video/BV1fGTC6zELs">查看原文 →</a></p>]]></description>
+        <author><![CDATA[马督工]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Mr-Pot (2026-07-05): 3 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1idTC6uEk8</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-07-05-a1c5d27b</guid>
+        <pubDate>Sun, 05 Jul 2026 08:36:46 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1idTC6uEk8">【中英字幕】26.07.04川普在华盛顿发表美国建国250周年演讲完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1BdMK6BEJ7">【中英字幕】26.07.04万斯在纽约发表美国建国250周年演讲完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1LHMM6zEni">【中英字幕】《ALL-IN》播客26.07.03完整版</a></li>
+</ul>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客 (2026-07-05): 5 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1hYMM6wEHN</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-07-05-d13e0e33</guid>
+        <pubDate>Sun, 05 Jul 2026 06:18:15 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1hYMM6wEHN">野村看好，存储芯片短缺被严重看空了</a></li>
+<li><a href="https://www.bilibili.com/video/BV1ueMM6hEYE">【英文原声】摩根观望，中国互联网选股比拼确定性</a></li>
+<li><a href="https://www.bilibili.com/video/BV1UGMT6dEmB">摩根观望，中国互联网选股比拼确定性</a></li>
+<li><a href="https://www.bilibili.com/video/BV1U5MT6sETY">【英文原声】摩根看好，国瓷材料粉体扩产产业回暖</a></li>
+<li><a href="https://www.bilibili.com/video/BV1g3MT6tEw1">摩根看好，国瓷材料粉体扩产产业回暖</a></li>
+</ul>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 秋芝2046：从零开始，学会让桌面Agent帮你干活！【小白教程】]]></title>
+        <link>https://www.bilibili.com/video/BV1j9MP6wEV9</link>
+        <guid isPermaLink="false">bilibili-116861865887789</guid>
+        <pubDate>Sun, 05 Jul 2026 02:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：秋芝2046</p>
+<p>用不上codex的朋友们！新的国产Agent直接上手，来跑通8大用法～
+感谢朋友们的三连+关注～</p><p><a href="https://www.bilibili.com/video/BV1j9MP6wEV9">查看原文 →</a></p>]]></description>
+        <author><![CDATA[秋芝2046]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Anthropic上调Claude API速率限制并简化层级【AI 早报 2026-07-05】]]></title>
+        <link>https://www.bilibili.com/video/BV1zeMT6rEMG</link>
+        <guid isPermaLink="false">bilibili-116864600507327</guid>
+        <pubDate>Sun, 05 Jul 2026 00:48:09 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/nbySAGDfQFD92ViK-n2wsA
+00:09 Anthropic上调Claude API速率限制并简化层级
+00:18 社区报告 Claude Code 疑似跨会话缓存泄漏，Agent输出无关内容
+00:31 社区报告 Codex 推理token异常聚类或致复杂任务表现下降
+00:47 Anthropic 宣布</p><p><a href="https://www.bilibili.com/video/BV1zeMT6rEMG">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -1228,39 +1299,25 @@ Instagram: iamhenryhsu</p><p><a href="https://www.bilibili.com/video/BV1vxT46RES
     </item>
     
     <item>
-        <title><![CDATA[[X] AI公司掌门 (2026-06-28): 6 posts]]></title>
+        <title><![CDATA[[X] AI公司掌门 (2026-06-28): 1 posts]]></title>
         <link>https://nitter.net/ClementDelangue/status/2071250272177770918#m</link>
         <guid isPermaLink="false">x-cat-cf9c101e-2026-06-28</guid>
         <pubDate>Sun, 28 Jun 2026 15:12:01 GMT</pubDate>
-        <description><![CDATA[<h4>AI公司掌门 · 1位作者 · 6条</h4>
-<h5>Clem (HF CEO) · 6条</h5>
-<ul>
-<li><a href="https://nitter.net/ClementDelangue/status/2071250272177770918#m">the future of AI is multi-model (including a majority of open-source ones provided by @huggingface of course!)!</a></li>
-<li><a href="https://nitter.net/ClementDelangue/status/2071239782873665567#m">Getting regulated by a government because your model is "too dangerous" is the best marketing (especially for enterprise sales) so everyone is trying to get it now 😅😅😅</a></li>
-<li><a href="https://nitter.net/lqiao/status/2071072337227894953#m">RT by @ClementDelangue: Britain didn't industrialize first by forcing its companies to use more expensive coal. Why would we force American companies to use more expensive intelligence? AI is rapidly becoming a foundational input to production. Open models are rapidly catching up, and companies everywhere are looking for ways to make intelligence more affordable, more abundant, and more directly in their control. Restricting access to cheaper and customizable intelligence won't slow global competition. It will simply make American companies less competitive.</a></li>
-<li><a href="https://nitter.net/JayaGup10/status/2071001051898208479#m">RT by @ClementDelangue: VCs are now sharing screenshots in group chats of Claude discouraging investment in open-source AI infra startups and models. Obviously there is an absolute EXPLOSION of pitches in inference companies, harness companies, RL-as-a-service companies, open-source tooling currently including Neolabs that plan to open source models as well. Now the obvious takeaway is: “Claude is biased against open source.” Who cares? The more unsettling take is: every major AI model has a worldview, and that worldview is becoming embedded in capital allocation. If Claude’s safety priors cause it to frame open-source AI as dangerous, hard to govern, or less fundable, it’s probably doing the same thing in enterprise buying workflows. Now investors and executives are obviously smarter, but “influence” just changes which risks get highlighted, which questions buyers should ask, and which vendors are suggested…..</a></li>
-<li><a href="https://nitter.net/AravSrinivas/status/2070938739350900944#m">RT by @ClementDelangue: Every enterprise will have its own model-harness-sandbox-eval flywheel with token value per watt optimization. This is the future. Simple reason: tacit knowledge about the domain and customers and their workflows that the company uniquely understands and has built trust around.</a></li>
-<li><a href="https://nitter.net/benitoz/status/2070916654465233110#m">RT by @ClementDelangue: America is about to lose the AI race, and it will not happen at the frontier. It will happen at the floor. Everyone is watching who ships the smartest model. The actual war is over the 80% of tokens nobody posts about: the routine inference that quietly runs the world. On current trajectory, that fight is already lost. Watch what people do, not what they say. Coinbase just defaulted its own engineers off frontier models onto open weights and cut AI spend nearly in half while usage kept climbing. Even NVIDIA runs a closed frontier model as an orchestrator and pushes the volume to its own open weights. The frontier is becoming a router. The volume goes open. That part is settled. Here is the part that should terrify Washington: the only credible open tier today is Chinese. GLM. Kimi. And the US answer is to tighten export controls and freeze its own labs in place, as if you can embargo a file that is already downloaded, or price-match free. So China hands the Global South Huawei hardware and free open models, and a generation in Africa and Southeast Asia learns to reason through a model that will not tell them what happened at Tiananmen Square. That is not a cost story. That is influence through inference. You do not have to win hearts and minds when you supply the mind. Open source is not a nice-to-have for America. It is the whole ballgame for the 80%, and right now the US is barely on the field. We need American open weights. Not eventually. Now.</a></li>
-</ul>]]></description>
+        <description><![CDATA[<h4>AI公司掌门 · 1位作者 · 1条</h4>
+<h5>Clem (HF CEO)</h5>
+<ul><li><a href="https://nitter.net/ClementDelangue/status/2071250272177770918#m">the future of AI is multi-model (including a majority of open-source ones provided by @huggingface of course!)!</a></li></ul>]]></description>
         <author><![CDATA[AI公司掌门]]></author>
         <category>X</category>
     </item>
     
     <item>
-        <title><![CDATA[[X] AI研究核心 (2026-06-28): 5 posts]]></title>
+        <title><![CDATA[[X] AI研究核心 (2026-06-28): 1 posts]]></title>
         <link>https://nitter.net/ClementDelangue/status/2071247445204369625#m</link>
         <guid isPermaLink="false">x-cat-dbae213b-2026-06-28</guid>
         <pubDate>Sun, 28 Jun 2026 15:00:47 GMT</pubDate>
-        <description><![CDATA[<h4>AI研究核心 · 2位作者 · 5条</h4>
-<h5>Yann LeCun · 4条</h5>
-<ul>
-<li><a href="https://nitter.net/ClementDelangue/status/2071247445204369625#m">RT by @ylecun: It's quite rational to regulate frontier API models, especially to get more transparency for the government, without regulating open-source AI. Here's why: 1. The most dangerous AI systems right now aren't open models. They're the large frontier LLM APIs distributed through coding tools and assistants, because: - They're built in secret behind closed doors and stay total black boxes. Zero transparency on what they can or can't do, with "safeguards" that blur everyone's ability to even analyze them. - They're built and controlled by a few profit-maximizing megacorps, concentrating unprecedented power in very few hands, with every incentive to downplay risks and overstate their safeguards. - They're distributed to hundreds of millions, maybe billions, of people and trivially easy to run. 2. Open-weight models are orders of magnitude less risky: - They're not as massively distributed or as easy to use, especially the big ones, as APIs and assistants. - We (including governments) can quickly and accurately analyze what they're capable of, and for now everyone confirms they're not as good as the APIs at doing bad things. - They're distributed to everyone, so defenders and law enforcement get as much access as attackers. The cost-benefit analysis of regulation is completely different too. Regulating frontier APIs is relatively easy and low risk while regulating open source would be much more complex, less efficient, and orders of magnitude more costly. Regulating frontier APIs would only potentially hurt a few megacorps, if it even hurts them, given all the marketing that it is already generating for them. They can afford armies of lawyers and absorb losing a few billion dollars, especially given they're on track to become some of the most valuable companies in history. Regulating open source, by contrast, would hurt the very people regulation is supposed to protect: small businesses, startups, researchers, nonprofits, universities, independent developers, and the broader public, while risking killing competition, slowing AI progress, and reducing transparency even more!</a></li>
-<li><a href="https://nitter.net/scottlincicome/status/2071226953240133641#m">RT by @ylecun: New research from @nytimes finds that the US government is actively doing "critical minerals" deals with FOURTEEN different companies that have financial ties to the Trump and/or Lutnick families - deals worth around $9 billion in all:</a></li>
-<li><a href="https://nitter.net/KenRoth/status/2071216962110116157#m">RT by @ylecun: Trump's Board of Peace plans to grant itself legal immunity for itself from “any arrest, detention or legal proceeding," according to a draft resolution. The draft language would also let the organization obtain public property in Gaza “free of charge.” https://trib.al/kFjVySj</a></li>
-<li><a href="https://nitter.net/KenRoth/status/2071116349699436749#m">RT by @ylecun: Putin's cannon fodder: "The average life expectancy of a new recruit—from arrival at a training ground to death in a combat zone—lies...between 10 days and 3 weeks. Once...sent onto the battlefield, Russian fighters survive an average of 20 to 35 minutes." https://trib.al/pJQZmLY</a></li>
-</ul>
-<h5>Francois Chollet</h5>
-<ul><li><a href="https://nitter.net/fchollet/status/2070958512281415960#m">Only Art and Science raise humanity to the sublime. But the magic isn't in the output. It's in the process of creation and discovery, and the experience of feeling and understanding.</a></li></ul>]]></description>
+        <description><![CDATA[<h4>AI研究核心 · 1位作者 · 1条</h4>
+<h5>Yann LeCun</h5>
+<ul><li><a href="https://nitter.net/ClementDelangue/status/2071247445204369625#m">RT by @ylecun: It's quite rational to regulate frontier API models, especially to get more transparency for the government, without regulating open-source AI. Here's why: 1. The most dangerous AI systems right now aren't open models. They're the large frontier LLM APIs distributed through coding tools and assistants, because: - They're built in secret behind closed doors and stay total black boxes. Zero transparency on what they can or can't do, with "safeguards" that blur everyone's ability to even analyze them. - They're built and controlled by a few profit-maximizing megacorps, concentrating unprecedented power in very few hands, with every incentive to downplay risks and overstate their safeguards. - They're distributed to hundreds of millions, maybe billions, of people and trivially easy to run. 2. Open-weight models are orders of magnitude less risky: - They're not as massively distributed or as easy to use, especially the big ones, as APIs and assistants. - We (including governments) can quickly and accurately analyze what they're capable of, and for now everyone confirms they're not as good as the APIs at doing bad things. - They're distributed to everyone, so defenders and law enforcement get as much access as attackers. The cost-benefit analysis of regulation is completely different too. Regulating frontier APIs is relatively easy and low risk while regulating open source would be much more complex, less efficient, and orders of magnitude more costly. Regulating frontier APIs would only potentially hurt a few megacorps, if it even hurts them, given all the marketing that it is already generating for them. They can afford armies of lawyers and absorb losing a few billion dollars, especially given they're on track to become some of the most valuable companies in history. Regulating open source, by contrast, would hurt the very people regulation is supposed to protect: small businesses, startups, researchers, nonprofits, universities, independent developers, and the broader public, while risking killing competition, slowing AI progress, and reducing transparency even more!</a></li></ul>]]></description>
         <author><![CDATA[AI研究核心]]></author>
         <category>X</category>
     </item>
@@ -1284,204 +1341,15 @@ Instagram: iamhenryhsu</p><p><a href="https://www.bilibili.com/video/BV1vxT46RES
     </item>
     
     <item>
-        <title><![CDATA[[X] AI资讯聚合 (2026-06-28): 11 posts]]></title>
+        <title><![CDATA[[X] AI资讯聚合 (2026-06-28): 1 posts]]></title>
         <link>https://nitter.net/HuggingPapers/status/2071241599372100056#m</link>
         <guid isPermaLink="false">x-cat-127ec8f8-2026-06-28</guid>
         <pubDate>Sun, 28 Jun 2026 14:37:33 GMT</pubDate>
-        <description><![CDATA[<h4>AI资讯聚合 · 2位作者 · 11条</h4>
-<h5>AK (论文速递) · 8条</h5>
-<ul>
-<li><a href="https://nitter.net/HuggingPapers/status/2071241599372100056#m">RT by @_akhaliq: Top papers on Hugging Face this week: Agentic AI, world models, and real-time streaming - MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision - Qwen-AgentWorld by Alibaba: Language World Models for General Agents - Wan-Streamer v0.1 by Alibaba: End-to-end Real-time Interactive Foundation Models - Are We Ready For An Agent-Native Memory System? - PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems - EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions - OpenRath: Session-Centered Runtime State for Agent Systems - Grouped Query Experts: Mixture-of-Experts on GQA Self-Attention - DataClaw0: Agentic Tailoring Multimodal Data from Raw Streams - DanceOPD: On-Policy Generative Field Distillation Discover them on Hugging Face Daily Papers</a></li>
-<li><a href="https://nitter.net/cedric_chee/status/2071218185110740999#m">RT by @_akhaliq: DeepSeek preparing release of DSpark, DFlash and Eagle draft models for Qwen3 and Gemma-4 variants</a></li>
-<li><a href="https://nitter.net/HuggingPapers/status/2071158716242567302#m">RT by @_akhaliq: V-Zero: answer-label-free visual reasoning It uses on-policy distillation with contrastive evidence gating. It trains 5x faster than SFT and 10x faster than RL. 4B model is on Hugging Face.</a></li>
-<li><a href="https://nitter.net/rohanpaul_ai/status/2071123605694652737#m">RT by @_akhaliq: I’m hearing that "Owl Alpha", one of OpenRouter’s fastest-growing agent models, is actually Meituan LongCat-2.0-Preview The reported design is a huge 1.6T-parameter MoE, active 48B. A dynamic active range of roughly 33B to 56B, and natively supports a 1M-token context window. "Owl Alpha" has been quietly trialed on OpenRouter for nearly two months and has already become one of the most used agent models globally. The usage numbers are striking. Captured OpenRouter data shows: - #1 on Hermes Agent - #2 on Claude Code - #3 on OpenClaw - 10.1T monthly tokens - 559B daily tokens - +242% monthly growth That is extraordinary for a model still operating under an anonymous name.</a></li>
-<li><a href="https://nitter.net/_akhaliq/status/2071073711319298473#m">VISReg Variance-Invariance-Sketching Regularization for JEPA training</a></li>
-<li><a href="https://nitter.net/_akhaliq/status/2071073713143902353#m">R to @_akhaliq: paper: https://huggingface.co/papers/2606.02572</a></li>
-<li><a href="https://nitter.net/vida_agent/status/2070921732459024492#m">RT by @_akhaliq: We open-sourced BrowserBC: A system that turns human browser trajectories into reusable agent skills. Just one recording is enough to generalize a skill. 🛠️ GitHub: [https://github.com/Einsia/Browser-Journey-Forge] Here’s how it works. 👇</a></li>
-<li><a href="https://nitter.net/HuggingPapers/status/2070907381865668767#m">RT by @_akhaliq: CLI-Universe A principled engine that synthesizes verifiable terminal-agent tasks grounded in real-world materials. Qwen3-32B fine-tuned on just 6K trajectories hits 33.4% on Terminal-Bench 2.0, beating models 10x larger.</a></li>
-</ul>
-<h5>Dwarkesh Patel · 3条</h5>
-<ul>
-<li><a href="https://nitter.net/novasarc01/status/2071228507972362310#m">RT by @dwarkesh_sp: i think dwarkesh’s strongest point here is that deployed agents are already collecting off-policy experience across thousands of real domains but almost none of it becomes gradient signal. the agent is mostly treated as an inference endpoint and not as a learner (deployment is not automatically learning). imo the hard challenge is doing credit assignment over agent trajectories without turning the model into something like a memorizer of company-specific hacks (or a carrier of eval/privacy contamination).</a></li>
-<li><a href="https://nitter.net/oneill_c/status/2071011917972537754#m">RT by @dwarkesh_sp: An interesting question to think about is whether the labs will continual learn one big LLM or have personalised ones. If you did try and update fable with the experience of all users, it’s obvious you’d have to compress and throw away a lot of information. But how much? How much does it make sense to instead personalise a model for each user with their own Lora adapters/cartridges? How much useful information from all Anthropic users can a single instance of fable actually hold and update without overwriting important stuff? Obviously serving economics plays into this a bit but arguably the above is much more important</a></li>
-<li><a href="https://nitter.net/kjaved_/status/2070985425670558138#m">RT by @dwarkesh_sp: It's interesting that people who are less in the weeds, like Dwarkesh, see the argument for continual learning better than people at the frontier labs. The world is multiple orders of magnitude more complex than any single agent that will ever exist. In a complex world, unforeseeable situations will always happen and learning is the only scalable way to deal with these situations. Any system that stops learning will be surpassed by systems that continue to learn.</a></li>
-</ul>]]></description>
+        <description><![CDATA[<h4>AI资讯聚合 · 1位作者 · 1条</h4>
+<h5>AK (论文速递)</h5>
+<ul><li><a href="https://nitter.net/HuggingPapers/status/2071241599372100056#m">RT by @_akhaliq: Top papers on Hugging Face this week: Agentic AI, world models, and real-time streaming - MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision - Qwen-AgentWorld by Alibaba: Language World Models for General Agents - Wan-Streamer v0.1 by Alibaba: End-to-end Real-time Interactive Foundation Models - Are We Ready For An Agent-Native Memory System? - PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems - EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions - OpenRath: Session-Centered Runtime State for Agent Systems - Grouped Query Experts: Mixture-of-Experts on GQA Self-Attention - DataClaw0: Agentic Tailoring Multimodal Data from Raw Streams - DanceOPD: On-Policy Generative Field Distillation Discover them on Hugging Face Daily Papers</a></li></ul>]]></description>
         <author><![CDATA[AI资讯聚合]]></author>
         <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] AI公司官方 (2026-06-28): 7 posts]]></title>
-        <link>https://nitter.net/NVIDIAAI/status/2071226846805659716#m</link>
-        <guid isPermaLink="false">x-cat-9f8bb8e0-2026-06-28</guid>
-        <pubDate>Sun, 28 Jun 2026 13:38:56 GMT</pubDate>
-        <description><![CDATA[<h4>AI公司官方 · 3位作者 · 7条</h4>
-<h5>NVIDIA AI · 2条</h5>
-<ul>
-<li><a href="https://nitter.net/NVIDIAAI/status/2071226846805659716#m">Ends Tuesday. Top winners each get $ + DGX Spark + Stripe credits.</a></li>
-<li><a href="https://nitter.net/OpenRouter/status/2070955518772834479#m">RT by @NVIDIAAI: Four open-weight models have crossed into territory where they are powering real agentic pipelines. New post in our Insights blog about why companies are choosing them in June: https://openrouter.ai/blog/insights/the-open-weight-models-that-matter-june-2026/</a></li>
-</ul>
-<h5>Hugging Face · 2条</h5>
-<ul>
-<li><a href="https://nitter.net/XReyRobert/status/2071222813294202897#m">RT by @huggingface: Let me onboard captain and hoist the colors ! (audio on)</a></li>
-<li><a href="https://nitter.net/julien_c/status/2071144010308100489#m">RT by @huggingface: new logo wyt</a></li>
-</ul>
-<h5>MiniMax · 3条</h5>
-<ul>
-<li><a href="https://nitter.net/MiniMax_AI/status/2071009310449221709#m">R to @aiDotEngineer: Check it out here: https://www.ai.engineer/worldsfair/schedule?q=minim&session=asn_slot_2026_07_01_breakout_track_09_1450</a></li>
-<li><a href="https://nitter.net/MiniMax_AI/status/2071009176248332628#m">next week at @aiDotEngineer, we are joining @togethercompute for a conversation on what goes into running agents at scale. @olive_jy_song, Research Lead, RL at MiniMax, and @realDanFu, VP of Kernels at Together AI, will walk through both sides of M3: the training decisions behind long-context reasoning and tool use, and the infrastructure work needed to serve agentic workloads in production. Wed July 1, 2:50 PM PDT Room 2016, Track 9 Catch you there!</a></li>
-<li><a href="https://nitter.net/VictorSuOrtiz/status/2070965830939189393#m">RT by @MiniMax_AI: Kicking off @aiDotEngineer week with @MiniMax_AI @Modular @digitalocean @GoogleDeepMind @livekit</a></li>
-</ul>]]></description>
-        <author><![CDATA[AI公司官方]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-06-28): 8 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1WJTg6RENm</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-06-28-d13e0e33</guid>
-        <pubDate>Sun, 28 Jun 2026 13:15:58 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1WJTg6RENm">【英文原声】【全球好书】《火星人马斯克的地球创业游戏》精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1xjTg6oEe8">【全球好书】《火星人马斯克的地球创业游戏》精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1EtTM6rE3N">汇丰聚焦裕同科技，华研液冷业务有望爆发</a></li>
-<li><a href="https://www.bilibili.com/video/BV1g1TM6FErL">【英文原声】汇丰聚焦裕同科技，华研液冷业务有望爆发</a></li>
-<li><a href="https://www.bilibili.com/video/BV1J4TM6GEcx">【英文原声】瑞银聚焦科士达，技术储备将决定长期位置</a></li>
-<li><a href="https://www.bilibili.com/video/BV1deTM6qEMc">瑞银聚焦科士达，技术储备将决定长期位置</a></li>
-<li><a href="https://www.bilibili.com/video/BV1jhTM6zE7L">【英文原声】摩根聚焦大中华半导体，台湾存储厂崛起时</a></li>
-<li><a href="https://www.bilibili.com/video/BV1jhTM6zE2e">摩根聚焦大中华半导体，台湾存储厂崛起时</a></li>
-</ul>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 马督工：【睡前消息1071】电动汽车交养路费 别讲“4次方”鬼故事]]></title>
-        <link>https://www.bilibili.com/video/BV15CTg6uE4U</link>
-        <guid isPermaLink="false">bilibili-116827657081160</guid>
-        <pubDate>Sun, 28 Jun 2026 12:17:03 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：马督工</p>
-<p>1 电车占用道路资源的比例分析。2 103岁中西医结合专家许自诚去世。</p><p><a href="https://www.bilibili.com/video/BV15CTg6uE4U">查看原文 →</a></p>]]></description>
-        <author><![CDATA[马督工]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot (2026-06-28): 4 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1Xk776EEBK</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-06-28-a1c5d27b</guid>
-        <pubDate>Sun, 28 Jun 2026 11:28:43 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1Xk776EEBK">【中英字幕】彭博科技前沿26.06.26完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1CA7n6kEQL">【中英字幕】《ALL-IN》播客26.06.27完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1nU7E6PEeM">【中英字幕】26.06.27川普在信仰与自由联盟大会上发表演讲</a></li>
-<li><a href="https://www.bilibili.com/video/BV1z57n6NENb">【中英字幕】华尔街周刊26.06.27完整版：56分钟看透USMCA生死局：北美2万亿美元贸易链还能撑多久</a></li>
-</ul>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】LE SSERAFIM 金采源&Kazuha - "名为你的诗+今天分手了+爱情不太顺+Trust Exercise" | 宇宙唱片 260527]]></title>
-        <link>https://www.bilibili.com/video/BV1PqTT62Epf</link>
-        <guid isPermaLink="false">bilibili-116827204164470</guid>
-        <pubDate>Sun, 28 Jun 2026 10:18:36 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>ytb
-资源：末末
-翻译：yorkie 44
-时间轴：末末 魔法糖冰棍 大癫
-合轴/压制：末末
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1PqTT62Epf">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：欧盟总部关掉1至7层冷气! 冯德莱恩在13楼吹冷风!! 沈逸 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV1pFTu6SE6b</link>
-        <guid isPermaLink="false">bilibili-116826365298609</guid>
-        <pubDate>Sun, 28 Jun 2026 06:50:41 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV1pFTu6SE6b">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] AI教育实践 (2026-06-28): 11 posts]]></title>
-        <link>https://nitter.net/emollick/status/2071094858891120796#m</link>
-        <guid isPermaLink="false">x-cat-919c55bf-2026-06-28</guid>
-        <pubDate>Sun, 28 Jun 2026 04:54:28 GMT</pubDate>
-        <description><![CDATA[<h4>AI教育实践 · 1位作者 · 11条</h4>
-<h5>Ethan Mollick · 11条</h5>
-<ul>
-<li><a href="https://nitter.net/emollick/status/2071094858891120796#m">Nice example of the increasing benefits of open science and transparent methodologies when writing papers about AI.</a></li>
-<li><a href="https://nitter.net/emollick/status/2071078492830060780#m">Is Gemini 3.5 Pro being export controlled? Because if not...</a></li>
-<li><a href="https://nitter.net/emollick/status/2071078017766502529#m">A good example of one of the ways in which the "good old days" were terrible: In the 1880s, the average US rural housewife had to haul water into the house 8-10 times a day, 36 tons of water a year. And also haul out ashes & waste. (From “The Rise and Fall of American Growth”).</a></li>
-<li><a href="https://nitter.net/emollick/status/2071052616063164861#m">The old BBC "Industrial Revelations" series is a great overview of what makes an Industrial Revolution Steam alone wasn't enough, it required thousands of skilled workers figuring out how to apply this new power to their old work There's a lesson there. https://www.youtube.com/watch?v=bN1GhKIhWHc&list=PLDIDmf3DNU8BFaVgDc2aO8RlAHceKp9X2&index=2</a></li>
-<li><a href="https://nitter.net/emollick/status/2070972259812946011#m">Annoying that OpenAI doesn’t seem to give a GDPval measure for GPT 5.6. One of the best measures of economically valuable work.</a></li>
-<li><a href="https://nitter.net/emollick/status/2070950300685402230#m">R to @emollick: It is entirely possible that the steady-state people will prove to be right in the future, but there's no sign of a slowdown yet. And if greater intelligence brings greater value at an exponential pace (which it has, but may not always) then it matters a lot which world we're in.</a></li>
-<li><a href="https://nitter.net/emollick/status/2070949202335551600#m">A thing I am noticing is the number of folks who believe AI is “real” is larger, but now there is a growing division between people who know that we are on an exponential & those whose mental model is that we are at a sort of steady state. The difference leads to misunderstanding</a></li>
-<li><a href="https://nitter.net/emollick/status/2070929578067935414#m">R to @emollick: And the idea that frontier open weights models will continue to be released was fragile even before the current de facto licensing regime.</a></li>
-<li><a href="https://nitter.net/emollick/status/2070929204124770317#m">R to @emollick: Lots of advances coming from the open source harness movement (including Moltbook, RAG approaches back in the day, etc.) but they depend on the intelligence of the models created by a small handful of companies & the more intelligent those models, the more others can do with them</a></li>
-<li><a href="https://nitter.net/emollick/status/2070928706843898117#m">The talk around openness & AI needs to distinguish between the vibrant and innovative open source movement that is advancing the state-of-the-art on harnesses & other key areas and open weights frontier models, which are entirely dependent on a the goodwill of a few Chinese firms</a></li>
-<li><a href="https://nitter.net/emollick/status/2070909447015141606#m">So this new licensing regime is probably the end of new model vague posting from the Labs. Good night, sweet prince, and flights of angels sing thee to thy rest.</a></li>
-</ul>]]></description>
-        <author><![CDATA[AI教育实践]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：DeepSeek开源DSpark推测解码框架【AI 早报 2026-06-28】]]></title>
-        <link>https://www.bilibili.com/video/BV15bTP6sEjG</link>
-        <guid isPermaLink="false">bilibili-116825039832639</guid>
-        <pubDate>Sun, 28 Jun 2026 01:05:17 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/XL8ZVb_nmdAGiSspV0pYew</p><p><a href="https://www.bilibili.com/video/BV15bTP6sEjG">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】采访者反被访🤣LE SSERAFIM许允真与SUPERGIRL主创团队的首次采访 260622]]></title>
-        <link>https://www.bilibili.com/video/BV1fZTw6dESV</link>
-        <guid isPermaLink="false">bilibili-116824150644410</guid>
-        <pubDate>Sat, 27 Jun 2026 23:05:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>资源：yorkie
-翻译：chooiaa 末末
-时间轴：末末
-校对：炽橘
-压制：末末
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1fZTw6dESV">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】Kazuha酱, 下次一起去吃羊肉串吧♡ | 紧跟潮怜 EP.86 LE SSERAFIM KAZUHA篇 260618]]></title>
-        <link>https://www.bilibili.com/video/BV1BrTA64ESt</link>
-        <guid isPermaLink="false">bilibili-116823412446980</guid>
-        <pubDate>Sat, 27 Jun 2026 23:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>ytb
-资源：小猫
-翻译：茜茜 炽吹
-时间轴：阡陌 末末
-合轴/压制：末末
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1BrTA64ESt">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
     </item>
     
 </channel>
