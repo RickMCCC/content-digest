@@ -5,27 +5,107 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 05 Jul 2026 22:37:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 22:53:00 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月05日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月06日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-05</guid>
-        <pubDate>Sun, 05 Jul 2026 22:37:12 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-07-06</guid>
+        <pubDate>Mon, 06 Jul 2026 22:53:00 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 07月05日 22:37 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 07月06日 22:53 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-05</guid>
-        <pubDate>Sun, 05 Jul 2026 22:37:12 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 43 items</p><p><b>🎮 生活分享流 (life):</b> 32 items</p><p><b>🆕 本次新增:</b> 11 items</p><p><b>📦 数据库总量:</b> 2563 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-07-06</guid>
+        <pubDate>Mon, 06 Jul 2026 22:53:00 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 36 items</p><p><b>🎮 生活分享流 (life):</b> 32 items</p><p><b>🆕 本次新增:</b> 12 items</p><p><b>📦 数据库总量:</b> 2575 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Mr-Pot (2026-07-06): 3 posts]]></title>
+        <link>https://www.bilibili.com/video/BV17XTX6AEbq</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-07-06-a1c5d27b</guid>
+        <pubDate>Mon, 06 Jul 2026 14:09:10 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV17XTX6AEbq">【中英字幕】PBS《华盛顿周报》26.07.03完整版：美国250年，民主实验的自我修复还是持续撕裂？</a></li>
+<li><a href="https://www.bilibili.com/video/BV1BPTU6JEGG">【中英字幕】NBC《与媒体见面》26.07.05完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1a3TU6yEdf">【中英字幕】26.07.04四位总统同贺美国250周年：希望仍在，民主自愈</a></li>
+</ul>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第622期】大学生献血减半；中融信托破产]]></title>
+        <link>https://www.bilibili.com/video/BV1fbT96qEe5</link>
+        <guid isPermaLink="false">bilibili-116873190442871</guid>
+        <pubDate>Mon, 06 Jul 2026 13:17:55 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1fbT96qEe5">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：沉浸式体验新西兰主持人通勤28个小时回国，和沈逸老师、历史哥一起参加天水公祭伏羲大典vlog #新西兰三妹 #天水公祭伏羲大典 #天水 #甘肃]]></title>
+        <link>https://www.bilibili.com/video/BV1kcTR61Ekn</link>
+        <guid isPermaLink="false">bilibili-116872569687465</guid>
+        <pubDate>Mon, 06 Jul 2026 10:36:05 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p>-</p><p><a href="https://www.bilibili.com/video/BV1kcTR61Ekn">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客 (2026-07-06): 5 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1BgTR6zEsf</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-07-06-d13e0e33</guid>
+        <pubDate>Mon, 06 Jul 2026 10:23:33 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1BgTR6zEsf">【英文原声】摩根看好埃斯顿，抢先卡位人形机器人新赛道</a></li>
+<li><a href="https://www.bilibili.com/video/BV16KTR6GEvr">摩根看好埃斯顿，抢先卡位人形机器人新赛道</a></li>
+<li><a href="https://www.bilibili.com/video/BV1fWTQ6AEoq">【英文原声】摩根看好慧荣科技，存储紧缺延续到27年</a></li>
+<li><a href="https://www.bilibili.com/video/BV1FWTQ6PE43">摩根看好慧荣科技，存储紧缺延续到27年</a></li>
+<li><a href="https://www.bilibili.com/video/BV1YBTQ69E8M">【英文原声】野村看好，存储芯片短缺被严重看空了</a></li>
+</ul>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 三木説：四渡赤水：毛主席最得意之战！如何绝境翻盘、出奇制胜？【三木说】]]></title>
+        <link>https://www.bilibili.com/video/BV1xvTX6yEyA</link>
+        <guid isPermaLink="false">bilibili-116871630165478</guid>
+        <pubDate>Mon, 06 Jul 2026 06:41:55 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：三木説</p>
+<p>本期视频将为大家讲解四渡赤水战役</p><p><a href="https://www.bilibili.com/video/BV1xvTX6yEyA">查看原文 →</a></p>]]></description>
+        <author><![CDATA[三木説]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：报道称 Anthropic 计划在欧洲和澳大利亚大规模租赁数据中心  【AI 早报 2026-07-06】]]></title>
+        <link>https://www.bilibili.com/video/BV1eMTU62EJh</link>
+        <guid isPermaLink="false">bilibili-116870321540067</guid>
+        <pubDate>Mon, 06 Jul 2026 01:03:44 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/_IOHXNDlRWVjgbYMb5hNRQ
+
+今天开始增加“观众投稿环节”，欢迎大家**自带视频**投稿介绍自己的项目，但需要是开源免费的项目，有意者可联系 imjuyaya@gmail.com（请勿直接私信）。</p><p><a href="https://www.bilibili.com/video/BV1eMTU62EJh">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -1093,262 +1173,34 @@ Instagram: iamhenryhsu</p><p><a href="https://www.bilibili.com/video/BV1vxT46RES
     </item>
     
     <item>
-        <title><![CDATA[[X] AI资讯聚合 (2026-06-29): 5 posts]]></title>
+        <title><![CDATA[[X] AI资讯聚合 (2026-06-29): 2 posts]]></title>
         <link>https://nitter.net/rowancheung/status/2071622289138045193#m</link>
         <guid isPermaLink="false">x-cat-127ec8f8-2026-06-29</guid>
         <pubDate>Mon, 29 Jun 2026 15:50:17 GMT</pubDate>
-        <description><![CDATA[<h4>AI资讯聚合 · 2位作者 · 5条</h4>
+        <description><![CDATA[<h4>AI资讯聚合 · 1位作者 · 2条</h4>
 <h5>Rowan Cheung · 2条</h5>
 <ul>
 <li><a href="https://nitter.net/rowancheung/status/2071622289138045193#m">R to @rowancheung: Another video from the founder here:</a></li>
 <li><a href="https://nitter.net/rowancheung/status/2071622276882350538#m">There's a startup trying to build data centers in the ocean. And it's INCREDIBLY fascinating: Mass consumption of electricity and water is a growing bottleneck for data centers. So by moving offshore, it eliminates both problems -- the ocean provides unlimited cooling, and the waves provide unlimited power. There are also no engines, so the data centers drive themselves to their destination by using the shape of their hull to propel through waves. Called Panthalassa.</a></li>
-</ul>
-<h5>AK (论文速递) · 3条</h5>
-<ul>
-<li><a href="https://nitter.net/_akhaliq/status/2071379707963076760#m">R to @_akhaliq: paper: https://huggingface.co/papers/2606.24888</a></li>
-<li><a href="https://nitter.net/_akhaliq/status/2071379586105868418#m">DiffusionBench On Holistic Evaluation of Diffusion Transformers</a></li>
-<li><a href="https://nitter.net/_akhaliq/status/2071301912142696850#m">baidu/Unlimited-OCR is now number 1 model on huggingface</a></li>
 </ul>]]></description>
         <author><![CDATA[AI资讯聚合]]></author>
         <category>X</category>
     </item>
     
     <item>
-        <title><![CDATA[[X] AI公司官方 (2026-06-29): 15 posts]]></title>
+        <title><![CDATA[[X] AI公司官方 (2026-06-29): 3 posts]]></title>
         <link>https://nitter.net/SergioPaniego/status/2071616508447342920#m</link>
         <guid isPermaLink="false">x-cat-9f8bb8e0-2026-06-29</guid>
         <pubDate>Mon, 29 Jun 2026 15:27:19 GMT</pubDate>
-        <description><![CDATA[<h4>AI公司官方 · 7位作者 · 15条</h4>
-<h5>Hugging Face · 2条</h5>
-<ul>
-<li><a href="https://nitter.net/SergioPaniego/status/2071616508447342920#m">RT by @huggingface: one command and you have a private vllm server on HF infra point a coding agent straight at your own model, then spin it down when you're done blog (by @QGallouedec) below⤵️</a></li>
-<li><a href="https://nitter.net/ben_burtenshaw/status/2071597423843999807#m">RT by @huggingface: before model distillation was an attack vector. it was. pretty handy way of improving model performance on a task you care about. especially if you want to take small, local, or cheap model and improve it on a tasks typically reserved to large models. in the next live stream, we're going to break down knowledge distillation in post-training and show you how to implement it. going out next week: July 7th 8am PST, 5pm CEST live on: @huggingface X, YT, LI</a></li>
-</ul>
+        <description><![CDATA[<h4>AI公司官方 · 2位作者 · 3条</h4>
+<h5>Hugging Face</h5>
+<ul><li><a href="https://nitter.net/SergioPaniego/status/2071616508447342920#m">RT by @huggingface: one command and you have a private vllm server on HF infra point a coding agent straight at your own model, then spin it down when you're done blog (by @QGallouedec) below⤵️</a></li></ul>
 <h5>阶跃星辰 · 2条</h5>
 <ul>
 <li><a href="https://nitter.net/StepFun_ai/status/2071614715860832354#m">R to @StepFun_ai: Claw-eval Link: https://claw-eval.github.io/</a></li>
 <li><a href="https://nitter.net/StepFun_ai/status/2071614599464656908#m">Step 3.7 Flash hits #2 on Claw-Eval General for autonomous agents. We’re seeing strong performance across multi-step execution and robustness in long-horizon tasks, ranking just behind Claude Opus 4.6. Promising signals for real-world agent workloads.</a></li>
-</ul>
-<h5>Meta AI · 5条</h5>
-<ul>
-<li><a href="https://nitter.net/AIatMeta/status/2071581213677248663#m">R to @bcbl_: For clarification, Brain2Qwerty v1 was published earlier today in @NatureNeuro.</a></li>
-<li><a href="https://nitter.net/JeanRemiKing/status/2071568417522369008#m">RT by @AIatMeta: We’re happy to announce 2 releases today: - 🧠Brain2qwerty v1 is published at @NatureNeuro - 🚀 Brain2Qwerty v2 is now publicly released Explore how we decode sentences from non-invasive brain recordings: https://facebookresearch.github.io/brain2qwerty/ Links: 📄v1 Nature Neuro: https://www.nature.com/articles/s41593-026-02303-2 📑v2 Meta preprint: https://facebookresearch.github.io/brain2qwerty/assets/brain2qwerty_v2.pdf 💻Code: https://github.com/facebookresearch/brain2qwerty 📊Data: https://huggingface.co/datasets/bcbl190626/SpanishBCBL 📝Blog: https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/ 🧵Thread: https://x.com/JarodLevy/status/2071566721110970528</a></li>
-<li><a href="https://nitter.net/AIatMeta/status/2071566934571954326#m">R to @AIatMeta: To help accelerate neuroscience breakthroughs, we're releasing the full training code for Brain2Qwerty v1 and v2, and our partner, @bcbl_, is releasing the v1 dataset. Learn more and explore the artifacts here: https://go.meta.me/42ed9c</a></li>
-<li><a href="https://nitter.net/AIatMeta/status/2071566927420588162#m">R to @AIatMeta: We trained Brain2Qwerty v2 on ~22,000 sentences from 9 volunteers, each recorded for 10 hours wearing an MEG device while typing. By using end-to-end deep learning on raw brain signals from MEG devices and fine-tuning LLMs, the system effectively bridges the gap between noisy neural data and coherent language. The results are promising: - Avg word accuracy of 61% across participants - 78% word accuracy and 50%+ of sentences decoded with ≤ 1 word error for the top-performing participant - Performance scales log-linearly with data volume</a></li>
-<li><a href="https://nitter.net/AIatMeta/status/2071566924803395741#m">We’re sharing the next major milestone in our non-invasive brain-to-text decoder research: Brain2Qwerty v2. Building on v1, which was published today in @Nature, Brain2Qwerty v2 is the highest-performing end-to-end pipeline capable of real-time sentence decoding from raw brain signals. It advances beyond character-level performance to decoding words and semantics, enabling accuracy for overall communication. We believe this research has the potential to make a real difference for the millions of people who suffer from brain lesions or disorders that prevent them from communicating. 🧵👇</a></li>
-</ul>
-<h5>MiniMax · 3条</h5>
-<ul>
-<li><a href="https://nitter.net/MiniMax_AI/status/2071523736843677744#m">This is a glimpse of where local AI is heading and we are glad to be part of it. Really impressive work by all the teams involved @Gradient_HQ, @tryParallax, and @GA_agent_ai</a></li>
-<li><a href="https://nitter.net/MiniMax_AI/status/2071487098281242651#m">we’ll be at Lab #1 during @aiDotEngineer World’s Fair. hope to see you there!</a></li>
-<li><a href="https://nitter.net/MiniMax_AI/status/2071360899173298202#m">Congrats to all the winners of our cohosted hackathon with @cysic_xyz Check out the stellar projects built with M3 👇</a></li>
-</ul>
-<h5>腾讯混元</h5>
-<ul><li><a href="https://nitter.net/TencentHunyuan/status/2071493355222008260#m">12 Chinese AI models made their World Cup predictions. ⚽ The World Cup Round of 32 lineup is out.🔥 The first leaderboard is in.👇 Tencent Hy went 29/32, ranking #1 among the 12 models after the Round of 32 was set. Now comes the harder test: whose predictions survive the knockout stage? #TencentHunyuan #AI #WorldCup</a></li></ul>
-<h5>百度飞桨</h5>
-<ul><li><a href="https://nitter.net/PaddlePaddle/status/2071417221675622560#m">👏Excited to see Unlimited-OCR now running in vLLM! Huge thanks to the @vllm_project community for the support and collaboration in bringing efficient long-context OCR to more developers. Check out the recipe and give it a try 👇</a></li></ul>
-<h5>NVIDIA AI</h5>
-<ul><li><a href="https://nitter.net/TheAhmadOsman/status/2071277877879071114#m">RT by @NVIDIAAI: MASSIVE NEWS Teamed up with NVIDIA to make Local AI The Default</a></li></ul>]]></description>
+</ul>]]></description>
         <author><![CDATA[AI公司官方]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-06-29): 8 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1ghKD62EQk</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-06-29-d13e0e33</guid>
-        <pubDate>Mon, 29 Jun 2026 14:18:49 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1ghKD62EQk">【英文原声】《华尔街日报》6月29日全文精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1ahKD62E32">《华尔街日报》6月29日全文精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1szKU6aEY5">【英文原声】摩根聚焦中远海能，供给偏紧下的A股追赶</a></li>
-<li><a href="https://www.bilibili.com/video/BV1xiKU6eE2Y">摩根聚焦中远海能，供给偏紧下的A股追赶</a></li>
-<li><a href="https://www.bilibili.com/video/BV1AyKU6FETQ">【英文原声】摩根聚焦亚太能源转型，表后发电已成趋势</a></li>
-<li><a href="https://www.bilibili.com/video/BV1TjKS6TEpz">摩根聚焦亚太能源转型，表后发电已成趋势</a></li>
-<li><a href="https://www.bilibili.com/video/BV1K7KS6iETv">【英文原声】高盛聚焦恒生电子，AI先练内功再向外推</a></li>
-<li><a href="https://www.bilibili.com/video/BV1MVKS6uEyY">高盛聚焦恒生电子，AI先练内功再向外推</a></li>
-</ul>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] AI公司掌门 (2026-06-29): 9 posts]]></title>
-        <link>https://nitter.net/MaziyarPanahi/status/2071594537777058031#m</link>
-        <guid isPermaLink="false">x-cat-cf9c101e-2026-06-29</guid>
-        <pubDate>Mon, 29 Jun 2026 14:00:00 GMT</pubDate>
-        <description><![CDATA[<h4>AI公司掌门 · 1位作者 · 9条</h4>
-<h5>Clem (HF CEO) · 9条</h5>
-<ul>
-<li><a href="https://nitter.net/MaziyarPanahi/status/2071594537777058031#m">RT by @ClementDelangue: 🚨 A year ago, OpenMed didn't exist. Today: 340M model downloads. 1,500+ open medical models, all Apache 2.0. 650+ run on your iPhone, fully on-device. Started by one person. Now built by a community. You should own your AI, especially in healthcare. 👇</a></li>
-<li><a href="https://nitter.net/RihardJarc/status/2071579306682110380#m">RT by @ClementDelangue: I just published my article on how hyperscalers like $AMZN, $MSFT, and $GOOGL will benefit in the token optimization era and why I believe the companies will re-rate much higher. https://www.uncoveralpha.com/p/why-token-optimization-is-a-gift</a></li>
-<li><a href="https://nitter.net/canadaquant/status/2071435463928525108#m">RT by @ClementDelangue: We quantized GLM-5.2 (744B MoE) to 4-bit — and kept its MTP draft head in BF16. → Matches the FP8 release on quality → Runs on 4×H200 instead of 8 → Fastest 4-bit GLM-5.2 at int conc: +69–79% vs AWQ / NVFP4 at batch-1, from MTP speculative decoding 👇 http://huggingface.co/canada-quant/GLM-5.2-W4A16-MTP</a></li>
-<li><a href="https://nitter.net/as400495/status/2071387344213623240#m">RT by @ClementDelangue: Tomorrow, we're releasing an ML model for on-device PII redaction, which is far smaller than existing models, but is surprisingly effective. It is a first iteration. Will be live at 12:30!</a></li>
-<li><a href="https://nitter.net/ndstudio/status/2071384297253048529#m">RT by @ClementDelangue: A big release of something small is coming tomorrow. Live at 12:30PM EST. https://x.com/i/broadcasts/1dKrPPRmgQXJX</a></li>
-<li><a href="https://nitter.net/ClementDelangue/status/2071340393447272457#m">huggingface.co/collections/d…</a></li>
-<li><a href="https://nitter.net/badlogicgames/status/2071329049448726665#m">RT by @ClementDelangue: omg it's basically pi, but more minimal for educational purposes and in python. @marlene_zw is gonna love this. great educational resource, alejandro!</a></li>
-<li><a href="https://nitter.net/teortaxesTex/status/2071313710585356462#m">RT by @ClementDelangue: Good guy DeepSeek gives us accelerated models The most interesting one here is Gemma4-12B, I presume vision included. Might be the best local model in its weight class now, by some margin Qwen 3.5 not included because DS[park] doesn't do linear attention I guess</a></li>
-<li><a href="https://nitter.net/JoelDeTeves/status/2071269121904545990#m">RT by @ClementDelangue: Looks like Llama CPP just merged DFLASH support into main! I wonder how this will stack up against MTP 👀 https://github.com/ggml-org/llama.cpp/pull/22105</a></li>
-</ul>]]></description>
-        <author><![CDATA[AI公司掌门]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小黛晨读：【参考信息第619期】槟榔有望特殊管控；做法事被控诈骗]]></title>
-        <link>https://www.bilibili.com/video/BV1pUKD6PEwi</link>
-        <guid isPermaLink="false">bilibili-116833361332228</guid>
-        <pubDate>Mon, 29 Jun 2026 12:23:51 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小黛晨读</p>
-<p>-</p><p><a href="https://www.bilibili.com/video/BV1pUKD6PEwi">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小黛晨读]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 巫师财经：【巫师】Justin Biber的资本博弈，第一季]]></title>
-        <link>https://www.bilibili.com/video/BV1PxKS6wErg</link>
-        <guid isPermaLink="false">bilibili-116832052910929</guid>
-        <pubDate>Mon, 29 Jun 2026 10:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：巫师财经</p>
-<p><a href="https://www.bilibili.com/video/BV1PxKS6wErg">查看原文 →</a></p>]]></description>
-        <author><![CDATA[巫师财经]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 马督工：认识历史的复杂性【马督工带你读懂民国 答疑丁】]]></title>
-        <link>https://www.bilibili.com/video/BV1jfKU6UEVH</link>
-        <guid isPermaLink="false">bilibili-116832673470548</guid>
-        <pubDate>Mon, 29 Jun 2026 09:38:22 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：马督工</p>
-<p><a href="https://www.bilibili.com/video/BV1jfKU6UEVH">查看原文 →</a></p>]]></description>
-        <author><![CDATA[马督工]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] AI研究核心 (2026-06-29): 4 posts]]></title>
-        <link>https://nitter.net/aljhlester/status/2071490675808309373#m</link>
-        <guid isPermaLink="false">x-cat-dbae213b-2026-06-29</guid>
-        <pubDate>Mon, 29 Jun 2026 07:07:18 GMT</pubDate>
-        <description><![CDATA[<h4>AI研究核心 · 1位作者 · 4条</h4>
-<h5>Yann LeCun · 4条</h5>
-<ul>
-<li><a href="https://nitter.net/aljhlester/status/2071490675808309373#m">RT by @ylecun: A very damaged man who had the political power and the private wealth to save millions of lives but chose instead to allow suffering & death. Not only that, he uses his influence to sow ethnic and religious hatred, undermine democratic governments and argue against empathy itself</a></li>
-<li><a href="https://nitter.net/NickKristof/status/2071402944017453276#m">RT by @ylecun: .@elonmusk says that no one can name a person who died from his aid cuts. In fact, I've met the kids who are dying, and I've talked to the families who lost children. In my columns, I've cited many, many names of people who have died because of Musk's aid cuts. A few examples: *Yamah Freeman was a 23-year-old woman who died in childbirth because Musk cut funding for the diesel for ambulances in her part of Liberia. She couldn't get to a hospital and died as people were carrying her there. I talked to her parents and sister in their village. *Gbessey Kiadu, age 1, died of malaria because of his cuts to malaria medication in Liberia. I talked to his mom in her village. *Ibrahim Koroma, an infant, died of AIDS in Sierra Leone after he interrupted HIV supplies. I talked to health workers who cared for him. *Achol Deng was an 8-year-old girl with HIV in South Sudan who died when Musk cut funding for the health care worker who provided her medicines. I talked to the healthcare workers. I could go on and on. In almost every village you go to in South Sudan, Uganda, Liberia, Sierra Leone or other countries I reported in, you find people dying because of aid cuts. I challenge Musk: Come with me on a reporting trip, and we'll talk to these moms and dads, and you'll see the dying children themselves. I think if you see the kids whose lives are at stake, maybe you'll change your mind.</a></li>
-<li><a href="https://nitter.net/MikeLevin/status/2071290309799989427#m">RT by @ylecun: Let me tell you what just got reported, because you will not believe it until you see it laid out. The Trump administration cut a billion-dollar tungsten deal with Kazakhstan. Tungsten is the metal we need for missile warheads, fighter jets, and computer chips. Trump himself got on the phone to close it. Commerce Secretary Howard Lutnick worked it from the inside, sending letters, leaning on the Kazakh president, lining up as much as $1.6 billion in federal financing. Within weeks of those negotiations, investors tied to a firm partly owned by Donald Trump Jr. and Eric Trump took a 20% stake in an entity connected to the very same Kazakhstan project their father was negotiating. Around that same time, Cantor Fitzgerald, the firm run by Lutnick’s own sons, raised $210 million for a partner in the deal and pocketed the fees. The fathers set the policy. The sons cashed in. Six days after the Trump sons and their partners moved their money, Lutnick signed the final deal. The reporting found one or both families have financial ties to at least 14 companies working with the government on critical mining deals. The total federal funding flowing toward those companies tops $8.9 billion. This is your tax money. It is supposed to secure our supply chains and protect our troops, not pad the portfolios of the President’s children and the Commerce Secretary’s children. This is the most corrupt administration in American history. It is not close. We must keep digging, and keep asking the questions they do not want asked. Republicans in Congress are unwilling to lift a finger. Mike Johnson is running a protection racket. Either we will end the corruption, or the corruption will be the end of us. https://www.google.com/url?q=https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html?unlocked_article_code%3D1.tlA.qIg2.aqgKx_c-fyWu%26smid%3Dnytcore-ios-share&source=gmail-imap&ust=1783260157000000&usg=AOvVaw08aex7rVxuowBx-iPxKrwV</a></li>
-<li><a href="https://nitter.net/KenRoth/status/2071274014786429290#m">RT by @ylecun: In any normal administration, the self-dealing by Trump and the officials around him would be scandalous. But Trump has normalized the corruption. https://trib.al/LanOhZb</a></li>
-</ul>]]></description>
-        <author><![CDATA[AI研究核心]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] AI教育实践 (2026-06-29): 9 posts]]></title>
-        <link>https://nitter.net/emollick/status/2071459925331734919#m</link>
-        <guid isPermaLink="false">x-cat-919c55bf-2026-06-29</guid>
-        <pubDate>Mon, 29 Jun 2026 05:05:06 GMT</pubDate>
-        <description><![CDATA[<h4>AI教育实践 · 1位作者 · 9条</h4>
-<h5>Ethan Mollick · 9条</h5>
-<ul>
-<li><a href="https://nitter.net/emollick/status/2071459925331734919#m">R to @ArtificialAnlys: If we use Mythos as the launch date</a></li>
-<li><a href="https://nitter.net/emollick/status/2071459383868117371#m">Even though I made this graph, it is also kind of wrong. Fable is guardrailed Mythos. If we use the Mythos date</a></li>
-<li><a href="https://nitter.net/emollick/status/2071449550662127927#m">I took the new AA-Briefcase scores from @ArtificialAnlys (basically having the AI do multi-week consulting gigs with a lot of complexity) and graphed the frontier curve for open and closed models: 1) Surprise, rapid gains! 2) The open weights gap is clear https://artificialanalysis.ai/evaluations/aa-briefcase</a></li>
-<li><a href="https://nitter.net/emollick/status/2071291111352500554#m">So what model is OpenAI saving the GPT-6 label for?</a></li>
-<li><a href="https://nitter.net/emollick/status/2071287192203247950#m">R to @emollick: The more serious answer</a></li>
-<li><a href="https://nitter.net/emollick/status/2071286313199018095#m">R to @emollick: Like if you have been using Qwen & Kimi & MiniMax, it feels like GLM is right on the curve. Which is itself impressive, and suggests that Mythos class models are coming in 6-12 months (if they are allowed to be released)</a></li>
-<li><a href="https://nitter.net/emollick/status/2071284966139568440#m">GLM-5.2 is good but it is not GPT-5.5/Opus 4.8, and even further from Mythos. Yet it is solid & it demonstrates that the open models continue to chase the frontier What is happening is that open weights crossed into GPT-5.2 territory & capabilities at that point are considerable</a></li>
-<li><a href="https://nitter.net/emollick/status/2071266589547036858#m">R to @emollick: It is worth being very, very careful about how you are approaching routing, especially when the systems are primarily tested on verifiable IT benchmarks, which may lead you to overestimate the ability of weaker models.</a></li>
-<li><a href="https://nitter.net/emollick/status/2071265352294584824#m">In my experience, all model routers underestimate the difficulty of non-math/coding tasks and assign them too little intelligence. This is worth addressing, as non-verifiable tasks (innovation, marketing, qualitative analysis) often benefit the most from using “smarter” AI models</a></li>
-</ul>]]></description>
-        <author><![CDATA[AI教育实践]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：OpenAI Codex 宣布彻查用量异常消耗，已重置全员额度【AI 早报 2026-06-29】]]></title>
-        <link>https://www.bilibili.com/video/BV198TL6pE75</link>
-        <guid isPermaLink="false">bilibili-116830626646467</guid>
-        <pubDate>Mon, 29 Jun 2026 00:48:15 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/PAq9ky69RIf9sbu51LaGxQ</p><p><a href="https://www.bilibili.com/video/BV198TL6pE75">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot：【中英字幕】NBC《与媒体见面》26.06.28完整版]]></title>
-        <link>https://www.bilibili.com/video/BV1LrTG6EEyD</link>
-        <guid isPermaLink="false">bilibili-116830391764928</guid>
-        <pubDate>Mon, 29 Jun 2026 00:25:10 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Mr-Pot</p>
-<p>本期视频标题：特朗普“豪赌”中期选举：住房法案成筹码，伊朗战火再升级
-
-本期视频要点：
-1、特朗普以否决跨党派住房法案为要挟，强推包含选民身份证、限制邮寄投票的《SAVE法案》，导致国会立法全面停摆。
-2、墨菲参议员提出25美元全国最低时薪案，称“资本主义已失灵”，要用“共益资本主义”夺回流失的特朗普选民。
-3、马歇尔参议员坚称伊朗战争进入“清尾阶段”，但承认仍在轰炸伊朗；将否决住房法案归因于“选</p><p><a href="https://www.bilibili.com/video/BV1LrTG6EEyD">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] AI公司掌门 (2026-06-28): 1 posts]]></title>
-        <link>https://nitter.net/ClementDelangue/status/2071250272177770918#m</link>
-        <guid isPermaLink="false">x-cat-cf9c101e-2026-06-28</guid>
-        <pubDate>Sun, 28 Jun 2026 15:12:01 GMT</pubDate>
-        <description><![CDATA[<h4>AI公司掌门 · 1位作者 · 1条</h4>
-<h5>Clem (HF CEO)</h5>
-<ul><li><a href="https://nitter.net/ClementDelangue/status/2071250272177770918#m">the future of AI is multi-model (including a majority of open-source ones provided by @huggingface of course!)!</a></li></ul>]]></description>
-        <author><![CDATA[AI公司掌门]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] AI研究核心 (2026-06-28): 1 posts]]></title>
-        <link>https://nitter.net/ClementDelangue/status/2071247445204369625#m</link>
-        <guid isPermaLink="false">x-cat-dbae213b-2026-06-28</guid>
-        <pubDate>Sun, 28 Jun 2026 15:00:47 GMT</pubDate>
-        <description><![CDATA[<h4>AI研究核心 · 1位作者 · 1条</h4>
-<h5>Yann LeCun</h5>
-<ul><li><a href="https://nitter.net/ClementDelangue/status/2071247445204369625#m">RT by @ylecun: It's quite rational to regulate frontier API models, especially to get more transparency for the government, without regulating open-source AI. Here's why: 1. The most dangerous AI systems right now aren't open models. They're the large frontier LLM APIs distributed through coding tools and assistants, because: - They're built in secret behind closed doors and stay total black boxes. Zero transparency on what they can or can't do, with "safeguards" that blur everyone's ability to even analyze them. - They're built and controlled by a few profit-maximizing megacorps, concentrating unprecedented power in very few hands, with every incentive to downplay risks and overstate their safeguards. - They're distributed to hundreds of millions, maybe billions, of people and trivially easy to run. 2. Open-weight models are orders of magnitude less risky: - They're not as massively distributed or as easy to use, especially the big ones, as APIs and assistants. - We (including governments) can quickly and accurately analyze what they're capable of, and for now everyone confirms they're not as good as the APIs at doing bad things. - They're distributed to everyone, so defenders and law enforcement get as much access as attackers. The cost-benefit analysis of regulation is completely different too. Regulating frontier APIs is relatively easy and low risk while regulating open source would be much more complex, less efficient, and orders of magnitude more costly. Regulating frontier APIs would only potentially hurt a few megacorps, if it even hurts them, given all the marketing that it is already generating for them. They can afford armies of lawyers and absorb losing a few billion dollars, especially given they're on track to become some of the most valuable companies in history. Regulating open source, by contrast, would hurt the very people regulation is supposed to protect: small businesses, startups, researchers, nonprofits, universities, independent developers, and the broader public, while risking killing competition, slowing AI progress, and reducing transparency even more!</a></li></ul>]]></description>
-        <author><![CDATA[AI研究核心]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【生肉】😽 恩採wvs直播(中字待更) 260628]]></title>
-        <link>https://www.bilibili.com/video/BV1QsTu6aEd7</link>
-        <guid isPermaLink="false">bilibili-116828244285270</guid>
-        <pubDate>Sun, 28 Jun 2026 14:43:17 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>wvs
-资源：末末
-翻译：
-时间轴：
-校对/合轴/压制：
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1QsTu6aEd7">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] AI资讯聚合 (2026-06-28): 1 posts]]></title>
-        <link>https://nitter.net/HuggingPapers/status/2071241599372100056#m</link>
-        <guid isPermaLink="false">x-cat-127ec8f8-2026-06-28</guid>
-        <pubDate>Sun, 28 Jun 2026 14:37:33 GMT</pubDate>
-        <description><![CDATA[<h4>AI资讯聚合 · 1位作者 · 1条</h4>
-<h5>AK (论文速递)</h5>
-<ul><li><a href="https://nitter.net/HuggingPapers/status/2071241599372100056#m">RT by @_akhaliq: Top papers on Hugging Face this week: Agentic AI, world models, and real-time streaming - MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision - Qwen-AgentWorld by Alibaba: Language World Models for General Agents - Wan-Streamer v0.1 by Alibaba: End-to-end Real-time Interactive Foundation Models - Are We Ready For An Agent-Native Memory System? - PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems - EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions - OpenRath: Session-Centered Runtime State for Agent Systems - Grouped Query Experts: Mixture-of-Experts on GQA Self-Attention - DataClaw0: Agentic Tailoring Multimodal Data from Raw Streams - DanceOPD: On-Policy Generative Field Distillation Discover them on Hugging Face Daily Papers</a></li></ul>]]></description>
-        <author><![CDATA[AI资讯聚合]]></author>
         <category>X</category>
     </item>
     
