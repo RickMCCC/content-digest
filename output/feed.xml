@@ -5,27 +5,116 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 06 Jul 2026 22:53:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 22:44:03 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月06日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月07日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-06</guid>
-        <pubDate>Mon, 06 Jul 2026 22:53:00 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-07-07</guid>
+        <pubDate>Tue, 07 Jul 2026 22:44:03 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 07月06日 22:53 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 07月07日 22:44 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-06</guid>
-        <pubDate>Mon, 06 Jul 2026 22:53:00 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 36 items</p><p><b>🎮 生活分享流 (life):</b> 32 items</p><p><b>🆕 本次新增:</b> 12 items</p><p><b>📦 数据库总量:</b> 2575 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-07-07</guid>
+        <pubDate>Tue, 07 Jul 2026 22:44:03 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 33 items</p><p><b>🎮 生活分享流 (life):</b> 30 items</p><p><b>🆕 本次新增:</b> 19 items</p><p><b>📦 数据库总量:</b> 2594 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客 (2026-07-07): 10 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1tYMb6QEsv</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-07-07-d13e0e33</guid>
+        <pubDate>Tue, 07 Jul 2026 11:37:43 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1tYMb6QEsv">【英文原声】《华尔街日报》7月7日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1bYMb6QEhq">《华尔街日报》7月7日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV19yM86AEk3">高盛聚焦绿的谐波，人形需求升温产能吃紧</a></li>
+<li><a href="https://www.bilibili.com/video/BV1RyM86PEAe">【英文原声】高盛聚焦绿的谐波，人形需求升温产能吃紧</a></li>
+<li><a href="https://www.bilibili.com/video/BV1PWM86mEuS">【英文原声】高盛聚焦华润微，AI服务器电源加速扩张</a></li>
+<li><a href="https://www.bilibili.com/video/BV1PWM86mE7o">高盛聚焦华润微，AI服务器电源加速扩张</a></li>
+<li><a href="https://www.bilibili.com/video/BV1xiTR6QEyh">【全球好书】《席尔瓦心灵控制术》精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1xiTR6QEpY">【英文原声】【全球好书】《席尔瓦心灵控制术》精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1FuTR63ENN">摩根聚焦大中华科技硬件，老赛道全面承压</a></li>
+<li><a href="https://www.bilibili.com/video/BV1JuTR63ENB">【英文原声】摩根聚焦大中华科技硬件，老赛道全面承压</a></li>
+</ul>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 马督工：【睡前消息1075】最先被非洲移民炸掉的国家 可能是南非]]></title>
+        <link>https://www.bilibili.com/video/BV1fBM86MEMa</link>
+        <guid isPermaLink="false">bilibili-116878106368248</guid>
+        <pubDate>Tue, 07 Jul 2026 10:11:15 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：马督工</p>
+<p>南非越来越紧张的移民问题</p><p><a href="https://www.bilibili.com/video/BV1fBM86MEMa">查看原文 →</a></p>]]></description>
+        <author><![CDATA[马督工]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Mr-Pot (2026-07-07): 5 posts]]></title>
+        <link>https://www.bilibili.com/video/BV19yTd6NER1</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-07-07-a1c5d27b</guid>
+        <pubDate>Tue, 07 Jul 2026 09:09:21 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV19yTd6NER1">【中英字幕】彭博脉搏访谈26.07.06完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV14BTR6nEqo">【中英字幕】彭博财经观察26.07.06完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1gmMx61Epc">【中英字幕】26.07.06川普在白宫为特朗普账户上线敲响开市钟并回答记者提问完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1v8MW6JEi1">【中英字幕】《面向全国》26.07.06完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1V1Td6vEPr">【中英字幕】彭博财经简报26.07.06完整版</a></li>
+</ul>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：一发入魂! 中国战略核潜艇试射洲际飞弹! 飞越日本上空！ 郭正亮 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV13PMt6XEzx</link>
+        <guid isPermaLink="false">bilibili-116877367968770</guid>
+        <pubDate>Tue, 07 Jul 2026 07:02:29 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV13PMt6XEzx">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 硅谷101：Tokenmaxxing后的理智与Agent落地｜探展亚马逊云科技中国峰会【硅谷101】]]></title>
+        <link>https://www.bilibili.com/video/BV1yPMb6rE5v</link>
+        <guid isPermaLink="false">bilibili-116876982096129</guid>
+        <pubDate>Tue, 07 Jul 2026 05:14:42 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：硅谷101</p>
+<p>2026年过半，AI行业的关键词正在从“堆Token、做Demo”转向“交付结果”。
+
+在亚马逊云科技中国峰会现场，我们和一线产品与技术人员聊了聊Agent真正进入产业后的变化：小说作者如何把故事变成AI短剧，普通投资者如何用自然语言做量化回测，药物研发如何被打通成更低门槛的工作流，不会写代码的人如何几分钟生成游戏，企业又如何用AI对抗AI带来的安全风险。
+
+当Agent接入各行各业，AI不再只是</p><p><a href="https://www.bilibili.com/video/BV1yPMb6rE5v">查看原文 →</a></p>]]></description>
+        <author><![CDATA[硅谷101]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：腾讯混元发布并开源 Hy3 模型【AI 早报 2026-07-07】]]></title>
+        <link>https://www.bilibili.com/video/BV1BMM46cEBo</link>
+        <guid isPermaLink="false">bilibili-116875841244654</guid>
+        <pubDate>Tue, 07 Jul 2026 00:27:36 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/MojZ4nIkbWyxO44esKfk2Q</p><p><a href="https://www.bilibili.com/video/BV1BMM46cEBo">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -898,19 +987,13 @@ Instagram: iamhenryhsu</p><p><a href="https://www.bilibili.com/video/BV1vxT46RES
     </item>
     
     <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-06-30): 8 posts]]></title>
+        <title><![CDATA[[B站] 华尔街播客 (2026-06-30): 2 posts]]></title>
         <link>https://www.bilibili.com/video/BV1ZvTc6XEtE</link>
         <guid isPermaLink="false">bilibili-grouped-2026-06-30-d13e0e33</guid>
         <pubDate>Tue, 30 Jun 2026 15:30:35 GMT</pubDate>
         <description><![CDATA[<ul>
 <li><a href="https://www.bilibili.com/video/BV1ZvTc6XEtE">【英文原声】《华尔街日报》6月30日全文精读</a></li>
 <li><a href="https://www.bilibili.com/video/BV1ZvTc6XE4r">《华尔街日报》6月30日全文精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1oXKZ6CEPg">【英文原声】高盛聚焦中国市场，硬科技领跑达沃斯发声</a></li>
-<li><a href="https://www.bilibili.com/video/BV1dXKZ6CEDm">高盛聚焦中国市场，硬科技领跑达沃斯发声</a></li>
-<li><a href="https://www.bilibili.com/video/BV1ZSKZ61Ekm">【英文原声】德银聚焦泡泡玛特，Labubu需求疲劳</a></li>
-<li><a href="https://www.bilibili.com/video/BV1ESKZ62EGs">德银聚焦泡泡玛特，Labubu需求疲劳</a></li>
-<li><a href="https://www.bilibili.com/video/BV19ZKZ6gEkp">【英文原声】摩根看好立讯精密，光模块放量，看好拐点</a></li>
-<li><a href="https://www.bilibili.com/video/BV1RfKZ6zEPn">摩根看好立讯精密，光模块放量，看好拐点</a></li>
 </ul>]]></description>
         <author><![CDATA[华尔街播客]]></author>
         <category>B站</category>
@@ -934,273 +1017,38 @@ Instagram: iamhenryhsu</p><p><a href="https://www.bilibili.com/video/BV1vxT46RES
     </item>
     
     <item>
-        <title><![CDATA[[X] AI公司掌门 (2026-06-30): 19 posts]]></title>
+        <title><![CDATA[[X] AI公司掌门 (2026-06-30): 1 posts]]></title>
         <link>https://nitter.net/mattyp/status/2071973171465728359#m</link>
         <guid isPermaLink="false">x-cat-cf9c101e-2026-06-30</guid>
         <pubDate>Tue, 30 Jun 2026 15:04:34 GMT</pubDate>
-        <description><![CDATA[<h4>AI公司掌门 · 1位作者 · 19条</h4>
-<h5>Clem (HF CEO) · 19条</h5>
-<ul>
-<li><a href="https://nitter.net/mattyp/status/2071973171465728359#m">RT by @ClementDelangue: You can embed this model practically anywhere - like a chrome extension This is transformersjs + rampart for real-time PII removal in your browser (personal email still blurred) You can see I'm toggling fields - the model is removing them from text almost instantly: zip, state, city. Since the model is local, data never leaves my device. Rampart doesn't hide API keys, but regex can handle those Aside from obvious enterprise implications, Rampart will be huge for privacy-forward individuals I'm working on getting this live on the Chrome Web Store. The smol model era is here - next I want to see a native mac app 👀 Thanks to @xenovacom & @huggingface for the amazing libraries and @ndstudio for the awesome model</a></li>
-<li><a href="https://nitter.net/ClementDelangue/status/2071951499660292496#m">A study from @Stanford showed that 71.3% of chatgpt queries could be accurately answered by a local model. I suspect a major part of enterprise AI workloads could be run locally too for free (compared to the massive costs of frontier API cost). Also, it reduces the risk of these workloads being taken away from you because you own the models instead of renting them - which sounds like a good idea these days haha. That's why we're introducing the ability for everyone to filter AI models on @huggingface based on your local hardware. For me, there are 800k+ public models that fit on my M5 24GB and that I can use easily thanks to llamacpp. Let's go local AI!</a></li>
-<li><a href="https://nitter.net/victormustar/status/2071930123549290707#m">RT by @ClementDelangue: NEW on Hugging Face: Hardware filters 🖥️ A new Hardware filter on the Models page results to models that fit a specific GPU, CPU, or Apple Silicon chip, so you only see what will actually run on your machine. Set the hardware you want from your Hardware settings. It stacks with the page's other filters and is shareable via URL, so a link like llama.cpp&hardware=apple-m4-max points anyone, even logged-out visitors, at the llama.cpp models that fit an Apple M4 Max.</a></li>
-<li><a href="https://nitter.net/JosephJacks_/status/2071858781521342568#m">RT by @ClementDelangue: The food delivery leader in China just dropped an open weights 1.6 trillion parameter model while half the USA was sleeping … 🫨 🇨🇳</a></li>
-<li><a href="https://nitter.net/lulumeservey/status/2071803331501048249#m">RT by @ClementDelangue: You wake up. It’s 2026. The newest open source AI model was trained by federal government employees, Big Balls and Groot.</a></li>
-<li><a href="https://nitter.net/ZixuanLi_/status/2071775152824545594#m">RT by @ClementDelangue: GLM-5.2 is now @Zai_org's most-liked model on Hugging Face of all time. http://huggingface.co/models?p=1&sort=likes&so…</a></li>
-<li><a href="https://nitter.net/vishnuvig/status/2071759400755405034#m">RT by @ClementDelangue: We are making a deliberate effort to use GLM 5.2 with OpenCode internally at Jarvislabs. I have spoken to 3 enterprise customers last week, who are exploring to host multiple open source models and move away from closed models.</a></li>
-<li><a href="https://nitter.net/quxiaoyin/status/2071750657233821796#m">RT by @ClementDelangue: if US bans open source because China is leading, then 1. impossible to enforce(you just need to download a zip for weights) 2. Increases the cost of using AI for US companies and consumers, while China leads in enterprise and consumer adoption which drives GDP growth and productivity gains 3. Gives away market share to China for countries who don't follow the ban(which will be many) Banning open-source might benefit labs, but only in the short-term, as they will lose long term regardless. It will harm independent neoclouds, enterprises and consumers. Because you forcefully drive up the cost of using intelligence by 100x compared to China, and if everyone in China and ROW can afford the good-enough intelligence but only not in the US, will this benefit US in the long run?</a></li>
-<li><a href="https://nitter.net/quxiaoyin/status/2071747608503255337#m">RT by @ClementDelangue: You cannot ban Chinese open source to make US win. The whole point of open source is it's OPEN. You might ban in the US, sure, but how are you going to ban it outside US? Instead the real question is, why can't US build the best open source model? Where is meta, gemini, @grok and why can't openAI and anthropic do this? Sure @elonmusk is baking something..</a></li>
-<li><a href="https://nitter.net/MTSlive/status/2071736305269285206#m">RT by @ClementDelangue: SITUATION EXPLAINED: What even is a distillation attack? @DanielleFong, founder of LightCell Energy: "I understand you don't wanna get automatically hit by a bunch of subscriptions and then distilled by DeepSeek. I do get it." "But you learned from the intellectual output of all of humanity. And we will be learning from the transcripts of what we work with with AI. This is inevitable. This is absolutely a bidirectional thing." "Is putting all my transcripts and tweets into a vector database and having the AI check every turn for something relevant... is that a distillation attack? I would argue no, but it certainly is transferring information."</a></li>
-<li><a href="https://nitter.net/tbpn/status/2071706033186373699#m">RT by @ClementDelangue: FULL INTERVIEW: Engineers Edward Coristine (@as400495) and Tai Groot (@taigrr) just released an ML model called Rampart for the National Design Studio. It's a local-first, open-source AI privacy model that runs entirely in the browser. They joined TBPN to explain the model and why the National Design Studio launched it. 0:25 – National Design Studio launches Rampart 1:40 – Why Rampart is open source 2:40 – How NDS trained the model 3:55 – Use cases for the model 5:25 – How NDS thinks about side quests 6:25 – Team size, workflow, and why they work seven days a week 8:00 – Recruiting top talent to the National Design Studio</a></li>
-<li><a href="https://nitter.net/theinformation/status/2071700452605829433#m">RT by @ClementDelangue: Open source AI is gaining traction due to the White House’s clampdown on Anthropic & OpenAI. “A lot of founders and developers have been burned by trying to build apps on top of these really advanced closed source models, like Fable for instance…” “… and then seeing those models get taken down or removed from the market just days later.” — @steph_palazzolo, AI Reporter</a></li>
-<li><a href="https://nitter.net/ClementDelangue/status/2071686220548133048#m">Tired: The US government regulating open-source AI models Wired: The US government training and releasing open-source AI models</a></li>
-<li><a href="https://nitter.net/BloombergTV/status/2071664506883682542#m">RT by @ClementDelangue: Could being labeled "too dangerous" be good marketing for frontier AI firms? Hugging Face CEO Clem Delangue thinks so https://bloom.bg/4jP5REe</a></li>
-<li><a href="https://nitter.net/sriramk/status/2071660233659703568#m">RT by @ClementDelangue: The USG launching models on Hugging Face. Go @jgebbia</a></li>
-<li><a href="https://nitter.net/Jason/status/2071651194007859573#m">RT by @ClementDelangue: THIS IS WHY WE MUST SUPPORT THE OPEN SOURCE APP LAYER MORE OPEN SOURCE AI = INDIVIDUAL SOVEREIGNTY</a></li>
-<li><a href="https://nitter.net/as400495/status/2071648788742021467#m">RT by @ClementDelangue: Better than the frontier model at a tiny portion of the side Government writing good tech wasn’t in the deck of cards until now</a></li>
-<li><a href="https://nitter.net/ndstudio/status/2071648193171906863#m">RT by @ClementDelangue: HuggingFace: https://huggingface.co/nationaldesignstudio/rampart</a></li>
-<li><a href="https://nitter.net/MTSlive/status/2071634697185353956#m">RT by @ClementDelangue: SITUATION EXPLAINED: Why is restricting open source AI models structurally impossible? @ClementDelangue, co-founder and CEO of @huggingface: "Open weights are fundamentally different than an API. The way you can restrict it is very different." "If you remove an open weight from Hugging Face, then it's still gonna be on ModelScope, which is like the Chinese equivalent, or it's gonna be on torrent platforms. You can't really block it because it's open, almost by definition there's gonna be some ways to access them." "It's a different game for APIs. If you're using an API provider or a cloud from China, obviously you're sending your data. And they could cut your access or bias your access. That's a much bigger problem." "For open weights and open source, it doesn't really matter where it comes from because you get all the control, you get all the transparency. There's no way to trick you, bias you, manipulate you, remove your access."</a></li>
-</ul>]]></description>
+        <description><![CDATA[<h4>AI公司掌门 · 1位作者 · 1条</h4>
+<h5>Clem (HF CEO)</h5>
+<ul><li><a href="https://nitter.net/mattyp/status/2071973171465728359#m">RT by @ClementDelangue: You can embed this model practically anywhere - like a chrome extension This is transformersjs + rampart for real-time PII removal in your browser (personal email still blurred) You can see I'm toggling fields - the model is removing them from text almost instantly: zip, state, city. Since the model is local, data never leaves my device. Rampart doesn't hide API keys, but regex can handle those Aside from obvious enterprise implications, Rampart will be huge for privacy-forward individuals I'm working on getting this live on the Chrome Web Store. The smol model era is here - next I want to see a native mac app 👀 Thanks to @xenovacom & @huggingface for the amazing libraries and @ndstudio for the awesome model</a></li></ul>]]></description>
         <author><![CDATA[AI公司掌门]]></author>
         <category>X</category>
     </item>
     
     <item>
-        <title><![CDATA[[X] AI研究核心 (2026-06-30): 8 posts]]></title>
+        <title><![CDATA[[X] AI研究核心 (2026-06-30): 1 posts]]></title>
         <link>https://nitter.net/Etched/status/2071972062202343590#m</link>
         <guid isPermaLink="false">x-cat-dbae213b-2026-06-30</guid>
         <pubDate>Tue, 30 Jun 2026 15:00:09 GMT</pubDate>
-        <description><![CDATA[<h4>AI研究核心 · 2位作者 · 8条</h4>
+        <description><![CDATA[<h4>AI研究核心 · 1位作者 · 1条</h4>
 <h5>Andrej Karpathy</h5>
-<ul><li><a href="https://nitter.net/Etched/status/2071972062202343590#m">RT by @karpathy: We're coming out of stealth. We've built our first racks after a successful A0 tapeout, $1B+ in customer contracts, and $800m raised. Early customer tests show us achieving SOTA throughput, latency, and power efficiency on inference workloads. Our first racks ship this summer.</a></li></ul>
-<h5>Yann LeCun · 7条</h5>
-<ul>
-<li><a href="https://nitter.net/NickKristof/status/2071953672255443102#m">RT by @ylecun: The discussion about @elonmusk's comments on humanitarian aid has mostly focused on our values, which seems right. But note that USAID served our interests as well as our values, by protecting us from diseases like the Ebola outbreak now ravaging Congo.</a></li>
-<li><a href="https://nitter.net/arakharazian/status/2071942212925936053#m">RT by @ylecun: We can finally say AI isn't killing jobs. A new paper from me, @tryramp, and @RevelioLabs uses firm-level spend and workforce data across 21K U.S. businesses to measure AI's impact on jobs. Firms that adopt AI heavily grow headcount 10% over two years following adoption. Low adopters see no statistically significant change.</a></li>
-<li><a href="https://nitter.net/pascalefung/status/2071818340675584198#m">RT by @ylecun: Thrilled to announce the Wearable AI Workshop at ECCV 2026 🎉 that we're organizing with an awesome group of folks across Meta Reality Labs, AMI Labs, HKUST, Georgia Tech, UCF, and U. of Edinburgh. If you work on egocentric perception, multimodal assistants, or long-form video understanding, definitely consider participating. Details below 👇 🔬 Wearable AI Workshop @ ECCV 2026 | Malmö, Sweden Join us to advance the science of real-time, multimodal, context-aware assistants — with access to the largest egocentric wearables dataset ever released, $21K in challenge prizes, and a venue to shape the research agenda alongside leading groups in the field. 🏆 Grand Challenge — $21K in Prizes Compete on the largest egocentric wearables dataset ever released (5,000+ hours) across three tracks: Proactive AI — Predict when and how to proactively engage users Multi-Turn Conversations — Streaming answer prediction from egocentric video Long Video Q&A — Temporal grounding and recall over 30+ minute videos 🎤 Confirmed Keynote Speakers Kristen Grauman (UT Austin) — Professor, Computer Vision Group Dima Damen (U of Bristol, Google DeepMind) — Professor of Computer Vision Raffay Hamid (Meta Reality Labs) — Distinguished Engineer, GenAI If you work on egocentric vision, long-form video understanding, conversational AI, or on-device inference — this is your venue. 📅 September 2026 · 📍 Malmö, Sweden 🔗 Workshop URL: https://wearable-ai-workshop.github.io/ #Meta #MetaRealityLabs #MetaAI #AMIlabs #HKUST #UTAustin #GeorgiaTech #UniversityOfEdinburgh #UniversityOfBristol #ECCV #ECCV2026 #WearableAI #EgocentricVision #ComputerVision #MultimodalAI #AIResearch</a></li>
-<li><a href="https://nitter.net/BulwarkOnline/status/2071783335127355680#m">RT by @ylecun: "Every one of these children had a name. They had dreams, loves, and futures. Their lives were as valuable and special as your child’s or mine. They were loved, and somewhere, their families grieve for them." https://lnk.thebulwark.com/4xRra08</a></li>
-<li><a href="https://nitter.net/ClementDelangue/status/2071701155827134665#m">RT by @ylecun: Open-source AI is booming, massively impactful for progress, competition, transparency & orders of magnitude less dangerous than closed-source frontier AI. Time to support it to the max!</a></li>
-<li><a href="https://nitter.net/SteveRattner/status/2071666316960751884#m">RT by @ylecun: Musk is right that many problems can't be solved just by "throwing money" at them. But US aid to fight AIDS, child hunger & other global plagues has one of the highest ROIs in government. The data is clear: cutting this $ means millions will die. The question is how many.</a></li>
-<li><a href="https://nitter.net/Forbes/status/2071647923147092202#m">RT by @ylecun: One study found Musk’s closing of the U.S. Agency for International Development could cause the deaths of millions of children. https://www.forbes.com/sites/tylerroush/2026/06/29/a-testy-musk-attacks-claims-doges-cuts-killed-children-but-studies-paint-grim-picture/?utm_source=ForbesMainTwitter&utm_medium=social&utm_campaign=ForbesMainTwitter (Photo: Associated Press)</a></li>
-</ul>]]></description>
+<ul><li><a href="https://nitter.net/Etched/status/2071972062202343590#m">RT by @karpathy: We're coming out of stealth. We've built our first racks after a successful A0 tapeout, $1B+ in customer contracts, and $800m raised. Early customer tests show us achieving SOTA throughput, latency, and power efficiency on inference workloads. Our first racks ship this summer.</a></li></ul>]]></description>
         <author><![CDATA[AI研究核心]]></author>
         <category>X</category>
     </item>
     
     <item>
-        <title><![CDATA[[X] AI资讯聚合 (2026-06-30): 10 posts]]></title>
+        <title><![CDATA[[X] AI资讯聚合 (2026-06-30): 1 posts]]></title>
         <link>https://nitter.net/RekaAILabs/status/2071970771233038475#m</link>
         <guid isPermaLink="false">x-cat-127ec8f8-2026-06-30</guid>
         <pubDate>Tue, 30 Jun 2026 14:55:01 GMT</pubDate>
-        <description><![CDATA[<h4>AI资讯聚合 · 1位作者 · 10条</h4>
-<h5>AK (论文速递) · 10条</h5>
-<ul>
-<li><a href="https://nitter.net/RekaAILabs/status/2071970771233038475#m">RT by @_akhaliq: 🎮🕹️🖥️ CS2-10k is now available on @huggingface 🚀 600,000+ egocentric gameplay videos. 10,000+ hours. Every frame paired with the exact keyboard, mouse, and 3D position data that produced it. If you're working on world models, action-conditioned video generation, or egocentric navigation, this is ready to download and use today.</a></li>
-<li><a href="https://nitter.net/callmeyoung93/status/2071964331261272332#m">RT by @_akhaliq: The last major keyboard moment was in 2007, when Apple put the keyboard on glass. Nearly 20 years later, we're introducing: Acti @openacti1, the Agentic Keyboard. Not another AI keyboard that fixes grammar. Not another voice keyboard that types faster. An invisible agent in every text field. It doesn't predict your next word. It takes your next action. 👇</a></li>
-<li><a href="https://nitter.net/HuggingPapers/status/2071951218889339131#m">RT by @_akhaliq: Microsoft just released a new GUI agent on Hugging Face Sico-Evolution jumps from 39.8% to 82.9% Task Success Rate Outperforming GPT-5.4, Claude Opus 4.6, and Claude Opus 4.7 All from a 4B parameter model</a></li>
-<li><a href="https://nitter.net/nathanhabib1011/status/2071928046685175809#m">RT by @_akhaliq: best models < 128B params on SWE-bench_pro... @Alibaba_Qwen 3.6 27b still crazy, closely followed by @ornith_ 35B</a></li>
-<li><a href="https://nitter.net/vanstriendaniel/status/2071919131058712878#m">RT by @_akhaliq: You can now use 100s of tools with @huggingface Buckets, thanks to the new S3 API! Usually just one or two lines to change.</a></li>
-<li><a href="https://nitter.net/_akhaliq/status/2071806715029283152#m">R to @_akhaliq: huggingface.co/meituan-longc…</a></li>
-<li><a href="https://nitter.net/_akhaliq/status/2071806680958967874#m">LongCat-2.0 dropping on Hugging Face soon</a></li>
-<li><a href="https://nitter.net/HuggingPapers/status/2071640950628053248#m">RT by @_akhaliq: Do LLMs actually think in silence? A new paper formalizes four axioms — Causality, Minimality, Separability, and Stability — to audit latent thought representations. No open-weight LLM satisfies all four. Most representations encode nothing beyond the input embedding itself.</a></li>
-<li><a href="https://nitter.net/_akhaliq/status/2071627522521829707#m">R to @_akhaliq: paper: https://huggingface.co/papers/2606.28128</a></li>
-<li><a href="https://nitter.net/_akhaliq/status/2071627520894455866#m">PhysisForcing Physics Reinforced World Simulator for Robotic Manipulation</a></li>
-</ul>]]></description>
+        <description><![CDATA[<h4>AI资讯聚合 · 1位作者 · 1条</h4>
+<h5>AK (论文速递)</h5>
+<ul><li><a href="https://nitter.net/RekaAILabs/status/2071970771233038475#m">RT by @_akhaliq: 🎮🕹️🖥️ CS2-10k is now available on @huggingface 🚀 600,000+ egocentric gameplay videos. 10,000+ hours. Every frame paired with the exact keyboard, mouse, and 3D position data that produced it. If you're working on world models, action-conditioned video generation, or egocentric navigation, this is ready to download and use today.</a></li></ul>]]></description>
         <author><![CDATA[AI资讯聚合]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] AI公司官方 (2026-06-30): 14 posts]]></title>
-        <link>https://nitter.net/ASI_LatAm/status/2071953884956836321#m</link>
-        <guid isPermaLink="false">x-cat-9f8bb8e0-2026-06-30</guid>
-        <pubDate>Tue, 30 Jun 2026 13:47:55 GMT</pubDate>
-        <description><![CDATA[<h4>AI公司官方 · 7位作者 · 14条</h4>
-<h5>MiniMax · 3条</h5>
-<ul>
-<li><a href="https://nitter.net/ASI_LatAm/status/2071953884956836321#m">RT by @MiniMax_AI: @SingularityNET @ASI_Alliance + @MiniMax_AI Creando juntos con OmegaClaw y ASI:Create https://x.com/i/broadcasts/1RKZzzOOmeQKB</a></li>
-<li><a href="https://nitter.net/MiniMax_AI/status/2071717580994421224#m">RT @VictorSuOrtiz: Here today lab #1 @aiDotEngineer for @MiniMax_AI Come find us.</a></li>
-<li><a href="https://nitter.net/MiniMax_AI/status/2071695716745912333#m">Catch us tomorrow at 1 PM UTC as we recap the inaugural BGI Sprint.</a></li>
-</ul>
-<h5>阶跃星辰 · 2条</h5>
-<ul>
-<li><a href="https://nitter.net/StepFun_ai/status/2071942084026900533#m">Step 3.7 Flash is currently top 10 on @OpenRouter this month, with 4.29T tokens routed. Builders are pushing it through real agent runs, coding tasks, and long-context workflows. Keep sending the hard stuff.</a></li>
-<li><a href="https://nitter.net/StepFun_ai/status/2071795783792472456#m">Been great seeing Step 3.7 Flash get real use in Nous Portal: people testing, building, and running all kinds of agent workflows with it. We’re keeping free access going with the @NousResearch! Try it out and send us what you make.</a></li>
-</ul>
-<h5>Hugging Face · 2条</h5>
-<ul>
-<li><a href="https://nitter.net/lhoestq/status/2071912404603015169#m">RT by @huggingface: S3-clients + Hugging Face Buckets = 💥 You can now query and write directly to HF Storage Buckets via the S3-compatible API Just one secret. Done. 🚀</a></li>
-<li><a href="https://nitter.net/ndstudio/status/2071638578145145251#m">RT by @huggingface: Today, we are releasing Rampart: a 14.7MB machine learning model designed to protect citizens’ privacy by redacting personal information directly in your browser before it gets sent to any server</a></li>
-</ul>
-<h5>Google DeepMind</h5>
-<ul><li><a href="https://nitter.net/IasonGabriel/status/2071876014293045681#m">RT by @GoogleDeepMind: What does it mean to be an ethicist and a philosopher working in an AI company? What questions do we explore – and can we affect positive change? For a deep exploration of these themes, check out a new long-read by Bobby Baird in the @guardian today...</a></li></ul>
-<h5>小米 MiMo</h5>
-<ul><li><a href="https://nitter.net/XiaomiMiMo/status/2071847992811012569#m">Open-weights are taking over — proud to see more developers building on MiMo. 👏 @cline</a></li></ul>
-<h5>NVIDIA AI · 4条</h5>
-<ul>
-<li><a href="https://nitter.net/NVIDIAAI/status/2071700370670133369#m">R to @LangChain: Explore deep agents 👇 https://nvda.ws/4wfGqCn</a></li>
-<li><a href="https://nitter.net/NVIDIAAI/status/2071700368338059682#m">Frontier agent performance you can customize, tune, and deploy on your terms. @langchain integrates with NVIDIA Nemotron models across agent workflows, from inference to orchestration, on an open stack built for production.</a></li>
-<li><a href="https://nitter.net/nvidia/status/2071654937335926864#m">RT by @NVIDIAAI: 📣 @AnthropicAI Claude models are now generally available in @Microsoft Foundry, running on the NVIDIA GB300 NVL72 platform on Azure with NVIDIA Quantum-X800 InfiniBand networking. For enterprises building the next generation of agentic AI, this means more powerful autonomous and domain-specific agents, backed by the inference performance and lowest cost per token.</a></li>
-<li><a href="https://nitter.net/NVIDIAAI/status/2071654613636501790#m">How NVIDIA Blackwell and NVIDIA Dynamo Scale AI Agents for Production https://x.com/i/broadcasts/1OxwbbZYZkPJB</a></li>
-</ul>
-<h5>xAI</h5>
-<ul><li><a href="https://nitter.net/xai/status/2071661034683969977#m">State of the art voice APIs from SpaceXAI, now in the Vercel AI Gateway</a></li></ul>]]></description>
-        <author><![CDATA[AI公司官方]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] AI教育实践 (2026-06-30): 11 posts]]></title>
-        <link>https://nitter.net/rasbt/status/2071945868970791257#m</link>
-        <guid isPermaLink="false">x-cat-919c55bf-2026-06-30</guid>
-        <pubDate>Tue, 30 Jun 2026 13:16:04 GMT</pubDate>
-        <description><![CDATA[<h4>AI教育实践 · 2位作者 · 11条</h4>
-<h5>Sebastian Raschka · 2条</h5>
-<ul>
-<li><a href="https://nitter.net/rasbt/status/2071945868970791257#m">R to @rasbt: It's available from Manning (already shipping): https://mng.bz/Nwr7 and Amazon (for preorder, shipping in a few weeks): https://amzn.to/4aAKiFY</a></li>
-<li><a href="https://nitter.net/rasbt/status/2071945864088535126#m">After 18 months of writing, coding, and experimenting, Build a Reasoning Model (From Scratch) is finally out! My first copies just arrived! 📚 440 full-color pages. Inference scaling, reinforcement learning, and distillation from scratch.</a></li>
-</ul>
-<h5>Ethan Mollick · 9条</h5>
-<ul>
-<li><a href="https://nitter.net/emollick/status/2071941684737515595#m">Common challenge that will come up in the near future is capturing the gains of greater AI intelligence in organizations. High human capital firms need to be set up to benefit from their high-quality employees. Capturing value of highly capable AI will require similar org design.</a></li>
-<li><a href="https://nitter.net/emollick/status/2071771494557073719#m">R to @emollick: The entire business of the AI Labs & the potential speed of transformation stems from this fact.</a></li>
-<li><a href="https://nitter.net/emollick/status/2071771186569306422#m">The most important weird thing about LLMs is that they are so general. A bigger LLM that is better at coding is also better at ideation & ethical advice & medicine & math. This isn’t true of everything, jaggedness again (see fiction writing!), but it is remarkably true.</a></li>
-<li><a href="https://nitter.net/emollick/status/2071710308205527445#m">R to @emollick: See, for example</a></li>
-<li><a href="https://nitter.net/emollick/status/2071699103374053651#m">R to @emollick: Token spend is not just about productivity, it also organizational R&D, an investment in figuring how to rebuild around AI that will involve some failure & adaption.</a></li>
-<li><a href="https://nitter.net/emollick/status/2071695207566041389#m">A big reason that token costs become an issue in organizations is leadership is not making decisions about how to use AI, the processes that need to change as a result, & how to think about multiplayer use. Solving it by rationing intelligence first is a pretty blunt strategy</a></li>
-<li><a href="https://nitter.net/emollick/status/2071678750698406316#m">One thing we now know without a doubt as a result of AI is that doing the homework really does matter for learning.</a></li>
-<li><a href="https://nitter.net/emollick/status/2071632720854413638#m">R to @emollick: This one. https://www.wsj.com/tech/ai/chinese-ai-anthropic-mythos-cybersecurity-574b02c2</a></li>
-<li><a href="https://nitter.net/emollick/status/2071630972521705513#m">That Wall Street Journal article about GLM catching up with Mythos (which is not true & the reporting doesn’t back up) is another one of those “everyone will ask me about it at every conference or meeting” articles. Big impact on the policy zeitgeist, even if not fully accurate.</a></li>
-</ul>]]></description>
-        <author><![CDATA[AI教育实践]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot (2026-06-30): 6 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1DTKf6PEPU</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-06-30-a1c5d27b</guid>
-        <pubDate>Tue, 30 Jun 2026 12:50:23 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1DTKf6PEPU">【中英字幕】彭博科技前沿26.06.29完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1atKD6mE6h">【中英字幕】为什么韩国AI股票狂热是对世界的警告</a></li>
-<li><a href="https://www.bilibili.com/video/BV15JKZ6TEKs">【中英字幕】彭博财经观察26.06.29完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1smKX6kEjZ">【中英字幕】《面向全国》26.06.29完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1AeK963EdN">【中英字幕】26.06.29川普在白宫签署行政令并回答记者提问完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1UrKX62EyM">【中英字幕】彭博财经简报26.06.29完整版</a></li>
-</ul>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 阿周的Eureka：为了学点经济学，我开发了个经济学模拟器]]></title>
-        <link>https://www.bilibili.com/video/BV164Kf6nEht</link>
-        <guid isPermaLink="false">bilibili-116839015254808</guid>
-        <pubDate>Tue, 30 Jun 2026 12:26:22 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：阿周的Eureka</p>
-<p>🍞 一个面包应该定价多少、每天该生产多少个？
-这期我做了一个「经济学模拟器」：让市场中的消费者与生产者各自基于自身状态做出交易决策，观察价格如何走向均衡。
-每个角色接入 Kimi Agent 集群，拥有独立决策的"大脑"
-消费者：以体力需求、消费信心、边际递减系数、心理价位等参数驱动决策；信息有限——并不知道全场实时价格。
-生产者：受成本、固定成本、产能、报价约束——报价不得低于成本，产能设有上限</p><p><a href="https://www.bilibili.com/video/BV164Kf6nEht">查看原文 →</a></p>]]></description>
-        <author><![CDATA[阿周的Eureka]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 马督工：【睡前消息1072】海力士不看学历  南非对中国顺差]]></title>
-        <link>https://www.bilibili.com/video/BV18SKf6vES1</link>
-        <guid isPermaLink="false">bilibili-116838763600587</guid>
-        <pubDate>Tue, 30 Jun 2026 11:24:57 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：马督工</p>
-<p>1 韩国海力士公司招聘，不提任何学历要求。
-2 南非主权信用评级全面上升。
-3 南部非洲埃博拉疫情。</p><p><a href="https://www.bilibili.com/video/BV18SKf6vES1">查看原文 →</a></p>]]></description>
-        <author><![CDATA[马督工]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 历史调研室：他为苏联造出了最大的氢弹，最后却惨遭流放【历史调研室101】]]></title>
-        <link>https://www.bilibili.com/video/BV1TeTF6vE9c</link>
-        <guid isPermaLink="false">bilibili-116838545492926</guid>
-        <pubDate>Tue, 30 Jun 2026 10:24:30 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：历史调研室</p>
-<p>求关注、求三连～
-参考资料、视频素材、BGM在视频结尾</p><p><a href="https://www.bilibili.com/video/BV1TeTF6vE9c">查看原文 →</a></p>]]></description>
-        <author><![CDATA[历史调研室]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：日方不可接受中国海警台岛以东海域执法! 外交部:合理合法! 郭正亮 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV1GnKZ6iE6n</link>
-        <guid isPermaLink="false">bilibili-116837656299401</guid>
-        <pubDate>Tue, 30 Jun 2026 06:40:33 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV1GnKZ6iE6n">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：DeepSeek 预告 V4 系列模型正式版7月中旬上线；美团发布并开源 LongCat-2.0 模型；Codex 重置限额【AI 早报 2026-06-30】]]></title>
-        <link>https://www.bilibili.com/video/BV1N5Ko6QEJg</link>
-        <guid isPermaLink="false">bilibili-116836498736071</guid>
-        <pubDate>Tue, 30 Jun 2026 01:42:27 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/lkb2-hAeBA1BdqwarL2GgA</p><p><a href="https://www.bilibili.com/video/BV1N5Ko6QEJg">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 跟李沐学AI：古法做视频里加一点点科技]]></title>
-        <link>https://www.bilibili.com/video/BV1ScKR6QEQF</link>
-        <guid isPermaLink="false">bilibili-116835475266255</guid>
-        <pubDate>Mon, 29 Jun 2026 21:26:30 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：跟李沐学AI</p>
-<p><a href="https://www.bilibili.com/video/BV1ScKR6QEQF">查看原文 →</a></p>]]></description>
-        <author><![CDATA[跟李沐学AI]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] AI资讯聚合 (2026-06-29): 2 posts]]></title>
-        <link>https://nitter.net/rowancheung/status/2071622289138045193#m</link>
-        <guid isPermaLink="false">x-cat-127ec8f8-2026-06-29</guid>
-        <pubDate>Mon, 29 Jun 2026 15:50:17 GMT</pubDate>
-        <description><![CDATA[<h4>AI资讯聚合 · 1位作者 · 2条</h4>
-<h5>Rowan Cheung · 2条</h5>
-<ul>
-<li><a href="https://nitter.net/rowancheung/status/2071622289138045193#m">R to @rowancheung: Another video from the founder here:</a></li>
-<li><a href="https://nitter.net/rowancheung/status/2071622276882350538#m">There's a startup trying to build data centers in the ocean. And it's INCREDIBLY fascinating: Mass consumption of electricity and water is a growing bottleneck for data centers. So by moving offshore, it eliminates both problems -- the ocean provides unlimited cooling, and the waves provide unlimited power. There are also no engines, so the data centers drive themselves to their destination by using the shape of their hull to propel through waves. Called Panthalassa.</a></li>
-</ul>]]></description>
-        <author><![CDATA[AI资讯聚合]]></author>
-        <category>X</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[X] AI公司官方 (2026-06-29): 3 posts]]></title>
-        <link>https://nitter.net/SergioPaniego/status/2071616508447342920#m</link>
-        <guid isPermaLink="false">x-cat-9f8bb8e0-2026-06-29</guid>
-        <pubDate>Mon, 29 Jun 2026 15:27:19 GMT</pubDate>
-        <description><![CDATA[<h4>AI公司官方 · 2位作者 · 3条</h4>
-<h5>Hugging Face</h5>
-<ul><li><a href="https://nitter.net/SergioPaniego/status/2071616508447342920#m">RT by @huggingface: one command and you have a private vllm server on HF infra point a coding agent straight at your own model, then spin it down when you're done blog (by @QGallouedec) below⤵️</a></li></ul>
-<h5>阶跃星辰 · 2条</h5>
-<ul>
-<li><a href="https://nitter.net/StepFun_ai/status/2071614715860832354#m">R to @StepFun_ai: Claw-eval Link: https://claw-eval.github.io/</a></li>
-<li><a href="https://nitter.net/StepFun_ai/status/2071614599464656908#m">Step 3.7 Flash hits #2 on Claw-Eval General for autonomous agents. We’re seeing strong performance across multi-step execution and robustness in long-horizon tasks, ranking just behind Claude Opus 4.6. Promising signals for real-world agent workloads.</a></li>
-</ul>]]></description>
-        <author><![CDATA[AI公司官方]]></author>
         <category>X</category>
     </item>
     
