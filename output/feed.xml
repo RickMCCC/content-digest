@@ -5,27 +5,96 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 09 Jul 2026 22:56:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 22:39:34 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月09日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月10日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-09</guid>
-        <pubDate>Thu, 09 Jul 2026 22:56:37 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-07-10</guid>
+        <pubDate>Fri, 10 Jul 2026 22:39:34 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 07月09日 22:56 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 07月10日 22:39 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-09</guid>
-        <pubDate>Thu, 09 Jul 2026 22:56:37 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 22 items</p><p><b>🎮 生活分享流 (life):</b> 29 items</p><p><b>🆕 本次新增:</b> 18 items</p><p><b>📦 数据库总量:</b> 2631 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-07-10</guid>
+        <pubDate>Fri, 10 Jul 2026 22:39:34 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 20 items</p><p><b>🎮 生活分享流 (life):</b> 24 items</p><p><b>🆕 本次新增:</b> 13 items</p><p><b>📦 数据库总量:</b> 2644 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 全员i人字幕组：LE SSERAFIM- "BOOMPALA" | Amazon Music "In The Paint" Live舞台 260710]]></title>
+        <link>https://www.bilibili.com/video/BV1PwNJ6GERR</link>
+        <guid isPermaLink="false">bilibili-116895856596668</guid>
+        <pubDate>Fri, 10 Jul 2026 13:18:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p>ytb
+-</p><p><a href="https://www.bilibili.com/video/BV1PwNJ6GERR">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Mr-Pot (2026-07-10): 4 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1snNE6gEEt</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-07-10-a1c5d27b</guid>
+        <pubDate>Fri, 10 Jul 2026 12:15:31 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1snNE6gEEt">【中英字幕】彭博科技前沿26.07.09完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV15gMp65ELp">【中英字幕】彭博脉搏访谈26.07.09完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1kXMH6REtp">【中英字幕】彭博财经观察26.07.09完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1egMp6VEiZ">【中英字幕】彭博财经简报26.07.09完整版</a></li>
+</ul>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客 (2026-07-10): 6 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1PiN76gErE</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-07-10-d13e0e33</guid>
+        <pubDate>Fri, 10 Jul 2026 10:00:00 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1PiN76gErE">高盛看好胜宏科技，产品结构持续向上升级</a></li>
+<li><a href="https://www.bilibili.com/video/BV1siN76gEap">【英文原声】高盛看好胜宏科技，产品结构持续向上升级</a></li>
+<li><a href="https://www.bilibili.com/video/BV1eLN769EsX">花旗聚焦京东方，第二增长曲线正渐次落地</a></li>
+<li><a href="https://www.bilibili.com/video/BV1eLN769EW6">【英文原声】花旗聚焦京东方，第二增长曲线正渐次落地</a></li>
+<li><a href="https://www.bilibili.com/video/BV1WpME6UEy4">【英文原声】野村看好中际旭创，卡位下一代封装赛道</a></li>
+<li><a href="https://www.bilibili.com/video/BV1PpME6SE9c">野村看好中际旭创，卡位下一代封装赛道</a></li>
+</ul>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Grandpagu顾爷：AAAAA纽约曼哈顿City Walk]]></title>
+        <link>https://www.bilibili.com/video/BV1VmME6aEa5</link>
+        <guid isPermaLink="false">bilibili-116889246241979</guid>
+        <pubDate>Fri, 10 Jul 2026 04:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：Grandpagu顾爷</p>
+<p><a href="https://www.bilibili.com/video/BV1VmME6aEa5">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Grandpagu顾爷]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenAI 正式向公众开放 GPT-5.6 模型系列；Meta 发布 Muse Spark 1.1 模型【AI 早报 2026-07-10】]]></title>
+        <link>https://www.bilibili.com/video/BV1YiNj6nE7n</link>
+        <guid isPermaLink="false">bilibili-116893222440357</guid>
+        <pubDate>Fri, 10 Jul 2026 02:07:29 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/jeND4iYI0VXi7T-TF1CrWg</p><p><a href="https://www.bilibili.com/video/BV1YiNj6nE7n">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -606,181 +675,6 @@ Instagram: iamhenryhsu</p><p><a href="https://www.bilibili.com/video/BV1vxT46RES
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/0mtyup3VpwnYQqO_E10jxw</p><p><a href="https://www.bilibili.com/video/BV1hYTf6gEQY">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot (2026-07-03): 8 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1QBT462Egi</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-07-03-a1c5d27b</guid>
-        <pubDate>Fri, 03 Jul 2026 13:43:57 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1QBT462Egi">【中英字幕】彭博科技前沿26.07.02完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1xsTx6qEN9">【中英字幕】CNBC分析：AI三大叙事崩塌，过剩算力、就业反增与开源逆袭</a></li>
-<li><a href="https://www.bilibili.com/video/BV1SYTp6eE9a">【中英字幕】26.07.02CNBC专访姚明：纵论NBA全球扩张与中国品牌的逆袭</a></li>
-<li><a href="https://www.bilibili.com/video/BV1YJTn6vELs">【中英字幕】巴伦周刊26.07.02：Delta空中霸主vs.Lululemon跌落神坛：当航空公司学定价，瑜伽裤却迷失Logo</a></li>
-<li><a href="https://www.bilibili.com/video/BV1bYTp6eENP">【中英字幕】26.07.02川普CNBC采访谈美联储沃什与降息</a></li>
-<li><a href="https://www.bilibili.com/video/BV18YTp6eEVH">【中英字幕】26.07.02特朗普CNBC采访回应家族参与加密货币交易</a></li>
-<li><a href="https://www.bilibili.com/video/BV1bTTJ6REvq">【中英字幕】彭博财经观察26.07.02完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1vLTn6MEzW">【中英字幕】彭博财经简报26.07.02完整版</a></li>
-</ul>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 马督工：【睡前消息1073】广西冻肉漂移河南 远洋捕捞vs反向钓鱼]]></title>
-        <link>https://www.bilibili.com/video/BV1MAT46rE3R</link>
-        <guid isPermaLink="false">bilibili-116855977090584</guid>
-        <pubDate>Fri, 03 Jul 2026 12:21:45 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：马督工</p>
-<p>广西冻品货车频繁偏航，在驻马店泌阳和南阳邓州被查扣。</p><p><a href="https://www.bilibili.com/video/BV1MAT46rE3R">查看原文 →</a></p>]]></description>
-        <author><![CDATA[马督工]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小Lin说：Anthropic估值暴涨背后，普通人有什么AI时代的红利？]]></title>
-        <link>https://www.bilibili.com/video/BV12kTp6tENs</link>
-        <guid isPermaLink="false">bilibili-116854148370829</guid>
-        <pubDate>Fri, 03 Jul 2026 09:30:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小Lin说</p>
-<p><a href="https://www.bilibili.com/video/BV12kTp6tENs">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小Lin说]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Chris的军事基地：【星舰详解】人类历史最大 最强火箭！马斯克如何将科幻变为现实？]]></title>
-        <link>https://www.bilibili.com/video/BV1szTp68EoM</link>
-        <guid isPermaLink="false">bilibili-116854114749725</guid>
-        <pubDate>Fri, 03 Jul 2026 09:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Chris的军事基地</p>
-<p>三连多多，更新快快！
-本期视频感谢@赛博航天基地  的大力帮助！大家对航天感兴趣的可以去看看！</p><p><a href="https://www.bilibili.com/video/BV1szTp68EoM">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Chris的军事基地]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 鹿头军师：反驳几种主流解释，并提出一个新的假说【解读中国经济24】]]></title>
-        <link>https://www.bilibili.com/video/BV1G6T76sEeE</link>
-        <guid isPermaLink="false">bilibili-116851011031447</guid>
-        <pubDate>Fri, 03 Jul 2026 08:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：鹿头军师</p>
-<p>这期开头有点引战，但其实是个比较正经的学术分析视频，由于这个话题最终一定会演变成明清大战，既然无法避免，那不如我先痛快痛快。</p><p><a href="https://www.bilibili.com/video/BV1G6T76sEeE">查看原文 →</a></p>]]></description>
-        <author><![CDATA[鹿头军师]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-07-03): 6 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1s6Tp6fEqY</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-07-03-d13e0e33</guid>
-        <pubDate>Fri, 03 Jul 2026 07:00:00 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1s6Tp6fEqY">花旗看衰，先导基电盈利前景持续承压</a></li>
-<li><a href="https://www.bilibili.com/video/BV1UYTp6eEhA">【英文原声】花旗看衰，先导基电盈利前景持续承压</a></li>
-<li><a href="https://www.bilibili.com/video/BV14BTp6cE72">【英文原声】高盛看好，汇川技术IA收入增速向好</a></li>
-<li><a href="https://www.bilibili.com/video/BV14BTp6cE6Y">高盛看好，汇川技术IA收入增速向好</a></li>
-<li><a href="https://www.bilibili.com/video/BV15XTj64EFn">高盛看衰，中炬高新盈利预警超预期解读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1eXTj64Epu">【英文原声】高盛看衰，中炬高新盈利预警超预期解读</a></li>
-</ul>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 硅谷101：美国AI研究员的中国之旅：年轻人，追赶者，算力焦虑与“AGI展示厅” ｜专访Nathan Lambert【101视频播客】]]></title>
-        <link>https://www.bilibili.com/video/BV1HXTs6bEzH</link>
-        <guid isPermaLink="false">bilibili-116854534184366</guid>
-        <pubDate>Fri, 03 Jul 2026 06:10:30 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：硅谷101</p>
-<p>2026年4月，美国AI研究者Nathan Lambert来到中国，走访了阿里巴巴、月之暗面、智谱、清华、美团、小米、蚂蚁、零一万物等AI团队。
-
-他说：“能见到这些技术背后的人，我真的很高兴。”
-
-作为长期关注开放模型的研究者，他想知道的不是某一个模型到底强不强，而是这些模型背后的组织和产业生态，究竟是如何运转的。
-
-在他看来，中国AI正在被重新理解。它不只是DeepSeek之后的短暂热潮，也不</p><p><a href="https://www.bilibili.com/video/BV1HXTs6bEzH">查看原文 →</a></p>]]></description>
-        <author><![CDATA[硅谷101]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Grandpagu顾爷：AAAAA中国国家博物馆全攻略]]></title>
-        <link>https://www.bilibili.com/video/BV1VGTx61E56</link>
-        <guid isPermaLink="false">bilibili-116854316077436</guid>
-        <pubDate>Fri, 03 Jul 2026 05:13:56 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Grandpagu顾爷</p>
-<p><a href="https://www.bilibili.com/video/BV1VGTx61E56">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Grandpagu顾爷]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Claude Code Artifacts 功能面向 Pro 和 Max 用户开放【AI 早报 2026-07-03】]]></title>
-        <link>https://www.bilibili.com/video/BV147TW6eErb</link>
-        <guid isPermaLink="false">bilibili-116853494057079</guid>
-        <pubDate>Fri, 03 Jul 2026 01:43:45 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/eud4LWJAKDW4h5gHuRVgKg</p><p><a href="https://www.bilibili.com/video/BV147TW6eErb">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【生肉】🌸 KKU PLAY 🕹️ #5 | 宮脇咲良游戏直播(中字待更) 260702]]></title>
-        <link>https://www.bilibili.com/video/BV1d1TW65Eci</link>
-        <guid isPermaLink="false">bilibili-116853393332062</guid>
-        <pubDate>Fri, 03 Jul 2026 01:19:02 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>wvs
-资源：末末
-翻译：
-时间轴：
-校对/合轴/压制：
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1d1TW65Eci">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【生肉】🐱rokkurokku🐱 宮脇咲良&IROHA 连线直播(中字待更) 260629]]></title>
-        <link>https://www.bilibili.com/video/BV1R2TW6CEsk</link>
-        <guid isPermaLink="false">bilibili-116853376553430</guid>
-        <pubDate>Fri, 03 Jul 2026 01:15:33 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>资源：末末
-翻译：
-时间轴：
-校对/合轴/压制：
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1R2TW6CEsk">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-07-02): 2 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1hsTn6wEut</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-07-02-d13e0e33</guid>
-        <pubDate>Thu, 02 Jul 2026 15:17:52 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1hsTn6wEut">《华尔街日报》7月2日全文精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1hsTn6wEM6">【英文原声】《华尔街日报》7月2日全文精读</a></li>
-</ul>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
         <category>B站</category>
     </item>
     
