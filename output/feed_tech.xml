@@ -5,27 +5,73 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 10 Jul 2026 22:39:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 22:20:36 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月10日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月11日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-10</guid>
-        <pubDate>Fri, 10 Jul 2026 22:39:34 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-07-11</guid>
+        <pubDate>Sat, 11 Jul 2026 22:20:36 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 07月10日 22:39 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 07月11日 22:20 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-10</guid>
-        <pubDate>Fri, 10 Jul 2026 22:39:34 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 20 items</p><p><b>🎮 生活分享流 (life):</b> 24 items</p><p><b>🆕 本次新增:</b> 13 items</p><p><b>📦 数据库总量:</b> 2644 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-07-11</guid>
+        <pubDate>Sat, 11 Jul 2026 22:20:36 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 20 items</p><p><b>🎮 生活分享流 (life):</b> 25 items</p><p><b>🆕 本次新增:</b> 21 items</p><p><b>📦 数据库总量:</b> 2665 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客 (2026-07-11): 8 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1foNc6DEEx</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-07-11-d13e0e33</guid>
+        <pubDate>Sat, 11 Jul 2026 10:36:55 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1foNc6DEEx">【英文原声】花旗看好恒立液压，丝杠打入美系机器人链</a></li>
+<li><a href="https://www.bilibili.com/video/BV1foNc6DEmP">花旗看好恒立液压，丝杠打入美系机器人链</a></li>
+<li><a href="https://www.bilibili.com/video/BV1woNx6ZEgT">【英文原声】高盛聚焦鼎泰高科，泰国产能加速爬坡放量</a></li>
+<li><a href="https://www.bilibili.com/video/BV1coNx6ZErg">高盛聚焦鼎泰高科，泰国产能加速爬坡放量</a></li>
+<li><a href="https://www.bilibili.com/video/BV1NeN76rEfi">【英文原声】瑞银看好中国中免，海南二季度增速明显放缓</a></li>
+<li><a href="https://www.bilibili.com/video/BV11eN76rExm">瑞银看好中国中免，海南二季度增速明显放缓</a></li>
+<li><a href="https://www.bilibili.com/video/BV1MzNW6aEj6">《华尔街日报》7月10日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1yTNW6WEKX">【英文原声】《华尔街日报》7月10日全文精读</a></li>
+</ul>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点122期」AI求职助手、Photoshop版GIMP、Agent省Token插件、本地会议助手和Office文档CLI]]></title>
+        <link>https://www.bilibili.com/video/BV1DEN46kEBS</link>
+        <guid isPermaLink="false">bilibili-116899731998757</guid>
+        <pubDate>Sat, 11 Jul 2026 05:40:16 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：IT咖啡馆</p>
+<p>1、项目名称：ai-job-search - 基于 Claude Code 的 AI 求职工作流
+GitHub 链接：https://github.com/MadsLorentzen/ai-job-search
+GitHub 链接：https://github.com/Chozzc/Lujie-Careerkit
+2、项目名称：PhotoGIMP - 把 GIMP 改造成 Photoshop 风格</p><p><a href="https://www.bilibili.com/video/BV1DEN46kEBS">查看原文 →</a></p>]]></description>
+        <author><![CDATA[IT咖啡馆]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：快手 KwaiKAT 发布 KAT-Coder-Pro V2.5 模型【AI 早报 2026-07-11】]]></title>
+        <link>https://www.bilibili.com/video/BV1bcNx6KELV</link>
+        <guid isPermaLink="false">bilibili-116898708588568</guid>
+        <pubDate>Sat, 11 Jul 2026 01:24:45 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/4TE0dsF0bsLIGXbsgAR_3g</p><p><a href="https://www.bilibili.com/video/BV1bcNx6KELV">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -284,55 +330,6 @@
 00:18 社区报告 Claude Code 疑似跨会话缓存泄漏，Agent输出无关内容
 00:31 社区报告 Codex 推理token异常聚类或致复杂任务表现下降
 00:47 Anthropic 宣布</p><p><a href="https://www.bilibili.com/video/BV1zeMT6rEMG">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-07-04): 10 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1ErMF69Em4</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-07-04-d13e0e33</guid>
-        <pubDate>Sat, 04 Jul 2026 10:00:00 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1ErMF69Em4">杰富瑞看好，潍柴动力发电机组放量在即</a></li>
-<li><a href="https://www.bilibili.com/video/BV1f6MF6WEyB">【英文原声】杰富瑞看好，潍柴动力发电机组放量在即</a></li>
-<li><a href="https://www.bilibili.com/video/BV1TWMF6KEuv">摩根看好，万华化学迎来竞对扩产冲击</a></li>
-<li><a href="https://www.bilibili.com/video/BV1TWMF6KEp3">摩根看好，万华化学迎来竞对扩产冲击</a></li>
-<li><a href="https://www.bilibili.com/video/BV1yuMc6eEXn">【英文原声】瑞银看好，Meta测试算力对外开放</a></li>
-<li><a href="https://www.bilibili.com/video/BV12mMc6BEin">瑞银看好，Meta测试算力对外开放</a></li>
-<li><a href="https://www.bilibili.com/video/BV1bYTp6eENV">高盛观望，阳光电源回应美国禁令传闻</a></li>
-<li><a href="https://www.bilibili.com/video/BV1UYTp6eEtk">【英文原声】高盛观望，阳光电源回应美国禁令传闻</a></li>
-<li><a href="https://www.bilibili.com/video/BV1cBTt6iEpq">《华尔街日报》7月3日全文精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV13ZTt6XEyU">【英文原声】《华尔街日报》7月3日全文精读</a></li>
-</ul>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点121期」DeepSeek推理加速框架、Google设计记忆规范、AI投研技能包、AI渗透测试和免费开发者资源清单]]></title>
-        <link>https://www.bilibili.com/video/BV19SMF67EoZ</link>
-        <guid isPermaLink="false">bilibili-116860171323901</guid>
-        <pubDate>Sat, 04 Jul 2026 06:04:56 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：IT咖啡馆</p>
-<p>1、项目名称：DeepSpec - DeepSeek 的推理加速框架
-GitHub 链接：https://github.com/deepseek-ai/DeepSpec
-2、项目名称：DESIGN.md - 给 AI 编程 Agent 用的设计系统记忆格式
-GitHub 链接：https://github.com/google-labs-code/design.md
-3、项目名称：AI Berks</p><p><a href="https://www.bilibili.com/video/BV19SMF67EoZ">查看原文 →</a></p>]]></description>
-        <author><![CDATA[IT咖啡馆]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Mistral AI 发布开源形式化验证模型 Leanstra 1.5【AI 早报 2026-07-04】]]></title>
-        <link>https://www.bilibili.com/video/BV1hYTf6gEQY</link>
-        <guid isPermaLink="false">bilibili-116858929809863</guid>
-        <pubDate>Sat, 04 Jul 2026 00:46:08 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/0mtyup3VpwnYQqO_E10jxw</p><p><a href="https://www.bilibili.com/video/BV1hYTf6gEQY">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
