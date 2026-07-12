@@ -5,27 +5,58 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 11 Jul 2026 22:20:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 22:30:24 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月11日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月12日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-11</guid>
-        <pubDate>Sat, 11 Jul 2026 22:20:36 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-07-12</guid>
+        <pubDate>Sun, 12 Jul 2026 22:30:24 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 07月11日 22:20 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 07月12日 22:30 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-11</guid>
-        <pubDate>Sat, 11 Jul 2026 22:20:36 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 20 items</p><p><b>🎮 生活分享流 (life):</b> 25 items</p><p><b>🆕 本次新增:</b> 21 items</p><p><b>📦 数据库总量:</b> 2665 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-07-12</guid>
+        <pubDate>Sun, 12 Jul 2026 22:30:24 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 19 items</p><p><b>🎮 生活分享流 (life):</b> 29 items</p><p><b>🆕 本次新增:</b> 16 items</p><p><b>📦 数据库总量:</b> 2681 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客 (2026-07-12): 8 posts]]></title>
+        <link>https://www.bilibili.com/video/BV11fNu6HEqp</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-07-12-d13e0e33</guid>
+        <pubDate>Sun, 12 Jul 2026 10:00:00 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV11fNu6HEqp">高盛聚焦广合科技，泰国工厂利用率提升</a></li>
+<li><a href="https://www.bilibili.com/video/BV11fNu6HEib">【英文原声】高盛聚焦广合科技，泰国工厂利用率提升</a></li>
+<li><a href="https://www.bilibili.com/video/BV1CANg6UE1b">野村看好鼎龙股份，抛光液创单月历史新高</a></li>
+<li><a href="https://www.bilibili.com/video/BV1AANg6SEqE">【英文原声】野村看好鼎龙股份，抛光液创单月历史新高</a></li>
+<li><a href="https://www.bilibili.com/video/BV1SaNg6fEiK">【英文原声】《华尔街日报》7月11日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1SaNg6fEt2">《华尔街日报》7月11日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1BoNc6DEmz">摩根聚焦盛新锂能，印尼放量锂价拐点渐显</a></li>
+<li><a href="https://www.bilibili.com/video/BV1zdNc6HEdy">【英文原声】摩根聚焦盛新锂能，印尼放量锂价拐点渐显</a></li>
+</ul>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：智谱创始人唐杰发布内部信 宣布启动Touch High计划【AI 早报 2026-07-12】]]></title>
+        <link>https://www.bilibili.com/video/BV1ejNK6WE4Y</link>
+        <guid isPermaLink="false">bilibili-116904295399963</guid>
+        <pubDate>Sun, 12 Jul 2026 01:00:20 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版：https://mp.weixin.qq.com/s/Ap906wHG1INyDYwILp3dZg</p><p><a href="https://www.bilibili.com/video/BV1ejNK6WE4Y">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -285,51 +316,6 @@ GitHub 链接：https://github.com/Chozzc/Lujie-Careerkit
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/_IOHXNDlRWVjgbYMb5hNRQ
 
 今天开始增加“观众投稿环节”，欢迎大家**自带视频**投稿介绍自己的项目，但需要是开源免费的项目，有意者可联系 imjuyaya@gmail.com（请勿直接私信）。</p><p><a href="https://www.bilibili.com/video/BV1eMTU62EJh">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-07-05): 5 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1hYMM6wEHN</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-07-05-d13e0e33</guid>
-        <pubDate>Sun, 05 Jul 2026 06:18:15 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1hYMM6wEHN">野村看好，存储芯片短缺被严重看空了</a></li>
-<li><a href="https://www.bilibili.com/video/BV1ueMM6hEYE">【英文原声】摩根观望，中国互联网选股比拼确定性</a></li>
-<li><a href="https://www.bilibili.com/video/BV1UGMT6dEmB">摩根观望，中国互联网选股比拼确定性</a></li>
-<li><a href="https://www.bilibili.com/video/BV1U5MT6sETY">【英文原声】摩根看好，国瓷材料粉体扩产产业回暖</a></li>
-<li><a href="https://www.bilibili.com/video/BV1g3MT6tEw1">摩根看好，国瓷材料粉体扩产产业回暖</a></li>
-</ul>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 秋芝2046：从零开始，学会让桌面Agent帮你干活！【小白教程】]]></title>
-        <link>https://www.bilibili.com/video/BV1j9MP6wEV9</link>
-        <guid isPermaLink="false">bilibili-116861865887789</guid>
-        <pubDate>Sun, 05 Jul 2026 02:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：秋芝2046</p>
-<p>用不上codex的朋友们！新的国产Agent直接上手，来跑通8大用法～
-感谢朋友们的三连+关注～</p><p><a href="https://www.bilibili.com/video/BV1j9MP6wEV9">查看原文 →</a></p>]]></description>
-        <author><![CDATA[秋芝2046]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Anthropic上调Claude API速率限制并简化层级【AI 早报 2026-07-05】]]></title>
-        <link>https://www.bilibili.com/video/BV1zeMT6rEMG</link>
-        <guid isPermaLink="false">bilibili-116864600507327</guid>
-        <pubDate>Sun, 05 Jul 2026 00:48:09 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/nbySAGDfQFD92ViK-n2wsA
-00:09 Anthropic上调Claude API速率限制并简化层级
-00:18 社区报告 Claude Code 疑似跨会话缓存泄漏，Agent输出无关内容
-00:31 社区报告 Codex 推理token异常聚类或致复杂任务表现下降
-00:47 Anthropic 宣布</p><p><a href="https://www.bilibili.com/video/BV1zeMT6rEMG">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
