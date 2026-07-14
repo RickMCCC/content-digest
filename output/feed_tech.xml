@@ -5,27 +5,74 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 13 Jul 2026 22:33:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 22:36:49 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月13日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月14日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-13</guid>
-        <pubDate>Mon, 13 Jul 2026 22:33:49 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-07-14</guid>
+        <pubDate>Tue, 14 Jul 2026 22:36:49 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 07月13日 22:33 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 07月14日 22:36 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-13</guid>
-        <pubDate>Mon, 13 Jul 2026 22:33:49 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 20 items</p><p><b>🎮 生活分享流 (life):</b> 29 items</p><p><b>🆕 本次新增:</b> 15 items</p><p><b>📦 数据库总量:</b> 2696 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-07-14</guid>
+        <pubDate>Tue, 14 Jul 2026 22:36:49 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 20 items</p><p><b>🎮 生活分享流 (life):</b> 29 items</p><p><b>🆕 本次新增:</b> 19 items</p><p><b>📦 数据库总量:</b> 2715 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客 (2026-07-14): 8 posts]]></title>
+        <link>https://www.bilibili.com/video/BV143Nt6TEAJ</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-07-14-d13e0e33</guid>
+        <pubDate>Tue, 14 Jul 2026 12:53:18 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV143Nt6TEAJ">【英文原声】《华尔街日报》7月14日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1sGNt6iE9V">《华尔街日报》7月14日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1YrNX6XE8x">高盛看好鹏鼎控股，新工厂投产即制造升级</a></li>
+<li><a href="https://www.bilibili.com/video/BV19rNX6XEnk">【英文原声】高盛看好鹏鼎控股，新工厂投产即制造升级</a></li>
+<li><a href="https://www.bilibili.com/video/BV1YrNX6XEqo">【英文原声】高盛聚焦晶合集成，新产能试产结构再升级</a></li>
+<li><a href="https://www.bilibili.com/video/BV15qNX6sESM">高盛聚焦晶合集成，新产能试产结构再升级</a></li>
+<li><a href="https://www.bilibili.com/video/BV1whN167Eaq">高盛看好沪电股份，产品结构升级信号显现</a></li>
+<li><a href="https://www.bilibili.com/video/BV1BfNy6uEHR">【英文原声】高盛看好沪电股份，产品结构升级信号显现</a></li>
+</ul>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 巫师财经：【巫师】中国压根就不存在男女对立，集美Sunshine都是遮羞布]]></title>
+        <link>https://www.bilibili.com/video/BV1z5N96cECV</link>
+        <guid isPermaLink="false">bilibili-116917281034730</guid>
+        <pubDate>Tue, 14 Jul 2026 08:20:04 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：巫师财经</p>
+<p><a href="https://www.bilibili.com/video/BV1z5N96cECV">查看原文 →</a></p>]]></description>
+        <author><![CDATA[巫师财经]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 3Blue1Brown：【官方双语】压缩即智能：Part1，重新发明熵]]></title>
+        <link>https://www.bilibili.com/video/BV1yVNU6xERx</link>
+        <guid isPermaLink="false">bilibili-116913858418468</guid>
+        <pubDate>Tue, 14 Jul 2026 01:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：3Blue1Brown</p>
+<p>本视频从香农与妻子猜字母的经典实验切入，梳理信息论中语言可压缩性的底层原理  
+Reinventing Entropy | Compression is Intelligence Part 1  
+https://youtu.be/l6DKRf-fAAM   
+翻译&时间轴：贰鼠  校正：畏狐之狐  
+感谢观众的支持: https://3b1b.co/support 一键三联与分享，也是最大的支持</p><p><a href="https://www.bilibili.com/video/BV1yVNU6xERx">查看原文 →</a></p>]]></description>
+        <author><![CDATA[3Blue1Brown]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -282,55 +329,6 @@ GitHub 链接：https://github.com/Chozzc/Lujie-Careerkit
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/H-lzeQB3bDj5iHDupOyYuw</p><p><a href="https://www.bilibili.com/video/BV1PhMe6bEXc">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-07-07): 10 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1tYMb6QEsv</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-07-07-d13e0e33</guid>
-        <pubDate>Tue, 07 Jul 2026 11:37:43 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1tYMb6QEsv">【英文原声】《华尔街日报》7月7日全文精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1bYMb6QEhq">《华尔街日报》7月7日全文精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV19yM86AEk3">高盛聚焦绿的谐波，人形需求升温产能吃紧</a></li>
-<li><a href="https://www.bilibili.com/video/BV1RyM86PEAe">【英文原声】高盛聚焦绿的谐波，人形需求升温产能吃紧</a></li>
-<li><a href="https://www.bilibili.com/video/BV1PWM86mEuS">【英文原声】高盛聚焦华润微，AI服务器电源加速扩张</a></li>
-<li><a href="https://www.bilibili.com/video/BV1PWM86mE7o">高盛聚焦华润微，AI服务器电源加速扩张</a></li>
-<li><a href="https://www.bilibili.com/video/BV1xiTR6QEyh">【全球好书】《席尔瓦心灵控制术》精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1xiTR6QEpY">【英文原声】【全球好书】《席尔瓦心灵控制术》精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1FuTR63ENN">摩根聚焦大中华科技硬件，老赛道全面承压</a></li>
-<li><a href="https://www.bilibili.com/video/BV1JuTR63ENB">【英文原声】摩根聚焦大中华科技硬件，老赛道全面承压</a></li>
-</ul>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 硅谷101：Tokenmaxxing后的理智与Agent落地｜探展亚马逊云科技中国峰会【硅谷101】]]></title>
-        <link>https://www.bilibili.com/video/BV1yPMb6rE5v</link>
-        <guid isPermaLink="false">bilibili-116876982096129</guid>
-        <pubDate>Tue, 07 Jul 2026 05:14:42 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：硅谷101</p>
-<p>2026年过半，AI行业的关键词正在从“堆Token、做Demo”转向“交付结果”。
-
-在亚马逊云科技中国峰会现场，我们和一线产品与技术人员聊了聊Agent真正进入产业后的变化：小说作者如何把故事变成AI短剧，普通投资者如何用自然语言做量化回测，药物研发如何被打通成更低门槛的工作流，不会写代码的人如何几分钟生成游戏，企业又如何用AI对抗AI带来的安全风险。
-
-当Agent接入各行各业，AI不再只是</p><p><a href="https://www.bilibili.com/video/BV1yPMb6rE5v">查看原文 →</a></p>]]></description>
-        <author><![CDATA[硅谷101]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：腾讯混元发布并开源 Hy3 模型【AI 早报 2026-07-07】]]></title>
-        <link>https://www.bilibili.com/video/BV1BMM46cEBo</link>
-        <guid isPermaLink="false">bilibili-116875841244654</guid>
-        <pubDate>Tue, 07 Jul 2026 00:27:36 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/MojZ4nIkbWyxO44esKfk2Q</p><p><a href="https://www.bilibili.com/video/BV1BMM46cEBo">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
