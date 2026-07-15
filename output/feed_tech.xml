@@ -5,25 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 14 Jul 2026 22:36:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 22:36:34 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月14日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月15日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-14</guid>
-        <pubDate>Tue, 14 Jul 2026 22:36:49 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-07-15</guid>
+        <pubDate>Wed, 15 Jul 2026 22:36:34 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 07月14日 22:36 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 07月15日 22:36 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-14</guid>
-        <pubDate>Tue, 14 Jul 2026 22:36:49 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 20 items</p><p><b>🎮 生活分享流 (life):</b> 29 items</p><p><b>🆕 本次新增:</b> 19 items</p><p><b>📦 数据库总量:</b> 2715 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-07-15</guid>
+        <pubDate>Wed, 15 Jul 2026 22:36:34 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 15 items</p><p><b>🎮 生活分享流 (life):</b> 27 items</p><p><b>🆕 本次新增:</b> 6 items</p><p><b>📦 数据库总量:</b> 2721 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -254,81 +254,6 @@ GitHub 链接：https://github.com/Chozzc/Lujie-Careerkit
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/gjTnADaX1qRO06k_EoHMJQ</p><p><a href="https://www.bilibili.com/video/BV1nPML6NEsH">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] IT咖啡馆：2026超全CodeX教程！从入门到高手，一次讲透]]></title>
-        <link>https://www.bilibili.com/video/BV1pGMg6WEu7</link>
-        <guid isPermaLink="false">bilibili-116884145963920</guid>
-        <pubDate>Wed, 08 Jul 2026 11:40:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：IT咖啡馆</p>
-<p>吐血分享，真的肝了很久，还是感觉有好多内容想聊。</p><p><a href="https://www.bilibili.com/video/BV1pGMg6WEu7">查看原文 →</a></p>]]></description>
-        <author><![CDATA[IT咖啡馆]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-07-08): 6 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1QVM36rEHv</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-07-08-d13e0e33</guid>
-        <pubDate>Wed, 08 Jul 2026 11:00:00 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1QVM36rEHv">【英文原声】摩根看好天山铝业，净利润翻倍新疆加税拖累</a></li>
-<li><a href="https://www.bilibili.com/video/BV1GVM36kEqs">摩根看好天山铝业，净利润翻倍新疆加税拖累</a></li>
-<li><a href="https://www.bilibili.com/video/BV1RuM365E3P">【英文原声】高盛聚焦华海药业，目标价上调至13元卖出</a></li>
-<li><a href="https://www.bilibili.com/video/BV1vuM36LEGS">高盛聚焦华海药业，目标价上调至13元卖出</a></li>
-<li><a href="https://www.bilibili.com/video/BV1oBM86TE89">高盛看好万辰集团，门店拓张强劲单店稳健</a></li>
-<li><a href="https://www.bilibili.com/video/BV1oBM86TEC3">【英文原声】高盛看好万辰集团，门店拓张强劲单店稳健</a></li>
-</ul>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 量化投资邢不行啊：A股唯一不骗人的技术指标?收割量化资金的终极战法?量比指标真有这么神奇吗?Python量化热门大师指标,1000万条数据揭秘网红战法真相 | 量化投资邢不行啊]]></title>
-        <link>https://www.bilibili.com/video/BV1G6Mv6GERx</link>
-        <guid isPermaLink="false">bilibili-116883055579392</guid>
-        <pubDate>Wed, 08 Jul 2026 09:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：量化投资邢不行啊</p>
-<p>谨记网上大师千千万，
-论看图说话都是王者，
-但凡经历大数据拷打，
-十有八九会露出破绽。
-
-喜欢视频记得三连，并点个关注～
-
-往期视频精选：
-涨停基因战法：BV1iwG16QEvJ
-2560冠军策略：BV1wS516qEhB
-同花顺股神策略：BV1sWQ7BHExm</p><p><a href="https://www.bilibili.com/video/BV1G6Mv6GERx">查看原文 →</a></p>]]></description>
-        <author><![CDATA[量化投资邢不行啊]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：突发：OpenAI 官宣 GPT-5.6 当地时间本周四公开发布，美国商务部已放行]]></title>
-        <link>https://www.bilibili.com/video/BV1yeMi6NEBa</link>
-        <guid isPermaLink="false">bilibili-116882535484702</guid>
-        <pubDate>Wed, 08 Jul 2026 04:46:35 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1yeMi6NEBa">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Anthropic延长Claude Fable 5促销体验至7月12日【AI 早报 2026-07-08】]]></title>
-        <link>https://www.bilibili.com/video/BV1PhMe6bEXc</link>
-        <guid isPermaLink="false">bilibili-116881730045860</guid>
-        <pubDate>Wed, 08 Jul 2026 01:23:59 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/H-lzeQB3bDj5iHDupOyYuw</p><p><a href="https://www.bilibili.com/video/BV1PhMe6bEXc">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
