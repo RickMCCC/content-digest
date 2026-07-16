@@ -5,25 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 15 Jul 2026 22:36:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 22:36:04 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月15日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月16日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-15</guid>
-        <pubDate>Wed, 15 Jul 2026 22:36:34 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-07-16</guid>
+        <pubDate>Thu, 16 Jul 2026 22:36:04 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 07月15日 22:36 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 07月16日 22:36 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-15</guid>
-        <pubDate>Wed, 15 Jul 2026 22:36:34 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 15 items</p><p><b>🎮 生活分享流 (life):</b> 27 items</p><p><b>🆕 本次新增:</b> 6 items</p><p><b>📦 数据库总量:</b> 2721 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-07-16</guid>
+        <pubDate>Thu, 16 Jul 2026 22:36:04 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 14 items</p><p><b>🎮 生活分享流 (life):</b> 25 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 2721 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -227,34 +227,14 @@ GitHub 链接：https://github.com/Chozzc/Lujie-Careerkit
     </item>
     
     <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-07-09): 9 posts]]></title>
+        <title><![CDATA[[B站] 华尔街播客：《华尔街日报》7月9日全文精读]]></title>
         <link>https://www.bilibili.com/video/BV1DVMn6YEtR</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-07-09-d13e0e33</guid>
+        <guid isPermaLink="false">bilibili-116890722700252</guid>
         <pubDate>Thu, 09 Jul 2026 15:32:30 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1DVMn6YEtR">《华尔街日报》7月9日全文精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1HtME6LEHU">高盛看好三花智控，商用液冷双引擎发力</a></li>
-<li><a href="https://www.bilibili.com/video/BV1wtME6jEWj">【英文原声】高盛看好三花智控，商用液冷双引擎发力</a></li>
-<li><a href="https://www.bilibili.com/video/BV1nbME6yEUd">【英文原声】汇丰看好北方华创，卡位玻璃基板新赛道</a></li>
-<li><a href="https://www.bilibili.com/video/BV1rbME6yE6a">汇丰看好北方华创，卡位玻璃基板新赛道</a></li>
-<li><a href="https://www.bilibili.com/video/BV1XGM36GE1N">摩根看好招商轮船，二季度盈利强劲改善</a></li>
-<li><a href="https://www.bilibili.com/video/BV1u6Mg6NELq">【英文原声】摩根看好招商轮船，二季度盈利强劲改善</a></li>
-<li><a href="https://www.bilibili.com/video/BV19DM36jEZu">【英文原声】《华尔街日报》7月8日全文精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1d1M36SE2X">《华尔街日报》7月8日全文精读</a></li>
-</ul>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：SpaceXAI 正式发布 Grok 4.5 模型【AI 早报 2026-07-09】]]></title>
-        <link>https://www.bilibili.com/video/BV1nPML6NEsH</link>
-        <guid isPermaLink="false">bilibili-116887333702118</guid>
-        <pubDate>Thu, 09 Jul 2026 01:10:57 GMT</pubDate>
         <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/gjTnADaX1qRO06k_EoHMJQ</p><p><a href="https://www.bilibili.com/video/BV1nPML6NEsH">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
+<p>✍️ 作者：华尔街播客</p>
+<p>本期华尔街日报聚焦AI产业对宏观与资本市场的连锁影响。美联储会议纪要显示，官员开始将AI基建支出视为通胀新变量，加息预期升温。企业层面，摩根大通新设中小盘并购团队，欧洲银行业出现跨境整合案例，供应链自主化动作也在加快。全球并购规模创下新高，AI与自动驾驶相关企业掀起上市热潮，市场对相关公司的盈利兑现节奏保持谨慎。</p><p><a href="https://www.bilibili.com/video/BV1DVMn6YEtR">查看原文 →</a></p>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
         <category>B站</category>
     </item>
     
