@@ -5,27 +5,39 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 16 Jul 2026 22:36:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 22:22:11 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月16日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月17日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-16</guid>
-        <pubDate>Thu, 16 Jul 2026 22:36:04 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-07-17</guid>
+        <pubDate>Fri, 17 Jul 2026 22:22:11 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 07月16日 22:36 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 07月17日 22:22 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-16</guid>
-        <pubDate>Thu, 16 Jul 2026 22:36:04 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 14 items</p><p><b>🎮 生活分享流 (life):</b> 25 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 2721 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-07-17</guid>
+        <pubDate>Fri, 17 Jul 2026 22:22:11 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 12 items</p><p><b>🎮 生活分享流 (life):</b> 22 items</p><p><b>🆕 本次新增:</b> 2 items</p><p><b>📦 数据库总量:</b> 2723 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 巫师财经：【巫师】扒一扒邹市明冉莹颖经济链，今年内娱最成功的操盘]]></title>
+        <link>https://www.bilibili.com/video/BV13aNd64EXD</link>
+        <guid isPermaLink="false">bilibili-116934897049360</guid>
+        <pubDate>Fri, 17 Jul 2026 10:47:13 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：巫师财经</p>
+<p><a href="https://www.bilibili.com/video/BV13aNd64EXD">查看原文 →</a></p>]]></description>
+        <author><![CDATA[巫师财经]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -194,47 +206,6 @@ GitHub 链接：https://github.com/Chozzc/Lujie-Careerkit
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/4TE0dsF0bsLIGXbsgAR_3g</p><p><a href="https://www.bilibili.com/video/BV1bcNx6KELV">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-07-10): 6 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1PiN76gErE</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-07-10-d13e0e33</guid>
-        <pubDate>Fri, 10 Jul 2026 10:00:00 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1PiN76gErE">高盛看好胜宏科技，产品结构持续向上升级</a></li>
-<li><a href="https://www.bilibili.com/video/BV1siN76gEap">【英文原声】高盛看好胜宏科技，产品结构持续向上升级</a></li>
-<li><a href="https://www.bilibili.com/video/BV1eLN769EsX">花旗聚焦京东方，第二增长曲线正渐次落地</a></li>
-<li><a href="https://www.bilibili.com/video/BV1eLN769EW6">【英文原声】花旗聚焦京东方，第二增长曲线正渐次落地</a></li>
-<li><a href="https://www.bilibili.com/video/BV1WpME6UEy4">【英文原声】野村看好中际旭创，卡位下一代封装赛道</a></li>
-<li><a href="https://www.bilibili.com/video/BV1PpME6SE9c">野村看好中际旭创，卡位下一代封装赛道</a></li>
-</ul>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：OpenAI 正式向公众开放 GPT-5.6 模型系列；Meta 发布 Muse Spark 1.1 模型【AI 早报 2026-07-10】]]></title>
-        <link>https://www.bilibili.com/video/BV1YiNj6nE7n</link>
-        <guid isPermaLink="false">bilibili-116893222440357</guid>
-        <pubDate>Fri, 10 Jul 2026 02:07:29 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/jeND4iYI0VXi7T-TF1CrWg</p><p><a href="https://www.bilibili.com/video/BV1YiNj6nE7n">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：《华尔街日报》7月9日全文精读]]></title>
-        <link>https://www.bilibili.com/video/BV1DVMn6YEtR</link>
-        <guid isPermaLink="false">bilibili-116890722700252</guid>
-        <pubDate>Thu, 09 Jul 2026 15:32:30 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>本期华尔街日报聚焦AI产业对宏观与资本市场的连锁影响。美联储会议纪要显示，官员开始将AI基建支出视为通胀新变量，加息预期升温。企业层面，摩根大通新设中小盘并购团队，欧洲银行业出现跨境整合案例，供应链自主化动作也在加快。全球并购规模创下新高，AI与自动驾驶相关企业掀起上市热潮，市场对相关公司的盈利兑现节奏保持谨慎。</p><p><a href="https://www.bilibili.com/video/BV1DVMn6YEtR">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
         <category>B站</category>
     </item>
     
