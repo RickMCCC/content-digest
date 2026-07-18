@@ -5,27 +5,55 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 17 Jul 2026 22:22:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 22:29:31 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月17日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月18日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-17</guid>
-        <pubDate>Fri, 17 Jul 2026 22:22:11 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-07-18</guid>
+        <pubDate>Sat, 18 Jul 2026 22:29:31 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 07月17日 22:22 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 07月18日 22:29 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-17</guid>
-        <pubDate>Fri, 17 Jul 2026 22:22:11 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 12 items</p><p><b>🎮 生活分享流 (life):</b> 22 items</p><p><b>🆕 本次新增:</b> 2 items</p><p><b>📦 数据库总量:</b> 2723 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-07-18</guid>
+        <pubDate>Sat, 18 Jul 2026 22:29:31 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 15 items</p><p><b>🎮 生活分享流 (life):</b> 22 items</p><p><b>🆕 本次新增:</b> 11 items</p><p><b>📦 数据库总量:</b> 2734 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点123期」最强多说话人 ASR 模型、并行Agent工作台、DESIGNMD集、AI交易Agent和健身动作数据集]]></title>
+        <link>https://www.bilibili.com/video/BV11WNo6DErc</link>
+        <guid isPermaLink="false">bilibili-116936406992290</guid>
+        <pubDate>Sat, 18 Jul 2026 02:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：IT咖啡馆</p>
+<p>1、项目名称：MOSS-Transcribe-Diarize - 长音频多说话人转写与分离模型
+GitHub 链接：https://github.com/OpenMOSS/MOSS-Transcribe-Diarize
+2、项目名称：Orca - 并行 AI Agent 工作台
+GitHub 链接：https://github.com/stablyai/orca
+3、项目名称：awesome-de</p><p><a href="https://www.bilibili.com/video/BV11WNo6DErc">查看原文 →</a></p>]]></description>
+        <author><![CDATA[IT咖啡馆]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：InternLM 发布 Intern-S2-Preview-397B 多模态推理模型【AI 早报 2026-07-18】]]></title>
+        <link>https://www.bilibili.com/video/BV17KKc6SE2J</link>
+        <guid isPermaLink="false">bilibili-116938269330162</guid>
+        <pubDate>Sat, 18 Jul 2026 01:03:59 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/M_-TYe5BnjHicdrEB04xDg</p><p><a href="https://www.bilibili.com/video/BV17KKc6SE2J">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -37,6 +65,43 @@
 <p>✍️ 作者：巫师财经</p>
 <p><a href="https://www.bilibili.com/video/BV13aNd64EXD">查看原文 →</a></p>]]></description>
         <author><![CDATA[巫师财经]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：月之暗面正式发布 Kimi K3，总参数 2.8T 【AI 早报 2026-07-17】]]></title>
+        <link>https://www.bilibili.com/video/BV1nSKj6vE6N</link>
+        <guid isPermaLink="false">bilibili-116932514679328</guid>
+        <pubDate>Fri, 17 Jul 2026 00:37:01 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/Lwuyf-na_Ef-ipXrvGi8CQ</p><p><a href="https://www.bilibili.com/video/BV1nSKj6vE6N">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：SpaceXAI 开源 Grok Build、重置额度并关闭默认数据留存【AI 早报 2026-07-16】]]></title>
+        <link>https://www.bilibili.com/video/BV14nKM6pEro</link>
+        <guid isPermaLink="false">bilibili-116927078862148</guid>
+        <pubDate>Thu, 16 Jul 2026 01:37:02 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/ljq-C0lzIgtJvXqtX5CQYQ</p><p><a href="https://www.bilibili.com/video/BV14nKM6pEro">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenAI Codex 活跃用户破800万，再次重置用量【AI 早报 2026-07-15】]]></title>
+        <link>https://www.bilibili.com/video/BV1eNNe6vEDV</link>
+        <guid isPermaLink="false">bilibili-116921324275472</guid>
+        <pubDate>Wed, 15 Jul 2026 01:19:04 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>AI工作搭子，团队/个人资料存储神器，集核云软盘：https://ardisk.cn/download/?utm_source=bilibili&utm_medium=kol&utm_campaign=B-BIL-2605-386&link_id=243LBJLXDD&invite_code=KRY2E5GW
+文字版和相关链接请看：https://mp.weixin.qq.com/s/0_m6i-</p><p><a href="https://www.bilibili.com/video/BV1eNNe6vEDV">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
@@ -68,6 +133,18 @@
 <p>✍️ 作者：巫师财经</p>
 <p><a href="https://www.bilibili.com/video/BV1z5N96cECV">查看原文 →</a></p>]]></description>
         <author><![CDATA[巫师财经]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Codex 周活用户达 700 万，官方发放重置次数庆祝【AI 早报 2026-07-14】]]></title>
+        <link>https://www.bilibili.com/video/BV1qeNX6tE8V</link>
+        <guid isPermaLink="false">bilibili-116915636799052</guid>
+        <pubDate>Tue, 14 Jul 2026 01:06:38 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/Fzoye8F6ZioGlOrT2PPnMg</p><p><a href="https://www.bilibili.com/video/BV1qeNX6tE8V">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
@@ -159,52 +236,6 @@ https://youtu.be/l6DKRf-fAAM
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版：https://mp.weixin.qq.com/s/Ap906wHG1INyDYwILp3dZg</p><p><a href="https://www.bilibili.com/video/BV1ejNK6WE4Y">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-07-11): 8 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1foNc6DEEx</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-07-11-d13e0e33</guid>
-        <pubDate>Sat, 11 Jul 2026 10:36:55 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1foNc6DEEx">【英文原声】花旗看好恒立液压，丝杠打入美系机器人链</a></li>
-<li><a href="https://www.bilibili.com/video/BV1foNc6DEmP">花旗看好恒立液压，丝杠打入美系机器人链</a></li>
-<li><a href="https://www.bilibili.com/video/BV1woNx6ZEgT">【英文原声】高盛聚焦鼎泰高科，泰国产能加速爬坡放量</a></li>
-<li><a href="https://www.bilibili.com/video/BV1coNx6ZErg">高盛聚焦鼎泰高科，泰国产能加速爬坡放量</a></li>
-<li><a href="https://www.bilibili.com/video/BV1NeN76rEfi">【英文原声】瑞银看好中国中免，海南二季度增速明显放缓</a></li>
-<li><a href="https://www.bilibili.com/video/BV11eN76rExm">瑞银看好中国中免，海南二季度增速明显放缓</a></li>
-<li><a href="https://www.bilibili.com/video/BV1MzNW6aEj6">《华尔街日报》7月10日全文精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1yTNW6WEKX">【英文原声】《华尔街日报》7月10日全文精读</a></li>
-</ul>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点122期」AI求职助手、Photoshop版GIMP、Agent省Token插件、本地会议助手和Office文档CLI]]></title>
-        <link>https://www.bilibili.com/video/BV1DEN46kEBS</link>
-        <guid isPermaLink="false">bilibili-116899731998757</guid>
-        <pubDate>Sat, 11 Jul 2026 05:40:16 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：IT咖啡馆</p>
-<p>1、项目名称：ai-job-search - 基于 Claude Code 的 AI 求职工作流
-GitHub 链接：https://github.com/MadsLorentzen/ai-job-search
-GitHub 链接：https://github.com/Chozzc/Lujie-Careerkit
-2、项目名称：PhotoGIMP - 把 GIMP 改造成 Photoshop 风格</p><p><a href="https://www.bilibili.com/video/BV1DEN46kEBS">查看原文 →</a></p>]]></description>
-        <author><![CDATA[IT咖啡馆]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：快手 KwaiKAT 发布 KAT-Coder-Pro V2.5 模型【AI 早报 2026-07-11】]]></title>
-        <link>https://www.bilibili.com/video/BV1bcNx6KELV</link>
-        <guid isPermaLink="false">bilibili-116898708588568</guid>
-        <pubDate>Sat, 11 Jul 2026 01:24:45 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/4TE0dsF0bsLIGXbsgAR_3g</p><p><a href="https://www.bilibili.com/video/BV1bcNx6KELV">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
