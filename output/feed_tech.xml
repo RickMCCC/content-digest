@@ -5,25 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 19 Jul 2026 22:33:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 22:38:31 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月19日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月20日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-19</guid>
-        <pubDate>Sun, 19 Jul 2026 22:33:36 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-07-20</guid>
+        <pubDate>Mon, 20 Jul 2026 22:38:31 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 07月19日 22:33 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 07月20日 22:38 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-19</guid>
-        <pubDate>Sun, 19 Jul 2026 22:33:36 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 16 items</p><p><b>🎮 生活分享流 (life):</b> 21 items</p><p><b>🆕 本次新增:</b> 24 items</p><p><b>📦 数据库总量:</b> 2758 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-07-20</guid>
+        <pubDate>Mon, 20 Jul 2026 22:38:31 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 14 items</p><p><b>🎮 生活分享流 (life):</b> 21 items</p><p><b>🆕 本次新增:</b> 5 items</p><p><b>📦 数据库总量:</b> 2763 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -209,47 +209,15 @@ https://youtu.be/l6DKRf-fAAM
     </item>
     
     <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-07-13): 8 posts]]></title>
+        <title><![CDATA[[B站] 华尔街播客 (2026-07-13): 2 posts]]></title>
         <link>https://www.bilibili.com/video/BV1FcNS6sEfL</link>
         <guid isPermaLink="false">bilibili-grouped-2026-07-13-d13e0e33</guid>
         <pubDate>Mon, 13 Jul 2026 15:40:32 GMT</pubDate>
         <description><![CDATA[<ul>
 <li><a href="https://www.bilibili.com/video/BV1FcNS6sEfL">【英文原声】《华尔街日报》7月13日全文精读</a></li>
 <li><a href="https://www.bilibili.com/video/BV1ncNS6WECd">《华尔街日报》7月13日全文精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1FqN16VEG5">野村看好湖北鼎龙，浆料出货创历史新高</a></li>
-<li><a href="https://www.bilibili.com/video/BV1fqN16GE9Z">【英文原声】野村看好湖北鼎龙，浆料出货创历史新高</a></li>
-<li><a href="https://www.bilibili.com/video/BV1MEN16xExF">【英文原声】高盛聚焦动态电子，AI服务器产能扩建提速</a></li>
-<li><a href="https://www.bilibili.com/video/BV1MEN16xEQ9">高盛聚焦动态电子，AI服务器产能扩建提速</a></li>
-<li><a href="https://www.bilibili.com/video/BV1RmNV6LEvQ">【英文原声】高盛聚焦浪潮信息，出货节奏明显加快提速</a></li>
-<li><a href="https://www.bilibili.com/video/BV1RmNV6LE1b">高盛聚焦浪潮信息，出货节奏明显加快提速</a></li>
 </ul>]]></description>
         <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 硅谷101：国际足联腐败史：英国老头、足球的权力共生网络与“免死金牌”【硅谷101】]]></title>
-        <link>https://www.bilibili.com/video/BV1rhNC6zE2z</link>
-        <guid isPermaLink="false">bilibili-116910771541011</guid>
-        <pubDate>Mon, 13 Jul 2026 04:29:39 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：硅谷101</p>
-<p>当2026世界杯再次成为全球焦点，很难想象，FIFA这个拥有巨大财富和影响力、掌控全球第一运动的组织，长期以来却只是一个受到有限监管的“非营利协会”。更讽刺的是，过去几十年里，FIFA几乎一直与腐败如影随形。
-
-一场从主席头顶飘落的“美元雨”，成了这套权力体系最直白的隐喻。高层默许地方足协和商业代理从转播、赞助与门票中获利，换取稳定的选票；体育记者为了保住采访资格选择沉默，直到一位英国调查记者撕开</p><p><a href="https://www.bilibili.com/video/BV1rhNC6zE2z">查看原文 →</a></p>]]></description>
-        <author><![CDATA[硅谷101]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Anthropic 延期 Fable 5 促销访问；Codex 临时取消 5小时用量限制并重置用量【AI 早报 2026-07-13】]]></title>
-        <link>https://www.bilibili.com/video/BV1E8Nr6aE84</link>
-        <guid isPermaLink="false">bilibili-116909949388871</guid>
-        <pubDate>Mon, 13 Jul 2026 00:59:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/QHZy3V_z34O7uiTGcKKLcg</p><p><a href="https://www.bilibili.com/video/BV1E8Nr6aE84">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
