@@ -5,27 +5,84 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 20 Jul 2026 22:38:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 22:34:36 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月20日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月21日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-20</guid>
-        <pubDate>Mon, 20 Jul 2026 22:38:31 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-07-21</guid>
+        <pubDate>Tue, 21 Jul 2026 22:34:36 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 07月20日 22:38 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 07月21日 22:34 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-20</guid>
-        <pubDate>Mon, 20 Jul 2026 22:38:31 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 14 items</p><p><b>🎮 生活分享流 (life):</b> 21 items</p><p><b>🆕 本次新增:</b> 5 items</p><p><b>📦 数据库总量:</b> 2763 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-07-21</guid>
+        <pubDate>Tue, 21 Jul 2026 22:34:36 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 14 items</p><p><b>🎮 生活分享流 (life):</b> 18 items</p><p><b>🆕 本次新增:</b> 14 items</p><p><b>📦 数据库总量:</b> 2777 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客 (2026-07-21): 10 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1kaKh6VEhq</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-07-21-d13e0e33</guid>
+        <pubDate>Tue, 21 Jul 2026 13:00:00 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1kaKh6VEhq">【英文原声】《华尔街日报》7月21日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1paKh65EQT">《华尔街日报》7月21日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1C3Ka62EdM">【英文原声】高盛看好新易盛，净利润大超预期44%</a></li>
+<li><a href="https://www.bilibili.com/video/BV1C3Ka62Emi">高盛看好新易盛，净利润大超预期44%</a></li>
+<li><a href="https://www.bilibili.com/video/BV1sMKa6UEkW">高盛看好贵州茅台，年内二度提价创节奏</a></li>
+<li><a href="https://www.bilibili.com/video/BV1NMKa6SEnN">【英文原声】高盛看好贵州茅台，年内二度提价创节奏</a></li>
+<li><a href="https://www.bilibili.com/video/BV1XXKh6fEu7">【英文原声】伯恩斯坦聚焦中国互联网，坏消息藏新故事</a></li>
+<li><a href="https://www.bilibili.com/video/BV1XXKh6fEWp">伯恩斯坦聚焦中国互联网，坏消息藏新故事</a></li>
+<li><a href="https://www.bilibili.com/video/BV1ktKb6MERp">【英文原声】【全球好书】《倒霉的人类学家》精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1kbKb6qEvi">【全球好书】《倒霉的人类学家》精读</a></li>
+</ul>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：DeepSeek V4 正式版未按计划上线，或将与官方 Harness 产品同步发布【AI 早报 2026-07-21】]]></title>
+        <link>https://www.bilibili.com/video/BV1HmKt6iEQu</link>
+        <guid isPermaLink="false">bilibili-116955382089810</guid>
+        <pubDate>Tue, 21 Jul 2026 01:34:11 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/cbISPTiMYGFqPDsB_rD9hA</p><p><a href="https://www.bilibili.com/video/BV1HmKt6iEQu">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：【橘鸦Juya】电脑装了一堆AI工具，有没有 All In One 方案啊！]]></title>
+        <link>https://www.bilibili.com/video/BV1j9K265ELY</link>
+        <guid isPermaLink="false">bilibili-116949946205581</guid>
+        <pubDate>Mon, 20 Jul 2026 03:30:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>如果只能保留一款AI工具，我的选择是……</p><p><a href="https://www.bilibili.com/video/BV1j9K265ELY">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：阿里巴巴千问上线 Qwen3.8-Max-Preview；月之暗面 Kimi 暂停个人用户新订阅【AI 早报 2026-07-20】]]></title>
+        <link>https://www.bilibili.com/video/BV16FKy6kEwq</link>
+        <guid isPermaLink="false">bilibili-116949694548103</guid>
+        <pubDate>Mon, 20 Jul 2026 01:29:38 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/7Un7vFh3EHuz56wn5mP-mw</p><p><a href="https://www.bilibili.com/video/BV16FKy6kEwq">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -44,6 +101,18 @@
 <li><a href="https://www.bilibili.com/video/BV1UqKT6QEMw">《华尔街日报》7月18日全文精读</a></li>
 </ul>]]></description>
         <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Claude Fable 5 将正式纳入 Claude Max 和 Team Premium 订阅方案 【AI 早报 2026-07-19】]]></title>
+        <link>https://www.bilibili.com/video/BV18KKi6iENM</link>
+        <guid isPermaLink="false">bilibili-116943939963181</guid>
+        <pubDate>Sun, 19 Jul 2026 01:02:47 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/4k07o-WTQqgospWI6vTLiw</p><p><a href="https://www.bilibili.com/video/BV18KKi6iENM">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
@@ -146,78 +215,6 @@ GitHub 链接：https://github.com/stablyai/orca
 <p>AI工作搭子，团队/个人资料存储神器，集核云软盘：https://ardisk.cn/download/?utm_source=bilibili&utm_medium=kol&utm_campaign=B-BIL-2605-386&link_id=243LBJLXDD&invite_code=KRY2E5GW
 文字版和相关链接请看：https://mp.weixin.qq.com/s/0_m6i-</p><p><a href="https://www.bilibili.com/video/BV1eNNe6vEDV">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-07-14): 8 posts]]></title>
-        <link>https://www.bilibili.com/video/BV143Nt6TEAJ</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-07-14-d13e0e33</guid>
-        <pubDate>Tue, 14 Jul 2026 12:53:18 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV143Nt6TEAJ">【英文原声】《华尔街日报》7月14日全文精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1sGNt6iE9V">《华尔街日报》7月14日全文精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1YrNX6XE8x">高盛看好鹏鼎控股，新工厂投产即制造升级</a></li>
-<li><a href="https://www.bilibili.com/video/BV19rNX6XEnk">【英文原声】高盛看好鹏鼎控股，新工厂投产即制造升级</a></li>
-<li><a href="https://www.bilibili.com/video/BV1YrNX6XEqo">【英文原声】高盛聚焦晶合集成，新产能试产结构再升级</a></li>
-<li><a href="https://www.bilibili.com/video/BV15qNX6sESM">高盛聚焦晶合集成，新产能试产结构再升级</a></li>
-<li><a href="https://www.bilibili.com/video/BV1whN167Eaq">高盛看好沪电股份，产品结构升级信号显现</a></li>
-<li><a href="https://www.bilibili.com/video/BV1BfNy6uEHR">【英文原声】高盛看好沪电股份，产品结构升级信号显现</a></li>
-</ul>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 巫师财经：【巫师】中国压根就不存在男女对立，集美Sunshine都是遮羞布]]></title>
-        <link>https://www.bilibili.com/video/BV1z5N96cECV</link>
-        <guid isPermaLink="false">bilibili-116917281034730</guid>
-        <pubDate>Tue, 14 Jul 2026 08:20:04 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：巫师财经</p>
-<p><a href="https://www.bilibili.com/video/BV1z5N96cECV">查看原文 →</a></p>]]></description>
-        <author><![CDATA[巫师财经]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Codex 周活用户达 700 万，官方发放重置次数庆祝【AI 早报 2026-07-14】]]></title>
-        <link>https://www.bilibili.com/video/BV1qeNX6tE8V</link>
-        <guid isPermaLink="false">bilibili-116915636799052</guid>
-        <pubDate>Tue, 14 Jul 2026 01:06:38 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/Fzoye8F6ZioGlOrT2PPnMg</p><p><a href="https://www.bilibili.com/video/BV1qeNX6tE8V">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 3Blue1Brown：【官方双语】压缩即智能：Part1，重新发明熵]]></title>
-        <link>https://www.bilibili.com/video/BV1yVNU6xERx</link>
-        <guid isPermaLink="false">bilibili-116913858418468</guid>
-        <pubDate>Tue, 14 Jul 2026 01:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：3Blue1Brown</p>
-<p>本视频从香农与妻子猜字母的经典实验切入，梳理信息论中语言可压缩性的底层原理  
-Reinventing Entropy | Compression is Intelligence Part 1  
-https://youtu.be/l6DKRf-fAAM   
-翻译&时间轴：贰鼠  校正：畏狐之狐  
-感谢观众的支持: https://3b1b.co/support 一键三联与分享，也是最大的支持</p><p><a href="https://www.bilibili.com/video/BV1yVNU6xERx">查看原文 →</a></p>]]></description>
-        <author><![CDATA[3Blue1Brown]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-07-13): 2 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1FcNS6sEfL</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-07-13-d13e0e33</guid>
-        <pubDate>Mon, 13 Jul 2026 15:40:32 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1FcNS6sEfL">【英文原声】《华尔街日报》7月13日全文精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1ncNS6WECd">《华尔街日报》7月13日全文精读</a></li>
-</ul>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
         <category>B站</category>
     </item>
     
