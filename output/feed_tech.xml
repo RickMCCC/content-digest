@@ -5,25 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 21 Jul 2026 22:34:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 22:41:03 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月21日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月22日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-21</guid>
-        <pubDate>Tue, 21 Jul 2026 22:34:36 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-07-22</guid>
+        <pubDate>Wed, 22 Jul 2026 22:41:03 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 07月21日 22:34 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 07月22日 22:41 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-21</guid>
-        <pubDate>Tue, 21 Jul 2026 22:34:36 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 14 items</p><p><b>🎮 生活分享流 (life):</b> 18 items</p><p><b>🆕 本次新增:</b> 14 items</p><p><b>📦 数据库总量:</b> 2777 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-07-22</guid>
+        <pubDate>Wed, 22 Jul 2026 22:41:03 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 14 items</p><p><b>🎮 生活分享流 (life):</b> 19 items</p><p><b>🆕 本次新增:</b> 6 items</p><p><b>📦 数据库总量:</b> 2783 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -101,6 +101,19 @@
 <li><a href="https://www.bilibili.com/video/BV1UqKT6QEMw">《华尔街日报》7月18日全文精读</a></li>
 </ul>]]></description>
         <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 秋芝2046：豆包真能干活了！【豆包Agent入门教程】]]></title>
+        <link>https://www.bilibili.com/video/BV1mhKv68EPQ</link>
+        <guid isPermaLink="false">bilibili-116944258728161</guid>
+        <pubDate>Sun, 19 Jul 2026 03:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：秋芝2046</p>
+<p>这个视频让你的豆包技能噌噌上涨，还有“秋芝AI科普skill”帮你答疑～
+感谢朋友们的三连+关注~</p><p><a href="https://www.bilibili.com/video/BV1mhKv68EPQ">查看原文 →</a></p>]]></description>
+        <author><![CDATA[秋芝2046]]></author>
         <category>B站</category>
     </item>
     
@@ -201,19 +214,6 @@ GitHub 链接：https://github.com/stablyai/orca
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/ljq-C0lzIgtJvXqtX5CQYQ</p><p><a href="https://www.bilibili.com/video/BV14nKM6pEro">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：OpenAI Codex 活跃用户破800万，再次重置用量【AI 早报 2026-07-15】]]></title>
-        <link>https://www.bilibili.com/video/BV1eNNe6vEDV</link>
-        <guid isPermaLink="false">bilibili-116921324275472</guid>
-        <pubDate>Wed, 15 Jul 2026 01:19:04 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>AI工作搭子，团队/个人资料存储神器，集核云软盘：https://ardisk.cn/download/?utm_source=bilibili&utm_medium=kol&utm_campaign=B-BIL-2605-386&link_id=243LBJLXDD&invite_code=KRY2E5GW
-文字版和相关链接请看：https://mp.weixin.qq.com/s/0_m6i-</p><p><a href="https://www.bilibili.com/video/BV1eNNe6vEDV">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>

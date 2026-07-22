@@ -5,27 +5,70 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 21 Jul 2026 22:34:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 22:41:03 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月21日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月22日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-21</guid>
-        <pubDate>Tue, 21 Jul 2026 22:34:36 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-07-22</guid>
+        <pubDate>Wed, 22 Jul 2026 22:41:03 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 07月21日 22:34 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 07月22日 22:41 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-21</guid>
-        <pubDate>Tue, 21 Jul 2026 22:34:36 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 14 items</p><p><b>🎮 生活分享流 (life):</b> 18 items</p><p><b>🆕 本次新增:</b> 14 items</p><p><b>📦 数据库总量:</b> 2777 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-07-22</guid>
+        <pubDate>Wed, 22 Jul 2026 22:41:03 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 14 items</p><p><b>🎮 生活分享流 (life):</b> 19 items</p><p><b>🆕 本次新增:</b> 6 items</p><p><b>📦 数据库总量:</b> 2783 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】LE SSERAFIM Apple Music   |  Zane Lowe 访谈260711 全场中字]]></title>
+        <link>https://www.bilibili.com/video/BV1qxg16EEA2</link>
+        <guid isPermaLink="false">bilibili-116963988739088</guid>
+        <pubDate>Wed, 22 Jul 2026 14:02:20 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p>ytb
+资源：末末
+翻译：Lsv
+时间轴/压制：大癫
+
+该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1qxg16EEA2">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小王Albert：中国火箭落地，川皇面子飞天，赖桑忙着给台湾喂毒油【岛岛连线】]]></title>
+        <link>https://www.bilibili.com/video/BV1aagC6iEWP</link>
+        <guid isPermaLink="false">bilibili-116963149879269</guid>
+        <pubDate>Wed, 22 Jul 2026 10:34:38 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小王Albert</p>
+<p>一键三连推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV1aagC6iEWP">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小王Albert]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 学院派Academia：为什么足球成为了世界性运动，而篮球只属于美国？【硬核社会学】]]></title>
+        <link>https://www.bilibili.com/video/BV1FGgr6kEJF</link>
+        <guid isPermaLink="false">bilibili-116962260750509</guid>
+        <pubDate>Wed, 22 Jul 2026 06:48:10 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：学院派Academia</p>
+<p>为何世界杯之名属于足球而非篮球？为何足球和篮球同样成功，但成功的方面截然不同？原因在于，足球竞技把普遍主义赛制和民族主义运动作为运动推广的核心，而篮球竞技的推广核心是美式资本主义下的人才虹吸制度和文化符号营销。
+简单来说，篮球的最高殿堂NBA，是一个给美国球员造星、让“所有人来美国打球”的超级娱乐秀；而足球输出的是一套普适的、全球化的规则，是想让“所有人都可以在所有地方都可以踢球”。
+因此，当我们</p><p><a href="https://www.bilibili.com/video/BV1FGgr6kEJF">查看原文 →</a></p>]]></description>
+        <author><![CDATA[学院派Academia]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -46,6 +89,18 @@
 <li><a href="https://www.bilibili.com/video/BV1kbKb6qEvi">【全球好书】《倒霉的人类学家》精读</a></li>
 </ul>]]></description>
         <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第626期】锂电池恢复消费税；中考消失在路上]]></title>
+        <link>https://www.bilibili.com/video/BV1zBKh6uEUt</link>
+        <guid isPermaLink="false">bilibili-116957814721098</guid>
+        <pubDate>Tue, 21 Jul 2026 11:55:47 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1zBKh6uEUt">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
         <category>B站</category>
     </item>
     
@@ -220,6 +275,19 @@
     </item>
     
     <item>
+        <title><![CDATA[[B站] 秋芝2046：豆包真能干活了！【豆包Agent入门教程】]]></title>
+        <link>https://www.bilibili.com/video/BV1mhKv68EPQ</link>
+        <guid isPermaLink="false">bilibili-116944258728161</guid>
+        <pubDate>Sun, 19 Jul 2026 03:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：秋芝2046</p>
+<p>这个视频让你的豆包技能噌噌上涨，还有“秋芝AI科普skill”帮你答疑～
+感谢朋友们的三连+关注~</p><p><a href="https://www.bilibili.com/video/BV1mhKv68EPQ">查看原文 →</a></p>]]></description>
+        <author><![CDATA[秋芝2046]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 橘鸦juya：Claude Fable 5 将正式纳入 Claude Max 和 Team Premium 订阅方案 【AI 早报 2026-07-19】]]></title>
         <link>https://www.bilibili.com/video/BV18KKi6iENM</link>
         <guid isPermaLink="false">bilibili-116943939963181</guid>
@@ -305,6 +373,32 @@
 <p>✍️ 作者：小王Albert</p>
 <p>一键三连推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV1H7KF6pEjw">查看原文 →</a></p>]]></description>
         <author><![CDATA[小王Albert]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] torazyz：北京vlog❤️去欧洲前一周日常｜torazyz]]></title>
+        <link>https://www.bilibili.com/video/BV1wuNc69EKY</link>
+        <guid isPermaLink="false">bilibili-116901476830479</guid>
+        <pubDate>Sat, 18 Jul 2026 02:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：torazyz</p>
+<p>感谢观看
+
+更多内容 欢迎关注 Find me on：
+RED: torazyz
+Instagram: torazyz
+YouTube: Tora Zhang
+Bili: @torazyz    
+
+Henry’s
+RED: HenryHsu
+YouTube: Henry Hsu
+Bili: @iamHenryHsu    
+Instagram: iamhenryhsu
+
+联系我们: contac</p><p><a href="https://www.bilibili.com/video/BV1wuNc69EKY">查看原文 →</a></p>]]></description>
+        <author><![CDATA[torazyz]]></author>
         <category>B站</category>
     </item>
     
@@ -414,72 +508,6 @@ GitHub 链接：https://github.com/stablyai/orca
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/ljq-C0lzIgtJvXqtX5CQYQ</p><p><a href="https://www.bilibili.com/video/BV14nKM6pEro">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot (2026-07-15): 6 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1mNNq6AEYn</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-07-15-a1c5d27b</guid>
-        <pubDate>Wed, 15 Jul 2026 13:49:26 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1mNNq6AEYn">【中英字幕】鸡毛秀26.07.15</a></li>
-<li><a href="https://www.bilibili.com/video/BV1BDNb6bEFh">【中英字幕】彭博脉搏访谈26.07.14完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV13QNa6xEgi">【中英字幕】彭博财经观察26.07.14完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV138NY68Eab">【中英字幕】26.07.14美联储新主席凯文·沃什首次国会听证会完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1HhNe6mEiN">【中英字幕】26.07.14川普在白宫会面伊拉克总理并回答记者提问完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1ksN86KEpe">【中英字幕】彭博财经简报26.07.14完整版</a></li>
-</ul>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：AI热潮引爆中国出口! GDP年增4.7% 新动能快速成长! 陈凤馨 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV16LNv6mEsD</link>
-        <guid isPermaLink="false">bilibili-116922633030630</guid>
-        <pubDate>Wed, 15 Jul 2026 06:53:14 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV16LNv6mEsD">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Chris的军事基地：如何打造全球最好的截击机？【米格-31详解】]]></title>
-        <link>https://www.bilibili.com/video/BV18UN86SE3D</link>
-        <guid isPermaLink="false">bilibili-116919176857544</guid>
-        <pubDate>Wed, 15 Jul 2026 04:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Chris的军事基地</p>
-<p>三连多多，更新快快！</p><p><a href="https://www.bilibili.com/video/BV18UN86SE3D">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Chris的军事基地]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 曼施坦鹦：二战中，日本是怎么战败的？（上）【曼施坦鹦 新秩序】]]></title>
-        <link>https://www.bilibili.com/video/BV1b5Na6DErz</link>
-        <guid isPermaLink="false">bilibili-116920116319765</guid>
-        <pubDate>Wed, 15 Jul 2026 03:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：曼施坦鹦</p>
-<p>求三连求关注</p><p><a href="https://www.bilibili.com/video/BV1b5Na6DErz">查看原文 →</a></p>]]></description>
-        <author><![CDATA[曼施坦鹦]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：OpenAI Codex 活跃用户破800万，再次重置用量【AI 早报 2026-07-15】]]></title>
-        <link>https://www.bilibili.com/video/BV1eNNe6vEDV</link>
-        <guid isPermaLink="false">bilibili-116921324275472</guid>
-        <pubDate>Wed, 15 Jul 2026 01:19:04 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>AI工作搭子，团队/个人资料存储神器，集核云软盘：https://ardisk.cn/download/?utm_source=bilibili&utm_medium=kol&utm_campaign=B-BIL-2605-386&link_id=243LBJLXDD&invite_code=KRY2E5GW
-文字版和相关链接请看：https://mp.weixin.qq.com/s/0_m6i-</p><p><a href="https://www.bilibili.com/video/BV1eNNe6vEDV">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
