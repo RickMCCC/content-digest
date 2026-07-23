@@ -5,27 +5,77 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 22 Jul 2026 22:41:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 22:38:39 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月22日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月23日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-22</guid>
-        <pubDate>Wed, 22 Jul 2026 22:41:03 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-07-23</guid>
+        <pubDate>Thu, 23 Jul 2026 22:38:39 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 07月22日 22:41 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 07月23日 22:38 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-22</guid>
-        <pubDate>Wed, 22 Jul 2026 22:41:03 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 14 items</p><p><b>🎮 生活分享流 (life):</b> 19 items</p><p><b>🆕 本次新增:</b> 6 items</p><p><b>📦 数据库总量:</b> 2783 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-07-23</guid>
+        <pubDate>Thu, 23 Jul 2026 22:38:39 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 19 items</p><p><b>🎮 生活分享流 (life):</b> 18 items</p><p><b>🆕 本次新增:</b> 7 items</p><p><b>📦 数据库总量:</b> 2790 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Upstage 发布开源模型 Solar Open 2【AI 早报 2026-07-23】]]></title>
+        <link>https://www.bilibili.com/video/BV1q4gm6xEpA</link>
+        <guid isPermaLink="false">bilibili-116966756974732</guid>
+        <pubDate>Thu, 23 Jul 2026 01:48:40 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/JB9DaqltVlE58XDljTzwGw</p><p><a href="https://www.bilibili.com/video/BV1q4gm6xEpA">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 巫师财经：【巫师】中国科创的狠人们，你认识几个？]]></title>
+        <link>https://www.bilibili.com/video/BV1ZBgk6kEzo</link>
+        <guid isPermaLink="false">bilibili-116963737080272</guid>
+        <pubDate>Wed, 22 Jul 2026 13:01:25 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：巫师财经</p>
+<p><a href="https://www.bilibili.com/video/BV1ZBgk6kEzo">查看原文 →</a></p>]]></description>
+        <author><![CDATA[巫师财经]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 硅谷101：算力革命与云厂商三重进化：Agent云的架构升级与"度量衡革命"【硅谷101】]]></title>
+        <link>https://www.bilibili.com/video/BV11YKY6nEeo</link>
+        <guid isPermaLink="false">bilibili-116958502588634</guid>
+        <pubDate>Wed, 22 Jul 2026 04:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：硅谷101</p>
+<p>当前AI产业最确定的机会在哪里？答案是：云。随着Agent从回答问题走向执行任务，云产业正迎来一次重要的架构升级。
+从服务网站和软件的互联网云，到围绕模型训练的GPU云，再到如今需要支撑Agent稳定运行的Agent云，云的服务对象和技术底座都在改变。GPU之外，CPU、存储和连接都成为关键；工具、记忆、安全与工作流，也被纳入云的能力边界。
+当模型已经足够聪明，为什么Agent仍会在工作中掉链子？</p><p><a href="https://www.bilibili.com/video/BV11YKY6nEeo">查看原文 →</a></p>]]></description>
+        <author><![CDATA[硅谷101]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Google 发布 Gemini 3.6 Flash 与 Gemini 3.5 Flash-Lite 【AI 早报 2026-07-22】]]></title>
+        <link>https://www.bilibili.com/video/BV1pzgz6LEXM</link>
+        <guid isPermaLink="false">bilibili-116961136609789</guid>
+        <pubDate>Wed, 22 Jul 2026 02:01:49 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/G5U6uCtYaWqQFvWZoL7XMg”</p><p><a href="https://www.bilibili.com/video/BV1pzgz6LEXM">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -58,6 +108,19 @@
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/cbISPTiMYGFqPDsB_rD9hA</p><p><a href="https://www.bilibili.com/video/BV1HmKt6iEQu">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 硅谷101：对话Vincent Koc：OpenClaw的反思与进化，与Agent的下一步 | B站 x WAIC AI会客厅【101视频播客】]]></title>
+        <link>https://www.bilibili.com/video/BV1pNKU6dE3V</link>
+        <guid isPermaLink="false">bilibili-116951305297432</guid>
+        <pubDate>Mon, 20 Jul 2026 12:25:06 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：硅谷101</p>
+<p>OpenClaw，这个在2026年初引爆全球AI圈的现象级项目，让Mac Mini卖到断货，也引发了关于AI安全与边界的全民讨论。当喧嚣褪去，这项技术真正为我们的生活带来了什么改变？
+在WAIC 2026现场，我们对话了OpenClaw基金会首席架构师Vincent Koc，从项目爆火背后的故事聊起，也深入讨论了Agent为什么在中国风靡、OpenClaw如何从开源项目成长为全球社区，以及“降温”</p><p><a href="https://www.bilibili.com/video/BV1pNKU6dE3V">查看原文 →</a></p>]]></description>
+        <author><![CDATA[硅谷101]]></author>
         <category>B站</category>
     </item>
     
@@ -195,6 +258,20 @@ GitHub 链接：https://github.com/stablyai/orca
     </item>
     
     <item>
+        <title><![CDATA[[B站] 硅谷101：一个荒诞又狗血的财阀故事，如何卡住全球AI的脖子｜SK海力士崛起史【硅谷101】]]></title>
+        <link>https://www.bilibili.com/video/BV18qKE6nEWE</link>
+        <guid isPermaLink="false">bilibili-116933286761767</guid>
+        <pubDate>Fri, 17 Jul 2026 03:56:53 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：硅谷101</p>
+<p>7月10日，SK海力士以ADR形式在纳斯达克挂牌，融资265亿美元，随后市值突破1万亿美元。即便近期经历回调，它的股价仍比一年前上涨近三倍——靠着HBM，这家公司正在卡住全球AI的脖子。
+
+但海力士的故事，远不只是押中了一项技术。它的前身来自现代集团，经历过政府主导的产业整合、债务危机和存储行业的反复洗牌，曾差点被美光收购，后来又被SK接盘。再往前追溯，是一家纺织企业如何靠石油和通信成长为顶级财阀</p><p><a href="https://www.bilibili.com/video/BV18qKE6nEWE">查看原文 →</a></p>]]></description>
+        <author><![CDATA[硅谷101]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 橘鸦juya：月之暗面正式发布 Kimi K3，总参数 2.8T 【AI 早报 2026-07-17】]]></title>
         <link>https://www.bilibili.com/video/BV1nSKj6vE6N</link>
         <guid isPermaLink="false">bilibili-116932514679328</guid>
@@ -202,18 +279,6 @@ GitHub 链接：https://github.com/stablyai/orca
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/Lwuyf-na_Ef-ipXrvGi8CQ</p><p><a href="https://www.bilibili.com/video/BV1nSKj6vE6N">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：SpaceXAI 开源 Grok Build、重置额度并关闭默认数据留存【AI 早报 2026-07-16】]]></title>
-        <link>https://www.bilibili.com/video/BV14nKM6pEro</link>
-        <guid isPermaLink="false">bilibili-116927078862148</guid>
-        <pubDate>Thu, 16 Jul 2026 01:37:02 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/ljq-C0lzIgtJvXqtX5CQYQ</p><p><a href="https://www.bilibili.com/video/BV14nKM6pEro">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
