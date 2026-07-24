@@ -5,27 +5,80 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 23 Jul 2026 22:38:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 22:42:08 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月23日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月24日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-23</guid>
-        <pubDate>Thu, 23 Jul 2026 22:38:39 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-07-24</guid>
+        <pubDate>Fri, 24 Jul 2026 22:42:08 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 07月23日 22:38 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 07月24日 22:42 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-23</guid>
-        <pubDate>Thu, 23 Jul 2026 22:38:39 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 19 items</p><p><b>🎮 生活分享流 (life):</b> 18 items</p><p><b>🆕 本次新增:</b> 7 items</p><p><b>📦 数据库总量:</b> 2790 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-07-24</guid>
+        <pubDate>Fri, 24 Jul 2026 22:42:08 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 18 items</p><p><b>🎮 生活分享流 (life):</b> 24 items</p><p><b>🆕 本次新增:</b> 9 items</p><p><b>📦 数据库总量:</b> 2799 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小王Albert：西班牙赢麻，FIFA赚麻，特朗普乐麻，世界杯谁是输家？]]></title>
+        <link>https://www.bilibili.com/video/BV1wVge6ZE35</link>
+        <guid isPermaLink="false">bilibili-116975430803423</guid>
+        <pubDate>Fri, 24 Jul 2026 14:35:50 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小王Albert</p>
+<p>一键三连推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV1wVge6ZE35">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小王Albert]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 巫师财经：【巫师】一字断魂刀，绞杀国家队，中国第一游资徐翔的资本博弈]]></title>
+        <link>https://www.bilibili.com/video/BV1Htgh6DErU</link>
+        <guid isPermaLink="false">bilibili-116972947775120</guid>
+        <pubDate>Fri, 24 Jul 2026 10:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：巫师财经</p>
+<p><a href="https://www.bilibili.com/video/BV1Htgh6DErU">查看原文 →</a></p>]]></description>
+        <author><![CDATA[巫师财经]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 硅谷101：2026世界杯：AI改变了足球......吗？【硅谷101】]]></title>
+        <link>https://www.bilibili.com/video/BV1A4gh6pEbE</link>
+        <guid isPermaLink="false">bilibili-116972897574781</guid>
+        <pubDate>Fri, 24 Jul 2026 03:49:31 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：硅谷101</p>
+<p>AI可以写代码、做研究，甚至预测复杂的现实世界，但面对一场足球比赛，它却常常失灵。即使拥有海量数据和顶级算法，AI依然很难回答那个最关键的问题：怎样才能赢球？
+
+从利物浦与DeepMind的角球实验，到AI球探寻找下一个超级球星，再到智能足球和半自动越位系统，AI已经进入战术、选援、判罚和转播。但足球充满偶然性与难以量化的变量，真正有价值的数据又高度分散、难以获取。与此同时，这个拥有几十亿观众的全</p><p><a href="https://www.bilibili.com/video/BV1A4gh6pEbE">查看原文 →</a></p>]]></description>
+        <author><![CDATA[硅谷101]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】LE SSERAFIM 2026 Weverse Con Festival 'Artist Zone' 幕后花絮 CUT 260723]]></title>
+        <link>https://www.bilibili.com/video/BV1F2gx6PEc3</link>
+        <guid isPermaLink="false">bilibili-116969860831118</guid>
+        <pubDate>Thu, 23 Jul 2026 14:56:34 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p>YTB
+制作：末末
+
+该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1F2gx6PEc3">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -37,6 +90,36 @@
 <p>✍️ 作者：小黛晨读</p>
 <p>-</p><p><a href="https://www.bilibili.com/video/BV1JmgD6zELS">查看原文 →</a></p>]]></description>
         <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：王毅讲白了! 菲国内有人 军警部门一些势力蓄意制造事端! 赖岳谦 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV1s5gS6VEfd</link>
+        <guid isPermaLink="false">bilibili-116967931512755</guid>
+        <pubDate>Thu, 23 Jul 2026 06:53:09 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV1s5gS6VEfd">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 全员i人字幕组：【生肉】"一会儿" 采源直播(中字待更) 260722]]></title>
+        <link>https://www.bilibili.com/video/BV1bhgD6nEu7</link>
+        <guid isPermaLink="false">bilibili-116967159701104</guid>
+        <pubDate>Thu, 23 Jul 2026 03:30:59 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p>wvs
+资源：末末
+翻译：
+时间轴：
+校对/合轴/压制：
+
+该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1bhgD6nEu7">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
         <category>B站</category>
     </item>
     
@@ -90,6 +173,18 @@
 <p>✍️ 作者：小王Albert</p>
 <p>一键三连推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV1aagC6iEWP">查看原文 →</a></p>]]></description>
         <author><![CDATA[小王Albert]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：有黑手! 王毅當面点破東盟!]]></title>
+        <link>https://www.bilibili.com/video/BV15ngr6TE29</link>
+        <guid isPermaLink="false">bilibili-116962378253677</guid>
+        <pubDate>Wed, 22 Jul 2026 07:19:22 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV15ngr6TE29">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
         <category>B站</category>
     </item>
     
@@ -167,6 +262,18 @@
     </item>
     
     <item>
+        <title><![CDATA[[B站] 新西兰三妹：动手!仁爱礁内面对挑衅 中国海警“棒打”菲律宾海军! 郭正亮 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV1aDKb6pEcS</link>
+        <guid isPermaLink="false">bilibili-116956640315677</guid>
+        <pubDate>Tue, 21 Jul 2026 07:00:28 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV1aDKb6pEcS">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 橘鸦juya：DeepSeek V4 正式版未按计划上线，或将与官方 Harness 产品同步发布【AI 早报 2026-07-21】]]></title>
         <link>https://www.bilibili.com/video/BV1HmKt6iEQu</link>
         <guid isPermaLink="false">bilibili-116955382089810</guid>
@@ -238,6 +345,18 @@
  
 如此悬殊的交易对手，如此巨额的合作背后，是中国ADC药业多</p><p><a href="https://www.bilibili.com/video/BV1M9Km6PEbr">查看原文 →</a></p>]]></description>
         <author><![CDATA[温竣岩]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：菲律宾破防了! 大声急呼“我们不是猴子”! 沈逸 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV16AK26EEYd</link>
+        <guid isPermaLink="false">bilibili-116950499854537</guid>
+        <pubDate>Mon, 20 Jul 2026 04:59:38 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV16AK26EEYd">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
         <category>B站</category>
     </item>
     
@@ -501,60 +620,6 @@ GitHub 链接：https://github.com/stablyai/orca
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/M_-TYe5BnjHicdrEB04xDg</p><p><a href="https://www.bilibili.com/video/BV17KKc6SE2J">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot (2026-07-17): 5 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1DRNR6QEJr</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-07-17-a1c5d27b</guid>
-        <pubDate>Fri, 17 Jul 2026 14:03:33 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1DRNR6QEJr">【中英字幕】26.07.16川普黄金时段全国演讲完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1tzKj6GEPH">【中英字幕】26.07.16鲁比奥发表全球行动主题演讲完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1f6KJ6MEEf">【中英字幕】26.07.16乔·罗根播客专访JD·万斯完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1Q2KL6mENM">【中英字幕】彭博脉搏访谈26.07.16完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1vcKL6JEnQ">【中英字幕】彭博财经观察26.07.16完整版</a></li>
-</ul>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 巫师财经：【巫师】扒一扒邹市明冉莹颖经济链，今年内娱最成功的操盘]]></title>
-        <link>https://www.bilibili.com/video/BV13aNd64EXD</link>
-        <guid isPermaLink="false">bilibili-116934897049360</guid>
-        <pubDate>Fri, 17 Jul 2026 10:47:13 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：巫师财经</p>
-<p><a href="https://www.bilibili.com/video/BV13aNd64EXD">查看原文 →</a></p>]]></description>
-        <author><![CDATA[巫师财经]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 硅谷101：一个荒诞又狗血的财阀故事，如何卡住全球AI的脖子｜SK海力士崛起史【硅谷101】]]></title>
-        <link>https://www.bilibili.com/video/BV18qKE6nEWE</link>
-        <guid isPermaLink="false">bilibili-116933286761767</guid>
-        <pubDate>Fri, 17 Jul 2026 03:56:53 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：硅谷101</p>
-<p>7月10日，SK海力士以ADR形式在纳斯达克挂牌，融资265亿美元，随后市值突破1万亿美元。即便近期经历回调，它的股价仍比一年前上涨近三倍——靠着HBM，这家公司正在卡住全球AI的脖子。
-
-但海力士的故事，远不只是押中了一项技术。它的前身来自现代集团，经历过政府主导的产业整合、债务危机和存储行业的反复洗牌，曾差点被美光收购，后来又被SK接盘。再往前追溯，是一家纺织企业如何靠石油和通信成长为顶级财阀</p><p><a href="https://www.bilibili.com/video/BV18qKE6nEWE">查看原文 →</a></p>]]></description>
-        <author><![CDATA[硅谷101]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：月之暗面正式发布 Kimi K3，总参数 2.8T 【AI 早报 2026-07-17】]]></title>
-        <link>https://www.bilibili.com/video/BV1nSKj6vE6N</link>
-        <guid isPermaLink="false">bilibili-116932514679328</guid>
-        <pubDate>Fri, 17 Jul 2026 00:37:01 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/Lwuyf-na_Ef-ipXrvGi8CQ</p><p><a href="https://www.bilibili.com/video/BV1nSKj6vE6N">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>

@@ -5,27 +5,53 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 23 Jul 2026 22:38:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 22:42:08 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月23日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月24日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-23</guid>
-        <pubDate>Thu, 23 Jul 2026 22:38:39 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-07-24</guid>
+        <pubDate>Fri, 24 Jul 2026 22:42:08 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 07月23日 22:38 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 07月24日 22:42 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-23</guid>
-        <pubDate>Thu, 23 Jul 2026 22:38:39 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 19 items</p><p><b>🎮 生活分享流 (life):</b> 18 items</p><p><b>🆕 本次新增:</b> 7 items</p><p><b>📦 数据库总量:</b> 2790 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-07-24</guid>
+        <pubDate>Fri, 24 Jul 2026 22:42:08 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 18 items</p><p><b>🎮 生活分享流 (life):</b> 24 items</p><p><b>🆕 本次新增:</b> 9 items</p><p><b>📦 数据库总量:</b> 2799 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 巫师财经：【巫师】一字断魂刀，绞杀国家队，中国第一游资徐翔的资本博弈]]></title>
+        <link>https://www.bilibili.com/video/BV1Htgh6DErU</link>
+        <guid isPermaLink="false">bilibili-116972947775120</guid>
+        <pubDate>Fri, 24 Jul 2026 10:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：巫师财经</p>
+<p><a href="https://www.bilibili.com/video/BV1Htgh6DErU">查看原文 →</a></p>]]></description>
+        <author><![CDATA[巫师财经]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 硅谷101：2026世界杯：AI改变了足球......吗？【硅谷101】]]></title>
+        <link>https://www.bilibili.com/video/BV1A4gh6pEbE</link>
+        <guid isPermaLink="false">bilibili-116972897574781</guid>
+        <pubDate>Fri, 24 Jul 2026 03:49:31 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：硅谷101</p>
+<p>AI可以写代码、做研究，甚至预测复杂的现实世界，但面对一场足球比赛，它却常常失灵。即使拥有海量数据和顶级算法，AI依然很难回答那个最关键的问题：怎样才能赢球？
+
+从利物浦与DeepMind的角球实验，到AI球探寻找下一个超级球星，再到智能足球和半自动越位系统，AI已经进入战术、选援、判罚和转播。但足球充满偶然性与难以量化的变量，真正有价值的数据又高度分散、难以获取。与此同时，这个拥有几十亿观众的全</p><p><a href="https://www.bilibili.com/video/BV1A4gh6pEbE">查看原文 →</a></p>]]></description>
+        <author><![CDATA[硅谷101]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -241,44 +267,6 @@ GitHub 链接：https://github.com/stablyai/orca
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/M_-TYe5BnjHicdrEB04xDg</p><p><a href="https://www.bilibili.com/video/BV17KKc6SE2J">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 巫师财经：【巫师】扒一扒邹市明冉莹颖经济链，今年内娱最成功的操盘]]></title>
-        <link>https://www.bilibili.com/video/BV13aNd64EXD</link>
-        <guid isPermaLink="false">bilibili-116934897049360</guid>
-        <pubDate>Fri, 17 Jul 2026 10:47:13 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：巫师财经</p>
-<p><a href="https://www.bilibili.com/video/BV13aNd64EXD">查看原文 →</a></p>]]></description>
-        <author><![CDATA[巫师财经]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 硅谷101：一个荒诞又狗血的财阀故事，如何卡住全球AI的脖子｜SK海力士崛起史【硅谷101】]]></title>
-        <link>https://www.bilibili.com/video/BV18qKE6nEWE</link>
-        <guid isPermaLink="false">bilibili-116933286761767</guid>
-        <pubDate>Fri, 17 Jul 2026 03:56:53 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：硅谷101</p>
-<p>7月10日，SK海力士以ADR形式在纳斯达克挂牌，融资265亿美元，随后市值突破1万亿美元。即便近期经历回调，它的股价仍比一年前上涨近三倍——靠着HBM，这家公司正在卡住全球AI的脖子。
-
-但海力士的故事，远不只是押中了一项技术。它的前身来自现代集团，经历过政府主导的产业整合、债务危机和存储行业的反复洗牌，曾差点被美光收购，后来又被SK接盘。再往前追溯，是一家纺织企业如何靠石油和通信成长为顶级财阀</p><p><a href="https://www.bilibili.com/video/BV18qKE6nEWE">查看原文 →</a></p>]]></description>
-        <author><![CDATA[硅谷101]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：月之暗面正式发布 Kimi K3，总参数 2.8T 【AI 早报 2026-07-17】]]></title>
-        <link>https://www.bilibili.com/video/BV1nSKj6vE6N</link>
-        <guid isPermaLink="false">bilibili-116932514679328</guid>
-        <pubDate>Fri, 17 Jul 2026 00:37:01 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/Lwuyf-na_Ef-ipXrvGi8CQ</p><p><a href="https://www.bilibili.com/video/BV1nSKj6vE6N">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
