@@ -5,25 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 25 Jul 2026 22:33:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 22:37:55 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月25日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月26日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-25</guid>
-        <pubDate>Sat, 25 Jul 2026 22:33:53 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-07-26</guid>
+        <pubDate>Sun, 26 Jul 2026 22:37:55 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 07月25日 22:33 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 07月26日 22:37 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-25</guid>
-        <pubDate>Sat, 25 Jul 2026 22:33:53 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 17 items</p><p><b>🎮 生活分享流 (life):</b> 24 items</p><p><b>🆕 本次新增:</b> 15 items</p><p><b>📦 数据库总量:</b> 2814 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-07-26</guid>
+        <pubDate>Sun, 26 Jul 2026 22:37:55 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 14 items</p><p><b>🎮 生活分享流 (life):</b> 23 items</p><p><b>🆕 本次新增:</b> 1 items</p><p><b>📦 数据库总量:</b> 2815 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -220,50 +220,6 @@ PB ROE策略：BV1FkL16KEpQ
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/7Un7vFh3EHuz56wn5mP-mw</p><p><a href="https://www.bilibili.com/video/BV16FKy6kEwq">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-07-19): 8 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1ykKz6BEmP</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-07-19-d13e0e33</guid>
-        <pubDate>Sun, 19 Jul 2026 11:00:00 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1ykKz6BEmP">【英文原声】高盛看好中际旭创，龙头地位稳固份额扩大</a></li>
-<li><a href="https://www.bilibili.com/video/BV1NkKz6zEz9">高盛看好中际旭创，龙头地位稳固份额扩大</a></li>
-<li><a href="https://www.bilibili.com/video/BV1UhKq6MEfS">【英文原声】高盛看好中国软件，订阅逐步让位按量计费</a></li>
-<li><a href="https://www.bilibili.com/video/BV1bhKq6uEho">高盛看好中国软件，订阅逐步让位按量计费</a></li>
-<li><a href="https://www.bilibili.com/video/BV1gbKq66Ejv">【英文原声】花旗看好澜起科技，内存接口芯片出货攀升</a></li>
-<li><a href="https://www.bilibili.com/video/BV18bKq66Eeg">花旗看好澜起科技，内存接口芯片出货攀升</a></li>
-<li><a href="https://www.bilibili.com/video/BV1mzKT6nExb">《华尔街日报》7月18日全文精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1UqKT6QEMw">《华尔街日报》7月18日全文精读</a></li>
-</ul>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 秋芝2046：豆包真能干活了！【豆包Agent入门教程】]]></title>
-        <link>https://www.bilibili.com/video/BV1mhKv68EPQ</link>
-        <guid isPermaLink="false">bilibili-116944258728161</guid>
-        <pubDate>Sun, 19 Jul 2026 03:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：秋芝2046</p>
-<p>这个视频让你的豆包技能噌噌上涨，还有“秋芝AI科普skill”帮你答疑～
-感谢朋友们的三连+关注~</p><p><a href="https://www.bilibili.com/video/BV1mhKv68EPQ">查看原文 →</a></p>]]></description>
-        <author><![CDATA[秋芝2046]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Claude Fable 5 将正式纳入 Claude Max 和 Team Premium 订阅方案 【AI 早报 2026-07-19】]]></title>
-        <link>https://www.bilibili.com/video/BV18KKi6iENM</link>
-        <guid isPermaLink="false">bilibili-116943939963181</guid>
-        <pubDate>Sun, 19 Jul 2026 01:02:47 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/4k07o-WTQqgospWI6vTLiw</p><p><a href="https://www.bilibili.com/video/BV18KKi6iENM">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
