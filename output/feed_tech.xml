@@ -5,25 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 26 Jul 2026 22:37:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 22:42:17 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月26日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月27日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-26</guid>
-        <pubDate>Sun, 26 Jul 2026 22:37:55 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-07-27</guid>
+        <pubDate>Mon, 27 Jul 2026 22:42:17 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 07月26日 22:37 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 07月27日 22:42 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-26</guid>
-        <pubDate>Sun, 26 Jul 2026 22:37:55 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 14 items</p><p><b>🎮 生活分享流 (life):</b> 23 items</p><p><b>🆕 本次新增:</b> 1 items</p><p><b>📦 数据库总量:</b> 2815 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-07-27</guid>
+        <pubDate>Mon, 27 Jul 2026 22:42:17 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 11 items</p><p><b>🎮 生活分享流 (life):</b> 17 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 2815 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -183,43 +183,6 @@ PB ROE策略：BV1FkL16KEpQ
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/cbISPTiMYGFqPDsB_rD9hA</p><p><a href="https://www.bilibili.com/video/BV1HmKt6iEQu">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 硅谷101：对话Vincent Koc：OpenClaw的反思与进化，与Agent的下一步 | B站 x WAIC AI会客厅【101视频播客】]]></title>
-        <link>https://www.bilibili.com/video/BV1pNKU6dE3V</link>
-        <guid isPermaLink="false">bilibili-116951305297432</guid>
-        <pubDate>Mon, 20 Jul 2026 12:25:06 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：硅谷101</p>
-<p>OpenClaw，这个在2026年初引爆全球AI圈的现象级项目，让Mac Mini卖到断货，也引发了关于AI安全与边界的全民讨论。当喧嚣褪去，这项技术真正为我们的生活带来了什么改变？
-在WAIC 2026现场，我们对话了OpenClaw基金会首席架构师Vincent Koc，从项目爆火背后的故事聊起，也深入讨论了Agent为什么在中国风靡、OpenClaw如何从开源项目成长为全球社区，以及“降温”</p><p><a href="https://www.bilibili.com/video/BV1pNKU6dE3V">查看原文 →</a></p>]]></description>
-        <author><![CDATA[硅谷101]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：【橘鸦Juya】电脑装了一堆AI工具，有没有 All In One 方案啊！]]></title>
-        <link>https://www.bilibili.com/video/BV1j9K265ELY</link>
-        <guid isPermaLink="false">bilibili-116949946205581</guid>
-        <pubDate>Mon, 20 Jul 2026 03:30:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>如果只能保留一款AI工具，我的选择是……</p><p><a href="https://www.bilibili.com/video/BV1j9K265ELY">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：阿里巴巴千问上线 Qwen3.8-Max-Preview；月之暗面 Kimi 暂停个人用户新订阅【AI 早报 2026-07-20】]]></title>
-        <link>https://www.bilibili.com/video/BV16FKy6kEwq</link>
-        <guid isPermaLink="false">bilibili-116949694548103</guid>
-        <pubDate>Mon, 20 Jul 2026 01:29:38 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/7Un7vFh3EHuz56wn5mP-mw</p><p><a href="https://www.bilibili.com/video/BV16FKy6kEwq">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
