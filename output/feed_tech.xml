@@ -5,27 +5,72 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 29 Jul 2026 22:36:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 22:43:35 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月29日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月30日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-29</guid>
-        <pubDate>Wed, 29 Jul 2026 22:36:32 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-07-30</guid>
+        <pubDate>Thu, 30 Jul 2026 22:43:35 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 07月29日 22:36 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 07月30日 22:43 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-29</guid>
-        <pubDate>Wed, 29 Jul 2026 22:36:32 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 5 items</p><p><b>🎮 生活分享流 (life):</b> 11 items</p><p><b>🆕 本次新增:</b> 1 items</p><p><b>📦 数据库总量:</b> 2816 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-07-30</guid>
+        <pubDate>Thu, 30 Jul 2026 22:43:35 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 7 items</p><p><b>🎮 生活分享流 (life):</b> 8 items</p><p><b>🆕 本次新增:</b> 12 items</p><p><b>📦 数据库总量:</b> 2828 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客 (2026-07-30): 8 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1WU3b6pEek</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-07-30-d13e0e33</guid>
+        <pubDate>Thu, 30 Jul 2026 12:46:22 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1WU3b6pEek">【英文原声】《华尔街日报》7月30日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1AS3b6QEEa">《华尔街日报》7月30日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1jc3t6iEco">【英文原声】摩根看好宁德时代，行业格局稳,龙头恒强</a></li>
+<li><a href="https://www.bilibili.com/video/BV1vA3t6NE9r">摩根看好宁德时代，行业格局稳,龙头恒强</a></li>
+<li><a href="https://www.bilibili.com/video/BV1Py3467E8S">【英文原声】摩根看好华明装备，19倍现价,同业垫底</a></li>
+<li><a href="https://www.bilibili.com/video/BV1Py3467Ewf">摩根看好华明装备，19倍现价,同业垫底</a></li>
+<li><a href="https://www.bilibili.com/video/BV1yR3y6YEST">【英文原声】花旗聚焦蓝思科技，牵手英特尔布局玻璃基板</a></li>
+<li><a href="https://www.bilibili.com/video/BV1PR3y6eE1C">花旗聚焦蓝思科技，牵手英特尔布局玻璃基板</a></li>
+</ul>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客 (2026-07-29): 2 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1QZ3n6VEjK</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-07-29-d13e0e33</guid>
+        <pubDate>Wed, 29 Jul 2026 14:19:24 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1QZ3n6VEjK">【英文原声】《华尔街日报》7月29日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV19X3n62EtN">《华尔街日报》7月29日全文精读</a></li>
+</ul>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 硅谷101：对话叶奇意：“寻找”月之暗面杨植麟、中国两代AI、十年人才迁徙，与AGI信仰【101视频播客】]]></title>
+        <link>https://www.bilibili.com/video/BV1wK3i6NEdQ</link>
+        <guid isPermaLink="false">bilibili-116996469428261</guid>
+        <pubDate>Tue, 28 Jul 2026 07:49:07 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：硅谷101</p>
+<p>近期Kimi K3发布后再次震动硅谷，也把月之暗面推到全球AI开源争论与竞争的中心。
+Kiwi说，自己在AI行业“打杂了十年”。她亲历了上一代“AI四小龙”的兴起，也在美团龙珠主导推动了A1轮的投资。这期视频播客，在她的讲述里，Kimi并不是一个突然出现的成功故事：杨植麟、唐杰、创新工场AI工程院，以及上一轮AI创业留下的人才、经验与技术理想，共同构成了一条延续多年的中国AI脉络。上一代公司的起伏</p><p><a href="https://www.bilibili.com/video/BV1wK3i6NEdQ">查看原文 →</a></p>]]></description>
+        <author><![CDATA[硅谷101]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -74,18 +119,6 @@
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/5froDCpc8bTffkr0SRumPA</p><p><a href="https://www.bilibili.com/video/BV1f5ga6EEnq">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Upstage 发布开源模型 Solar Open 2【AI 早报 2026-07-23】]]></title>
-        <link>https://www.bilibili.com/video/BV1q4gm6xEpA</link>
-        <guid isPermaLink="false">bilibili-116966756974732</guid>
-        <pubDate>Thu, 23 Jul 2026 01:48:40 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/JB9DaqltVlE58XDljTzwGw</p><p><a href="https://www.bilibili.com/video/BV1q4gm6xEpA">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
