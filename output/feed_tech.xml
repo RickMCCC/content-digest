@@ -5,27 +5,65 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 30 Jul 2026 22:43:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 22:40:26 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月30日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月31日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-30</guid>
-        <pubDate>Thu, 30 Jul 2026 22:43:35 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-07-31</guid>
+        <pubDate>Fri, 31 Jul 2026 22:40:26 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 07月30日 22:43 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 07月31日 22:40 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-30</guid>
-        <pubDate>Thu, 30 Jul 2026 22:43:35 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 7 items</p><p><b>🎮 生活分享流 (life):</b> 8 items</p><p><b>🆕 本次新增:</b> 12 items</p><p><b>📦 数据库总量:</b> 2828 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-07-31</guid>
+        <pubDate>Fri, 31 Jul 2026 22:40:26 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 12 items</p><p><b>🎮 生活分享流 (life):</b> 7 items</p><p><b>🆕 本次新增:</b> 11 items</p><p><b>📦 数据库总量:</b> 2839 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：【突发】DeepSeek-V4-Flash 正式版 API 上线公测！]]></title>
+        <link>https://www.bilibili.com/video/BV1gqGA6ZEuJ</link>
+        <guid isPermaLink="false">bilibili-117013213087550</guid>
+        <pubDate>Fri, 31 Jul 2026 06:40:08 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>更新日志：https://api-docs.deepseek.com/zh-cn/updates
+接入Codex：https://api-docs.deepseek.com/zh-cn/quick_start/agent_integrations/codex/</p><p><a href="https://www.bilibili.com/video/BV1gqGA6ZEuJ">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：【橘鸦】把电脑装进手机里：跑 AI Agent 必备的远程操控方案！]]></title>
+        <link>https://www.bilibili.com/video/BV14o3x6JE95</link>
+        <guid isPermaLink="false">bilibili-117008716792093</guid>
+        <pubDate>Fri, 31 Jul 2026 03:30:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>良心神级远程控制软件
+一键下载：https://uuyc.163.com/</p><p><a href="https://www.bilibili.com/video/BV14o3x6JE95">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenAI 下调 GPT-5.6 Luna 与 Terra 价格；智谱大改 GLM Coding Plan 并开放订阅【AI 早报 2026-07-31】]]></title>
+        <link>https://www.bilibili.com/video/BV1EA3a6DEXN</link>
+        <guid isPermaLink="false">bilibili-117012072301384</guid>
+        <pubDate>Fri, 31 Jul 2026 01:52:36 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/pPtS-er3q-GYcNe0lygiqA</p><p><a href="https://www.bilibili.com/video/BV1EA3a6DEXN">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -48,6 +86,18 @@
     </item>
     
     <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenAI 上线 GPT-5.6 Sol 效率改进并重置 Codex 用量限制【AI 早报 2026-07-30】]]></title>
+        <link>https://www.bilibili.com/video/BV1Qw3W6EE8i</link>
+        <guid isPermaLink="false">bilibili-117006267319958</guid>
+        <pubDate>Thu, 30 Jul 2026 01:16:14 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/vtrBO6RK41gmnWW9HeLdTw</p><p><a href="https://www.bilibili.com/video/BV1Qw3W6EE8i">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 华尔街播客 (2026-07-29): 2 posts]]></title>
         <link>https://www.bilibili.com/video/BV1QZ3n6VEjK</link>
         <guid isPermaLink="false">bilibili-grouped-2026-07-29-d13e0e33</guid>
@@ -57,6 +107,18 @@
 <li><a href="https://www.bilibili.com/video/BV19X3n62EtN">《华尔街日报》7月29日全文精读</a></li>
 </ul>]]></description>
         <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenAI 上线 GPT Live Transcribe 和 GPT Transcribe 模型 API 【AI 早报 2026-07-29】]]></title>
+        <link>https://www.bilibili.com/video/BV1eh3k6GERM</link>
+        <guid isPermaLink="false">bilibili-117000647084693</guid>
+        <pubDate>Wed, 29 Jul 2026 01:35:18 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1eh3k6GERM">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
@@ -74,6 +136,42 @@ Kiwi说，自己在AI行业“打杂了十年”。她亲历了上一代“AI四
     </item>
     
     <item>
+        <title><![CDATA[[B站] 橘鸦juya：月之暗面发布 Kimi K3 模型权重及完整技术报告【AI 早报 2026-07-28】]]></title>
+        <link>https://www.bilibili.com/video/BV1k63e6AEXj</link>
+        <guid isPermaLink="false">bilibili-116994993029361</guid>
+        <pubDate>Tue, 28 Jul 2026 01:30:05 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/EUjsTw2TNM0XHHBI12zRvA</p><p><a href="https://www.bilibili.com/video/BV1k63e6AEXj">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenAI 宣布 ChatGPT Work 活跃用户数超越 Codex【AI 早报 2026-07-27】]]></title>
+        <link>https://www.bilibili.com/video/BV16egd6XERw</link>
+        <guid isPermaLink="false">bilibili-116989272000403</guid>
+        <pubDate>Mon, 27 Jul 2026 01:13:02 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/yZ57jj59VgEGw8Y_xXZOhA</p><p><a href="https://www.bilibili.com/video/BV16egd6XERw">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenAI 昨日遭遇严重服务中断，已恢复并重置用户使用限制  【AI 早报 2026-07-26】]]></title>
+        <link>https://www.bilibili.com/video/BV14q3L6pEXh</link>
+        <guid isPermaLink="false">bilibili-116983550969727</guid>
+        <pubDate>Sun, 26 Jul 2026 00:57:44 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/h_gwYXzJXL7p9TO135ClPw</p><p><a href="https://www.bilibili.com/video/BV14q3L6pEXh">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 橘鸦juya：Anthropic 发布 Claude Opus 5 模型【AI 早报 2026-07-25】]]></title>
         <link>https://www.bilibili.com/video/BV1aG3T6qEcm</link>
         <guid isPermaLink="false">bilibili-116977997710623</guid>
@@ -81,44 +179,6 @@ Kiwi说，自己在AI行业“打杂了十年”。她亲历了上一代“AI四
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/JnXrnJnI5lu6kGOhWPevIw</p><p><a href="https://www.bilibili.com/video/BV1aG3T6qEcm">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 巫师财经：【巫师】一字断魂刀，绞杀国家队，中国第一游资徐翔的资本博弈]]></title>
-        <link>https://www.bilibili.com/video/BV1Htgh6DErU</link>
-        <guid isPermaLink="false">bilibili-116972947775120</guid>
-        <pubDate>Fri, 24 Jul 2026 10:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：巫师财经</p>
-<p><a href="https://www.bilibili.com/video/BV1Htgh6DErU">查看原文 →</a></p>]]></description>
-        <author><![CDATA[巫师财经]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 硅谷101：2026世界杯：AI改变了足球......吗？【硅谷101】]]></title>
-        <link>https://www.bilibili.com/video/BV1A4gh6pEbE</link>
-        <guid isPermaLink="false">bilibili-116972897574781</guid>
-        <pubDate>Fri, 24 Jul 2026 03:49:31 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：硅谷101</p>
-<p>AI可以写代码、做研究，甚至预测复杂的现实世界，但面对一场足球比赛，它却常常失灵。即使拥有海量数据和顶级算法，AI依然很难回答那个最关键的问题：怎样才能赢球？
-
-从利物浦与DeepMind的角球实验，到AI球探寻找下一个超级球星，再到智能足球和半自动越位系统，AI已经进入战术、选援、判罚和转播。但足球充满偶然性与难以量化的变量，真正有价值的数据又高度分散、难以获取。与此同时，这个拥有几十亿观众的全</p><p><a href="https://www.bilibili.com/video/BV1A4gh6pEbE">查看原文 →</a></p>]]></description>
-        <author><![CDATA[硅谷101]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：ChatGPT 桌面应用上线 ChatGPT Voice 功能，支持语音控制电脑并协调多个Agent  【AI 早报 2026-07-24】]]></title>
-        <link>https://www.bilibili.com/video/BV1f5ga6EEnq</link>
-        <guid isPermaLink="false">bilibili-116972377344795</guid>
-        <pubDate>Fri, 24 Jul 2026 01:34:34 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/5froDCpc8bTffkr0SRumPA</p><p><a href="https://www.bilibili.com/video/BV1f5ga6EEnq">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
