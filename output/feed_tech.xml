@@ -5,27 +5,75 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 31 Jul 2026 22:40:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 22:34:52 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 07月31日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月01日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-31</guid>
-        <pubDate>Fri, 31 Jul 2026 22:40:26 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-08-01</guid>
+        <pubDate>Sat, 01 Aug 2026 22:34:52 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 07月31日 22:40 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 08月01日 22:34 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-07-31</guid>
-        <pubDate>Fri, 31 Jul 2026 22:40:26 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 12 items</p><p><b>🎮 生活分享流 (life):</b> 7 items</p><p><b>🆕 本次新增:</b> 11 items</p><p><b>📦 数据库总量:</b> 2839 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-08-01</guid>
+        <pubDate>Sat, 01 Aug 2026 22:34:52 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 15 items</p><p><b>🎮 生活分享流 (life):</b> 9 items</p><p><b>🆕 本次新增:</b> 19 items</p><p><b>📦 数据库总量:</b> 2858 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客 (2026-08-01): 8 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1r23m6iE9c</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-08-01-d13e0e33</guid>
+        <pubDate>Sat, 01 Aug 2026 14:41:42 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1r23m6iE9c">【英文原声】《华尔街日报》8月1-2日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1H23m6iEw4">《华尔街日报》8月1-2日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1gQG36nEeC">【英文原声】高盛看好小米，预售价格屠夫本色尽显无遗</a></li>
+<li><a href="https://www.bilibili.com/video/BV1hQG36nETE">高盛看好小米，预售价格屠夫本色尽显无遗</a></li>
+<li><a href="https://www.bilibili.com/video/BV1SXG36SEUk">摩根看好潍柴动力，表后电源订单全球共振</a></li>
+<li><a href="https://www.bilibili.com/video/BV1gXG36SEMa">【英文原声】摩根看好潍柴动力，表后电源订单全球共振</a></li>
+<li><a href="https://www.bilibili.com/video/BV1YcGu62EEx">【英文原声】摩根看好寒武纪，交付放缓，产能追赶中</a></li>
+<li><a href="https://www.bilibili.com/video/BV1uuGu6GEQN">摩根看好寒武纪，交付放缓，产能追赶中</a></li>
+</ul>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点125期」从零实现技术合集、离线蓝牙聊天、阿里代码审查Agent、AI Agent开源书和把书变成Skill]]></title>
+        <link>https://www.bilibili.com/video/BV1tZG36jEHe</link>
+        <guid isPermaLink="false">bilibili-117018682525396</guid>
+        <pubDate>Sat, 01 Aug 2026 05:54:43 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：IT咖啡馆</p>
+<p>1、项目名称：build-your-own-x - 从零实现各种技术的教程合集
+GitHub 链接：https://github.com/codecrafters-io/build-your-own-x
+2、项目名称：bitchat - 去中心化离线聊天应用
+GitHub 链接：https://github.com/permissionlesstech/bitchat
+3、项目名称：Open Co</p><p><a href="https://www.bilibili.com/video/BV1tZG36jEHe">查看原文 →</a></p>]]></description>
+        <author><![CDATA[IT咖啡馆]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客 (2026-07-31): 2 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1a5GP6YEvr</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-07-31-d13e0e33</guid>
+        <pubDate>Fri, 31 Jul 2026 15:15:26 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1a5GP6YEvr">【英文原声】《华尔街日报》7月31日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1Q5GP6aEmi">《华尔街日报》7月31日全文精读</a></li>
+</ul>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -111,6 +159,34 @@
     </item>
     
     <item>
+        <title><![CDATA[[B站] 量化投资邢不行啊：2天稳赚1.4%,10年超越马斯克?稳赚不赔的跌停板战法?跌停套利?Python量化网络热门大师指标，1000万条数据揭秘网红策略真面目「量化投资邢不行啊」]]></title>
+        <link>https://www.bilibili.com/video/BV1bx3C6eE12</link>
+        <guid isPermaLink="false">bilibili-117002190459030</guid>
+        <pubDate>Wed, 29 Jul 2026 09:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：量化投资邢不行啊</p>
+<p>炒股你信大师画的图，
+不如自己用数据验证。
+本期视频验证的策略，
+号称买入就不会亏损，
+随随便便就能抓涨停，
+火出圈的跌停板战法。
+谨记网上大师千千万，
+论看图说话都是王者，
+但凡经历大数据拷打，
+十有八九会露出破绽。
+
+喜欢视频记得三连，并点个关注～
+
+往期视频精选：
+跌停板战法1：BV1q7PjegEGJ
+赚钱技术指标：BV1SXg66sENU
+涨停类战法：BV1iwG16QEvJ</p><p><a href="https://www.bilibili.com/video/BV1bx3C6eE12">查看原文 →</a></p>]]></description>
+        <author><![CDATA[量化投资邢不行啊]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 橘鸦juya：OpenAI 上线 GPT Live Transcribe 和 GPT Transcribe 模型 API 【AI 早报 2026-07-29】]]></title>
         <link>https://www.bilibili.com/video/BV1eh3k6GERM</link>
         <guid isPermaLink="false">bilibili-117000647084693</guid>
@@ -167,18 +243,6 @@ Kiwi说，自己在AI行业“打杂了十年”。她亲历了上一代“AI四
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/h_gwYXzJXL7p9TO135ClPw</p><p><a href="https://www.bilibili.com/video/BV14q3L6pEXh">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Anthropic 发布 Claude Opus 5 模型【AI 早报 2026-07-25】]]></title>
-        <link>https://www.bilibili.com/video/BV1aG3T6qEcm</link>
-        <guid isPermaLink="false">bilibili-116977997710623</guid>
-        <pubDate>Sat, 25 Jul 2026 01:24:15 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/JnXrnJnI5lu6kGOhWPevIw</p><p><a href="https://www.bilibili.com/video/BV1aG3T6qEcm">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
