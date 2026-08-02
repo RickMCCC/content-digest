@@ -5,27 +5,44 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 01 Aug 2026 22:34:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 22:35:57 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月01日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月02日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-01</guid>
-        <pubDate>Sat, 01 Aug 2026 22:34:52 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-08-02</guid>
+        <pubDate>Sun, 02 Aug 2026 22:35:57 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 08月01日 22:34 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 08月02日 22:35 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-01</guid>
-        <pubDate>Sat, 01 Aug 2026 22:34:52 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 15 items</p><p><b>🎮 生活分享流 (life):</b> 9 items</p><p><b>🆕 本次新增:</b> 19 items</p><p><b>📦 数据库总量:</b> 2858 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-08-02</guid>
+        <pubDate>Sun, 02 Aug 2026 22:35:57 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 15 items</p><p><b>🎮 生活分享流 (life):</b> 8 items</p><p><b>🆕 本次新增:</b> 6 items</p><p><b>📦 数据库总量:</b> 2864 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客 (2026-08-02): 6 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1LK3X6uECS</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-08-02-d13e0e33</guid>
+        <pubDate>Sun, 02 Aug 2026 09:00:00 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1LK3X6uECS">【英文原声】高盛看好苹果，服务掉队拖累,毛利拐点将至</a></li>
+<li><a href="https://www.bilibili.com/video/BV1jK3X6uEwA">高盛看好苹果，服务掉队拖累,毛利拐点将至</a></li>
+<li><a href="https://www.bilibili.com/video/BV18i3Q6fEoY">【英文原声】汇丰看好徐工机械，小挖机下沉带动销量走强</a></li>
+<li><a href="https://www.bilibili.com/video/BV1Si3Q6fE2y">汇丰看好徐工机械，小挖机下沉带动销量走强</a></li>
+<li><a href="https://www.bilibili.com/video/BV1iP3X66EZo">【英文原声】摩根看好东鹏饮料，茶饮料异军突起放量</a></li>
+<li><a href="https://www.bilibili.com/video/BV1jP3X66E4V">摩根看好东鹏饮料，茶饮料异军突起放量</a></li>
+</ul>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -334,30 +351,6 @@ Kiwi说，自己在AI行业“打杂了十年”。她亲历了上一代“AI四
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/yZ57jj59VgEGw8Y_xXZOhA</p><p><a href="https://www.bilibili.com/video/BV16egd6XERw">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：坚决怼回去!坚决打回去! 中国驻菲律宾大使讲白了! 沈逸 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV18V3j6ZEgh</link>
-        <guid isPermaLink="false">bilibili-116985027428509</guid>
-        <pubDate>Sun, 26 Jul 2026 07:26:04 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV18V3j6ZEgh">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：OpenAI 昨日遭遇严重服务中断，已恢复并重置用户使用限制  【AI 早报 2026-07-26】]]></title>
-        <link>https://www.bilibili.com/video/BV14q3L6pEXh</link>
-        <guid isPermaLink="false">bilibili-116983550969727</guid>
-        <pubDate>Sun, 26 Jul 2026 00:57:44 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/h_gwYXzJXL7p9TO135ClPw</p><p><a href="https://www.bilibili.com/video/BV14q3L6pEXh">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
