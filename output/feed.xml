@@ -5,27 +5,39 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 02 Aug 2026 22:35:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 22:41:20 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月02日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月03日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-02</guid>
-        <pubDate>Sun, 02 Aug 2026 22:35:57 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-08-03</guid>
+        <pubDate>Mon, 03 Aug 2026 22:41:19 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 08月02日 22:35 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 08月03日 22:41 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-02</guid>
-        <pubDate>Sun, 02 Aug 2026 22:35:57 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 15 items</p><p><b>🎮 生活分享流 (life):</b> 8 items</p><p><b>🆕 本次新增:</b> 6 items</p><p><b>📦 数据库总量:</b> 2864 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-08-03</guid>
+        <pubDate>Mon, 03 Aug 2026 22:41:20 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 15 items</p><p><b>🎮 生活分享流 (life):</b> 10 items</p><p><b>🆕 本次新增:</b> 3 items</p><p><b>📦 数据库总量:</b> 2867 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] IT咖啡馆：不会编程，玩转机器人表演？5分钟0基础完成机器人舞蹈]]></title>
+        <link>https://www.bilibili.com/video/BV1Vq3d61EzG</link>
+        <guid isPermaLink="false">bilibili-117026333000775</guid>
+        <pubDate>Mon, 03 Aug 2026 04:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：IT咖啡馆</p>
+<p><a href="https://www.bilibili.com/video/BV1Vq3d61EzG">查看原文 →</a></p>]]></description>
+        <author><![CDATA[IT咖啡馆]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -77,6 +89,40 @@ GitHub 链接：https://github.com/codecrafters-io/build-your-own-x
 GitHub 链接：https://github.com/permissionlesstech/bitchat
 3、项目名称：Open Co</p><p><a href="https://www.bilibili.com/video/BV1tZG36jEHe">查看原文 →</a></p>]]></description>
         <author><![CDATA[IT咖啡馆]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] torazyz：Paris vlog 巴黎沉浸式逛街购物🤍CHANEL, The Row｜torazyz]]></title>
+        <link>https://www.bilibili.com/video/BV1R9GK6CESQ</link>
+        <guid isPermaLink="false">bilibili-117015360635213</guid>
+        <pubDate>Sat, 01 Aug 2026 02:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：torazyz</p>
+<p>巴黎逛街：
+CHANEL 总店
+Hermes 总店
+The Row
+JMM
+Saint Laurent
+Chrome Hearts
+DSM
+KITH
+Le Bon Marché
+巴黎餐厅：
+Brasserie l'Émil
+Soon Grill
+Loulou
+Le Chardenoux
+Clos d’Astorg
+Le Petit Lutetia
+
+
+
+感谢观看
+
+更多内容 欢迎关注 Find m</p><p><a href="https://www.bilibili.com/video/BV1R9GK6CESQ">查看原文 →</a></p>]]></description>
+        <author><![CDATA[torazyz]]></author>
         <category>B站</category>
     </item>
     
@@ -283,6 +329,20 @@ GitHub 链接：https://github.com/permissionlesstech/bitchat
     </item>
     
     <item>
+        <title><![CDATA[[B站] 学院派Academia：福特如何用“人人买得起的汽车”，续命资本主义【汽车社会学】]]></title>
+        <link>https://www.bilibili.com/video/BV1xsgY6hEw3</link>
+        <guid isPermaLink="false">bilibili-116973820190184</guid>
+        <pubDate>Wed, 29 Jul 2026 06:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：学院派Academia</p>
+<p>马克思发现了资本主义最致命的漏洞：工人造得出商品，却买不起自己生产的东西；而亨利·福特则用流水线、五美元日薪和一辆T型车，试图堵上这个漏洞、挑战马克思的预言。
+他用流水线把一个完整的技术工人拆成了可以随时替换的标准动作，又用五美元日薪把工人重新制造成买得起汽车的消费者。他一边用高工资建立中产阶级，一边又成立“社会学部”，深入检查工人的家庭、储蓄、婚姻与生活习惯。
+这套制度既像资本主义企业，也带有某</p><p><a href="https://www.bilibili.com/video/BV1xsgY6hEw3">查看原文 →</a></p>]]></description>
+        <author><![CDATA[学院派Academia]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 橘鸦juya：OpenAI 上线 GPT Live Transcribe 和 GPT Transcribe 模型 API 【AI 早报 2026-07-29】]]></title>
         <link>https://www.bilibili.com/video/BV1eh3k6GERM</link>
         <guid isPermaLink="false">bilibili-117000647084693</guid>
@@ -339,18 +399,6 @@ Kiwi说，自己在AI行业“打杂了十年”。她亲历了上一代“AI四
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/EUjsTw2TNM0XHHBI12zRvA</p><p><a href="https://www.bilibili.com/video/BV1k63e6AEXj">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：OpenAI 宣布 ChatGPT Work 活跃用户数超越 Codex【AI 早报 2026-07-27】]]></title>
-        <link>https://www.bilibili.com/video/BV16egd6XERw</link>
-        <guid isPermaLink="false">bilibili-116989272000403</guid>
-        <pubDate>Mon, 27 Jul 2026 01:13:02 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/yZ57jj59VgEGw8Y_xXZOhA</p><p><a href="https://www.bilibili.com/video/BV16egd6XERw">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>

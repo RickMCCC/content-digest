@@ -5,27 +5,39 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 02 Aug 2026 22:35:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 22:41:20 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月02日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月03日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-02</guid>
-        <pubDate>Sun, 02 Aug 2026 22:35:57 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-08-03</guid>
+        <pubDate>Mon, 03 Aug 2026 22:41:19 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 08月02日 22:35 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 08月03日 22:41 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-02</guid>
-        <pubDate>Sun, 02 Aug 2026 22:35:57 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 15 items</p><p><b>🎮 生活分享流 (life):</b> 8 items</p><p><b>🆕 本次新增:</b> 6 items</p><p><b>📦 数据库总量:</b> 2864 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-08-03</guid>
+        <pubDate>Mon, 03 Aug 2026 22:41:20 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 15 items</p><p><b>🎮 生活分享流 (life):</b> 10 items</p><p><b>🆕 本次新增:</b> 3 items</p><p><b>📦 数据库总量:</b> 2867 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] IT咖啡馆：不会编程，玩转机器人表演？5分钟0基础完成机器人舞蹈]]></title>
+        <link>https://www.bilibili.com/video/BV1Vq3d61EzG</link>
+        <guid isPermaLink="false">bilibili-117026333000775</guid>
+        <pubDate>Mon, 03 Aug 2026 04:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：IT咖啡馆</p>
+<p><a href="https://www.bilibili.com/video/BV1Vq3d61EzG">查看原文 →</a></p>]]></description>
+        <author><![CDATA[IT咖啡馆]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -236,18 +248,6 @@ Kiwi说，自己在AI行业“打杂了十年”。她亲历了上一代“AI四
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/EUjsTw2TNM0XHHBI12zRvA</p><p><a href="https://www.bilibili.com/video/BV1k63e6AEXj">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：OpenAI 宣布 ChatGPT Work 活跃用户数超越 Codex【AI 早报 2026-07-27】]]></title>
-        <link>https://www.bilibili.com/video/BV16egd6XERw</link>
-        <guid isPermaLink="false">bilibili-116989272000403</guid>
-        <pubDate>Mon, 27 Jul 2026 01:13:02 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/yZ57jj59VgEGw8Y_xXZOhA</p><p><a href="https://www.bilibili.com/video/BV16egd6XERw">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
