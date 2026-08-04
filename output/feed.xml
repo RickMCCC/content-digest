@@ -5,27 +5,57 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 03 Aug 2026 22:41:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 22:43:52 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月03日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月04日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-03</guid>
-        <pubDate>Mon, 03 Aug 2026 22:41:19 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-08-04</guid>
+        <pubDate>Tue, 04 Aug 2026 22:43:52 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 08月03日 22:41 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 08月04日 22:43 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-03</guid>
-        <pubDate>Mon, 03 Aug 2026 22:41:20 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 15 items</p><p><b>🎮 生活分享流 (life):</b> 10 items</p><p><b>🆕 本次新增:</b> 3 items</p><p><b>📦 数据库总量:</b> 2867 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-08-04</guid>
+        <pubDate>Tue, 04 Aug 2026 22:43:52 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 13 items</p><p><b>🎮 生活分享流 (life):</b> 11 items</p><p><b>🆕 本次新增:</b> 10 items</p><p><b>📦 数据库总量:</b> 2877 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Mr-Pot (2026-08-04): 5 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1DkMZ6MEcF</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-08-04-a1c5d27b</guid>
+        <pubDate>Tue, 04 Aug 2026 12:50:33 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1DkMZ6MEcF">【中英字幕】彭博科技前沿26.08.03完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1tTMZ6AE4U">【中英字幕】《面向全国》26.08.03完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1txMo6cEBq">【中英字幕】彭博财经观察26.08.03完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1TTMZ6AEtA">【中英字幕】26.08.03川普在白宫签署行政令并回答记者提问完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1cRM96yEkS">【中英字幕】彭博财经简报26.08.03完整版</a></li>
+</ul>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Mr-Pot (2026-08-03): 3 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1T43R6YEbu</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-08-03-a1c5d27b</guid>
+        <pubDate>Mon, 03 Aug 2026 06:21:40 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1T43R6YEbu">【中英字幕】PBS《华盛顿周报》26.07.31完整版：伊朗战争陷入僵局与华盛顿政治信任危机：从军事困境到福奇听证闹剧</a></li>
+<li><a href="https://www.bilibili.com/video/BV1ZR3f6fEXo">【中英字幕】NBC《与媒体见面》26.08.02完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1kxGF6BEqV">【中英字幕】26.08.02川普在空军一号回答记者提问完整版</a></li>
+</ul>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -37,6 +67,19 @@
 <p>✍️ 作者：IT咖啡馆</p>
 <p><a href="https://www.bilibili.com/video/BV1Vq3d61EzG">查看原文 →</a></p>]]></description>
         <author><![CDATA[IT咖啡馆]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Mr-Pot (2026-08-02): 2 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1o7Gg69Ezw</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-08-02-a1c5d27b</guid>
+        <pubDate>Sun, 02 Aug 2026 13:51:48 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1o7Gg69Ezw">【中英字幕】CNBC分析：AI失控、成本危机与中美机器人战：掌控智能的三大核心维度</a></li>
+<li><a href="https://www.bilibili.com/video/BV1AKGg6AENc">【中英字幕】彭博科技前沿26.07.31完整版</a></li>
+</ul>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
         <category>B站</category>
     </item>
     
@@ -350,55 +393,6 @@ Le Petit Lutetia
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1eh3k6GERM">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 硅谷101：对话叶奇意：“寻找”月之暗面杨植麟、中国两代AI、十年人才迁徙，与AGI信仰【101视频播客】]]></title>
-        <link>https://www.bilibili.com/video/BV1wK3i6NEdQ</link>
-        <guid isPermaLink="false">bilibili-116996469428261</guid>
-        <pubDate>Tue, 28 Jul 2026 07:49:07 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：硅谷101</p>
-<p>近期Kimi K3发布后再次震动硅谷，也把月之暗面推到全球AI开源争论与竞争的中心。
-Kiwi说，自己在AI行业“打杂了十年”。她亲历了上一代“AI四小龙”的兴起，也在美团龙珠主导推动了A1轮的投资。这期视频播客，在她的讲述里，Kimi并不是一个突然出现的成功故事：杨植麟、唐杰、创新工场AI工程院，以及上一轮AI创业留下的人才、经验与技术理想，共同构成了一条延续多年的中国AI脉络。上一代公司的起伏</p><p><a href="https://www.bilibili.com/video/BV1wK3i6NEdQ">查看原文 →</a></p>]]></description>
-        <author><![CDATA[硅谷101]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：全靠脸皮厚? 日本独自完成与中俄的两场高层会谈! 郭正亮 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV1xR3v6kEzG</link>
-        <guid isPermaLink="false">bilibili-116996318497215</guid>
-        <pubDate>Tue, 28 Jul 2026 07:10:15 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV1xR3v6kEzG">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：采访靳东]]></title>
-        <link>https://www.bilibili.com/video/BV19Z3e6DEnB</link>
-        <guid isPermaLink="false">bilibili-116995060206558</guid>
-        <pubDate>Tue, 28 Jul 2026 01:49:36 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p>-</p><p><a href="https://www.bilibili.com/video/BV19Z3e6DEnB">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：月之暗面发布 Kimi K3 模型权重及完整技术报告【AI 早报 2026-07-28】]]></title>
-        <link>https://www.bilibili.com/video/BV1k63e6AEXj</link>
-        <guid isPermaLink="false">bilibili-116994993029361</guid>
-        <pubDate>Tue, 28 Jul 2026 01:30:05 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/EUjsTw2TNM0XHHBI12zRvA</p><p><a href="https://www.bilibili.com/video/BV1k63e6AEXj">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
