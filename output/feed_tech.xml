@@ -5,27 +5,49 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 04 Aug 2026 22:43:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 22:41:25 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月04日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月05日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-04</guid>
-        <pubDate>Tue, 04 Aug 2026 22:43:52 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-08-05</guid>
+        <pubDate>Wed, 05 Aug 2026 22:41:25 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 08月04日 22:43 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 08月05日 22:41 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-04</guid>
-        <pubDate>Tue, 04 Aug 2026 22:43:52 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 13 items</p><p><b>🎮 生活分享流 (life):</b> 11 items</p><p><b>🆕 本次新增:</b> 10 items</p><p><b>📦 数据库总量:</b> 2877 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-08-05</guid>
+        <pubDate>Wed, 05 Aug 2026 22:41:25 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 11 items</p><p><b>🎮 生活分享流 (life):</b> 9 items</p><p><b>🆕 本次新增:</b> 1 items</p><p><b>📦 数据库总量:</b> 2878 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 量化投资邢不行啊：7分钟学会AI量化,网上大师策略,一测就现行?零基础小白也能学会,普通人做量化的最优方案?不用装Python,不用写代码,一样能回测? | 量化投资邢不行啊]]></title>
+        <link>https://www.bilibili.com/video/BV17HMk6qEqa</link>
+        <guid isPermaLink="false">bilibili-117041935685472</guid>
+        <pubDate>Wed, 05 Aug 2026 09:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：量化投资邢不行啊</p>
+<p>0基础小白如何用AI做量化？
+借助AI能测试全网大师策略？
+如何用AI实现0代码编程回测？
+AI量化炒股最好的用法是什么？
+
+喜欢视频记得三连，并点个关注～
+
+往期视频精选：
+AI辅助量化交易：BV1TBrhYCEKv
+DeepSeek做量化：BV1hzdAYuE3e
+用AI找到的好指标：BV1SXg66sENU</p><p><a href="https://www.bilibili.com/video/BV17HMk6qEqa">查看原文 →</a></p>]]></description>
+        <author><![CDATA[量化投资邢不行啊]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -170,59 +192,6 @@ GitHub 链接：https://github.com/permissionlesstech/bitchat
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/vtrBO6RK41gmnWW9HeLdTw</p><p><a href="https://www.bilibili.com/video/BV1Qw3W6EE8i">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-07-29): 2 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1QZ3n6VEjK</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-07-29-d13e0e33</guid>
-        <pubDate>Wed, 29 Jul 2026 14:19:24 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1QZ3n6VEjK">【英文原声】《华尔街日报》7月29日全文精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV19X3n62EtN">《华尔街日报》7月29日全文精读</a></li>
-</ul>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 量化投资邢不行啊：2天稳赚1.4%,10年超越马斯克?稳赚不赔的跌停板战法?跌停套利?Python量化网络热门大师指标，1000万条数据揭秘网红策略真面目「量化投资邢不行啊」]]></title>
-        <link>https://www.bilibili.com/video/BV1bx3C6eE12</link>
-        <guid isPermaLink="false">bilibili-117002190459030</guid>
-        <pubDate>Wed, 29 Jul 2026 09:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：量化投资邢不行啊</p>
-<p>炒股你信大师画的图，
-不如自己用数据验证。
-本期视频验证的策略，
-号称买入就不会亏损，
-随随便便就能抓涨停，
-火出圈的跌停板战法。
-谨记网上大师千千万，
-论看图说话都是王者，
-但凡经历大数据拷打，
-十有八九会露出破绽。
-
-喜欢视频记得三连，并点个关注～
-
-往期视频精选：
-跌停板战法1：BV1q7PjegEGJ
-赚钱技术指标：BV1SXg66sENU
-涨停类战法：BV1iwG16QEvJ</p><p><a href="https://www.bilibili.com/video/BV1bx3C6eE12">查看原文 →</a></p>]]></description>
-        <author><![CDATA[量化投资邢不行啊]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：OpenAI 上线 GPT Live Transcribe 和 GPT Transcribe 模型 API 【AI 早报 2026-07-29】]]></title>
-        <link>https://www.bilibili.com/video/BV1eh3k6GERM</link>
-        <guid isPermaLink="false">bilibili-117000647084693</guid>
-        <pubDate>Wed, 29 Jul 2026 01:35:18 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1eh3k6GERM">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
