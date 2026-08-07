@@ -5,25 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 07 Aug 2026 01:10:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 22:13:46 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
         <title><![CDATA[⚠️ 本地 Runner 离线 | 08月07日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
         <guid isPermaLink="false">digest-2026-08-07</guid>
-        <pubDate>Fri, 07 Aug 2026 01:10:51 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 22:13:46 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 08月07日 01:10 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 08月07日 22:13 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
         <guid isPermaLink="false">digest-2026-08-07</guid>
-        <pubDate>Fri, 07 Aug 2026 01:10:51 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 10 items</p><p><b>🎮 生活分享流 (life):</b> 8 items</p><p><b>🆕 本次新增:</b> 3 items</p><p><b>📦 数据库总量:</b> 2881 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <pubDate>Fri, 07 Aug 2026 22:13:46 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 7 items</p><p><b>🎮 生活分享流 (life):</b> 5 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 2881 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -136,44 +136,6 @@ GitHub 链接：https://github.com/permissionlesstech/bitchat
 <li><a href="https://www.bilibili.com/video/BV1Q5GP6aEmi">《华尔街日报》7月31日全文精读</a></li>
 </ul>]]></description>
         <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：【突发】DeepSeek-V4-Flash 正式版 API 上线公测！]]></title>
-        <link>https://www.bilibili.com/video/BV1gqGA6ZEuJ</link>
-        <guid isPermaLink="false">bilibili-117013213087550</guid>
-        <pubDate>Fri, 31 Jul 2026 06:40:08 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>更新日志：https://api-docs.deepseek.com/zh-cn/updates
-接入Codex：https://api-docs.deepseek.com/zh-cn/quick_start/agent_integrations/codex/</p><p><a href="https://www.bilibili.com/video/BV1gqGA6ZEuJ">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：【橘鸦】把电脑装进手机里：跑 AI Agent 必备的远程操控方案！]]></title>
-        <link>https://www.bilibili.com/video/BV14o3x6JE95</link>
-        <guid isPermaLink="false">bilibili-117008716792093</guid>
-        <pubDate>Fri, 31 Jul 2026 03:30:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>良心神级远程控制软件
-一键下载：https://uuyc.163.com/</p><p><a href="https://www.bilibili.com/video/BV14o3x6JE95">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：OpenAI 下调 GPT-5.6 Luna 与 Terra 价格；智谱大改 GLM Coding Plan 并开放订阅【AI 早报 2026-07-31】]]></title>
-        <link>https://www.bilibili.com/video/BV1EA3a6DEXN</link>
-        <guid isPermaLink="false">bilibili-117012072301384</guid>
-        <pubDate>Fri, 31 Jul 2026 01:52:36 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/pPtS-er3q-GYcNe0lygiqA</p><p><a href="https://www.bilibili.com/video/BV1EA3a6DEXN">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
