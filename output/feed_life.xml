@@ -5,7 +5,7 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>生活/娱乐/艺术 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 05 Aug 2026 22:41:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 01:10:51 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_life.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -21,6 +21,18 @@
 <li><a href="https://www.bilibili.com/video/BV1cRM96yEkS">【中英字幕】彭博财经简报26.08.03完整版</a></li>
 </ul>]]></description>
         <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小Lin说：对话漫威总裁 | 漫威宇宙的崛起和转身，下一个爆点在哪里？]]></title>
+        <link>https://www.bilibili.com/video/BV1gKuF6rEqy</link>
+        <guid isPermaLink="false">bilibili-117035174467776</guid>
+        <pubDate>Tue, 04 Aug 2026 10:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小Lin说</p>
+<p>PS：这次采访是稍早些在BW期间做的采访～蜘蛛侠已经上映了～</p><p><a href="https://www.bilibili.com/video/BV1gKuF6rEqy">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小Lin说]]></author>
         <category>B站</category>
     </item>
     
@@ -119,36 +131,6 @@ Le Petit Lutetia
 <p>✍️ 作者：小王Albert</p>
 <p>一键三连推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV1dbGA6PEAt">查看原文 →</a></p>]]></description>
         <author><![CDATA[小王Albert]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【生肉】"欢迎来横滨~~" LE SSERAFIM直播(中字待更) 260730]]></title>
-        <link>https://www.bilibili.com/video/BV1uz3b6bEYF</link>
-        <guid isPermaLink="false">bilibili-117009287222495</guid>
-        <pubDate>Thu, 30 Jul 2026 14:05:42 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>wvs
-资源：末末
-翻译：
-时间轴：
-校对/合轴/压制：
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1uz3b6bEYF">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：好大的口气! 法国《快报》社论“欧盟必须敢于和中国开战”! 赖岳谦 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV1XH3s6sE16</link>
-        <guid isPermaLink="false">bilibili-117007542520128</guid>
-        <pubDate>Thu, 30 Jul 2026 06:41:30 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV1XH3s6sE16">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
         <category>B站</category>
     </item>
     
