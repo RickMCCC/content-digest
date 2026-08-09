@@ -5,25 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 08 Aug 2026 22:03:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 22:05:52 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月08日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月09日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-08</guid>
-        <pubDate>Sat, 08 Aug 2026 22:03:46 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-08-09</guid>
+        <pubDate>Sun, 09 Aug 2026 22:05:52 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 08月08日 22:03 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 08月09日 22:05 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-08</guid>
-        <pubDate>Sat, 08 Aug 2026 22:03:46 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 7 items</p><p><b>🎮 生活分享流 (life):</b> 4 items</p><p><b>🆕 本次新增:</b> 3 items</p><p><b>📦 数据库总量:</b> 2884 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-08-09</guid>
+        <pubDate>Sun, 09 Aug 2026 22:05:52 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 5 items</p><p><b>🎮 生活分享流 (life):</b> 3 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 2884 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -146,49 +146,6 @@ DeepSeek做量化：BV1hzdAYuE3e
 <p>✍️ 作者：IT咖啡馆</p>
 <p><a href="https://www.bilibili.com/video/BV1Vq3d61EzG">查看原文 →</a></p>]]></description>
         <author><![CDATA[IT咖啡馆]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot (2026-08-02): 2 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1o7Gg69Ezw</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-08-02-a1c5d27b</guid>
-        <pubDate>Sun, 02 Aug 2026 13:51:48 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1o7Gg69Ezw">【中英字幕】CNBC分析：AI失控、成本危机与中美机器人战：掌控智能的三大核心维度</a></li>
-<li><a href="https://www.bilibili.com/video/BV1AKGg6AENc">【中英字幕】彭博科技前沿26.07.31完整版</a></li>
-</ul>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-08-02): 6 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1LK3X6uECS</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-08-02-d13e0e33</guid>
-        <pubDate>Sun, 02 Aug 2026 09:00:00 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1LK3X6uECS">【英文原声】高盛看好苹果，服务掉队拖累,毛利拐点将至</a></li>
-<li><a href="https://www.bilibili.com/video/BV1jK3X6uEwA">高盛看好苹果，服务掉队拖累,毛利拐点将至</a></li>
-<li><a href="https://www.bilibili.com/video/BV18i3Q6fEoY">【英文原声】汇丰看好徐工机械，小挖机下沉带动销量走强</a></li>
-<li><a href="https://www.bilibili.com/video/BV1Si3Q6fE2y">汇丰看好徐工机械，小挖机下沉带动销量走强</a></li>
-<li><a href="https://www.bilibili.com/video/BV1iP3X66EZo">【英文原声】摩根看好东鹏饮料，茶饮料异军突起放量</a></li>
-<li><a href="https://www.bilibili.com/video/BV1jP3X66E4V">摩根看好东鹏饮料，茶饮料异军突起放量</a></li>
-</ul>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-08-01): 2 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1r23m6iE9c</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-08-01-d13e0e33</guid>
-        <pubDate>Sat, 01 Aug 2026 14:41:42 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1r23m6iE9c">【英文原声】《华尔街日报》8月1-2日全文精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1H23m6iEw4">《华尔街日报》8月1-2日全文精读</a></li>
-</ul>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
         <category>B站</category>
     </item>
     
