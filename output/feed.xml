@@ -5,27 +5,145 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 09 Aug 2026 22:05:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 22:14:36 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月09日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月10日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-09</guid>
-        <pubDate>Sun, 09 Aug 2026 22:05:52 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-08-10</guid>
+        <pubDate>Mon, 10 Aug 2026 22:14:36 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 08月09日 22:05 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 08月10日 22:14 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-09</guid>
-        <pubDate>Sun, 09 Aug 2026 22:05:52 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 5 items</p><p><b>🎮 生活分享流 (life):</b> 3 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 2884 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-08-10</guid>
+        <pubDate>Mon, 10 Aug 2026 22:14:36 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 13 items</p><p><b>🎮 生活分享流 (life):</b> 8 items</p><p><b>🆕 本次新增:</b> 28 items</p><p><b>📦 数据库总量:</b> 2912 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客 (2026-08-10): 7 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1k2uZ6bECw</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-08-10-d13e0e33</guid>
+        <pubDate>Mon, 10 Aug 2026 13:08:02 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1k2uZ6bECw">【英文原声】《华尔街日报》8月10日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1p2uZ68Ea4">《华尔街日报》8月10日全文精读</a></li>
+<li><a href="https://www.bilibili.com/video/BV1dgu96qEYp">摩根看好伟测，产能扩得猛，份额冲着翻倍去</a></li>
+<li><a href="https://www.bilibili.com/video/BV1qRud6LEwh">【英文原声】摩根看好伟测，产能扩得猛，份额冲着翻倍去</a></li>
+<li><a href="https://www.bilibili.com/video/BV1ZTu96zExd">【英文原声】伯恩斯坦看好寒武纪，净利环比增28%爆发</a></li>
+<li><a href="https://www.bilibili.com/video/BV1ZTu96zEj9">伯恩斯坦看好寒武纪，净利环比增28%爆发</a></li>
+<li><a href="https://www.bilibili.com/video/BV1mHuS6CEPK">【英文原声】野村看好圣邦股份，光模块订单暴增五倍</a></li>
+</ul>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：不伺候了! 美鹰派访华连吃闭门羹! 美战争部访华遇阻! 沈逸 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV1uPuR68Evu</link>
+        <guid isPermaLink="false">bilibili-117069400246898</guid>
+        <pubDate>Mon, 10 Aug 2026 04:59:26 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV1uPuR68Evu">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenRouter 上的 GLM 5.2 模型出现大幅折扣定价【AI 早报 2026-08-10】]]></title>
+        <link>https://www.bilibili.com/video/BV1UPuX6XEVi</link>
+        <guid isPermaLink="false">bilibili-117068628297042</guid>
+        <pubDate>Mon, 10 Aug 2026 01:34:25 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1UPuX6XEVi">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客 (2026-08-09): 3 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1mHuS6CEcf</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-08-09-d13e0e33</guid>
+        <pubDate>Sun, 09 Aug 2026 13:27:58 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1mHuS6CEcf">野村看好圣邦股份，光模块订单暴增五倍</a></li>
+<li><a href="https://www.bilibili.com/video/BV1xzu26vEhP">汇丰看好金风科技，订单已排到2027年</a></li>
+<li><a href="https://www.bilibili.com/video/BV1xzu26vEnG">【英文原声】汇丰看好金风科技，订单已排到2027年</a></li>
+</ul>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenAI 重置全部 Codex 付费用户用量限制，并将再次重置【AI 早报 2026-08-09】]]></title>
+        <link>https://www.bilibili.com/video/BV1Kyuj6SEh1</link>
+        <guid isPermaLink="false">bilibili-117062907199515</guid>
+        <pubDate>Sun, 09 Aug 2026 01:18:37 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/6CJz7DkrLbfpgbo6F5RWsg</p><p><a href="https://www.bilibili.com/video/BV1Kyuj6SEh1">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] torazyz：雅典vlog🌅torazyz]]></title>
+        <link>https://www.bilibili.com/video/BV1SRuP6WEzn</link>
+        <guid isPermaLink="false">bilibili-117055642667843</guid>
+        <pubDate>Sat, 08 Aug 2026 02:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：torazyz</p>
+<p>感谢观看
+
+更多内容 欢迎关注 Find me on：
+RED: torazyz
+Instagram: torazyz
+YouTube: Tora Zhang
+Bili: @torazyz  
+
+Henry’s
+RED: HenryHsu
+YouTube: Henry Hsu
+Bili: @iamHenryHsu  
+Instagram: iamhenryhsu
+
+联系我们: contact.to</p><p><a href="https://www.bilibili.com/video/BV1SRuP6WEzn">查看原文 →</a></p>]]></description>
+        <author><![CDATA[torazyz]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenAI 称其即将推出的 Astra 模型展现重大网络安全能力，正加强安全控制并将推迟发布【AI 早报 2026-08-08】]]></title>
+        <link>https://www.bilibili.com/video/BV1stuK6DEMS</link>
+        <guid isPermaLink="false">bilibili-117057102350819</guid>
+        <pubDate>Sat, 08 Aug 2026 00:46:08 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/jD7JKd_LbPBEmW-vv34dDw</p><p><a href="https://www.bilibili.com/video/BV1stuK6DEMS">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 学院派Academia：11万亿美元带来的“上帝视角”：贝莱德如何看穿全球资本市场？【金融社会学】]]></title>
+        <link>https://www.bilibili.com/video/BV1pJun6pEra</link>
+        <guid isPermaLink="false">bilibili-117047941929724</guid>
+        <pubDate>Fri, 07 Aug 2026 09:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：学院派Academia</p>
+<p>当一家机构管理超过11万亿美元，它需要回答的就不再是哪只股票会涨，而是整个资本世界会往哪里走。这就是贝莱德所拥有的、真正的“上帝视角”：股票、债券、能源、汇率、供应链乃至国家政策，在它眼中都是同一张风险地图上的不同节点。因为当你无法逃离市场，就只能试着看穿整个市场。而在这期视频，我们想做一件事：让每个人都能用大模型工具复刻贝莱德的这套世界观。你不需要管理11万亿美元，也可以学会像贝莱德一样观察公司</p><p><a href="https://www.bilibili.com/video/BV1pJun6pEra">查看原文 →</a></p>]]></description>
+        <author><![CDATA[学院派Academia]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -38,6 +156,54 @@
 <p>在整个AI行业疯抢HBM的时候，有一家芯片公司，选择了一条不同的路线。
 2026年5月，Cerebras登陆纳斯达克，上市首日股价上涨68%，市值一度逼近千亿美元。十年前，它却是一家几乎没人看好的疯狂赌注。2015年，五位曾一起共事的工程师，决定重新设计为AI而生的计算机；与此同时，百度AI实验室率先发现Scaling Law，意识到未来的大语言模型终将撞上算力瓶颈。一场关于AI未来的豪赌，就此开</p><p><a href="https://www.bilibili.com/video/BV1UZu46UErq">查看原文 →</a></p>]]></description>
         <author><![CDATA[硅谷101]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：ChatGPT向所有用户开放无限文本对话次数（但有防滥用）并上线GPT-5.6模型更新【AI 早报 2026-08-07】]]></title>
+        <link>https://www.bilibili.com/video/BV1aKus6mE4E</link>
+        <guid isPermaLink="false">bilibili-117051632911737</guid>
+        <pubDate>Fri, 07 Aug 2026 01:32:08 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/rnZbJM1-JvfbijKd3ZdIJQ</p><p><a href="https://www.bilibili.com/video/BV1aKus6mE4E">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：精准打击美方七家实体! 中国对美发起首例外贸国安调查! 赖岳谦 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV1JHuE6VEGM</link>
+        <guid isPermaLink="false">bilibili-117047153395487</guid>
+        <pubDate>Thu, 06 Aug 2026 06:37:09 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV1JHuE6VEGM">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：DeepSeek 开放平台提示 API 即将涨价，预计涨幅较大  【AI 早报 2026-08-06】]]></title>
+        <link>https://www.bilibili.com/video/BV19EMS6QESs</link>
+        <guid isPermaLink="false">bilibili-117045962212451</guid>
+        <pubDate>Thu, 06 Aug 2026 01:30:17 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/fge9wRcURyTWcpd6NBHDfQ</p><p><a href="https://www.bilibili.com/video/BV19EMS6QESs">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：【橘鸦】Cherry Studio V2 体验：从聊天客户端到 Agent 工作台，这次升级打几分？]]></title>
+        <link>https://www.bilibili.com/video/BV1pRMy6XEJn</link>
+        <guid isPermaLink="false">bilibili-117042673943545</guid>
+        <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1pRMy6XEJn">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
@@ -64,6 +230,18 @@ DeepSeek做量化：BV1hzdAYuE3e
     </item>
     
     <item>
+        <title><![CDATA[[B站] 新西兰三妹：日本一倒！美国金融跟着爆？中国机会来了！]]></title>
+        <link>https://www.bilibili.com/video/BV11sMC6WEy4</link>
+        <guid isPermaLink="false">bilibili-117041516250171</guid>
+        <pubDate>Wed, 05 Aug 2026 06:44:44 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV11sMC6WEy4">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] IT咖啡馆：我终于体验到了《Her》里的AI？实时语音让AI像个人了]]></title>
         <link>https://www.bilibili.com/video/BV1SYuA6SE29</link>
         <guid isPermaLink="false">bilibili-117037473006493</guid>
@@ -72,6 +250,18 @@ DeepSeek做量化：BV1hzdAYuE3e
 <p>✍️ 作者：IT咖啡馆</p>
 <p><a href="https://www.bilibili.com/video/BV1SYuA6SE29">查看原文 →</a></p>]]></description>
         <author><![CDATA[IT咖啡馆]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：SpaceX 宣布联合 NVIDIA 打造太空 AI 计算卫星 Starmind AI1【AI 早报 2026-08-05】]]></title>
+        <link>https://www.bilibili.com/video/BV1zeMr6zEfS</link>
+        <guid isPermaLink="false">bilibili-117040308290345</guid>
+        <pubDate>Wed, 05 Aug 2026 01:31:33 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/sXKtt2ykkSXpA8A6XKbnlw</p><p><a href="https://www.bilibili.com/video/BV1zeMr6zEfS">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
@@ -104,48 +294,26 @@ DeepSeek做量化：BV1hzdAYuE3e
     </item>
     
     <item>
-        <title><![CDATA[[B站] 硅谷101：对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”【101视频播客】]]></title>
-        <link>https://www.bilibili.com/video/BV1GaM968E6T</link>
-        <guid isPermaLink="false">bilibili-117030577576158</guid>
-        <pubDate>Mon, 03 Aug 2026 08:20:00 GMT</pubDate>
+        <title><![CDATA[[B站] 新西兰三妹：中国科技战略升级! 郭正亮 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV1dBuw64EeQ</link>
+        <guid isPermaLink="false">bilibili-117035929439103</guid>
+        <pubDate>Tue, 04 Aug 2026 07:06:01 GMT</pubDate>
         <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：硅谷101</p>
-<p>我们这期视频播客的嘉宾是盛颖，xAI前推理团队负责人、开源推理引擎SGLang发起人及RadixArk联合创始人/CEO。
-
-在开源模型集中爆发之际，盛颖在AI Infra（基础设施）领域的研究和贡献非常核心。她将AI Infra描述为“浪漫的关系”，是产品本身，需要有“美感”。
-
-由此，我们走进盛颖的世界。
-
-她曾经想成为一个数学家，沉浸在一个确定、纯粹、仿佛“与世界无关”的世界里。
-
-但从哥大</p><p><a href="https://www.bilibili.com/video/BV1GaM968E6T">查看原文 →</a></p>]]></description>
-        <author><![CDATA[硅谷101]]></author>
+<p>✍️ 作者：新西兰三妹</p>
+<p>-</p><p><a href="https://www.bilibili.com/video/BV1dBuw64EeQ">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
         <category>B站</category>
     </item>
     
     <item>
-        <title><![CDATA[[B站] Mr-Pot (2026-08-03): 3 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1T43R6YEbu</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-08-03-a1c5d27b</guid>
-        <pubDate>Mon, 03 Aug 2026 06:21:40 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1T43R6YEbu">【中英字幕】PBS《华盛顿周报》26.07.31完整版：伊朗战争陷入僵局与华盛顿政治信任危机：从军事困境到福奇听证闹剧</a></li>
-<li><a href="https://www.bilibili.com/video/BV1ZR3f6fEXo">【中英字幕】NBC《与媒体见面》26.08.02完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1kxGF6BEqV">【中英字幕】26.08.02川普在空军一号回答记者提问完整版</a></li>
-</ul>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] IT咖啡馆：不会编程，玩转机器人表演？5分钟0基础完成机器人舞蹈]]></title>
-        <link>https://www.bilibili.com/video/BV1Vq3d61EzG</link>
-        <guid isPermaLink="false">bilibili-117026333000775</guid>
-        <pubDate>Mon, 03 Aug 2026 04:00:00 GMT</pubDate>
+        <title><![CDATA[[B站] 橘鸦juya：阿里千问发布 Qwen3.8-Max 正式版并计划下周发布模型权重【AI 早报 2026-08-04】]]></title>
+        <link>https://www.bilibili.com/video/BV1H7MZ6xEXD</link>
+        <guid isPermaLink="false">bilibili-117034553772272</guid>
+        <pubDate>Tue, 04 Aug 2026 01:10:20 GMT</pubDate>
         <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：IT咖啡馆</p>
-<p><a href="https://www.bilibili.com/video/BV1Vq3d61EzG">查看原文 →</a></p>]]></description>
-        <author><![CDATA[IT咖啡馆]]></author>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/mANE0VYJb9qFS5rfc-YGNw</p><p><a href="https://www.bilibili.com/video/BV1H7MZ6xEXD">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
