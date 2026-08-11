@@ -5,25 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 10 Aug 2026 22:14:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 22:19:46 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月10日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月11日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-10</guid>
-        <pubDate>Mon, 10 Aug 2026 22:14:36 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-08-11</guid>
+        <pubDate>Tue, 11 Aug 2026 22:19:46 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 08月10日 22:14 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 08月11日 22:19 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-10</guid>
-        <pubDate>Mon, 10 Aug 2026 22:14:36 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 13 items</p><p><b>🎮 生活分享流 (life):</b> 8 items</p><p><b>🆕 本次新增:</b> 28 items</p><p><b>📦 数据库总量:</b> 2912 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-08-11</guid>
+        <pubDate>Tue, 11 Aug 2026 22:19:46 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 12 items</p><p><b>🎮 生活分享流 (life):</b> 10 items</p><p><b>🆕 本次新增:</b> 5 items</p><p><b>📦 数据库总量:</b> 2917 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -187,18 +187,6 @@ DeepSeek做量化：BV1hzdAYuE3e
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/sXKtt2ykkSXpA8A6XKbnlw</p><p><a href="https://www.bilibili.com/video/BV1zeMr6zEfS">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：阿里千问发布 Qwen3.8-Max 正式版并计划下周发布模型权重【AI 早报 2026-08-04】]]></title>
-        <link>https://www.bilibili.com/video/BV1H7MZ6xEXD</link>
-        <guid isPermaLink="false">bilibili-117034553772272</guid>
-        <pubDate>Tue, 04 Aug 2026 01:10:20 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/mANE0VYJb9qFS5rfc-YGNw</p><p><a href="https://www.bilibili.com/video/BV1H7MZ6xEXD">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
