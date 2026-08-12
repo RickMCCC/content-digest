@@ -5,25 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 11 Aug 2026 22:19:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 22:18:18 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月11日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月12日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-11</guid>
-        <pubDate>Tue, 11 Aug 2026 22:19:46 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-08-12</guid>
+        <pubDate>Wed, 12 Aug 2026 22:18:18 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 08月11日 22:19 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 08月12日 22:18 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-11</guid>
-        <pubDate>Tue, 11 Aug 2026 22:19:46 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 12 items</p><p><b>🎮 生活分享流 (life):</b> 10 items</p><p><b>🆕 本次新增:</b> 5 items</p><p><b>📦 数据库总量:</b> 2917 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-08-12</guid>
+        <pubDate>Wed, 12 Aug 2026 22:18:18 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 9 items</p><p><b>🎮 生活分享流 (life):</b> 10 items</p><p><b>🆕 本次新增:</b> 3 items</p><p><b>📦 数据库总量:</b> 2920 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -69,6 +69,18 @@
 <li><a href="https://www.bilibili.com/video/BV1xzu26vEnG">【英文原声】汇丰看好金风科技，订单已排到2027年</a></li>
 </ul>]]></description>
         <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 巫师财经：【巫师】万字吃透科技国运暴富机会，以及我是怎么亏的]]></title>
+        <link>https://www.bilibili.com/video/BV1hxug6BEL6</link>
+        <guid isPermaLink="false">bilibili-117058729743558</guid>
+        <pubDate>Sun, 09 Aug 2026 07:35:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：巫师财经</p>
+<p><a href="https://www.bilibili.com/video/BV1hxug6BEL6">查看原文 →</a></p>]]></description>
+        <author><![CDATA[巫师财经]]></author>
         <category>B站</category>
     </item>
     
@@ -129,64 +141,6 @@
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/fge9wRcURyTWcpd6NBHDfQ</p><p><a href="https://www.bilibili.com/video/BV19EMS6QESs">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：【橘鸦】Cherry Studio V2 体验：从聊天客户端到 Agent 工作台，这次升级打几分？]]></title>
-        <link>https://www.bilibili.com/video/BV1pRMy6XEJn</link>
-        <guid isPermaLink="false">bilibili-117042673943545</guid>
-        <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1pRMy6XEJn">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 量化投资邢不行啊：7分钟学会AI量化,网上大师策略,一测就现行?零基础小白也能学会,普通人做量化的最优方案?不用装Python,不用写代码,一样能回测? | 量化投资邢不行啊]]></title>
-        <link>https://www.bilibili.com/video/BV17HMk6qEqa</link>
-        <guid isPermaLink="false">bilibili-117041935685472</guid>
-        <pubDate>Wed, 05 Aug 2026 09:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：量化投资邢不行啊</p>
-<p>0基础小白如何用AI做量化？
-借助AI能测试全网大师策略？
-如何用AI实现0代码编程回测？
-AI量化炒股最好的用法是什么？
-
-喜欢视频记得三连，并点个关注～
-
-往期视频精选：
-AI辅助量化交易：BV1TBrhYCEKv
-DeepSeek做量化：BV1hzdAYuE3e
-用AI找到的好指标：BV1SXg66sENU</p><p><a href="https://www.bilibili.com/video/BV17HMk6qEqa">查看原文 →</a></p>]]></description>
-        <author><![CDATA[量化投资邢不行啊]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] IT咖啡馆：我终于体验到了《Her》里的AI？实时语音让AI像个人了]]></title>
-        <link>https://www.bilibili.com/video/BV1SYuA6SE29</link>
-        <guid isPermaLink="false">bilibili-117037473006493</guid>
-        <pubDate>Wed, 05 Aug 2026 04:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：IT咖啡馆</p>
-<p><a href="https://www.bilibili.com/video/BV1SYuA6SE29">查看原文 →</a></p>]]></description>
-        <author><![CDATA[IT咖啡馆]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：SpaceX 宣布联合 NVIDIA 打造太空 AI 计算卫星 Starmind AI1【AI 早报 2026-08-05】]]></title>
-        <link>https://www.bilibili.com/video/BV1zeMr6zEfS</link>
-        <guid isPermaLink="false">bilibili-117040308290345</guid>
-        <pubDate>Wed, 05 Aug 2026 01:31:33 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/sXKtt2ykkSXpA8A6XKbnlw</p><p><a href="https://www.bilibili.com/video/BV1zeMr6zEfS">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
