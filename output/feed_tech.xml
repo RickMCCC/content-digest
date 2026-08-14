@@ -5,25 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 13 Aug 2026 22:18:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 21:57:44 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月13日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月14日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-13</guid>
-        <pubDate>Thu, 13 Aug 2026 22:18:19 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-08-14</guid>
+        <pubDate>Fri, 14 Aug 2026 21:57:44 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 08月13日 22:18 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 08月14日 21:57 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-13</guid>
-        <pubDate>Thu, 13 Aug 2026 22:18:19 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 8 items</p><p><b>🎮 生活分享流 (life):</b> 9 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 2920 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-08-14</guid>
+        <pubDate>Fri, 14 Aug 2026 21:57:44 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 6 items</p><p><b>🎮 生活分享流 (life):</b> 8 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 2920 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -104,31 +104,6 @@
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/jD7JKd_LbPBEmW-vv34dDw</p><p><a href="https://www.bilibili.com/video/BV1stuK6DEMS">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 硅谷101：挑战GPU、绕过HBM，深挖史上最大芯片背后的Cerebras【硅谷101】]]></title>
-        <link>https://www.bilibili.com/video/BV1UZu46UErq</link>
-        <guid isPermaLink="false">bilibili-117051901615475</guid>
-        <pubDate>Fri, 07 Aug 2026 02:47:05 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：硅谷101</p>
-<p>在整个AI行业疯抢HBM的时候，有一家芯片公司，选择了一条不同的路线。
-2026年5月，Cerebras登陆纳斯达克，上市首日股价上涨68%，市值一度逼近千亿美元。十年前，它却是一家几乎没人看好的疯狂赌注。2015年，五位曾一起共事的工程师，决定重新设计为AI而生的计算机；与此同时，百度AI实验室率先发现Scaling Law，意识到未来的大语言模型终将撞上算力瓶颈。一场关于AI未来的豪赌，就此开</p><p><a href="https://www.bilibili.com/video/BV1UZu46UErq">查看原文 →</a></p>]]></description>
-        <author><![CDATA[硅谷101]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：ChatGPT向所有用户开放无限文本对话次数（但有防滥用）并上线GPT-5.6模型更新【AI 早报 2026-08-07】]]></title>
-        <link>https://www.bilibili.com/video/BV1aKus6mE4E</link>
-        <guid isPermaLink="false">bilibili-117051632911737</guid>
-        <pubDate>Fri, 07 Aug 2026 01:32:08 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/rnZbJM1-JvfbijKd3ZdIJQ</p><p><a href="https://www.bilibili.com/video/BV1aKus6mE4E">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
