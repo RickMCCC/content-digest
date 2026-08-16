@@ -5,25 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 15 Aug 2026 21:52:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 21:52:22 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月15日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月16日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-15</guid>
-        <pubDate>Sat, 15 Aug 2026 21:52:05 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-08-16</guid>
+        <pubDate>Sun, 16 Aug 2026 21:52:22 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 08月15日 21:52 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 08月16日 21:52 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-15</guid>
-        <pubDate>Sat, 15 Aug 2026 21:52:05 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 5 items</p><p><b>🎮 生活分享流 (life):</b> 6 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 2920 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-08-16</guid>
+        <pubDate>Sun, 16 Aug 2026 21:52:22 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 2 items</p><p><b>🎮 生活分享流 (life):</b> 5 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 2920 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -54,44 +54,6 @@
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1UPuX6XEVi">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-08-09): 3 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1mHuS6CEcf</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-08-09-d13e0e33</guid>
-        <pubDate>Sun, 09 Aug 2026 13:27:58 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1mHuS6CEcf">野村看好圣邦股份，光模块订单暴增五倍</a></li>
-<li><a href="https://www.bilibili.com/video/BV1xzu26vEhP">汇丰看好金风科技，订单已排到2027年</a></li>
-<li><a href="https://www.bilibili.com/video/BV1xzu26vEnG">【英文原声】汇丰看好金风科技，订单已排到2027年</a></li>
-</ul>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 巫师财经：【巫师】万字吃透科技国运暴富机会，以及我是怎么亏的]]></title>
-        <link>https://www.bilibili.com/video/BV1hxug6BEL6</link>
-        <guid isPermaLink="false">bilibili-117058729743558</guid>
-        <pubDate>Sun, 09 Aug 2026 07:35:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：巫师财经</p>
-<p><a href="https://www.bilibili.com/video/BV1hxug6BEL6">查看原文 →</a></p>]]></description>
-        <author><![CDATA[巫师财经]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：OpenAI 重置全部 Codex 付费用户用量限制，并将再次重置【AI 早报 2026-08-09】]]></title>
-        <link>https://www.bilibili.com/video/BV1Kyuj6SEh1</link>
-        <guid isPermaLink="false">bilibili-117062907199515</guid>
-        <pubDate>Sun, 09 Aug 2026 01:18:37 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/6CJz7DkrLbfpgbo6F5RWsg</p><p><a href="https://www.bilibili.com/video/BV1Kyuj6SEh1">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
