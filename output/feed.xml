@@ -5,25 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 16 Aug 2026 21:52:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 21:58:24 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月16日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月17日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-16</guid>
-        <pubDate>Sun, 16 Aug 2026 21:52:22 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-08-17</guid>
+        <pubDate>Mon, 17 Aug 2026 21:58:24 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 08月16日 21:52 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 08月17日 21:58 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-16</guid>
-        <pubDate>Sun, 16 Aug 2026 21:52:22 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 2 items</p><p><b>🎮 生活分享流 (life):</b> 5 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 2920 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-08-17</guid>
+        <pubDate>Mon, 17 Aug 2026 21:58:24 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 0 items</p><p><b>🎮 生活分享流 (life):</b> 2 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 2920 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -49,74 +49,6 @@
 <p>✍️ 作者：历史调研室</p>
 <p><a href="https://www.bilibili.com/video/BV1JYui6fELE">查看原文 →</a></p>]]></description>
         <author><![CDATA[历史调研室]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-08-10): 7 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1k2uZ6bECw</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-08-10-d13e0e33</guid>
-        <pubDate>Mon, 10 Aug 2026 13:08:02 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1k2uZ6bECw">【英文原声】《华尔街日报》8月10日全文精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1p2uZ68Ea4">《华尔街日报》8月10日全文精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1dgu96qEYp">摩根看好伟测，产能扩得猛，份额冲着翻倍去</a></li>
-<li><a href="https://www.bilibili.com/video/BV1qRud6LEwh">【英文原声】摩根看好伟测，产能扩得猛，份额冲着翻倍去</a></li>
-<li><a href="https://www.bilibili.com/video/BV1ZTu96zExd">【英文原声】伯恩斯坦看好寒武纪，净利环比增28%爆发</a></li>
-<li><a href="https://www.bilibili.com/video/BV1ZTu96zEj9">伯恩斯坦看好寒武纪，净利环比增28%爆发</a></li>
-<li><a href="https://www.bilibili.com/video/BV1mHuS6CEPK">【英文原声】野村看好圣邦股份，光模块订单暴增五倍</a></li>
-</ul>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小Lin说：王健林现在怎么样了? 万达什么情况?]]></title>
-        <link>https://www.bilibili.com/video/BV1XPuo6uES8</link>
-        <guid isPermaLink="false">bilibili-117070306024746</guid>
-        <pubDate>Mon, 10 Aug 2026 09:35:47 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小Lin说</p>
-<p>万达商管、万达商业、珠海万达、大连万达 ......万达这个庞然大物，商业结构极其复杂。
-而这些名字背后盘根错节的资本游戏，才是压垮万达的关键。
-今天咱们就来聊一聊：万达到底经历了什么？昔日的中国首富，是怎么被一步一步逼到了今天的境地？</p><p><a href="https://www.bilibili.com/video/BV1XPuo6uES8">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小Lin说]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 三木説：二战日本精锐关东军，如何从巅峰走向毁灭？【三木说】]]></title>
-        <link>https://www.bilibili.com/video/BV16quS6YEDN</link>
-        <guid isPermaLink="false">bilibili-117065943880768</guid>
-        <pubDate>Mon, 10 Aug 2026 09:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：三木説</p>
-<p>本期视频将为大家讲述日本关东军从诞生、扩张到覆灭的全过程</p><p><a href="https://www.bilibili.com/video/BV16quS6YEDN">查看原文 →</a></p>]]></description>
-        <author><![CDATA[三木説]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：不伺候了! 美鹰派访华连吃闭门羹! 美战争部访华遇阻! 沈逸 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV1uPuR68Evu</link>
-        <guid isPermaLink="false">bilibili-117069400246898</guid>
-        <pubDate>Mon, 10 Aug 2026 04:59:26 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV1uPuR68Evu">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：OpenRouter 上的 GLM 5.2 模型出现大幅折扣定价【AI 早报 2026-08-10】]]></title>
-        <link>https://www.bilibili.com/video/BV1UPuX6XEVi</link>
-        <guid isPermaLink="false">bilibili-117068628297042</guid>
-        <pubDate>Mon, 10 Aug 2026 01:34:25 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1UPuX6XEVi">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     

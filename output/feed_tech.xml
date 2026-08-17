@@ -5,57 +5,27 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 16 Aug 2026 21:52:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 21:58:24 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月16日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月17日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-16</guid>
-        <pubDate>Sun, 16 Aug 2026 21:52:22 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-08-17</guid>
+        <pubDate>Mon, 17 Aug 2026 21:58:24 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 08月16日 21:52 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 08月17日 21:58 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-16</guid>
-        <pubDate>Sun, 16 Aug 2026 21:52:22 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 2 items</p><p><b>🎮 生活分享流 (life):</b> 5 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 2920 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-08-17</guid>
+        <pubDate>Mon, 17 Aug 2026 21:58:24 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 0 items</p><p><b>🎮 生活分享流 (life):</b> 2 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 2920 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-08-10): 7 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1k2uZ6bECw</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-08-10-d13e0e33</guid>
-        <pubDate>Mon, 10 Aug 2026 13:08:02 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1k2uZ6bECw">【英文原声】《华尔街日报》8月10日全文精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1p2uZ68Ea4">《华尔街日报》8月10日全文精读</a></li>
-<li><a href="https://www.bilibili.com/video/BV1dgu96qEYp">摩根看好伟测，产能扩得猛，份额冲着翻倍去</a></li>
-<li><a href="https://www.bilibili.com/video/BV1qRud6LEwh">【英文原声】摩根看好伟测，产能扩得猛，份额冲着翻倍去</a></li>
-<li><a href="https://www.bilibili.com/video/BV1ZTu96zExd">【英文原声】伯恩斯坦看好寒武纪，净利环比增28%爆发</a></li>
-<li><a href="https://www.bilibili.com/video/BV1ZTu96zEj9">伯恩斯坦看好寒武纪，净利环比增28%爆发</a></li>
-<li><a href="https://www.bilibili.com/video/BV1mHuS6CEPK">【英文原声】野村看好圣邦股份，光模块订单暴增五倍</a></li>
-</ul>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：OpenRouter 上的 GLM 5.2 模型出现大幅折扣定价【AI 早报 2026-08-10】]]></title>
-        <link>https://www.bilibili.com/video/BV1UPuX6XEVi</link>
-        <guid isPermaLink="false">bilibili-117068628297042</guid>
-        <pubDate>Mon, 10 Aug 2026 01:34:25 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1UPuX6XEVi">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
     </item>
     
 </channel>
