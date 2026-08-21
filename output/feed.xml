@@ -5,27 +5,39 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 20 Aug 2026 22:01:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 21:56:55 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月20日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月21日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-20</guid>
-        <pubDate>Thu, 20 Aug 2026 22:01:51 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-08-21</guid>
+        <pubDate>Fri, 21 Aug 2026 21:56:55 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 08月20日 22:01 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 08月21日 21:56 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-20</guid>
-        <pubDate>Thu, 20 Aug 2026 22:01:51 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 0 items</p><p><b>🎮 生活分享流 (life):</b> 0 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 2920 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-08-21</guid>
+        <pubDate>Fri, 21 Aug 2026 21:56:55 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 0 items</p><p><b>🎮 生活分享流 (life):</b> 1 items</p><p><b>🆕 本次新增:</b> 2 items</p><p><b>📦 数据库总量:</b> 2922 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 三木説：日本甲种师团有多强？最终都是如何被消灭的？【三木说】]]></title>
+        <link>https://www.bilibili.com/video/BV1Gwbd6nE2b</link>
+        <guid isPermaLink="false">bilibili-117105739439013</guid>
+        <pubDate>Sun, 16 Aug 2026 14:57:35 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：三木説</p>
+<p>本期视频将为大家讲述日本17个甲种师团的兴衰始末</p><p><a href="https://www.bilibili.com/video/BV1Gwbd6nE2b">查看原文 →</a></p>]]></description>
+        <author><![CDATA[三木説]]></author>
+        <category>B站</category>
     </item>
     
 </channel>

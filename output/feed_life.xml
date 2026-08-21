@@ -5,8 +5,20 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>生活/娱乐/艺术 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 20 Aug 2026 22:01:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 21:56:55 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_life.xml" rel="self" type="application/rss+xml"/>
+    
+    <item>
+        <title><![CDATA[[B站] 三木説：日本甲种师团有多强？最终都是如何被消灭的？【三木说】]]></title>
+        <link>https://www.bilibili.com/video/BV1Gwbd6nE2b</link>
+        <guid isPermaLink="false">bilibili-117105739439013</guid>
+        <pubDate>Sun, 16 Aug 2026 14:57:35 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：三木説</p>
+<p>本期视频将为大家讲述日本17个甲种师团的兴衰始末</p><p><a href="https://www.bilibili.com/video/BV1Gwbd6nE2b">查看原文 →</a></p>]]></description>
+        <author><![CDATA[三木説]]></author>
+        <category>B站</category>
+    </item>
     
 </channel>
 </rss>
