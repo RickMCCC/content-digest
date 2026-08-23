@@ -5,8 +5,20 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>生活/娱乐/艺术 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 22 Aug 2026 21:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 21:53:47 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_life.xml" rel="self" type="application/rss+xml"/>
+    
+    <item>
+        <title><![CDATA[[B站] Grandpagu顾爷：AAAAA阿西西全攻略]]></title>
+        <link>https://www.bilibili.com/video/BV1Sn8w6aE8F</link>
+        <guid isPermaLink="false">bilibili-117127096964529</guid>
+        <pubDate>Fri, 21 Aug 2026 04:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：Grandpagu顾爷</p>
+<p><a href="https://www.bilibili.com/video/BV1Sn8w6aE8F">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Grandpagu顾爷]]></author>
+        <category>B站</category>
+    </item>
     
     <item>
         <title><![CDATA[[B站] 三木説：日本甲种师团有多强？最终都是如何被消灭的？【三木说】]]></title>
