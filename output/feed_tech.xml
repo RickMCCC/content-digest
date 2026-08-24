@@ -5,27 +5,123 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 23 Aug 2026 21:53:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 22:01:31 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月23日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月24日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-23</guid>
-        <pubDate>Sun, 23 Aug 2026 21:53:47 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-08-24</guid>
+        <pubDate>Mon, 24 Aug 2026 22:01:31 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 08月23日 21:53 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 08月24日 22:01 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-23</guid>
-        <pubDate>Sun, 23 Aug 2026 21:53:47 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 0 items</p><p><b>🎮 生活分享流 (life):</b> 2 items</p><p><b>🆕 本次新增:</b> 3 items</p><p><b>📦 数据库总量:</b> 2925 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-08-24</guid>
+        <pubDate>Mon, 24 Aug 2026 22:01:31 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 8 items</p><p><b>🎮 生活分享流 (life):</b> 4 items</p><p><b>🆕 本次新增:</b> 20 items</p><p><b>📦 数据库总量:</b> 2945 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenAI Codex 重置付费用户用量并将上线用量异常修复【AI 早报 2026-08-24】]]></title>
+        <link>https://www.bilibili.com/video/BV17Z8Y6qE5z</link>
+        <guid isPermaLink="false">bilibili-117147732806733</guid>
+        <pubDate>Mon, 24 Aug 2026 00:51:03 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/9PBN-9X-LXfmF9NSNuXohw</p><p><a href="https://www.bilibili.com/video/BV17Z8Y6qE5z">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：DeepSeek 调整 API 计费：周末全天统一按低谷价收费【AI 早报 2026-08-23】]]></title>
+        <link>https://www.bilibili.com/video/BV1R88x6kEvF</link>
+        <guid isPermaLink="false">bilibili-117142162768923</guid>
+        <pubDate>Sun, 23 Aug 2026 01:13:52 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/hH4h9jk0kNcoA7MlYmu4jA</p><p><a href="https://www.bilibili.com/video/BV1R88x6kEvF">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：DeepSeek-V4-Flash-Vision-Exp 上线；Codex 重置【AI 早报 2026-08-22】]]></title>
+        <link>https://www.bilibili.com/video/BV1jJ8y6AEn2</link>
+        <guid isPermaLink="false">bilibili-117136643067110</guid>
+        <pubDate>Sat, 22 Aug 2026 01:53:35 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/0lijEHZnB3Nry1UPzfXyUA</p><p><a href="https://www.bilibili.com/video/BV1jJ8y6AEn2">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：突发：DeepSeek API 平台上线多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp ！]]></title>
+        <link>https://www.bilibili.com/video/BV1aq8q6BE1N</link>
+        <guid isPermaLink="false">bilibili-117132784502394</guid>
+        <pubDate>Fri, 21 Aug 2026 09:30:18 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1aq8q6BE1N">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenRouter 与 OpenCode 上线免费 stealth 模型 Ox Alpha【AI 早报 2026-08-21】]]></title>
+        <link>https://www.bilibili.com/video/BV1Aq8K6TEyk</link>
+        <guid isPermaLink="false">bilibili-117130938813936</guid>
+        <pubDate>Fri, 21 Aug 2026 01:44:31 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/2DuurZFXjdxzEQ2kO85b_A</p><p><a href="https://www.bilibili.com/video/BV1Aq8K6TEyk">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenAI Codex 团队称已上线多层防护，降低误删用户文件风险【AI 早报 2026-08-20】]]></title>
+        <link>https://www.bilibili.com/video/BV1gDbZ6xEjL</link>
+        <guid isPermaLink="false">bilibili-117125301732948</guid>
+        <pubDate>Thu, 20 Aug 2026 01:48:11 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/vWoCKhTuKliCRFWCWZFf8g</p><p><a href="https://www.bilibili.com/video/BV1gDbZ6xEjL">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenAI 宣布放缓前沿模型训练；GLM-5.3 上线 API；Claude Code 周限提升50%活动延长【AI 早报 2026-08-19】]]></title>
+        <link>https://www.bilibili.com/video/BV1SW876yE91</link>
+        <guid isPermaLink="false">bilibili-117119630969063</guid>
+        <pubDate>Wed, 19 Aug 2026 01:51:17 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1SW876yE91">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenAI 锁定 4.25GW 数据中心容量，Claude Code 上线 /design，Cursor 推出 Origin【AI 早报 2026-08-18]]></title>
+        <link>https://www.bilibili.com/video/BV1CmbB6dEMK</link>
+        <guid isPermaLink="false">bilibili-117113910070645</guid>
+        <pubDate>Tue, 18 Aug 2026 01:30:04 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/SA1jXhZ2DeBQLaM6RzfN-Q</p><p><a href="https://www.bilibili.com/video/BV1CmbB6dEMK">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
 </channel>
