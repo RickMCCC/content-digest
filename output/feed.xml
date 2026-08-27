@@ -5,27 +5,72 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 25 Aug 2026 22:01:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 01:05:32 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月25日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月27日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-25</guid>
-        <pubDate>Tue, 25 Aug 2026 22:01:17 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-08-27</guid>
+        <pubDate>Thu, 27 Aug 2026 01:05:32 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 08月25日 22:01 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 08月27日 01:05 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-25</guid>
-        <pubDate>Tue, 25 Aug 2026 22:01:17 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 7 items</p><p><b>🎮 生活分享流 (life):</b> 4 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 2945 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-08-27</guid>
+        <pubDate>Thu, 27 Aug 2026 01:05:32 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 8 items</p><p><b>🎮 生活分享流 (life):</b> 7 items</p><p><b>🆕 本次新增:</b> 24 items</p><p><b>📦 数据库总量:</b> 2969 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Mr-Pot：【中英字幕】彭博财经简报26.08.26完整版]]></title>
+        <link>https://www.bilibili.com/video/BV1wkhc6pEAk</link>
+        <guid isPermaLink="false">bilibili-117164610814564</guid>
+        <pubDate>Thu, 27 Aug 2026 00:36:40 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：Mr-Pot</p>
+<p>本期视频标题：英伟达财报前夜：AI热潮下的隐忧与美债收益率的迷局
+本期视频要点：
+1、**英伟达财报前瞻与AI投资逻辑博弈**：作为当日核心焦点，市场密切关注英伟达（NVIDIA）盘后发布的财报，预期数据中心营收翻倍至920亿美元以上。分析师指出，投资者不仅关注营收和利润率能否维持在75%的高位以应对内存成本上涨，更看重其对“Vera Rubin”芯片需求的指引及积压订单情况；同时，华为在埃及竞标</p><p><a href="https://www.bilibili.com/video/BV1wkhc6pEAk">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Mr-Pot (2026-08-26): 4 posts]]></title>
+        <link>https://www.bilibili.com/video/BV19b8d6REYA</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-08-26-a1c5d27b</guid>
+        <pubDate>Wed, 26 Aug 2026 14:04:31 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV19b8d6REYA">【中英字幕】彭博科技前沿26.08.25完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1Nzhj6zEZQ">【中英字幕】彭博脉搏访谈26.08.25</a></li>
+<li><a href="https://www.bilibili.com/video/BV1r3hj6ZELe">【中英字幕】彭博财经观察26.08.25</a></li>
+<li><a href="https://www.bilibili.com/video/BV1G8hj61EA8">【中英字幕】彭博财经简报26.08.25完整版</a></li>
+</ul>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Mr-Pot (2026-08-25): 5 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1q4hu6eEvt</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-08-25-a1c5d27b</guid>
+        <pubDate>Tue, 25 Aug 2026 14:12:12 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1q4hu6eEvt">【中英字幕】26.08.24川普白宫玫瑰园演讲完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1mwhu6DEhs">【中英字幕】26.08.24万斯缅因州演讲完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1znhu6BEPG">【中英字幕】彭博科技前沿26.08.24完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1ERhN6fEnY">【中英字幕】彭博脉搏访谈26.08.24完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1Mchu6pEqP">【中英字幕】《面向全国》26.08.24完整版</a></li>
+</ul>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -73,6 +118,18 @@
 <p>✍️ 作者：小黛晨读</p>
 <p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1D78m6cEN2">查看原文 →</a></p>]]></description>
         <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 巫师财经：【巫师】深扒Angelababy/黄晓明的资本博弈]]></title>
+        <link>https://www.bilibili.com/video/BV1Uw826pE7J</link>
+        <guid isPermaLink="false">bilibili-117137934981154</guid>
+        <pubDate>Sat, 22 Aug 2026 07:20:53 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：巫师财经</p>
+<p><a href="https://www.bilibili.com/video/BV1Uw826pE7J">查看原文 →</a></p>]]></description>
+        <author><![CDATA[巫师财经]]></author>
         <category>B站</category>
     </item>
     
@@ -137,6 +194,18 @@
     </item>
     
     <item>
+        <title><![CDATA[[B站] 巫师财经：【巫师】追随别人很容易，创造才能活到下一个时代]]></title>
+        <link>https://www.bilibili.com/video/BV1gYbf6oEqf</link>
+        <guid isPermaLink="false">bilibili-117126711090010</guid>
+        <pubDate>Thu, 20 Aug 2026 11:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：巫师财经</p>
+<p><a href="https://www.bilibili.com/video/BV1gYbf6oEqf">查看原文 →</a></p>]]></description>
+        <author><![CDATA[巫师财经]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 橘鸦juya：OpenAI Codex 团队称已上线多层防护，降低误删用户文件风险【AI 早报 2026-08-20】]]></title>
         <link>https://www.bilibili.com/video/BV1gDbZ6xEjL</link>
         <guid isPermaLink="false">bilibili-117125301732948</guid>
@@ -144,18 +213,6 @@
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/vWoCKhTuKliCRFWCWZFf8g</p><p><a href="https://www.bilibili.com/video/BV1gDbZ6xEjL">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：OpenAI 宣布放缓前沿模型训练；GLM-5.3 上线 API；Claude Code 周限提升50%活动延长【AI 早报 2026-08-19】]]></title>
-        <link>https://www.bilibili.com/video/BV1SW876yE91</link>
-        <guid isPermaLink="false">bilibili-117119630969063</guid>
-        <pubDate>Wed, 19 Aug 2026 01:51:17 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1SW876yE91">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
