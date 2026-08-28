@@ -5,27 +5,112 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 27 Aug 2026 01:05:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 05:40:07 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月27日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月28日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-27</guid>
-        <pubDate>Thu, 27 Aug 2026 01:05:32 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-08-28</guid>
+        <pubDate>Fri, 28 Aug 2026 05:40:07 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 08月27日 01:05 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 08月28日 05:40 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-27</guid>
-        <pubDate>Thu, 27 Aug 2026 01:05:32 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 8 items</p><p><b>🎮 生活分享流 (life):</b> 7 items</p><p><b>🆕 本次新增:</b> 24 items</p><p><b>📦 数据库总量:</b> 2969 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-08-28</guid>
+        <pubDate>Fri, 28 Aug 2026 05:40:07 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 13 items</p><p><b>🎮 生活分享流 (life):</b> 20 items</p><p><b>🆕 本次新增:</b> 49 items</p><p><b>📦 数据库总量:</b> 3018 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Gemini Omni 1.1 Flash 发布；Codex 重置用户用量并推出 Luna Reserve 备用额度【AI 早报 2026-08-28】]]></title>
+        <link>https://www.bilibili.com/video/BV1QQ4f6dEFN</link>
+        <guid isPermaLink="false">bilibili-117170499554790</guid>
+        <pubDate>Fri, 28 Aug 2026 01:23:03 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/0-3PuKGAO1OkWpNfPWtrmA</p><p><a href="https://www.bilibili.com/video/BV1QQ4f6dEFN">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 硅谷101：AI可解释性与对齐：J-Space，思维链，AI人格，幻觉，与金门大桥【101视频播客】]]></title>
+        <link>https://www.bilibili.com/video/BV1gyhF6wEDD</link>
+        <guid isPermaLink="false">bilibili-117165181179752</guid>
+        <pubDate>Thu, 27 Aug 2026 02:51:46 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：硅谷101</p>
+<p>一个模型被问：“会织网的动物有几条腿？”它回答8。问题里没有出现“蜘蛛”，但模型内部其实已经判断这个动物是蜘蛛。研究者没有改动问题，只把模型内部“蜘蛛”的表示换成“蚂蚁”，答案就变成了6。也就是说，在AI说出答案之前，它内部可能已经完成了我们看不到的判断和推理。但大模型究竟如何一步步得到答案，至今仍没有清楚的答案。
+本期视频，我们与AI可解释性研究者Aryaman Arora聊聊，研究者如何“打开</p><p><a href="https://www.bilibili.com/video/BV1gyhF6wEDD">查看原文 →</a></p>]]></description>
+        <author><![CDATA[硅谷101]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：智谱发布并开源 GLM-5.3-Flash；阿里发布并开源 Qwen3.8-Flash【AI 早报 2026-08-27】]]></title>
+        <link>https://www.bilibili.com/video/BV1vVhc63EJD</link>
+        <guid isPermaLink="false">bilibili-117164929451444</guid>
+        <pubDate>Thu, 27 Aug 2026 01:45:58 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/yMZcUEI8UqOuxfvEP-jHhA</p><p><a href="https://www.bilibili.com/video/BV1vVhc63EJD">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 量化投资邢不行啊：月底清仓,躲过大跌?1000万条数据验证A股四大逃生窗口,真能减少亏损吗?A股交易日历大放送|量化投资邢不行啊]]></title>
+        <link>https://www.bilibili.com/video/BV1638968EzE</link>
+        <guid isPermaLink="false">bilibili-117160886278265</guid>
+        <pubDate>Wed, 26 Aug 2026 09:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：量化投资邢不行啊</p>
+<p>4月/8月/10月/12月，
+A股四大逃生窗口期？
+听说8月底清仓，
+能躲过一轮大跌？
+1000万条历史数据，
+验证A股日历效应？
+
+喜欢视频记得三连，并点个关注～
+
+往期视频精选：
+5穷6绝7翻身：BV1CP411Q7C4
+A股周内效应：BV1si4y177RU
+宏观观察指标：BV1U2gP6XERd</p><p><a href="https://www.bilibili.com/video/BV1638968EzE">查看原文 →</a></p>]]></description>
+        <author><![CDATA[量化投资邢不行啊]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Qwen3.8-Flash-Next 今日开源发布；Codex 重置用量并恢复 Plus 和 Business 订阅5小时限额【AI 早报 2026-08-26]]></title>
+        <link>https://www.bilibili.com/video/BV1E88X6tEvU</link>
+        <guid isPermaLink="false">bilibili-117159191645640</guid>
+        <pubDate>Wed, 26 Aug 2026 01:29:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/LIyc0mTrfRZ6Nkds8Sz8Zg</p><p><a href="https://www.bilibili.com/video/BV1E88X6tEvU">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：GMI Cloud与MiniMax宣布开放M3等模型14天免费调用【AI 早报 2026-08-25】]]></title>
+        <link>https://www.bilibili.com/video/BV1Uchu6HEGC</link>
+        <guid isPermaLink="false">bilibili-117153302840493</guid>
+        <pubDate>Tue, 25 Aug 2026 00:30:22 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接及文字版请看：https://mp.weixin.qq.com/s/GgdqmibfsGGmzWHg37W5zA</p><p><a href="https://www.bilibili.com/video/BV1Uchu6HEGC">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -89,6 +174,19 @@
     </item>
     
     <item>
+        <title><![CDATA[[B站] 硅谷101：“消失”的万亿债务：深扒数据中心“影子借贷”、GPU金融化与次贷风险【硅谷101】]]></title>
+        <link>https://www.bilibili.com/video/BV1y58q6pEnX</link>
+        <guid isPermaLink="false">bilibili-117132700424076</guid>
+        <pubDate>Fri, 21 Aug 2026 09:11:09 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：硅谷101</p>
+<p>2026年还没过完八月，美国五大科技巨头已经发了2081亿美元公司债，是2024年全年的十二倍。钱借来了，数据中心也在盖，可翻开财报，其中很大一部分债务，却像凭空消失了。
+我们翻遍五家公司两年半的申报文件，找出了至少五种让债务“消失”的方式：微软把它拆进其他负债，谷歌记成信用衍生品，亚马逊与甲骨文把它留在尚未起租的合同里。Meta则通过七家“贝奈饼”壳公司发行273亿美元债券，债不在Meta表上，</p><p><a href="https://www.bilibili.com/video/BV1y58q6pEnX">查看原文 →</a></p>]]></description>
+        <author><![CDATA[硅谷101]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 橘鸦juya：OpenRouter 与 OpenCode 上线免费 stealth 模型 Ox Alpha【AI 早报 2026-08-21】]]></title>
         <link>https://www.bilibili.com/video/BV1Aq8K6TEyk</link>
         <guid isPermaLink="false">bilibili-117130938813936</guid>
@@ -96,30 +194,6 @@
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/2DuurZFXjdxzEQ2kO85b_A</p><p><a href="https://www.bilibili.com/video/BV1Aq8K6TEyk">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 巫师财经：【巫师】追随别人很容易，创造才能活到下一个时代]]></title>
-        <link>https://www.bilibili.com/video/BV1gYbf6oEqf</link>
-        <guid isPermaLink="false">bilibili-117126711090010</guid>
-        <pubDate>Thu, 20 Aug 2026 11:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：巫师财经</p>
-<p><a href="https://www.bilibili.com/video/BV1gYbf6oEqf">查看原文 →</a></p>]]></description>
-        <author><![CDATA[巫师财经]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：OpenAI Codex 团队称已上线多层防护，降低误删用户文件风险【AI 早报 2026-08-20】]]></title>
-        <link>https://www.bilibili.com/video/BV1gDbZ6xEjL</link>
-        <guid isPermaLink="false">bilibili-117125301732948</guid>
-        <pubDate>Thu, 20 Aug 2026 01:48:11 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/vWoCKhTuKliCRFWCWZFf8g</p><p><a href="https://www.bilibili.com/video/BV1gDbZ6xEjL">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
