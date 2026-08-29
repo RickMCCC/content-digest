@@ -5,25 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 28 Aug 2026 05:40:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 03:22:07 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月28日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月29日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-28</guid>
-        <pubDate>Fri, 28 Aug 2026 05:40:07 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-08-29</guid>
+        <pubDate>Sat, 29 Aug 2026 03:22:07 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 08月28日 05:40 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 08月29日 03:22 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-28</guid>
-        <pubDate>Fri, 28 Aug 2026 05:40:07 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 13 items</p><p><b>🎮 生活分享流 (life):</b> 20 items</p><p><b>🆕 本次新增:</b> 49 items</p><p><b>📦 数据库总量:</b> 3018 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-08-29</guid>
+        <pubDate>Sat, 29 Aug 2026 03:22:07 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 10 items</p><p><b>🎮 生活分享流 (life):</b> 19 items</p><p><b>🆕 本次新增:</b> 4 items</p><p><b>📦 数据库总量:</b> 3022 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -157,43 +157,6 @@ A股周内效应：BV1si4y177RU
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/0lijEHZnB3Nry1UPzfXyUA</p><p><a href="https://www.bilibili.com/video/BV1jJ8y6AEn2">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：突发：DeepSeek API 平台上线多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp ！]]></title>
-        <link>https://www.bilibili.com/video/BV1aq8q6BE1N</link>
-        <guid isPermaLink="false">bilibili-117132784502394</guid>
-        <pubDate>Fri, 21 Aug 2026 09:30:18 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1aq8q6BE1N">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 硅谷101：“消失”的万亿债务：深扒数据中心“影子借贷”、GPU金融化与次贷风险【硅谷101】]]></title>
-        <link>https://www.bilibili.com/video/BV1y58q6pEnX</link>
-        <guid isPermaLink="false">bilibili-117132700424076</guid>
-        <pubDate>Fri, 21 Aug 2026 09:11:09 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：硅谷101</p>
-<p>2026年还没过完八月，美国五大科技巨头已经发了2081亿美元公司债，是2024年全年的十二倍。钱借来了，数据中心也在盖，可翻开财报，其中很大一部分债务，却像凭空消失了。
-我们翻遍五家公司两年半的申报文件，找出了至少五种让债务“消失”的方式：微软把它拆进其他负债，谷歌记成信用衍生品，亚马逊与甲骨文把它留在尚未起租的合同里。Meta则通过七家“贝奈饼”壳公司发行273亿美元债券，债不在Meta表上，</p><p><a href="https://www.bilibili.com/video/BV1y58q6pEnX">查看原文 →</a></p>]]></description>
-        <author><![CDATA[硅谷101]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：OpenRouter 与 OpenCode 上线免费 stealth 模型 Ox Alpha【AI 早报 2026-08-21】]]></title>
-        <link>https://www.bilibili.com/video/BV1Aq8K6TEyk</link>
-        <guid isPermaLink="false">bilibili-117130938813936</guid>
-        <pubDate>Fri, 21 Aug 2026 01:44:31 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/2DuurZFXjdxzEQ2kO85b_A</p><p><a href="https://www.bilibili.com/video/BV1Aq8K6TEyk">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
