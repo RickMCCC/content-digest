@@ -5,27 +5,45 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 29 Aug 2026 03:22:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 23:37:48 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
         <title><![CDATA[⚠️ 本地 Runner 离线 | 08月29日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
         <guid isPermaLink="false">digest-2026-08-29</guid>
-        <pubDate>Sat, 29 Aug 2026 03:22:07 GMT</pubDate>
+        <pubDate>Sat, 29 Aug 2026 23:37:48 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 08月29日 03:22 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 08月29日 23:37 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
         <guid isPermaLink="false">digest-2026-08-29</guid>
-        <pubDate>Sat, 29 Aug 2026 03:22:07 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 10 items</p><p><b>🎮 生活分享流 (life):</b> 19 items</p><p><b>🆕 本次新增:</b> 4 items</p><p><b>📦 数据库总量:</b> 3022 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <pubDate>Sat, 29 Aug 2026 23:37:48 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 9 items</p><p><b>🎮 生活分享流 (life):</b> 19 items</p><p><b>🆕 本次新增:</b> 3 items</p><p><b>📦 数据库总量:</b> 3025 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 全员i人字幕组：【生肉】kkuralive 樱花直播 (feat.恩採) （中字待更） 260829wvs直播]]></title>
+        <link>https://www.bilibili.com/video/BV1Nn4166Edr</link>
+        <guid isPermaLink="false">bilibili-117179374639147</guid>
+        <pubDate>Sat, 29 Aug 2026 14:59:18 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p>wvs
+资源：大癫
+翻译：
+时间轴：
+校对/合轴/压制：
+
+该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1Nn4166Edr">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -42,6 +60,19 @@
     </item>
     
     <item>
+        <title><![CDATA[[B站] 小Lin说：日元创40年新低，美国突然出手，怎么回事儿？]]></title>
+        <link>https://www.bilibili.com/video/BV16rtc63EgT</link>
+        <guid isPermaLink="false">bilibili-117171724229124</guid>
+        <pubDate>Fri, 28 Aug 2026 09:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小Lin说</p>
+<p>日元一度击穿164，创下40年以来新低。
+美国15年来首次出手，联合日本政府一起干预市场。这是怎么回事儿？</p><p><a href="https://www.bilibili.com/video/BV16rtc63EgT">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小Lin说]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] Mr-Pot (2026-08-28): 5 posts]]></title>
         <link>https://www.bilibili.com/video/BV1be4d6rErX</link>
         <guid isPermaLink="false">bilibili-grouped-2026-08-28-a1c5d27b</guid>
@@ -54,6 +85,19 @@
 <li><a href="https://www.bilibili.com/video/BV1as4d6mEko">【中英字幕】彭博财经简报26.08.27</a></li>
 </ul>]]></description>
         <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 硅谷101：对话艾博生物CEO英博：“一人一药”，Moderna，AI制药，癌症疫苗的边界与未来【101视频播客】]]></title>
+        <link>https://www.bilibili.com/video/BV1aZtc68EzJ</link>
+        <guid isPermaLink="false">bilibili-117171472570152</guid>
+        <pubDate>Fri, 28 Aug 2026 05:35:06 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：硅谷101</p>
+<p>2026年8月，Moderna与默沙东联合开发的个体化mRNA癌症疫苗公布三期临床积极结果，Moderna股价一度暴涨超过200%。这不是一款预防癌症的疫苗，而是一种为患者量身定制的治疗性疫苗。“一人一药”，似乎正在离现实越来越近。
+这期视频，我们邀请到艾博生物创始人、CEO英博博士，他曾在Moderna从事mRNA相关的核心研发。我们从这次三期临床结果出发，拆解个体化癌症疫苗究竟如何工作、为什么</p><p><a href="https://www.bilibili.com/video/BV1aZtc68EzJ">查看原文 →</a></p>]]></description>
+        <author><![CDATA[硅谷101]]></author>
         <category>B站</category>
     </item>
     
@@ -365,54 +409,6 @@ A股周内效应：BV1si4y177RU
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/hH4h9jk0kNcoA7MlYmu4jA</p><p><a href="https://www.bilibili.com/video/BV1R88x6kEvF">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小黛晨读：【参考信息第640期】抗拆致死正当防卫；公众人物容忍义务]]></title>
-        <link>https://www.bilibili.com/video/BV1D78m6cEN2</link>
-        <guid isPermaLink="false">bilibili-117139260312624</guid>
-        <pubDate>Sat, 22 Aug 2026 12:58:57 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小黛晨读</p>
-<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1D78m6cEN2">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小黛晨读]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 巫师财经：【巫师】深扒Angelababy/黄晓明的资本博弈]]></title>
-        <link>https://www.bilibili.com/video/BV1Uw826pE7J</link>
-        <guid isPermaLink="false">bilibili-117137934981154</guid>
-        <pubDate>Sat, 22 Aug 2026 07:20:53 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：巫师财经</p>
-<p><a href="https://www.bilibili.com/video/BV1Uw826pE7J">查看原文 →</a></p>]]></description>
-        <author><![CDATA[巫师财经]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：DeepSeek-V4-Flash-Vision-Exp 上线；Codex 重置【AI 早报 2026-08-22】]]></title>
-        <link>https://www.bilibili.com/video/BV1jJ8y6AEn2</link>
-        <guid isPermaLink="false">bilibili-117136643067110</guid>
-        <pubDate>Sat, 22 Aug 2026 01:53:35 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/0lijEHZnB3Nry1UPzfXyUA</p><p><a href="https://www.bilibili.com/video/BV1jJ8y6AEn2">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小王Albert：全球红利全部踩中，沙漠小国极限翻盘？【南非04丨纳米比亚】]]></title>
-        <link>https://www.bilibili.com/video/BV1Vngj6FEMD</link>
-        <guid isPermaLink="false">bilibili-117083358632654</guid>
-        <pubDate>Sat, 22 Aug 2026 01:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小王Albert</p>
-<p>一键三连推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV1Vngj6FEMD">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小王Albert]]></author>
         <category>B站</category>
     </item>
     
