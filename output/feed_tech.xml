@@ -5,27 +5,63 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 29 Aug 2026 23:37:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 23:50:06 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月29日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 08月30日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-29</guid>
-        <pubDate>Sat, 29 Aug 2026 23:37:48 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-08-30</guid>
+        <pubDate>Sun, 30 Aug 2026 23:50:06 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 08月29日 23:37 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 08月30日 23:50 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-08-29</guid>
-        <pubDate>Sat, 29 Aug 2026 23:37:48 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 9 items</p><p><b>🎮 生活分享流 (life):</b> 19 items</p><p><b>🆕 本次新增:</b> 3 items</p><p><b>📦 数据库总量:</b> 3025 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-08-30</guid>
+        <pubDate>Sun, 30 Aug 2026 23:50:06 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 11 items</p><p><b>🎮 生活分享流 (life):</b> 19 items</p><p><b>🆕 本次新增:</b> 3 items</p><p><b>📦 数据库总量:</b> 3028 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenAI将断供Cursor；Codex 重置并修复额度问题；Claude 将调整周限额；豆包为学生免费提供3个月会员【AI 早报 2026-08-30】]]></title>
+        <link>https://www.bilibili.com/video/BV1Tx4Q6hECC</link>
+        <guid isPermaLink="false">bilibili-117181756999921</guid>
+        <pubDate>Sun, 30 Aug 2026 01:07:06 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/cB-xsPfF03BANf1mkhgUbQ</p><p><a href="https://www.bilibili.com/video/BV1Tx4Q6hECC">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：腾讯发布并开源 Hy4 preview 模型；智谱修复 GLM-5.3-Flash 性能下降问题【AI 早报 2026-08-29】]]></title>
+        <link>https://www.bilibili.com/video/BV1hE466iEYn</link>
+        <guid isPermaLink="false">bilibili-117176170186079</guid>
+        <pubDate>Sat, 29 Aug 2026 01:23:21 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/J55JeDWNItZOFEhkqUha5g</p><p><a href="https://www.bilibili.com/video/BV1hE466iEYn">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 巫师财经：【巫师】每次股灾都是财富转移，怎么用百度搭子监测并拿到带血筹码？]]></title>
+        <link>https://www.bilibili.com/video/BV195tA6qER7</link>
+        <guid isPermaLink="false">bilibili-117172848303576</guid>
+        <pubDate>Fri, 28 Aug 2026 12:27:33 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：巫师财经</p>
+<p><a href="https://www.bilibili.com/video/BV195tA6qER7">查看原文 →</a></p>]]></description>
+        <author><![CDATA[巫师财经]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -134,18 +170,6 @@ A股周内效应：BV1si4y177RU
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/9PBN-9X-LXfmF9NSNuXohw</p><p><a href="https://www.bilibili.com/video/BV17Z8Y6qE5z">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：DeepSeek 调整 API 计费：周末全天统一按低谷价收费【AI 早报 2026-08-23】]]></title>
-        <link>https://www.bilibili.com/video/BV1R88x6kEvF</link>
-        <guid isPermaLink="false">bilibili-117142162768923</guid>
-        <pubDate>Sun, 23 Aug 2026 01:13:52 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/hH4h9jk0kNcoA7MlYmu4jA</p><p><a href="https://www.bilibili.com/video/BV1R88x6kEvF">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
