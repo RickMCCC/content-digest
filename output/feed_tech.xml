@@ -5,27 +5,39 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 01 Sep 2026 00:50:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 23:36:07 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
         <title><![CDATA[⚠️ 本地 Runner 离线 | 09月01日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
         <guid isPermaLink="false">digest-2026-09-01</guid>
-        <pubDate>Tue, 01 Sep 2026 00:50:41 GMT</pubDate>
+        <pubDate>Tue, 01 Sep 2026 23:36:07 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 09月01日 00:50 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 09月01日 23:36 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
         <guid isPermaLink="false">digest-2026-09-01</guid>
-        <pubDate>Tue, 01 Sep 2026 00:50:41 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 11 items</p><p><b>🎮 生活分享流 (life):</b> 18 items</p><p><b>🆕 本次新增:</b> 2 items</p><p><b>📦 数据库总量:</b> 3030 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <pubDate>Tue, 01 Sep 2026 23:36:07 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 11 items</p><p><b>🎮 生活分享流 (life):</b> 22 items</p><p><b>🆕 本次新增:</b> 8 items</p><p><b>📦 数据库总量:</b> 3038 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：DeepSeek-V4-Flash-Vision-Exp 权重发布；OpenClaw 2.0 版本发布【AI 早报 2026-09-01】]]></title>
+        <link>https://www.bilibili.com/video/BV1tVtM6CEr3</link>
+        <guid isPermaLink="false">bilibili-117193199062364</guid>
+        <pubDate>Tue, 01 Sep 2026 01:34:31 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>文字版及相关链接请看：https://mp.weixin.qq.com/s/zLnD1uPyhbSmrti0C-aZyQ</p><p><a href="https://www.bilibili.com/video/BV1tVtM6CEr3">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -158,18 +170,6 @@ A股周内效应：BV1si4y177RU
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/LIyc0mTrfRZ6Nkds8Sz8Zg</p><p><a href="https://www.bilibili.com/video/BV1E88X6tEvU">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：GMI Cloud与MiniMax宣布开放M3等模型14天免费调用【AI 早报 2026-08-25】]]></title>
-        <link>https://www.bilibili.com/video/BV1Uchu6HEGC</link>
-        <guid isPermaLink="false">bilibili-117153302840493</guid>
-        <pubDate>Tue, 25 Aug 2026 00:30:22 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接及文字版请看：https://mp.weixin.qq.com/s/GgdqmibfsGGmzWHg37W5zA</p><p><a href="https://www.bilibili.com/video/BV1Uchu6HEGC">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>

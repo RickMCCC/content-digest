@@ -5,27 +5,101 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 01 Sep 2026 00:50:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 23:36:07 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
         <title><![CDATA[⚠️ 本地 Runner 离线 | 09月01日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
         <guid isPermaLink="false">digest-2026-09-01</guid>
-        <pubDate>Tue, 01 Sep 2026 00:50:41 GMT</pubDate>
+        <pubDate>Tue, 01 Sep 2026 23:36:07 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 09月01日 00:50 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 09月01日 23:36 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
         <guid isPermaLink="false">digest-2026-09-01</guid>
-        <pubDate>Tue, 01 Sep 2026 00:50:41 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 11 items</p><p><b>🎮 生活分享流 (life):</b> 18 items</p><p><b>🆕 本次新增:</b> 2 items</p><p><b>📦 数据库总量:</b> 3030 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <pubDate>Tue, 01 Sep 2026 23:36:07 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 11 items</p><p><b>🎮 生活分享流 (life):</b> 22 items</p><p><b>🆕 本次新增:</b> 8 items</p><p><b>📦 数据库总量:</b> 3038 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：中国修订国防动员法, 经济、科技领域也纳入动员范围！郭正亮 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV1WTtu6qEwC</link>
+        <guid isPermaLink="false">bilibili-117194423861777</guid>
+        <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV1WTtu6qEwC">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小Lin说：沙特2030愿景，现在怎么样了？]]></title>
+        <link>https://www.bilibili.com/video/BV1HGta6aEf8</link>
+        <guid isPermaLink="false">bilibili-117190665705448</guid>
+        <pubDate>Tue, 01 Sep 2026 09:30:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小Lin说</p>
+<p>伊朗战乱已经好几个月了，边上一圈中东产油国可以说都受到了巨大的冲击。但这里面有一个国家最能扛，你知道是谁么?
+就是 - 沙特。
+我今天想从底层经济结构的角度，带大家来仔细看看，沙特这么庞大的一个经济体，到底准备怎么转身，怎么给整个国家"去油"？</p><p><a href="https://www.bilibili.com/video/BV1HGta6aEf8">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小Lin说]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：台教授投稿正当石！开谈“一国两制”引爆两岸讨论！沈逸：1949年后罕见民间对话！]]></title>
+        <link>https://www.bilibili.com/video/BV1Qgtg6WES1</link>
+        <guid isPermaLink="false">bilibili-117194071541783</guid>
+        <pubDate>Tue, 01 Sep 2026 05:29:35 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p>-</p><p><a href="https://www.bilibili.com/video/BV1Qgtg6WES1">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：7分钟天灾如何被包装成“中国人祸”? 沈逸老师深扒外媒! 沈逸 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV1Wztt6tEE1</link>
+        <guid isPermaLink="false">bilibili-117188769943023</guid>
+        <pubDate>Tue, 01 Sep 2026 03:00:45 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV1Wztt6tEE1">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：DeepSeek-V4-Flash-Vision-Exp 权重发布；OpenClaw 2.0 版本发布【AI 早报 2026-09-01】]]></title>
+        <link>https://www.bilibili.com/video/BV1tVtM6CEr3</link>
+        <guid isPermaLink="false">bilibili-117193199062364</guid>
+        <pubDate>Tue, 01 Sep 2026 01:34:31 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>文字版及相关链接请看：https://mp.weixin.qq.com/s/zLnD1uPyhbSmrti0C-aZyQ</p><p><a href="https://www.bilibili.com/video/BV1tVtM6CEr3">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第644期】社区岗位缩招；中公招生上涨]]></title>
+        <link>https://www.bilibili.com/video/BV18Utb6gE9J</link>
+        <guid isPermaLink="false">bilibili-117190162385652</guid>
+        <pubDate>Mon, 31 Aug 2026 12:59:49 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV18Utb6gE9J">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -80,6 +154,18 @@
 
 该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1Nn4166Edr">查看原文 →</a></p>]]></description>
         <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第643期】房贷延到40年；受贿7亿排第几]]></title>
+        <link>https://www.bilibili.com/video/BV1z3426eEdx</link>
+        <guid isPermaLink="false">bilibili-117178821313918</guid>
+        <pubDate>Sat, 29 Aug 2026 12:46:02 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1z3426eEdx">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
         <category>B站</category>
     </item>
     
@@ -199,6 +285,18 @@
 <p>✍️ 作者：全员i人字幕组</p>
 <p>该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1fv4o6fEVu">查看原文 →</a></p>]]></description>
         <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第642期】羞辱式劝退；博士比驴多]]></title>
+        <link>https://www.bilibili.com/video/BV1KY496eEg6</link>
+        <guid isPermaLink="false">bilibili-117167546697776</guid>
+        <pubDate>Thu, 27 Aug 2026 12:51:44 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1KY496eEg6">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
         <category>B站</category>
     </item>
     
@@ -369,58 +467,6 @@ A股周内效应：BV1si4y177RU
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/LIyc0mTrfRZ6Nkds8Sz8Zg</p><p><a href="https://www.bilibili.com/video/BV1E88X6tEvU">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot (2026-08-25): 5 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1q4hu6eEvt</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-08-25-a1c5d27b</guid>
-        <pubDate>Tue, 25 Aug 2026 14:12:12 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1q4hu6eEvt">【中英字幕】26.08.24川普白宫玫瑰园演讲完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1mwhu6DEhs">【中英字幕】26.08.24万斯缅因州演讲完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1znhu6BEPG">【中英字幕】彭博科技前沿26.08.24完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1ERhN6fEnY">【中英字幕】彭博脉搏访谈26.08.24完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1Mchu6pEqP">【中英字幕】《面向全国》26.08.24完整版</a></li>
-</ul>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小王Albert：十年前忙着反核，十年后忙着找电，台湾开始补能源课【岛岛连线】]]></title>
-        <link>https://www.bilibili.com/video/BV1pFhG6SE1G</link>
-        <guid isPermaLink="false">bilibili-117155903312327</guid>
-        <pubDate>Tue, 25 Aug 2026 11:43:22 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小王Albert</p>
-<p>一键三连推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV1pFhG6SE1G">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小王Albert]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：金砖搅局者转性了? 访印，真正目标不只中印关系！郭正亮 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV1s8hg6HE86</link>
-        <guid isPermaLink="false">bilibili-117154812857770</guid>
-        <pubDate>Tue, 25 Aug 2026 06:58:35 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV1s8hg6HE86">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：GMI Cloud与MiniMax宣布开放M3等模型14天免费调用【AI 早报 2026-08-25】]]></title>
-        <link>https://www.bilibili.com/video/BV1Uchu6HEGC</link>
-        <guid isPermaLink="false">bilibili-117153302840493</guid>
-        <pubDate>Tue, 25 Aug 2026 00:30:22 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接及文字版请看：https://mp.weixin.qq.com/s/GgdqmibfsGGmzWHg37W5zA</p><p><a href="https://www.bilibili.com/video/BV1Uchu6HEGC">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
