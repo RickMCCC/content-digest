@@ -5,27 +5,39 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 01 Sep 2026 23:36:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 23:36:40 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月01日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月02日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-01</guid>
-        <pubDate>Tue, 01 Sep 2026 23:36:07 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-09-02</guid>
+        <pubDate>Wed, 02 Sep 2026 23:36:40 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 09月01日 23:36 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 09月02日 23:36 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-01</guid>
-        <pubDate>Tue, 01 Sep 2026 23:36:07 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 11 items</p><p><b>🎮 生活分享流 (life):</b> 22 items</p><p><b>🆕 本次新增:</b> 8 items</p><p><b>📦 数据库总量:</b> 3038 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-09-02</guid>
+        <pubDate>Wed, 02 Sep 2026 23:36:40 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 11 items</p><p><b>🎮 生活分享流 (life):</b> 21 items</p><p><b>🆕 本次新增:</b> 8 items</p><p><b>📦 数据库总量:</b> 3046 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] IT咖啡馆：AI能写代码，为什么普通人反而更要懂编程？]]></title>
+        <link>https://www.bilibili.com/video/BV1sWtg6yEBR</link>
+        <guid isPermaLink="false">bilibili-117193652047172</guid>
+        <pubDate>Tue, 01 Sep 2026 11:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：IT咖啡馆</p>
+<p><a href="https://www.bilibili.com/video/BV1sWtg6yEBR">查看原文 →</a></p>]]></description>
+        <author><![CDATA[IT咖啡馆]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -61,6 +73,21 @@
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/cB-xsPfF03BANf1mkhgUbQ</p><p><a href="https://www.bilibili.com/video/BV1Tx4Q6hECC">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点129期」一间agent的办公室、GPT-Image-2提示词、Codex Harness、Apache本地工作台和免费模型路由]]></title>
+        <link>https://www.bilibili.com/video/BV1wW421X7uU</link>
+        <guid isPermaLink="false">bilibili-1856602450</guid>
+        <pubDate>Sat, 29 Aug 2026 08:45:56 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：IT咖啡馆</p>
+<p>1、项目名称：munder-difflin - 一间 Agent 组成的办公室
+GitHub 链接：https://github.com/chaitanyagiri/munder-difflin
+2、项目名称：awesome-gpt-image-2 - GPT-Image-2 提示词案例、模板和 Agent Skill
+GitHub 链接：https://github.com/freestylef</p><p><a href="https://www.bilibili.com/video/BV1wW421X7uU">查看原文 →</a></p>]]></description>
+        <author><![CDATA[IT咖啡馆]]></author>
         <category>B站</category>
     </item>
     
@@ -134,42 +161,6 @@
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/yMZcUEI8UqOuxfvEP-jHhA</p><p><a href="https://www.bilibili.com/video/BV1vVhc63EJD">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 量化投资邢不行啊：月底清仓,躲过大跌?1000万条数据验证A股四大逃生窗口,真能减少亏损吗?A股交易日历大放送|量化投资邢不行啊]]></title>
-        <link>https://www.bilibili.com/video/BV1638968EzE</link>
-        <guid isPermaLink="false">bilibili-117160886278265</guid>
-        <pubDate>Wed, 26 Aug 2026 09:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：量化投资邢不行啊</p>
-<p>4月/8月/10月/12月，
-A股四大逃生窗口期？
-听说8月底清仓，
-能躲过一轮大跌？
-1000万条历史数据，
-验证A股日历效应？
-
-喜欢视频记得三连，并点个关注～
-
-往期视频精选：
-5穷6绝7翻身：BV1CP411Q7C4
-A股周内效应：BV1si4y177RU
-宏观观察指标：BV1U2gP6XERd</p><p><a href="https://www.bilibili.com/video/BV1638968EzE">查看原文 →</a></p>]]></description>
-        <author><![CDATA[量化投资邢不行啊]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Qwen3.8-Flash-Next 今日开源发布；Codex 重置用量并恢复 Plus 和 Business 订阅5小时限额【AI 早报 2026-08-26]]></title>
-        <link>https://www.bilibili.com/video/BV1E88X6tEvU</link>
-        <guid isPermaLink="false">bilibili-117159191645640</guid>
-        <pubDate>Wed, 26 Aug 2026 01:29:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/LIyc0mTrfRZ6Nkds8Sz8Zg</p><p><a href="https://www.bilibili.com/video/BV1E88X6tEvU">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
