@@ -5,27 +5,51 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 02 Sep 2026 23:36:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 23:32:58 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月02日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月03日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-02</guid>
-        <pubDate>Wed, 02 Sep 2026 23:36:40 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-09-03</guid>
+        <pubDate>Thu, 03 Sep 2026 23:32:58 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 09月02日 23:36 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 09月03日 23:32 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-02</guid>
-        <pubDate>Wed, 02 Sep 2026 23:36:40 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 11 items</p><p><b>🎮 生活分享流 (life):</b> 21 items</p><p><b>🆕 本次新增:</b> 8 items</p><p><b>📦 数据库总量:</b> 3046 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-09-03</guid>
+        <pubDate>Thu, 03 Sep 2026 23:32:58 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 11 items</p><p><b>🎮 生活分享流 (life):</b> 13 items</p><p><b>🆕 本次新增:</b> 2 items</p><p><b>📦 数据库总量:</b> 3048 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Google 发布 Gemini 3.8 Flash；Meta 发布 Muse Spark 1.3【AI 早报 2026-09-03】]]></title>
+        <link>https://www.bilibili.com/video/BV1yNtR6vEDB</link>
+        <guid isPermaLink="false">bilibili-117204490126736</guid>
+        <pubDate>Thu, 03 Sep 2026 01:30:22 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1yNtR6vEDB">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Anthropic 发布 Claude Fable 5.1 ；OpenAI 宣布即将发布 Astra【AI 早报 2026-09-02】]]></title>
+        <link>https://www.bilibili.com/video/BV1mDtL6hE4x</link>
+        <guid isPermaLink="false">bilibili-117198869759758</guid>
+        <pubDate>Wed, 02 Sep 2026 01:34:18 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/nZwDfBUyh-c9kOvrMUEKvA</p><p><a href="https://www.bilibili.com/video/BV1mDtL6hE4x">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -136,31 +160,6 @@ GitHub 链接：https://github.com/freestylef</p><p><a href="https://www.bilibil
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/0-3PuKGAO1OkWpNfPWtrmA</p><p><a href="https://www.bilibili.com/video/BV1QQ4f6dEFN">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 硅谷101：AI可解释性与对齐：J-Space，思维链，AI人格，幻觉，与金门大桥【101视频播客】]]></title>
-        <link>https://www.bilibili.com/video/BV1gyhF6wEDD</link>
-        <guid isPermaLink="false">bilibili-117165181179752</guid>
-        <pubDate>Thu, 27 Aug 2026 02:51:46 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：硅谷101</p>
-<p>一个模型被问：“会织网的动物有几条腿？”它回答8。问题里没有出现“蜘蛛”，但模型内部其实已经判断这个动物是蜘蛛。研究者没有改动问题，只把模型内部“蜘蛛”的表示换成“蚂蚁”，答案就变成了6。也就是说，在AI说出答案之前，它内部可能已经完成了我们看不到的判断和推理。但大模型究竟如何一步步得到答案，至今仍没有清楚的答案。
-本期视频，我们与AI可解释性研究者Aryaman Arora聊聊，研究者如何“打开</p><p><a href="https://www.bilibili.com/video/BV1gyhF6wEDD">查看原文 →</a></p>]]></description>
-        <author><![CDATA[硅谷101]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：智谱发布并开源 GLM-5.3-Flash；阿里发布并开源 Qwen3.8-Flash【AI 早报 2026-08-27】]]></title>
-        <link>https://www.bilibili.com/video/BV1vVhc63EJD</link>
-        <guid isPermaLink="false">bilibili-117164929451444</guid>
-        <pubDate>Thu, 27 Aug 2026 01:45:58 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/yMZcUEI8UqOuxfvEP-jHhA</p><p><a href="https://www.bilibili.com/video/BV1vVhc63EJD">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
