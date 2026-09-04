@@ -5,27 +5,39 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 03 Sep 2026 23:32:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 23:17:30 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月03日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月04日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-03</guid>
-        <pubDate>Thu, 03 Sep 2026 23:32:58 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-09-04</guid>
+        <pubDate>Fri, 04 Sep 2026 23:17:30 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 09月03日 23:32 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 09月04日 23:17 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-03</guid>
-        <pubDate>Thu, 03 Sep 2026 23:32:58 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 11 items</p><p><b>🎮 生活分享流 (life):</b> 13 items</p><p><b>🆕 本次新增:</b> 2 items</p><p><b>📦 数据库总量:</b> 3048 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-09-04</guid>
+        <pubDate>Fri, 04 Sep 2026 23:17:30 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 8 items</p><p><b>🎮 生活分享流 (life):</b> 12 items</p><p><b>🆕 本次新增:</b> 2 items</p><p><b>📦 数据库总量:</b> 3050 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小王Albert：复兴道路上的中国如何穿越动荡世界？]]></title>
+        <link>https://www.bilibili.com/video/BV1G3td6nE2Q</link>
+        <guid isPermaLink="false">bilibili-117205647755839</guid>
+        <pubDate>Thu, 03 Sep 2026 06:20:24 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小王Albert</p>
+<p>9月3日是抗战胜利纪念日。14年浴血奋战、3500多万伤亡，换来近代首次反侵略完全胜利，也开启了民族复兴新起点。今天，世界动荡加剧，冲突频发。纪念胜利不为延续仇恨，而是锚定历史正道。从战火中走来的中国深知和平来之不易，为纪念抗日战争伟大胜利，沈逸老师在上海淞沪抗战纪念馆开讲，解读复兴路上的中国穿越动荡时代的底气。</p><p><a href="https://www.bilibili.com/video/BV1G3td6nE2Q">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小王Albert]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -164,6 +176,18 @@
     </item>
     
     <item>
+        <title><![CDATA[[B站] 小王Albert：一条视频看8月：债务和土地，中美旧账单到期，全世界开始找备选方案【地球村月刊】]]></title>
+        <link>https://www.bilibili.com/video/BV1AetW6LEZz</link>
+        <guid isPermaLink="false">bilibili-117185011785105</guid>
+        <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小王Albert</p>
+<p>一键三连推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV1AetW6LEZz">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小王Albert]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 橘鸦juya：OpenAI将断供Cursor；Codex 重置并修复额度问题；Claude 将调整周限额；豆包为学生免费提供3个月会员【AI 早报 2026-08-30】]]></title>
         <link>https://www.bilibili.com/video/BV1Tx4Q6hECC</link>
         <guid isPermaLink="false">bilibili-117181756999921</guid>
@@ -268,88 +292,6 @@ Instagram: iamhenryhsu
 <li><a href="https://www.bilibili.com/video/BV1djtT6QEky">【中英字幕】26.08.28美联储主席凯文·沃什发表杰克逊霍尔首次演讲完整版：AI重塑经济、拒绝前瞻性指引，强调物价稳定高于一切</a></li>
 </ul>]]></description>
         <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 巫师财经：【巫师】每次股灾都是财富转移，怎么用百度搭子监测并拿到带血筹码？]]></title>
-        <link>https://www.bilibili.com/video/BV195tA6qER7</link>
-        <guid isPermaLink="false">bilibili-117172848303576</guid>
-        <pubDate>Fri, 28 Aug 2026 12:27:33 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：巫师财经</p>
-<p><a href="https://www.bilibili.com/video/BV195tA6qER7">查看原文 →</a></p>]]></description>
-        <author><![CDATA[巫师财经]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小Lin说：日元创40年新低，美国突然出手，怎么回事儿？]]></title>
-        <link>https://www.bilibili.com/video/BV16rtc63EgT</link>
-        <guid isPermaLink="false">bilibili-117171724229124</guid>
-        <pubDate>Fri, 28 Aug 2026 09:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小Lin说</p>
-<p>日元一度击穿164，创下40年以来新低。
-美国15年来首次出手，联合日本政府一起干预市场。这是怎么回事儿？</p><p><a href="https://www.bilibili.com/video/BV16rtc63EgT">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小Lin说]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot (2026-08-28): 5 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1be4d6rErX</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-08-28-a1c5d27b</guid>
-        <pubDate>Fri, 28 Aug 2026 07:35:19 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1be4d6rErX">【中英字幕】彭博脉搏访谈26.08.27完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1RP4f6ZE18">【中英字幕】彭博财经观察26.08.27</a></li>
-<li><a href="https://www.bilibili.com/video/BV11x4f6CEPP">【中英字幕】26.08.27川普在白宫签署行政令并回答记者提问完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1Ns4f6LEau">【中英字幕】26.08.27白宫新闻发言人卡罗琳·莱维特卸任前在白宫车道发表最后发言</a></li>
-<li><a href="https://www.bilibili.com/video/BV1as4d6mEko">【中英字幕】彭博财经简报26.08.27</a></li>
-</ul>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 硅谷101：对话艾博生物CEO英博：“一人一药”，Moderna，AI制药，癌症疫苗的边界与未来【101视频播客】]]></title>
-        <link>https://www.bilibili.com/video/BV1aZtc68EzJ</link>
-        <guid isPermaLink="false">bilibili-117171472570152</guid>
-        <pubDate>Fri, 28 Aug 2026 05:35:06 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：硅谷101</p>
-<p>2026年8月，Moderna与默沙东联合开发的个体化mRNA癌症疫苗公布三期临床积极结果，Moderna股价一度暴涨超过200%。这不是一款预防癌症的疫苗，而是一种为患者量身定制的治疗性疫苗。“一人一药”，似乎正在离现实越来越近。
-这期视频，我们邀请到艾博生物创始人、CEO英博博士，他曾在Moderna从事mRNA相关的核心研发。我们从这次三期临床结果出发，拆解个体化癌症疫苗究竟如何工作、为什么</p><p><a href="https://www.bilibili.com/video/BV1aZtc68EzJ">查看原文 →</a></p>]]></description>
-        <author><![CDATA[硅谷101]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Gemini Omni 1.1 Flash 发布；Codex 重置用户用量并推出 Luna Reserve 备用额度【AI 早报 2026-08-28】]]></title>
-        <link>https://www.bilibili.com/video/BV1QQ4f6dEFN</link>
-        <guid isPermaLink="false">bilibili-117170499554790</guid>
-        <pubDate>Fri, 28 Aug 2026 01:23:03 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/0-3PuKGAO1OkWpNfPWtrmA</p><p><a href="https://www.bilibili.com/video/BV1QQ4f6dEFN">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】LE SSERAFIM "最佳视觉内容奖"+"最佳艺人奖" 获奖发言 2026 K-WORLD DREAM AWARDS 260827]]></title>
-        <link>https://www.bilibili.com/video/BV1Tz4d6METU</link>
-        <guid isPermaLink="false">bilibili-117168519778810</guid>
-        <pubDate>Thu, 27 Aug 2026 17:10:15 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>net
-翻译：Saki 末末
-时间轴/压制：末末
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1Tz4d6METU">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
         <category>B站</category>
     </item>
     

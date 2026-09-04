@@ -5,25 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 03 Sep 2026 23:32:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 23:17:30 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月03日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月04日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-03</guid>
-        <pubDate>Thu, 03 Sep 2026 23:32:58 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-09-04</guid>
+        <pubDate>Fri, 04 Sep 2026 23:17:30 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 09月03日 23:32 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 09月04日 23:17 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-03</guid>
-        <pubDate>Thu, 03 Sep 2026 23:32:58 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 11 items</p><p><b>🎮 生活分享流 (life):</b> 13 items</p><p><b>🆕 本次新增:</b> 2 items</p><p><b>📦 数据库总量:</b> 3048 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-09-04</guid>
+        <pubDate>Fri, 04 Sep 2026 23:17:30 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 8 items</p><p><b>🎮 生活分享流 (life):</b> 12 items</p><p><b>🆕 本次新增:</b> 2 items</p><p><b>📦 数据库总量:</b> 3050 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -123,43 +123,6 @@ GitHub 链接：https://github.com/freestylef</p><p><a href="https://www.bilibil
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/J55JeDWNItZOFEhkqUha5g</p><p><a href="https://www.bilibili.com/video/BV1hE466iEYn">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 巫师财经：【巫师】每次股灾都是财富转移，怎么用百度搭子监测并拿到带血筹码？]]></title>
-        <link>https://www.bilibili.com/video/BV195tA6qER7</link>
-        <guid isPermaLink="false">bilibili-117172848303576</guid>
-        <pubDate>Fri, 28 Aug 2026 12:27:33 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：巫师财经</p>
-<p><a href="https://www.bilibili.com/video/BV195tA6qER7">查看原文 →</a></p>]]></description>
-        <author><![CDATA[巫师财经]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 硅谷101：对话艾博生物CEO英博：“一人一药”，Moderna，AI制药，癌症疫苗的边界与未来【101视频播客】]]></title>
-        <link>https://www.bilibili.com/video/BV1aZtc68EzJ</link>
-        <guid isPermaLink="false">bilibili-117171472570152</guid>
-        <pubDate>Fri, 28 Aug 2026 05:35:06 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：硅谷101</p>
-<p>2026年8月，Moderna与默沙东联合开发的个体化mRNA癌症疫苗公布三期临床积极结果，Moderna股价一度暴涨超过200%。这不是一款预防癌症的疫苗，而是一种为患者量身定制的治疗性疫苗。“一人一药”，似乎正在离现实越来越近。
-这期视频，我们邀请到艾博生物创始人、CEO英博博士，他曾在Moderna从事mRNA相关的核心研发。我们从这次三期临床结果出发，拆解个体化癌症疫苗究竟如何工作、为什么</p><p><a href="https://www.bilibili.com/video/BV1aZtc68EzJ">查看原文 →</a></p>]]></description>
-        <author><![CDATA[硅谷101]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Gemini Omni 1.1 Flash 发布；Codex 重置用户用量并推出 Luna Reserve 备用额度【AI 早报 2026-08-28】]]></title>
-        <link>https://www.bilibili.com/video/BV1QQ4f6dEFN</link>
-        <guid isPermaLink="false">bilibili-117170499554790</guid>
-        <pubDate>Fri, 28 Aug 2026 01:23:03 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/0-3PuKGAO1OkWpNfPWtrmA</p><p><a href="https://www.bilibili.com/video/BV1QQ4f6dEFN">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
