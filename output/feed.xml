@@ -5,27 +5,95 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 04 Sep 2026 23:17:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 23:14:04 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月04日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月05日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-04</guid>
-        <pubDate>Fri, 04 Sep 2026 23:17:30 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-09-05</guid>
+        <pubDate>Sat, 05 Sep 2026 23:14:04 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 09月04日 23:17 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 09月05日 23:14 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-04</guid>
-        <pubDate>Fri, 04 Sep 2026 23:17:30 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 8 items</p><p><b>🎮 生活分享流 (life):</b> 12 items</p><p><b>🆕 本次新增:</b> 2 items</p><p><b>📦 数据库总量:</b> 3050 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-09-05</guid>
+        <pubDate>Sat, 05 Sep 2026 23:14:04 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 6 items</p><p><b>🎮 生活分享流 (life):</b> 13 items</p><p><b>🆕 本次新增:</b> 13 items</p><p><b>📦 数据库总量:</b> 3063 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第646期】谁能贷款40年；再停三款中成药]]></title>
+        <link>https://www.bilibili.com/video/BV1F9bL6WE8P</link>
+        <guid isPermaLink="false">bilibili-117218549500565</guid>
+        <pubDate>Sat, 05 Sep 2026 13:08:23 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1F9bL6WE8P">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Mr-Pot (2026-09-05): 5 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1T1te6mE4Y</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-09-05-a1c5d27b</guid>
+        <pubDate>Sat, 05 Sep 2026 12:52:40 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1T1te6mE4Y">【中英字幕】巴伦周刊26.09.04完整版：债券收益率上升的真正风险：5%预警、7%危机与资产配置新思路</a></li>
+<li><a href="https://www.bilibili.com/video/BV1zjtC6bErH">【中英字幕】《ALL-IN》播客26.09.04完整版：AI前沿模型冲刺、监管争议与教育、能源政治的多维博弈</a></li>
+<li><a href="https://www.bilibili.com/video/BV1gRtk6CEeM">【中英字幕】彭博财经观察26.09.04完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV16ZtC68E1P">【中英字幕】26.09.04川普在白宫签署行政令并回答记者提问完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1KrtC6GEZC">【中英字幕】彭博财经简报26.09.04完整版</a></li>
+</ul>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小王Albert：长得不好看也是一种失败，最焦虑的国家如何培养超级医美产业？]]></title>
+        <link>https://www.bilibili.com/video/BV1tMtm6nEzo</link>
+        <guid isPermaLink="false">bilibili-117217643535076</guid>
+        <pubDate>Sat, 05 Sep 2026 10:03:45 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小王Albert</p>
+<p>一键三连推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV1tMtm6nEzo">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小王Albert]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Mr-Pot (2026-09-04): 5 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1YZtv6tEaE</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-09-04-a1c5d27b</guid>
+        <pubDate>Fri, 04 Sep 2026 11:38:30 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1YZtv6tEaE">【中英字幕】彭博科技前沿26.09.03完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1Vztf6fErH">【中英字幕】彭博脉搏访谈26.09.03完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1tPti6WEqC">【中英字幕】彭博财经观察26.09.03完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1uxbF64EmB">【中英字幕】26.09.03万斯主持白宫新闻发布会第一期完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1Qytf6sEu1">【中英字幕】彭博财经简报26.09.03完整版</a></li>
+</ul>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第645期】260名看不起2600；中企匈牙利遇挫]]></title>
+        <link>https://www.bilibili.com/video/BV1hqto6HEVn</link>
+        <guid isPermaLink="false">bilibili-117207124151997</guid>
+        <pubDate>Thu, 03 Sep 2026 12:48:59 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1hqto6HEVn">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -196,102 +264,6 @@
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/cB-xsPfF03BANf1mkhgUbQ</p><p><a href="https://www.bilibili.com/video/BV1Tx4Q6hECC">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【生肉】kkuralive 樱花直播 (feat.恩採) （中字待更） 260829wvs直播]]></title>
-        <link>https://www.bilibili.com/video/BV1Nn4166Edr</link>
-        <guid isPermaLink="false">bilibili-117179374639147</guid>
-        <pubDate>Sat, 29 Aug 2026 14:59:18 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>wvs
-资源：大癫
-翻译：
-时间轴：
-校对/合轴/压制：
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1Nn4166Edr">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小黛晨读：【参考信息第643期】房贷延到40年；受贿7亿排第几]]></title>
-        <link>https://www.bilibili.com/video/BV1z3426eEdx</link>
-        <guid isPermaLink="false">bilibili-117178821313918</guid>
-        <pubDate>Sat, 29 Aug 2026 12:46:02 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小黛晨读</p>
-<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1z3426eEdx">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小黛晨读]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点129期」一间agent的办公室、GPT-Image-2提示词、Codex Harness、Apache本地工作台和免费模型路由]]></title>
-        <link>https://www.bilibili.com/video/BV1wW421X7uU</link>
-        <guid isPermaLink="false">bilibili-1856602450</guid>
-        <pubDate>Sat, 29 Aug 2026 08:45:56 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：IT咖啡馆</p>
-<p>1、项目名称：munder-difflin - 一间 Agent 组成的办公室
-GitHub 链接：https://github.com/chaitanyagiri/munder-difflin
-2、项目名称：awesome-gpt-image-2 - GPT-Image-2 提示词案例、模板和 Agent Skill
-GitHub 链接：https://github.com/freestylef</p><p><a href="https://www.bilibili.com/video/BV1wW421X7uU">查看原文 →</a></p>]]></description>
-        <author><![CDATA[IT咖啡馆]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] torazyz：台北vlog🧋购物分享❤️torazyz]]></title>
-        <link>https://www.bilibili.com/video/BV1XW4d6EEsg</link>
-        <guid isPermaLink="false">bilibili-117168754788477</guid>
-        <pubDate>Sat, 29 Aug 2026 02:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：torazyz</p>
-<p>感谢观看
-
-更多内容 欢迎关注 Find me on：
-RED: torazyz
-Instagram: torazyz
-YouTube: Tora Zhang
-Bili: @torazyz    
-
-Henry’s
-RED: HenryHsu
-YouTube: Henry Hsu
-Bili: @iamHenryHsu    
-Instagram: iamhenryhsu
-
-联系我们: contac</p><p><a href="https://www.bilibili.com/video/BV1XW4d6EEsg">查看原文 →</a></p>]]></description>
-        <author><![CDATA[torazyz]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：腾讯发布并开源 Hy4 preview 模型；智谱修复 GLM-5.3-Flash 性能下降问题【AI 早报 2026-08-29】]]></title>
-        <link>https://www.bilibili.com/video/BV1hE466iEYn</link>
-        <guid isPermaLink="false">bilibili-117176170186079</guid>
-        <pubDate>Sat, 29 Aug 2026 01:23:21 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/J55JeDWNItZOFEhkqUha5g</p><p><a href="https://www.bilibili.com/video/BV1hE466iEYn">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot (2026-08-29): 2 posts]]></title>
-        <link>https://www.bilibili.com/video/BV13ytK6yEvE</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-08-29-a1c5d27b</guid>
-        <pubDate>Sat, 29 Aug 2026 00:36:05 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV13ytK6yEvE">【中英字幕】彭博财经简报26.08.28完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1djtT6QEky">【中英字幕】26.08.28美联储主席凯文·沃什发表杰克逊霍尔首次演讲完整版：AI重塑经济、拒绝前瞻性指引，强调物价稳定高于一切</a></li>
-</ul>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
         <category>B站</category>
     </item>
     
