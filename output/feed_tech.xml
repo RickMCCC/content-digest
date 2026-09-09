@@ -5,25 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 08 Sep 2026 23:38:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 23:33:44 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月08日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月09日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-08</guid>
-        <pubDate>Tue, 08 Sep 2026 23:38:54 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-09-09</guid>
+        <pubDate>Wed, 09 Sep 2026 23:33:44 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 09月08日 23:38 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 09月09日 23:33 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-08</guid>
-        <pubDate>Tue, 08 Sep 2026 23:38:54 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 4 items</p><p><b>🎮 生活分享流 (life):</b> 12 items</p><p><b>🆕 本次新增:</b> 4 items</p><p><b>📦 数据库总量:</b> 3072 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-09-09</guid>
+        <pubDate>Wed, 09 Sep 2026 23:33:44 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 2 items</p><p><b>🎮 生活分享流 (life):</b> 11 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 3072 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -52,42 +52,6 @@ GitHub 链接：https://github.com/bilawalsidhu/gods-eye-view
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1yNtR6vEDB">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 量化投资邢不行啊：大A专治股神,巴菲特来了也亏钱?挑战用一个指标,模仿巴菲特炒A股,能赚钱吗?Python量化财务指标,用市赚率买低估值高盈利公司,可行吗? | 量化投资邢不行啊]]></title>
-        <link>https://www.bilibili.com/video/BV1Twtn66EbX</link>
-        <guid isPermaLink="false">bilibili-117200413331876</guid>
-        <pubDate>Wed, 02 Sep 2026 09:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：量化投资邢不行啊</p>
-<p>如何只用一个财务指标，
-买低估值高盈利的公司？
-买入那些巴菲特来A股，
-也会毫不犹豫买的公司，
-是会赚的盆满钵满，
-还是亏的血本无归？
-
-喜欢视频记得三连，并点个关注～
-
-往期视频精选：
-市净率指标：BV12hCLBbE7Z
-市盈率指标：BV12S4y1P76y
-PB-ROE策略：BV1FkL16KEpQ</p><p><a href="https://www.bilibili.com/video/BV1Twtn66EbX">查看原文 →</a></p>]]></description>
-        <author><![CDATA[量化投资邢不行啊]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Anthropic 发布 Claude Fable 5.1 ；OpenAI 宣布即将发布 Astra【AI 早报 2026-09-02】]]></title>
-        <link>https://www.bilibili.com/video/BV1mDtL6hE4x</link>
-        <guid isPermaLink="false">bilibili-117198869759758</guid>
-        <pubDate>Wed, 02 Sep 2026 01:34:18 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/nZwDfBUyh-c9kOvrMUEKvA</p><p><a href="https://www.bilibili.com/video/BV1mDtL6hE4x">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
