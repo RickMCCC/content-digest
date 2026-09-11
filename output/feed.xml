@@ -5,27 +5,51 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 10 Sep 2026 23:27:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 23:35:27 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月10日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月11日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-10</guid>
-        <pubDate>Thu, 10 Sep 2026 23:27:12 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-09-11</guid>
+        <pubDate>Fri, 11 Sep 2026 23:35:27 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 09月10日 23:27 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 09月11日 23:35 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-10</guid>
-        <pubDate>Thu, 10 Sep 2026 23:27:12 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 1 items</p><p><b>🎮 生活分享流 (life):</b> 8 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 3072 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-09-11</guid>
+        <pubDate>Fri, 11 Sep 2026 23:35:27 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 1 items</p><p><b>🎮 生活分享流 (life):</b> 9 items</p><p><b>🆕 本次新增:</b> 3 items</p><p><b>📦 数据库总量:</b> 3075 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第648期】期满高速继续收费；火车站降格乘降所]]></title>
+        <link>https://www.bilibili.com/video/BV1jCYu66EKj</link>
+        <guid isPermaLink="false">bilibili-117246684825183</guid>
+        <pubDate>Thu, 10 Sep 2026 12:24:20 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1jCYu66EKj">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小Lin说：特朗普关税被判违法，这一整年白忙了? 现在关税什么情况?]]></title>
+        <link>https://www.bilibili.com/video/BV1zTYs6nEkk</link>
+        <guid isPermaLink="false">bilibili-117239319695616</guid>
+        <pubDate>Wed, 09 Sep 2026 09:30:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小Lin说</p>
+<p><a href="https://www.bilibili.com/video/BV1zTYs6nEkk">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小Lin说]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -37,6 +61,18 @@
 <p>✍️ 作者：新西兰三妹</p>
 <p><a href="https://www.bilibili.com/video/BV1WEbG6SEsK">查看原文 →</a></p>]]></description>
         <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第647期】名校停招学硕；储能也要过剩]]></title>
+        <link>https://www.bilibili.com/video/BV1gGbN6rE5u</link>
+        <guid isPermaLink="false">bilibili-117229790235878</guid>
+        <pubDate>Mon, 07 Sep 2026 12:44:54 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1gGbN6rE5u">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
         <category>B站</category>
     </item>
     
@@ -131,34 +167,6 @@ Instagram: iamhenryhsu
 
 联系我们: contac</p><p><a href="https://www.bilibili.com/video/BV1v9tU6BEdP">查看原文 →</a></p>]]></description>
         <author><![CDATA[torazyz]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot (2026-09-04): 5 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1YZtv6tEaE</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-09-04-a1c5d27b</guid>
-        <pubDate>Fri, 04 Sep 2026 11:38:30 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1YZtv6tEaE">【中英字幕】彭博科技前沿26.09.03完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1Vztf6fErH">【中英字幕】彭博脉搏访谈26.09.03完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1tPti6WEqC">【中英字幕】彭博财经观察26.09.03完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1uxbF64EmB">【中英字幕】26.09.03万斯主持白宫新闻发布会第一期完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1Qytf6sEu1">【中英字幕】彭博财经简报26.09.03完整版</a></li>
-</ul>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：2019到2026! 外访布局变了! 从突围到重构全球网络！赖岳谦 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV16Htf6gEHX</link>
-        <guid isPermaLink="false">bilibili-117207862349546</guid>
-        <pubDate>Thu, 03 Sep 2026 15:52:12 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV16Htf6gEHX">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
         <category>B站</category>
     </item>
     
