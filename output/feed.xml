@@ -5,25 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 11 Sep 2026 23:35:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 23:17:12 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月11日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月12日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-11</guid>
-        <pubDate>Fri, 11 Sep 2026 23:35:27 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-09-12</guid>
+        <pubDate>Sat, 12 Sep 2026 23:17:12 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 09月11日 23:35 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 09月12日 23:17 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-11</guid>
-        <pubDate>Fri, 11 Sep 2026 23:35:27 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 1 items</p><p><b>🎮 生活分享流 (life):</b> 9 items</p><p><b>🆕 本次新增:</b> 3 items</p><p><b>📦 数据库总量:</b> 3075 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-09-12</guid>
+        <pubDate>Sat, 12 Sep 2026 23:17:12 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 1 items</p><p><b>🎮 生活分享流 (life):</b> 5 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 3075 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -101,72 +101,6 @@ GitHub 链接：https://github.com/tt-a1i/archify
 GitHub 链接：https://github.com/bilawalsidhu/gods-eye-view
 3、项目名称：OpenMAIC - 多智能体交互式课堂</p><p><a href="https://www.bilibili.com/video/BV1m4bn6jErE">查看原文 →</a></p>]]></description>
         <author><![CDATA[IT咖啡馆]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小黛晨读：【参考信息第646期】谁能贷款40年；再停三款中成药]]></title>
-        <link>https://www.bilibili.com/video/BV1F9bL6WE8P</link>
-        <guid isPermaLink="false">bilibili-117218549500565</guid>
-        <pubDate>Sat, 05 Sep 2026 13:08:23 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小黛晨读</p>
-<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1F9bL6WE8P">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小黛晨读]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot (2026-09-05): 5 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1T1te6mE4Y</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-09-05-a1c5d27b</guid>
-        <pubDate>Sat, 05 Sep 2026 12:52:40 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1T1te6mE4Y">【中英字幕】巴伦周刊26.09.04完整版：债券收益率上升的真正风险：5%预警、7%危机与资产配置新思路</a></li>
-<li><a href="https://www.bilibili.com/video/BV1zjtC6bErH">【中英字幕】《ALL-IN》播客26.09.04完整版：AI前沿模型冲刺、监管争议与教育、能源政治的多维博弈</a></li>
-<li><a href="https://www.bilibili.com/video/BV1gRtk6CEeM">【中英字幕】彭博财经观察26.09.04完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV16ZtC68E1P">【中英字幕】26.09.04川普在白宫签署行政令并回答记者提问完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1KrtC6GEZC">【中英字幕】彭博财经简报26.09.04完整版</a></li>
-</ul>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小王Albert：长得不好看也是一种失败，最焦虑的国家如何培养超级医美产业？]]></title>
-        <link>https://www.bilibili.com/video/BV1tMtm6nEzo</link>
-        <guid isPermaLink="false">bilibili-117217643535076</guid>
-        <pubDate>Sat, 05 Sep 2026 10:03:45 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小王Albert</p>
-<p>一键三连推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV1tMtm6nEzo">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小王Albert]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] torazyz：快乐上海vloooog❤️‍🔥沉浸式逛街 餐厅推荐｜torazyz]]></title>
-        <link>https://www.bilibili.com/video/BV1v9tU6BEdP</link>
-        <guid isPermaLink="false">bilibili-117201520626283</guid>
-        <pubDate>Sat, 05 Sep 2026 02:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：torazyz</p>
-<p>感谢观看
-
-更多内容 欢迎关注 Find me on：
-RED: torazyz
-Instagram: torazyz
-YouTube: Tora Zhang
-Bili: @torazyz    
-
-Henry’s
-RED: HenryHsu
-YouTube: Henry Hsu
-Bili: @iamHenryHsu    
-Instagram: iamhenryhsu
-
-联系我们: contac</p><p><a href="https://www.bilibili.com/video/BV1v9tU6BEdP">查看原文 →</a></p>]]></description>
-        <author><![CDATA[torazyz]]></author>
         <category>B站</category>
     </item>
     
