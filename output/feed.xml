@@ -5,27 +5,63 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 12 Sep 2026 23:17:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 23:26:05 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月12日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月13日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-12</guid>
-        <pubDate>Sat, 12 Sep 2026 23:17:12 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-09-13</guid>
+        <pubDate>Sun, 13 Sep 2026 23:26:05 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 09月12日 23:17 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 09月13日 23:26 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-12</guid>
-        <pubDate>Sat, 12 Sep 2026 23:17:12 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 1 items</p><p><b>🎮 生活分享流 (life):</b> 5 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 3075 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-09-13</guid>
+        <pubDate>Sun, 13 Sep 2026 23:26:05 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 0 items</p><p><b>🎮 生活分享流 (life):</b> 8 items</p><p><b>🆕 本次新增:</b> 3 items</p><p><b>📦 数据库总量:</b> 3078 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 全员i人字幕组：【生肉】"eat with purinz" 采源&允真wvs直播(中字待更) 260911]]></title>
+        <link>https://www.bilibili.com/video/BV1M7YE6JESH</link>
+        <guid isPermaLink="false">bilibili-117251734771462</guid>
+        <pubDate>Fri, 11 Sep 2026 09:40:38 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p>wvs
+资源：末末
+翻译：
+时间轴：
+校对/合轴/压制：
+
+该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1M7YE6JESH">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】为什么我需要那些不切实际的幻想 | #HMM 260910]]></title>
+        <link>https://www.bilibili.com/video/BV1qKY36CEkB</link>
+        <guid isPermaLink="false">bilibili-117247590797332</guid>
+        <pubDate>Thu, 10 Sep 2026 16:06:48 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p>ytb
+资源：yorkie
+翻译：小猫
+时间轴：末末 大癫
+合轴/压制：末末
+
+该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1qKY36CEkB">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -37,6 +73,18 @@
 <p>✍️ 作者：小黛晨读</p>
 <p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1jCYu66EKj">查看原文 →</a></p>]]></description>
         <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Yunaty日本語：日本人早餐都吃什么？我家真实的一周早餐纪录]]></title>
+        <link>https://www.bilibili.com/video/BV1NVYx6KEXU</link>
+        <guid isPermaLink="false">bilibili-117240745756810</guid>
+        <pubDate>Wed, 09 Sep 2026 11:07:51 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：Yunaty日本語</p>
+<p>日本人早餐都吃什么？我家真实的一周早餐纪录</p><p><a href="https://www.bilibili.com/video/BV1NVYx6KEXU">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Yunaty日本語]]></author>
         <category>B站</category>
     </item>
     
@@ -85,22 +133,6 @@
 <p>✍️ 作者：新西兰三妹</p>
 <p><a href="https://www.bilibili.com/video/BV1MebP6qEr6">查看原文 →</a></p>]]></description>
         <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点130期」生成可信的架构图、实时地球观测、多智能体课堂、科研Agent skill和本地语音工作台]]></title>
-        <link>https://www.bilibili.com/video/BV1m4bn6jErE</link>
-        <guid isPermaLink="false">bilibili-117222206933601</guid>
-        <pubDate>Sun, 06 Sep 2026 04:30:55 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：IT咖啡馆</p>
-<p>1、项目名称：archify - 生成可信的架构图的 Skill
-GitHub 链接：https://github.com/tt-a1i/archify
-2、项目名称：gods-eye-view - 基于公开数据的 3D 地球观测台
-GitHub 链接：https://github.com/bilawalsidhu/gods-eye-view
-3、项目名称：OpenMAIC - 多智能体交互式课堂</p><p><a href="https://www.bilibili.com/video/BV1m4bn6jErE">查看原文 →</a></p>]]></description>
-        <author><![CDATA[IT咖啡馆]]></author>
         <category>B站</category>
     </item>
     

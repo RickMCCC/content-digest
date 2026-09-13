@@ -5,43 +5,27 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 12 Sep 2026 23:17:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 23:26:05 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月12日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月13日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-12</guid>
-        <pubDate>Sat, 12 Sep 2026 23:17:12 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-09-13</guid>
+        <pubDate>Sun, 13 Sep 2026 23:26:05 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 09月12日 23:17 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 09月13日 23:26 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-12</guid>
-        <pubDate>Sat, 12 Sep 2026 23:17:12 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 1 items</p><p><b>🎮 生活分享流 (life):</b> 5 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 3075 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-09-13</guid>
+        <pubDate>Sun, 13 Sep 2026 23:26:05 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 0 items</p><p><b>🎮 生活分享流 (life):</b> 8 items</p><p><b>🆕 本次新增:</b> 3 items</p><p><b>📦 数据库总量:</b> 3078 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点130期」生成可信的架构图、实时地球观测、多智能体课堂、科研Agent skill和本地语音工作台]]></title>
-        <link>https://www.bilibili.com/video/BV1m4bn6jErE</link>
-        <guid isPermaLink="false">bilibili-117222206933601</guid>
-        <pubDate>Sun, 06 Sep 2026 04:30:55 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：IT咖啡馆</p>
-<p>1、项目名称：archify - 生成可信的架构图的 Skill
-GitHub 链接：https://github.com/tt-a1i/archify
-2、项目名称：gods-eye-view - 基于公开数据的 3D 地球观测台
-GitHub 链接：https://github.com/bilawalsidhu/gods-eye-view
-3、项目名称：OpenMAIC - 多智能体交互式课堂</p><p><a href="https://www.bilibili.com/video/BV1m4bn6jErE">查看原文 →</a></p>]]></description>
-        <author><![CDATA[IT咖啡馆]]></author>
-        <category>B站</category>
     </item>
     
 </channel>
