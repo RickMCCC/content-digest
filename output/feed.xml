@@ -5,27 +5,116 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 13 Sep 2026 23:26:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 00:04:59 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月13日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月15日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-13</guid>
-        <pubDate>Sun, 13 Sep 2026 23:26:05 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-09-15</guid>
+        <pubDate>Tue, 15 Sep 2026 00:04:59 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 09月13日 23:26 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 09月15日 00:04 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-13</guid>
-        <pubDate>Sun, 13 Sep 2026 23:26:05 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 0 items</p><p><b>🎮 生活分享流 (life):</b> 8 items</p><p><b>🆕 本次新增:</b> 3 items</p><p><b>📦 数据库总量:</b> 3078 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-09-15</guid>
+        <pubDate>Tue, 15 Sep 2026 00:04:59 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 4 items</p><p><b>🎮 生活分享流 (life):</b> 10 items</p><p><b>🆕 本次新增:</b> 8 items</p><p><b>📦 数据库总量:</b> 3086 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 秋芝2046：豆包大升级！Agent 干活新姿势～]]></title>
+        <link>https://www.bilibili.com/video/BV1ZHYy6rEpG</link>
+        <guid isPermaLink="false">bilibili-117269703167491</guid>
+        <pubDate>Mon, 14 Sep 2026 14:34:55 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：秋芝2046</p>
+<p>豆包大升级，一秒化身你的老同事～
+感谢朋友们的3连+关注～</p><p><a href="https://www.bilibili.com/video/BV1ZHYy6rEpG">查看原文 →</a></p>]]></description>
+        <author><![CDATA[秋芝2046]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第650期】AI截胡人类成果；K型分化用错地方？]]></title>
+        <link>https://www.bilibili.com/video/BV12yYy6dEQg</link>
+        <guid isPermaLink="false">bilibili-117269384399593</guid>
+        <pubDate>Mon, 14 Sep 2026 12:50:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV12yYy6dEQg">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 秋芝2046：真AI手机！豆包手机助手来了~【全网首发】]]></title>
+        <link>https://www.bilibili.com/video/BV1RjYB6DEYZ</link>
+        <guid isPermaLink="false">bilibili-117264770665199</guid>
+        <pubDate>Mon, 14 Sep 2026 10:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：秋芝2046</p>
+<p>豆包手机助手这回真来了，它是你心中的贾维斯吗？一起来看看~
+感谢朋友们的三连+关注~</p><p><a href="https://www.bilibili.com/video/BV1RjYB6DEYZ">查看原文 →</a></p>]]></description>
+        <author><![CDATA[秋芝2046]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 秋芝2046：为了让所有人都用好AI，我做了这个……]]></title>
+        <link>https://www.bilibili.com/video/BV1DLYC6oEKT</link>
+        <guid isPermaLink="false">bilibili-117268008733524</guid>
+        <pubDate>Mon, 14 Sep 2026 06:39:37 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：秋芝2046</p>
+<p>炉子，给普通人的 AI 能力网络~
+官网/申请入口：luzi.ai
+感谢大家三连 + 关注和支持，大家一起“能力满满”！</p><p><a href="https://www.bilibili.com/video/BV1DLYC6oEKT">查看原文 →</a></p>]]></description>
+        <author><![CDATA[秋芝2046]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 三木説：内斗不断、见死不救！日本陆军和海军矛盾有多深？【三木说】]]></title>
+        <link>https://www.bilibili.com/video/BV1FKYi6DE7e</link>
+        <guid isPermaLink="false">bilibili-117264384790712</guid>
+        <pubDate>Sun, 13 Sep 2026 15:25:07 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：三木説</p>
+<p>本期视频将为大家讲解近代日本陆军与海军的内斗矛盾与恩怨情仇</p><p><a href="https://www.bilibili.com/video/BV1FKYi6DE7e">查看原文 →</a></p>]]></description>
+        <author><![CDATA[三木説]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第649期】前人欠债凭啥我还；全球青少年学业下降]]></title>
+        <link>https://www.bilibili.com/video/BV1FEYd65EL2</link>
+        <guid isPermaLink="false">bilibili-117258227617016</guid>
+        <pubDate>Sat, 12 Sep 2026 13:18:13 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1FEYd65EL2">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 曼施坦鹦：东京审判：战犯是怎么逃过审判的?【曼施坦鹦 新秩序】]]></title>
+        <link>https://www.bilibili.com/video/BV111YQ6uEM4</link>
+        <guid isPermaLink="false">bilibili-117256264685529</guid>
+        <pubDate>Sat, 12 Sep 2026 09:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：曼施坦鹦</p>
+<p>感谢大家的支持！
+这里是东亚冷战篇的第一期</p><p><a href="https://www.bilibili.com/video/BV111YQ6uEM4">查看原文 →</a></p>]]></description>
+        <author><![CDATA[曼施坦鹦]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -101,6 +190,30 @@
     </item>
     
     <item>
+        <title><![CDATA[[B站] 量化投资邢不行啊：不会追热点,天天都亏钱?散户学这招,账户能翻20倍?python量化行业轮动策略,追涨杀跌炒股还能赚钱? | 量化投资邢不行啊]]></title>
+        <link>https://www.bilibili.com/video/BV16MY46tEDG</link>
+        <guid isPermaLink="false">bilibili-117240141779137</guid>
+        <pubDate>Wed, 09 Sep 2026 09:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：量化投资邢不行啊</p>
+<p>大A热点层出不穷，
+不学习就会跟不上。
+谁都想追上热点赚大钱，
+但又有多少人真能做到？
+胡乱追逐主线，也只会血本无归，
+量化轮动策略，教你如何追热点？
+
+喜欢视频记得三连，并点个关注～
+
+往期视频精选：
+指数轮动策略：BV16t421g7gS
+市赚率指标：BV1Twtn66EbX
+A股交易日历：BV1638968EzE</p><p><a href="https://www.bilibili.com/video/BV16MY46tEDG">查看原文 →</a></p>]]></description>
+        <author><![CDATA[量化投资邢不行啊]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 新西兰三妹：华为Mate XT 2全网首拆! 麒麟9050 Pro现真身! 神秘数字2035！郭正亮 三妹]]></title>
         <link>https://www.bilibili.com/video/BV1WEbG6SEsK</link>
         <guid isPermaLink="false">bilibili-117234051582089</guid>
@@ -108,30 +221,6 @@
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：新西兰三妹</p>
 <p><a href="https://www.bilibili.com/video/BV1WEbG6SEsK">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小黛晨读：【参考信息第647期】名校停招学硕；储能也要过剩]]></title>
-        <link>https://www.bilibili.com/video/BV1gGbN6rE5u</link>
-        <guid isPermaLink="false">bilibili-117229790235878</guid>
-        <pubDate>Mon, 07 Sep 2026 12:44:54 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小黛晨读</p>
-<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1gGbN6rE5u">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小黛晨读]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：川普预告设宴款待中方领导人伉俪：中美一起做大事！沈逸 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV1MebP6qEr6</link>
-        <guid isPermaLink="false">bilibili-117228330552540</guid>
-        <pubDate>Mon, 07 Sep 2026 12:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV1MebP6qEr6">查看原文 →</a></p>]]></description>
         <author><![CDATA[新西兰三妹]]></author>
         <category>B站</category>
     </item>

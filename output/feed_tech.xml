@@ -5,27 +5,91 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 13 Sep 2026 23:26:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 00:04:59 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月13日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月15日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-13</guid>
-        <pubDate>Sun, 13 Sep 2026 23:26:05 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-09-15</guid>
+        <pubDate>Tue, 15 Sep 2026 00:04:59 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 09月13日 23:26 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 09月15日 00:04 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-13</guid>
-        <pubDate>Sun, 13 Sep 2026 23:26:05 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 0 items</p><p><b>🎮 生活分享流 (life):</b> 8 items</p><p><b>🆕 本次新增:</b> 3 items</p><p><b>📦 数据库总量:</b> 3078 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-09-15</guid>
+        <pubDate>Tue, 15 Sep 2026 00:04:59 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 4 items</p><p><b>🎮 生活分享流 (life):</b> 10 items</p><p><b>🆕 本次新增:</b> 8 items</p><p><b>📦 数据库总量:</b> 3086 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 秋芝2046：豆包大升级！Agent 干活新姿势～]]></title>
+        <link>https://www.bilibili.com/video/BV1ZHYy6rEpG</link>
+        <guid isPermaLink="false">bilibili-117269703167491</guid>
+        <pubDate>Mon, 14 Sep 2026 14:34:55 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：秋芝2046</p>
+<p>豆包大升级，一秒化身你的老同事～
+感谢朋友们的3连+关注～</p><p><a href="https://www.bilibili.com/video/BV1ZHYy6rEpG">查看原文 →</a></p>]]></description>
+        <author><![CDATA[秋芝2046]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 秋芝2046：真AI手机！豆包手机助手来了~【全网首发】]]></title>
+        <link>https://www.bilibili.com/video/BV1RjYB6DEYZ</link>
+        <guid isPermaLink="false">bilibili-117264770665199</guid>
+        <pubDate>Mon, 14 Sep 2026 10:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：秋芝2046</p>
+<p>豆包手机助手这回真来了，它是你心中的贾维斯吗？一起来看看~
+感谢朋友们的三连+关注~</p><p><a href="https://www.bilibili.com/video/BV1RjYB6DEYZ">查看原文 →</a></p>]]></description>
+        <author><![CDATA[秋芝2046]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 秋芝2046：为了让所有人都用好AI，我做了这个……]]></title>
+        <link>https://www.bilibili.com/video/BV1DLYC6oEKT</link>
+        <guid isPermaLink="false">bilibili-117268008733524</guid>
+        <pubDate>Mon, 14 Sep 2026 06:39:37 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：秋芝2046</p>
+<p>炉子，给普通人的 AI 能力网络~
+官网/申请入口：luzi.ai
+感谢大家三连 + 关注和支持，大家一起“能力满满”！</p><p><a href="https://www.bilibili.com/video/BV1DLYC6oEKT">查看原文 →</a></p>]]></description>
+        <author><![CDATA[秋芝2046]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 量化投资邢不行啊：不会追热点,天天都亏钱?散户学这招,账户能翻20倍?python量化行业轮动策略,追涨杀跌炒股还能赚钱? | 量化投资邢不行啊]]></title>
+        <link>https://www.bilibili.com/video/BV16MY46tEDG</link>
+        <guid isPermaLink="false">bilibili-117240141779137</guid>
+        <pubDate>Wed, 09 Sep 2026 09:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：量化投资邢不行啊</p>
+<p>大A热点层出不穷，
+不学习就会跟不上。
+谁都想追上热点赚大钱，
+但又有多少人真能做到？
+胡乱追逐主线，也只会血本无归，
+量化轮动策略，教你如何追热点？
+
+喜欢视频记得三连，并点个关注～
+
+往期视频精选：
+指数轮动策略：BV16t421g7gS
+市赚率指标：BV1Twtn66EbX
+A股交易日历：BV1638968EzE</p><p><a href="https://www.bilibili.com/video/BV16MY46tEDG">查看原文 →</a></p>]]></description>
+        <author><![CDATA[量化投资邢不行啊]]></author>
+        <category>B站</category>
     </item>
     
 </channel>
