@@ -5,25 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 15 Sep 2026 23:43:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 23:51:56 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月15日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月16日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-15</guid>
-        <pubDate>Tue, 15 Sep 2026 23:43:28 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-09-16</guid>
+        <pubDate>Wed, 16 Sep 2026 23:51:56 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 09月15日 23:43 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 09月16日 23:51 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-15</guid>
-        <pubDate>Tue, 15 Sep 2026 23:43:28 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 12 items</p><p><b>🎮 生活分享流 (life):</b> 11 items</p><p><b>🆕 本次新增:</b> 12 items</p><p><b>📦 数据库总量:</b> 3098 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-09-16</guid>
+        <pubDate>Wed, 16 Sep 2026 23:51:56 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 10 items</p><p><b>🎮 生活分享流 (life):</b> 11 items</p><p><b>🆕 本次新增:</b> 2 items</p><p><b>📦 数据库总量:</b> 3100 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -89,6 +89,18 @@
 官网/申请入口：luzi.ai
 感谢大家三连 + 关注和支持，大家一起“能力满满”！</p><p><a href="https://www.bilibili.com/video/BV1DLYC6oEKT">查看原文 →</a></p>]]></description>
         <author><![CDATA[秋芝2046]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小王Albert：这么反常规的事儿，也让他们干成了]]></title>
+        <link>https://www.bilibili.com/video/BV1M7YE6JEaN</link>
+        <guid isPermaLink="false">bilibili-117251734772520</guid>
+        <pubDate>Mon, 14 Sep 2026 02:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小王Albert</p>
+<p>一键三连推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV1M7YE6JEaN">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小王Albert]]></author>
         <category>B站</category>
     </item>
     
@@ -192,6 +204,18 @@ Instagram: iamhenryhsu
     </item>
     
     <item>
+        <title><![CDATA[[B站] 小王Albert：王骁对话阎学通：清华国关创始主任眼中的，中美、美伊、AI与新秩序|正在发生 ep4]]></title>
+        <link>https://www.bilibili.com/video/BV1siYL6zEzX</link>
+        <guid isPermaLink="false">bilibili-117251080457204</guid>
+        <pubDate>Sat, 12 Sep 2026 01:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小王Albert</p>
+<p>一键三连，推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV1siYL6zEzX">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小王Albert]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 全员i人字幕组：【生肉】"eat with purinz" 采源&允真wvs直播(中字待更) 260911]]></title>
         <link>https://www.bilibili.com/video/BV1M7YE6JESH</link>
         <guid isPermaLink="false">bilibili-117251734771462</guid>
@@ -283,66 +307,6 @@ Instagram: iamhenryhsu
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/0I8WT4q30pXknuFBhjhqSA</p><p><a href="https://www.bilibili.com/video/BV12iYK6mEmo">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Yunaty日本語：日本人早餐都吃什么？我家真实的一周早餐纪录]]></title>
-        <link>https://www.bilibili.com/video/BV1NVYx6KEXU</link>
-        <guid isPermaLink="false">bilibili-117240745756810</guid>
-        <pubDate>Wed, 09 Sep 2026 11:07:51 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Yunaty日本語</p>
-<p>日本人早餐都吃什么？我家真实的一周早餐纪录</p><p><a href="https://www.bilibili.com/video/BV1NVYx6KEXU">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Yunaty日本語]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小Lin说：特朗普关税被判违法，这一整年白忙了? 现在关税什么情况?]]></title>
-        <link>https://www.bilibili.com/video/BV1zTYs6nEkk</link>
-        <guid isPermaLink="false">bilibili-117239319695616</guid>
-        <pubDate>Wed, 09 Sep 2026 09:30:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小Lin说</p>
-<p><a href="https://www.bilibili.com/video/BV1zTYs6nEkk">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小Lin说]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 量化投资邢不行啊：不会追热点,天天都亏钱?散户学这招,账户能翻20倍?python量化行业轮动策略,追涨杀跌炒股还能赚钱? | 量化投资邢不行啊]]></title>
-        <link>https://www.bilibili.com/video/BV16MY46tEDG</link>
-        <guid isPermaLink="false">bilibili-117240141779137</guid>
-        <pubDate>Wed, 09 Sep 2026 09:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：量化投资邢不行啊</p>
-<p>大A热点层出不穷，
-不学习就会跟不上。
-谁都想追上热点赚大钱，
-但又有多少人真能做到？
-胡乱追逐主线，也只会血本无归，
-量化轮动策略，教你如何追热点？
-
-喜欢视频记得三连，并点个关注～
-
-往期视频精选：
-指数轮动策略：BV16t421g7gS
-市赚率指标：BV1Twtn66EbX
-A股交易日历：BV1638968EzE</p><p><a href="https://www.bilibili.com/video/BV16MY46tEDG">查看原文 →</a></p>]]></description>
-        <author><![CDATA[量化投资邢不行啊]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：OpenAI 发布 Navier–Stokes 方程 AI 解法；GPT Images 2.5 发布；DeepSeek Flash 系列降价【AI 早报】]]></title>
-        <link>https://www.bilibili.com/video/BV1LKYp6VEXB</link>
-        <guid isPermaLink="false">bilibili-117238564654764</guid>
-        <pubDate>Wed, 09 Sep 2026 01:53:16 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>文字版和相关链接请看：https://mp.weixin.qq.com/s/ILBlt-yuC7cdbbfjCHSiLg</p><p><a href="https://www.bilibili.com/video/BV1LKYp6VEXB">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
