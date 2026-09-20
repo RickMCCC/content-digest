@@ -5,25 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 19 Sep 2026 23:28:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 23:29:22 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月19日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月20日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-19</guid>
-        <pubDate>Sat, 19 Sep 2026 23:28:03 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-09-20</guid>
+        <pubDate>Sun, 20 Sep 2026 23:29:22 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 09月19日 23:28 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 09月20日 23:29 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-19</guid>
-        <pubDate>Sat, 19 Sep 2026 23:28:03 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 7 items</p><p><b>🎮 生活分享流 (life):</b> 3 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 3103 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-09-20</guid>
+        <pubDate>Sun, 20 Sep 2026 23:29:22 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 6 items</p><p><b>🎮 生活分享流 (life):</b> 5 items</p><p><b>🆕 本次新增:</b> 3 items</p><p><b>📦 数据库总量:</b> 3106 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -105,18 +105,6 @@
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/-DJKst1a4wmigUl5ph9C7w</p><p><a href="https://www.bilibili.com/video/BV1ATYk65Edz">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Anthropic CEO Dario Amodei 呼吁放慢前沿AI进展【AI 早报 2026-09-13】]]></title>
-        <link>https://www.bilibili.com/video/BV18kYZ6vE4p</link>
-        <guid isPermaLink="false">bilibili-117260878352053</guid>
-        <pubDate>Sun, 13 Sep 2026 00:26:43 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>文字版和相关链接请看：https://mp.weixin.qq.com/s/CdVyuPJM2J7k81jspVoXTg</p><p><a href="https://www.bilibili.com/video/BV18kYZ6vE4p">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
