@@ -5,27 +5,43 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 20 Sep 2026 23:29:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 00:21:32 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月20日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月22日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-20</guid>
-        <pubDate>Sun, 20 Sep 2026 23:29:22 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-09-22</guid>
+        <pubDate>Tue, 22 Sep 2026 00:21:32 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 09月20日 23:29 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 09月22日 00:21 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-20</guid>
-        <pubDate>Sun, 20 Sep 2026 23:29:22 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 6 items</p><p><b>🎮 生活分享流 (life):</b> 5 items</p><p><b>🆕 本次新增:</b> 3 items</p><p><b>📦 数据库总量:</b> 3106 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-09-22</guid>
+        <pubDate>Tue, 22 Sep 2026 00:21:32 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 3 items</p><p><b>🎮 生活分享流 (life):</b> 13 items</p><p><b>🆕 本次新增:</b> 12 items</p><p><b>📦 数据库总量:</b> 3118 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点131期」Agent 少说废话、飞书CLI、本地跑超大模型、CAD技能库和Mac效率启动器]]></title>
+        <link>https://www.bilibili.com/video/BV152eS69EX4</link>
+        <guid isPermaLink="false">bilibili-117292503403403</guid>
+        <pubDate>Sat, 19 Sep 2026 02:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：IT咖啡馆</p>
+<p>1、项目名称：i-have-adhd - 让 AI 编程助手输出更直接
+GitHub 链接：https://github.com/ayghri/i-have-adhd
+2、项目名称：lark-cli - 飞书官方 CLI 与  Agent Skills
+GitHub 链接：https://github.com/larksuite/cli
+3、项目名称：colibri - 消费级和异构硬件上运行前沿</p><p><a href="https://www.bilibili.com/video/BV152eS69EX4">查看原文 →</a></p>]]></description>
+        <author><![CDATA[IT咖啡馆]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -53,58 +69,6 @@
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/fzK6ZP-5LgueBA9T88DmwQ</p><p><a href="https://www.bilibili.com/video/BV1Sqej6DEqV">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 秋芝2046：豆包大升级！Agent 干活新姿势～]]></title>
-        <link>https://www.bilibili.com/video/BV1ZHYy6rEpG</link>
-        <guid isPermaLink="false">bilibili-117269703167491</guid>
-        <pubDate>Mon, 14 Sep 2026 14:34:55 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：秋芝2046</p>
-<p>豆包大升级，一秒化身你的老同事～
-感谢朋友们的3连+关注～</p><p><a href="https://www.bilibili.com/video/BV1ZHYy6rEpG">查看原文 →</a></p>]]></description>
-        <author><![CDATA[秋芝2046]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 秋芝2046：真AI手机！豆包手机助手来了~【全网首发】]]></title>
-        <link>https://www.bilibili.com/video/BV1RjYB6DEYZ</link>
-        <guid isPermaLink="false">bilibili-117264770665199</guid>
-        <pubDate>Mon, 14 Sep 2026 10:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：秋芝2046</p>
-<p>豆包手机助手这回真来了，它是你心中的贾维斯吗？一起来看看~
-感谢朋友们的三连+关注~</p><p><a href="https://www.bilibili.com/video/BV1RjYB6DEYZ">查看原文 →</a></p>]]></description>
-        <author><![CDATA[秋芝2046]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 秋芝2046：为了让所有人都用好AI，我做了这个……]]></title>
-        <link>https://www.bilibili.com/video/BV1DLYC6oEKT</link>
-        <guid isPermaLink="false">bilibili-117268008733524</guid>
-        <pubDate>Mon, 14 Sep 2026 06:39:37 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：秋芝2046</p>
-<p>炉子，给普通人的 AI 能力网络~
-官网/申请入口：luzi.ai
-感谢大家三连 + 关注和支持，大家一起“能力满满”！</p><p><a href="https://www.bilibili.com/video/BV1DLYC6oEKT">查看原文 →</a></p>]]></description>
-        <author><![CDATA[秋芝2046]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：智谱敲定约50亿美元融资，开发下一代GLM基础模型【AI 早报 2026-09-14】]]></title>
-        <link>https://www.bilibili.com/video/BV1ATYk65Edz</link>
-        <guid isPermaLink="false">bilibili-117266616159061</guid>
-        <pubDate>Mon, 14 Sep 2026 00:44:19 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/-DJKst1a4wmigUl5ph9C7w</p><p><a href="https://www.bilibili.com/video/BV1ATYk65Edz">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
