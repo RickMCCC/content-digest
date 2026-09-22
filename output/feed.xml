@@ -5,25 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 22 Sep 2026 00:21:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 23:50:05 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
         <title><![CDATA[⚠️ 本地 Runner 离线 | 09月22日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
         <guid isPermaLink="false">digest-2026-09-22</guid>
-        <pubDate>Tue, 22 Sep 2026 00:21:32 GMT</pubDate>
+        <pubDate>Tue, 22 Sep 2026 23:50:05 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 09月22日 00:21 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 09月22日 23:50 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
         <guid isPermaLink="false">digest-2026-09-22</guid>
-        <pubDate>Tue, 22 Sep 2026 00:21:32 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 3 items</p><p><b>🎮 生活分享流 (life):</b> 13 items</p><p><b>🆕 本次新增:</b> 12 items</p><p><b>📦 数据库总量:</b> 3118 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <pubDate>Tue, 22 Sep 2026 23:50:05 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 2 items</p><p><b>🎮 生活分享流 (life):</b> 12 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 3118 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -225,30 +225,6 @@ GitHub 链接：https://github.com/larksuite/cli
 下一关，由你来出题。
 首期榜单现已揭晓，点击查看哪个模型登顶：https://www.bilibili.com/blackboard/era/aiarena.html</p><p><a href="https://www.bilibili.com/video/BV1ECeJ65EZS">查看原文 →</a></p>]]></description>
         <author><![CDATA[秋芝2046]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：LE SSERAFIM  'Made My Night' (4K) | STUDIO CHOOM 舞台+直拍合集 260915]]></title>
-        <link>https://www.bilibili.com/video/BV1AWep6REau</link>
-        <guid isPermaLink="false">bilibili-117275189319272</guid>
-        <pubDate>Tue, 15 Sep 2026 13:17:19 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1AWep6REau">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：豆包手机助手消费者版发布；苹果发布新一代 Apple Intelligence，重构 Siri AI【AI 早报 2026-09-15】]]></title>
-        <link>https://www.bilibili.com/video/BV1Sqej6DEqV</link>
-        <guid isPermaLink="false">bilibili-117272471406150</guid>
-        <pubDate>Tue, 15 Sep 2026 01:36:35 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/fzK6ZP-5LgueBA9T88DmwQ</p><p><a href="https://www.bilibili.com/video/BV1Sqej6DEqV">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
