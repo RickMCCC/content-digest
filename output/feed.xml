@@ -5,27 +5,63 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 22 Sep 2026 23:50:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 23:59:50 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月22日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月23日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-22</guid>
-        <pubDate>Tue, 22 Sep 2026 23:50:05 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-09-23</guid>
+        <pubDate>Wed, 23 Sep 2026 23:59:50 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 09月22日 23:50 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 09月23日 23:59 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-22</guid>
-        <pubDate>Tue, 22 Sep 2026 23:50:05 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 2 items</p><p><b>🎮 生活分享流 (life):</b> 12 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 3118 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-09-23</guid>
+        <pubDate>Wed, 23 Sep 2026 23:59:50 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 9 items</p><p><b>🎮 生活分享流 (life):</b> 13 items</p><p><b>🆕 本次新增:</b> 11 items</p><p><b>📦 数据库总量:</b> 3129 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第654期】再查“不想生不敢生”；车企“去宁德化”？]]></title>
+        <link>https://www.bilibili.com/video/BV15kh467EFx</link>
+        <guid isPermaLink="false">bilibili-117320202586450</guid>
+        <pubDate>Wed, 23 Sep 2026 11:54:58 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV15kh467EFx">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Anthropic 发布 Claude Opus 5.5；OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna【AI 早报 2026-09-23】]]></title>
+        <link>https://www.bilibili.com/video/BV1LRhW6kEk6</link>
+        <guid isPermaLink="false">bilibili-117317803575166</guid>
+        <pubDate>Wed, 23 Sep 2026 01:45:08 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/AAe9JtOfb40Tg0dDKDTLHw</p><p><a href="https://www.bilibili.com/video/BV1LRhW6kEk6">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：小米发布并开源 MiMo-V2.6 系列模型；SpaceXAI 发布 Grok 4.7 模型【AI 早报 2026-09-22】]]></title>
+        <link>https://www.bilibili.com/video/BV1TThC6jEuq</link>
+        <guid isPermaLink="false">bilibili-117312032146305</guid>
+        <pubDate>Tue, 22 Sep 2026 01:16:39 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/X1AiqlzxQ6g4R_pMRaGGRA</p><p><a href="https://www.bilibili.com/video/BV1TThC6jEuq">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -42,6 +78,44 @@
 
 该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1Dhhq6vEuB">查看原文 →</a></p>]]></description>
         <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第653期】生而不养，判给保姆；无手机课堂&小时租机]]></title>
+        <link>https://www.bilibili.com/video/BV1hthq6qE4w</link>
+        <guid isPermaLink="false">bilibili-117309297394485</guid>
+        <pubDate>Mon, 21 Sep 2026 13:47:47 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1hthq6qE4w">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：智谱：ZCode 完成整改、接受第三方审查并开放源码。]]></title>
+        <link>https://www.bilibili.com/video/BV1CZhe6JEtm</link>
+        <guid isPermaLink="false">bilibili-117306579486615</guid>
+        <pubDate>Mon, 21 Sep 2026 02:10:51 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>代码仓库：https://github.com/zai-org/ZCode
+官方公告：https://mp.weixin.qq.com/s/QCHjEye57BUKUNInPKb4cA</p><p><a href="https://www.bilibili.com/video/BV1CZhe6JEtm">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Qwen-Image-2.1开源；Step 5 Preview发布；Jev开放并赠新用户$5【AI 早报 2026-09-21】]]></title>
+        <link>https://www.bilibili.com/video/BV1aphv6AEg1</link>
+        <guid isPermaLink="false">bilibili-117306311049535</guid>
+        <pubDate>Mon, 21 Sep 2026 01:01:16 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>有些人问我为什么不发Jev，其实Jev发布当天就发了，只是后面突然火起来，16号这一期第四条：BV1mZes6uEYu
+相关链接和文字版请看：https://mp.weixin.qq.com/s/FvqA3Waf7Jw1d0UAYwpecA</p><p><a href="https://www.bilibili.com/video/BV1aphv6AEg1">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
@@ -68,6 +142,18 @@
 <p>✍️ 作者：全员i人字幕组</p>
 <p>该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1S5ei6MEQ7">查看原文 →</a></p>]]></description>
         <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：DeepSeek 公布最新 API 峰谷计费规则；Step 5 Preview 现身知名评测网站与官方订阅【AI 早报 2026-09-20】]]></title>
+        <link>https://www.bilibili.com/video/BV1NqeY6dEPP</link>
+        <guid isPermaLink="false">bilibili-117300690683851</guid>
+        <pubDate>Sun, 20 Sep 2026 01:12:37 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/wjmt_nPWwlE65C4nPh1noA</p><p><a href="https://www.bilibili.com/video/BV1NqeY6dEPP">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
@@ -118,6 +204,18 @@ GitHub 链接：https://github.com/larksuite/cli
     </item>
     
     <item>
+        <title><![CDATA[[B站] 橘鸦juya：智谱 ZCode 被指可能打包上传工作区文件；Claude Code 支持 AGENTS.md  【AI 早报 2026-09-19】]]></title>
+        <link>https://www.bilibili.com/video/BV1N3eX6LEQY</link>
+        <guid isPermaLink="false">bilibili-117295154200843</guid>
+        <pubDate>Sat, 19 Sep 2026 01:42:02 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/0NCR6yzUnCRTkaBWFNSJFg</p><p><a href="https://www.bilibili.com/video/BV1N3eX6LEQY">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 全员i人字幕组：【LE SSERAFIM】'Made My Night' 舞蹈接力 260918]]></title>
         <link>https://www.bilibili.com/video/BV1ifey6gE4z</link>
         <guid isPermaLink="false">bilibili-117291094120301</guid>
@@ -126,6 +224,18 @@ GitHub 链接：https://github.com/larksuite/cli
 <p>✍️ 作者：全员i人字幕组</p>
 <p>ytb</p><p><a href="https://www.bilibili.com/video/BV1ifey6gE4z">查看原文 →</a></p>]]></description>
         <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Claude Code 重构 Projects 功能，支持协调并行云端线程【AI 早报 2026-09-18】]]></title>
+        <link>https://www.bilibili.com/video/BV1cNey67ENm</link>
+        <guid isPermaLink="false">bilibili-117289466725591</guid>
+        <pubDate>Fri, 18 Sep 2026 01:38:14 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>文字版和相关链接请看：https://mp.weixin.qq.com/s/gKInOFaUvMDI5lDDIAzpZA</p><p><a href="https://www.bilibili.com/video/BV1cNey67ENm">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
@@ -183,6 +293,18 @@ GitHub 链接：https://github.com/larksuite/cli
     </item>
     
     <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenRouter 与 OpenCode 上线免费“stealth”模型 Union Alpha【AI 早报 2026-09-17】]]></title>
+        <link>https://www.bilibili.com/video/BV1kaeK65EQU</link>
+        <guid isPermaLink="false">bilibili-117283728918588</guid>
+        <pubDate>Thu, 17 Sep 2026 01:17:53 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1kaeK65EQU">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 全员i人字幕组：【全i中字】LE SSERAFIM表演新曲 'Made My Night' ! | Jennifer Hudson Show 260915]]></title>
         <link>https://www.bilibili.com/video/BV1fceK6vEEg</link>
         <guid isPermaLink="false">bilibili-117281648549849</guid>
@@ -196,35 +318,6 @@ GitHub 链接：https://github.com/larksuite/cli
 
 该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1fceK6vEEg">查看原文 →</a></p>]]></description>
         <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：LE SSERAFIM 'Made My Night (Party Remixes)' 合集 260916]]></title>
-        <link>https://www.bilibili.com/video/BV1VueP6pEyv</link>
-        <guid isPermaLink="false">bilibili-117280927192367</guid>
-        <pubDate>Wed, 16 Sep 2026 13:31:44 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1VueP6pEyv">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 秋芝2046：欢 迎 来 到 A G I 时 代]]></title>
-        <link>https://www.bilibili.com/video/BV1ECeJ65EZS</link>
-        <guid isPermaLink="false">bilibili-117275071876099</guid>
-        <pubDate>Wed, 16 Sep 2026 03:30:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：秋芝2046</p>
-<p>模型越来越强，Benchmark分数也越来越高——
-但，管你AI跑分多少！先过这关再说。
-
-欢迎来到B站AI无限竞技场。
-下一关，由你来出题。
-首期榜单现已揭晓，点击查看哪个模型登顶：https://www.bilibili.com/blackboard/era/aiarena.html</p><p><a href="https://www.bilibili.com/video/BV1ECeJ65EZS">查看原文 →</a></p>]]></description>
-        <author><![CDATA[秋芝2046]]></author>
         <category>B站</category>
     </item>
     
