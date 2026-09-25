@@ -5,27 +5,39 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 23 Sep 2026 23:59:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 00:05:26 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月23日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月25日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-23</guid>
-        <pubDate>Wed, 23 Sep 2026 23:59:50 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-09-25</guid>
+        <pubDate>Fri, 25 Sep 2026 00:05:26 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 09月23日 23:59 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 09月25日 00:05 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-23</guid>
-        <pubDate>Wed, 23 Sep 2026 23:59:50 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 9 items</p><p><b>🎮 生活分享流 (life):</b> 13 items</p><p><b>🆕 本次新增:</b> 11 items</p><p><b>📦 数据库总量:</b> 3129 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-09-25</guid>
+        <pubDate>Fri, 25 Sep 2026 00:05:26 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 10 items</p><p><b>🎮 生活分享流 (life):</b> 9 items</p><p><b>🆕 本次新增:</b> 4 items</p><p><b>📦 数据库总量:</b> 3133 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 巫师财经：【巫师】中国访美背后的利益博弈]]></title>
+        <link>https://www.bilibili.com/video/BV1tsaN6VEoK</link>
+        <guid isPermaLink="false">bilibili-117325906844395</guid>
+        <pubDate>Thu, 24 Sep 2026 12:47:39 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：巫师财经</p>
+<p><a href="https://www.bilibili.com/video/BV1tsaN6VEoK">查看原文 →</a></p>]]></description>
+        <author><![CDATA[巫师财经]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -41,6 +53,18 @@
     </item>
     
     <item>
+        <title><![CDATA[[B站] 巫师财经：【巫师】老登资产崩盘，新兴富豪的钱去哪了？]]></title>
+        <link>https://www.bilibili.com/video/BV1pMht68EDU</link>
+        <guid isPermaLink="false">bilibili-117319917442706</guid>
+        <pubDate>Wed, 23 Sep 2026 11:43:31 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：巫师财经</p>
+<p><a href="https://www.bilibili.com/video/BV1pMht68EDU">查看原文 →</a></p>]]></description>
+        <author><![CDATA[巫师财经]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 橘鸦juya：Anthropic 发布 Claude Opus 5.5；OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna【AI 早报 2026-09-23】]]></title>
         <link>https://www.bilibili.com/video/BV1LRhW6kEk6</link>
         <guid isPermaLink="false">bilibili-117317803575166</guid>
@@ -49,6 +73,20 @@
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/AAe9JtOfb40Tg0dDKDTLHw</p><p><a href="https://www.bilibili.com/video/BV1LRhW6kEk6">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小Lin说：【硬核】俄乌打了四年多，到底谁在买单？]]></title>
+        <link>https://www.bilibili.com/video/BV1SUhe6xEM2</link>
+        <guid isPermaLink="false">bilibili-117307015696878</guid>
+        <pubDate>Tue, 22 Sep 2026 09:30:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小Lin说</p>
+<p>俄乌打了四年多，相关报道热度下降，但战场仍处于高强度拉锯消耗，双方军费、兵力投入还在持续加码。
+抛开前线战况，这场战争究竟给俄、乌两国经济造成了多大冲击？两边的经济结构发生怎么样的巨变？
+咱们今天就来看看，战争到底会把一个国家的经济打成什么样？</p><p><a href="https://www.bilibili.com/video/BV1SUhe6xEM2">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小Lin说]]></author>
         <category>B站</category>
     </item>
     
@@ -236,88 +274,6 @@ GitHub 链接：https://github.com/larksuite/cli
 <p>✍️ 作者：橘鸦juya</p>
 <p>文字版和相关链接请看：https://mp.weixin.qq.com/s/gKInOFaUvMDI5lDDIAzpZA</p><p><a href="https://www.bilibili.com/video/BV1cNey67ENm">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小黛晨读：【参考信息第651期】管家偷副省长家茅台；并非“北大严选”]]></title>
-        <link>https://www.bilibili.com/video/BV1EGeG6pEAw</link>
-        <guid isPermaLink="false">bilibili-117286379784819</guid>
-        <pubDate>Thu, 17 Sep 2026 12:33:31 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小黛晨读</p>
-<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1EGeG6pEAw">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小黛晨读]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【4K】LE SSERAFIM - 'Made My Night' MCD舞台+直拍合集 260917]]></title>
-        <link>https://www.bilibili.com/video/BV1MqeG6KEJG</link>
-        <guid isPermaLink="false">bilibili-117286111351089</guid>
-        <pubDate>Thu, 17 Sep 2026 11:56:05 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>ytb
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1MqeG6KEJG">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 饲养员小谢：跟着大一妹妹去新疆玩了9天，才发现旅游也有代沟…]]></title>
-        <link>https://www.bilibili.com/video/BV1SbeG66Et9</link>
-        <guid isPermaLink="false">bilibili-117285993842929</guid>
-        <pubDate>Thu, 17 Sep 2026 11:02:10 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：饲养员小谢</p>
-<p>大家好呀，7月底终于去了我心心念念的新疆。我跟狗哥也是赌了一把，把整个行程都交给了弟弟妹妹，我们只负责出钱和开车。本来想着终于可以少操点心了，结果两个大学生的玩法，确实有点超出我们的预期哈哈哈。
-9天开了2000公里，一路发生了好多故事，这期视频剪了挺久，素材太多，想留下的内容也太多，很多地方来来回回调整了好多遍。最后还是受限于篇幅，有些很喜欢的小片段没能放进来，如果大家还想看，我们再发一期~
-
-</p><p><a href="https://www.bilibili.com/video/BV1SbeG66Et9">查看原文 →</a></p>]]></description>
-        <author><![CDATA[饲养员小谢]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Grandpagu顾爷：一张藏宝图：一种古老的欲望]]></title>
-        <link>https://www.bilibili.com/video/BV1dgeM6TEdn</link>
-        <guid isPermaLink="false">bilibili-117284802666171</guid>
-        <pubDate>Thu, 17 Sep 2026 05:54:18 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Grandpagu顾爷</p>
-<p><a href="https://www.bilibili.com/video/BV1dgeM6TEdn">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Grandpagu顾爷]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：OpenRouter 与 OpenCode 上线免费“stealth”模型 Union Alpha【AI 早报 2026-09-17】]]></title>
-        <link>https://www.bilibili.com/video/BV1kaeK65EQU</link>
-        <guid isPermaLink="false">bilibili-117283728918588</guid>
-        <pubDate>Thu, 17 Sep 2026 01:17:53 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1kaeK65EQU">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】LE SSERAFIM表演新曲 'Made My Night' ! | Jennifer Hudson Show 260915]]></title>
-        <link>https://www.bilibili.com/video/BV1fceK6vEEg</link>
-        <guid isPermaLink="false">bilibili-117281648549849</guid>
-        <pubDate>Wed, 16 Sep 2026 16:33:04 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>ytb
-资源：大癫
-翻译：Chooiaa
-时间轴/压制：末末
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1fceK6vEEg">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
         <category>B站</category>
     </item>
     
