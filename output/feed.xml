@@ -5,25 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 26 Sep 2026 00:08:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 23:52:39 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
         <title><![CDATA[⚠️ 本地 Runner 离线 | 09月26日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
         <guid isPermaLink="false">digest-2026-09-26</guid>
-        <pubDate>Sat, 26 Sep 2026 00:08:08 GMT</pubDate>
+        <pubDate>Sat, 26 Sep 2026 23:52:39 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 09月26日 00:08 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 09月26日 23:52 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
         <guid isPermaLink="false">digest-2026-09-26</guid>
-        <pubDate>Sat, 26 Sep 2026 00:08:08 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 11 items</p><p><b>🎮 生活分享流 (life):</b> 13 items</p><p><b>🆕 本次新增:</b> 13 items</p><p><b>📦 数据库总量:</b> 3146 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <pubDate>Sat, 26 Sep 2026 23:52:39 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 9 items</p><p><b>🎮 生活分享流 (life):</b> 11 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 3146 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -279,64 +279,6 @@
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/wjmt_nPWwlE65C4nPh1noA</p><p><a href="https://www.bilibili.com/video/BV1NqeY6dEPP">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】'可爱的人类采源 vs 标志性短发采源' , 采源和FEARNOT的心意能否成功相通?! | FANS' CHOICE FACE 260914]]></title>
-        <link>https://www.bilibili.com/video/BV1ETeh6BEia</link>
-        <guid isPermaLink="false">bilibili-117297972778646</guid>
-        <pubDate>Sat, 19 Sep 2026 13:41:33 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>ytb
-资源：大癫
-翻译：杰尼
-时间轴：小猪
-压制：末末
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1ETeh6BEia">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小黛晨读：【参考信息第652期】宣扬“23年不回家”；为何信“只批三天假”？]]></title>
-        <link>https://www.bilibili.com/video/BV1hvet6QE9V</link>
-        <guid isPermaLink="false">bilibili-117297553343302</guid>
-        <pubDate>Sat, 19 Sep 2026 12:14:26 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小黛晨读</p>
-<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1hvet6QE9V">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小黛晨读]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点131期」Agent 少说废话、飞书CLI、本地跑超大模型、CAD技能库和Mac效率启动器]]></title>
-        <link>https://www.bilibili.com/video/BV152eS69EX4</link>
-        <guid isPermaLink="false">bilibili-117292503403403</guid>
-        <pubDate>Sat, 19 Sep 2026 02:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：IT咖啡馆</p>
-<p>1、项目名称：i-have-adhd - 让 AI 编程助手输出更直接
-GitHub 链接：https://github.com/ayghri/i-have-adhd
-2、项目名称：lark-cli - 飞书官方 CLI 与  Agent Skills
-GitHub 链接：https://github.com/larksuite/cli
-3、项目名称：colibri - 消费级和异构硬件上运行前沿</p><p><a href="https://www.bilibili.com/video/BV152eS69EX4">查看原文 →</a></p>]]></description>
-        <author><![CDATA[IT咖啡馆]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：智谱 ZCode 被指可能打包上传工作区文件；Claude Code 支持 AGENTS.md  【AI 早报 2026-09-19】]]></title>
-        <link>https://www.bilibili.com/video/BV1N3eX6LEQY</link>
-        <guid isPermaLink="false">bilibili-117295154200843</guid>
-        <pubDate>Sat, 19 Sep 2026 01:42:02 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/0NCR6yzUnCRTkaBWFNSJFg</p><p><a href="https://www.bilibili.com/video/BV1N3eX6LEQY">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
