@@ -5,27 +5,51 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 25 Sep 2026 00:05:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 00:08:08 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月25日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月26日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-25</guid>
-        <pubDate>Fri, 25 Sep 2026 00:05:26 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-09-26</guid>
+        <pubDate>Sat, 26 Sep 2026 00:08:08 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 09月25日 00:05 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 09月26日 00:08 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-25</guid>
-        <pubDate>Fri, 25 Sep 2026 00:05:26 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 10 items</p><p><b>🎮 生活分享流 (life):</b> 9 items</p><p><b>🆕 本次新增:</b> 4 items</p><p><b>📦 数据库总量:</b> 3133 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-09-26</guid>
+        <pubDate>Sat, 26 Sep 2026 00:08:08 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 11 items</p><p><b>🎮 生活分享流 (life):</b> 13 items</p><p><b>🆕 本次新增:</b> 13 items</p><p><b>📦 数据库总量:</b> 3146 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：中美高峰会特别节目 - 中华民族复兴与MAGA可共存共荣！沈逸 郭正亮 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV14thy6DEJM</link>
+        <guid isPermaLink="false">bilibili-117330671634925</guid>
+        <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV14thy6DEJM">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：ChatGPT 或新增每月 500 美元的 Pro Max 订阅方案【AI 早报 2026-09-25】]]></title>
+        <link>https://www.bilibili.com/video/BV1UXag6bETG</link>
+        <guid isPermaLink="false">bilibili-117329094511509</guid>
+        <pubDate>Fri, 25 Sep 2026 01:38:26 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>文字版和相关链接请看：https://mp.weixin.qq.com/s/lODt9Gz8qOtDWjjD_CvH7A</p><p><a href="https://www.bilibili.com/video/BV1UXag6bETG">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -37,6 +61,30 @@
 <p>✍️ 作者：巫师财经</p>
 <p><a href="https://www.bilibili.com/video/BV1tsaN6VEoK">查看原文 →</a></p>]]></description>
         <author><![CDATA[巫师财经]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：30米红毯! 21响礼炮! 2架B-1轰炸机致意! 规格太顶了！赖岳谦 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV1fEaP6tE8f</link>
+        <guid isPermaLink="false">bilibili-117324749211708</guid>
+        <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV1fEaP6tE8f">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Space Bunny Alpha 现身 OpenRouter与OpenCode【AI 早报 2026-09-24】]]></title>
+        <link>https://www.bilibili.com/video/BV1xdhf6ZEyk</link>
+        <guid isPermaLink="false">bilibili-117323390322928</guid>
+        <pubDate>Thu, 24 Sep 2026 01:26:38 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/a4cOe2unmz3yWdJtBb8EhQ</p><p><a href="https://www.bilibili.com/video/BV1xdhf6ZEyk">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
@@ -61,6 +109,22 @@
 <p>✍️ 作者：巫师财经</p>
 <p><a href="https://www.bilibili.com/video/BV1pMht68EDU">查看原文 →</a></p>]]></description>
         <author><![CDATA[巫师财经]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 温竣岩：【瞭望】创新药激战——全球肿瘤药物，即将进入“中国时代”]]></title>
+        <link>https://www.bilibili.com/video/BV1BFhb69EVo</link>
+        <guid isPermaLink="false">bilibili-117319414059302</guid>
+        <pubDate>Wed, 23 Sep 2026 08:35:06 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：温竣岩</p>
+<p>癌症，一种闻之色变的疾病。
+ 
+在人类浩瀚的文明历程中，出现过各种各样的疾病，天花、鼠疫、霍乱、艾滋、埃博拉，每一种都夺走了无数人的生命。而在这冗长的疾病名单中，癌症，不同于所有疾病，被称为“众病之王”，因为它来自我们自身。
+ 
+很长一段时间里，科学家们都认为癌症是由外部病毒引起的，因为它太强大、疯狂，在鸡身上进行的肿瘤诱发实验更是铁证。直到1975年，两名科学家发现癌症基因来源于正常细胞，当它们</p><p><a href="https://www.bilibili.com/video/BV1BFhb69EVo">查看原文 →</a></p>]]></description>
+        <author><![CDATA[温竣岩]]></author>
         <category>B站</category>
     </item>
     
@@ -128,6 +192,30 @@
 <p>✍️ 作者：小黛晨读</p>
 <p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1hthq6qE4w">查看原文 →</a></p>]]></description>
         <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：贝森特:他的脾气很大! 李成钢任中国国际贸易谈判代表！沈逸 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV1Z3hq6EE6h</link>
+        <guid isPermaLink="false">bilibili-117307602963471</guid>
+        <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV1Z3hq6EE6h">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：祝福来啦~]]></title>
+        <link>https://www.bilibili.com/video/BV1tThe6sESD</link>
+        <guid isPermaLink="false">bilibili-117307200307574</guid>
+        <pubDate>Mon, 21 Sep 2026 04:46:38 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p>-</p><p><a href="https://www.bilibili.com/video/BV1tThe6sESD">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
         <category>B站</category>
     </item>
     
@@ -249,30 +337,6 @@ GitHub 链接：https://github.com/larksuite/cli
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/0NCR6yzUnCRTkaBWFNSJFg</p><p><a href="https://www.bilibili.com/video/BV1N3eX6LEQY">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【LE SSERAFIM】'Made My Night' 舞蹈接力 260918]]></title>
-        <link>https://www.bilibili.com/video/BV1ifey6gE4z</link>
-        <guid isPermaLink="false">bilibili-117291094120301</guid>
-        <pubDate>Fri, 18 Sep 2026 16:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>ytb</p><p><a href="https://www.bilibili.com/video/BV1ifey6gE4z">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Claude Code 重构 Projects 功能，支持协调并行云端线程【AI 早报 2026-09-18】]]></title>
-        <link>https://www.bilibili.com/video/BV1cNey67ENm</link>
-        <guid isPermaLink="false">bilibili-117289466725591</guid>
-        <pubDate>Fri, 18 Sep 2026 01:38:14 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>文字版和相关链接请看：https://mp.weixin.qq.com/s/gKInOFaUvMDI5lDDIAzpZA</p><p><a href="https://www.bilibili.com/video/BV1cNey67ENm">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>

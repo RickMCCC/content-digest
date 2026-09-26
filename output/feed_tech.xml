@@ -5,27 +5,39 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 25 Sep 2026 00:05:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 00:08:08 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月25日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月26日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-25</guid>
-        <pubDate>Fri, 25 Sep 2026 00:05:26 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-09-26</guid>
+        <pubDate>Sat, 26 Sep 2026 00:08:08 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 09月25日 00:05 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 09月26日 00:08 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-25</guid>
-        <pubDate>Fri, 25 Sep 2026 00:05:26 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 10 items</p><p><b>🎮 生活分享流 (life):</b> 9 items</p><p><b>🆕 本次新增:</b> 4 items</p><p><b>📦 数据库总量:</b> 3133 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-09-26</guid>
+        <pubDate>Sat, 26 Sep 2026 00:08:08 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 11 items</p><p><b>🎮 生活分享流 (life):</b> 13 items</p><p><b>🆕 本次新增:</b> 13 items</p><p><b>📦 数据库总量:</b> 3146 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：ChatGPT 或新增每月 500 美元的 Pro Max 订阅方案【AI 早报 2026-09-25】]]></title>
+        <link>https://www.bilibili.com/video/BV1UXag6bETG</link>
+        <guid isPermaLink="false">bilibili-117329094511509</guid>
+        <pubDate>Fri, 25 Sep 2026 01:38:26 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>文字版和相关链接请看：https://mp.weixin.qq.com/s/lODt9Gz8qOtDWjjD_CvH7A</p><p><a href="https://www.bilibili.com/video/BV1UXag6bETG">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -37,6 +49,18 @@
 <p>✍️ 作者：巫师财经</p>
 <p><a href="https://www.bilibili.com/video/BV1tsaN6VEoK">查看原文 →</a></p>]]></description>
         <author><![CDATA[巫师财经]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Space Bunny Alpha 现身 OpenRouter与OpenCode【AI 早报 2026-09-24】]]></title>
+        <link>https://www.bilibili.com/video/BV1xdhf6ZEyk</link>
+        <guid isPermaLink="false">bilibili-117323390322928</guid>
+        <pubDate>Thu, 24 Sep 2026 01:26:38 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/a4cOe2unmz3yWdJtBb8EhQ</p><p><a href="https://www.bilibili.com/video/BV1xdhf6ZEyk">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
@@ -138,18 +162,6 @@ GitHub 链接：https://github.com/larksuite/cli
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/0NCR6yzUnCRTkaBWFNSJFg</p><p><a href="https://www.bilibili.com/video/BV1N3eX6LEQY">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Claude Code 重构 Projects 功能，支持协调并行云端线程【AI 早报 2026-09-18】]]></title>
-        <link>https://www.bilibili.com/video/BV1cNey67ENm</link>
-        <guid isPermaLink="false">bilibili-117289466725591</guid>
-        <pubDate>Fri, 18 Sep 2026 01:38:14 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>文字版和相关链接请看：https://mp.weixin.qq.com/s/gKInOFaUvMDI5lDDIAzpZA</p><p><a href="https://www.bilibili.com/video/BV1cNey67ENm">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
