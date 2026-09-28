@@ -5,27 +5,94 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 26 Sep 2026 23:52:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 00:00:20 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月26日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月28日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-26</guid>
-        <pubDate>Sat, 26 Sep 2026 23:52:39 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-09-28</guid>
+        <pubDate>Mon, 28 Sep 2026 00:00:20 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 09月26日 23:52 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 09月28日 00:00 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-26</guid>
-        <pubDate>Sat, 26 Sep 2026 23:52:39 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 9 items</p><p><b>🎮 生活分享流 (life):</b> 11 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 3146 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-09-28</guid>
+        <pubDate>Mon, 28 Sep 2026 00:00:20 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 8 items</p><p><b>🎮 生活分享流 (life):</b> 16 items</p><p><b>🆕 本次新增:</b> 6 items</p><p><b>📦 数据库总量:</b> 3152 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】LE SSERAFIM 暴雪嘉年华幕后花絮｜Billboard 260926]]></title>
+        <link>https://www.bilibili.com/video/BV1VqhR6sEEn</link>
+        <guid isPermaLink="false">bilibili-117336627484359</guid>
+        <pubDate>Sat, 26 Sep 2026 09:31:48 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p>ytb
+资源：末末
+翻译Wynne时间轴：
+压制：末末
+
+该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1VqhR6sEEn">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 全员i人字幕组：【生肉】来美国姑母家过中秋了(中字待更) wvs直播 260925]]></title>
+        <link>https://www.bilibili.com/video/BV15phU66E2L</link>
+        <guid isPermaLink="false">bilibili-117332131189194</guid>
+        <pubDate>Fri, 25 Sep 2026 14:30:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p>wvs
+资源：大癫
+翻译：
+时间轴：
+校对/合轴/压制：
+
+该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV15phU66E2L">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 全员i人字幕组：【官中】允真WVS直播 260918]]></title>
+        <link>https://www.bilibili.com/video/BV1ghhU6NEQh</link>
+        <guid isPermaLink="false">bilibili-117332114412601</guid>
+        <pubDate>Fri, 25 Sep 2026 14:23:06 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p>wvs
+资源/压制：大癫
+
+该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1ghhU6NEQh">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】要我活得像神? 可我是人啊! | #HMM EP.2 260921]]></title>
+        <link>https://www.bilibili.com/video/BV1B8h16MEL3</link>
+        <guid isPermaLink="false">bilibili-117331879532782</guid>
+        <pubDate>Fri, 25 Sep 2026 13:25:33 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p>资源：大癫
+翻译：茜茜 yorkie
+时间轴：大癫 镜子
+合轴/压制：末末
+
+该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1B8h16MEL3">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -89,6 +156,23 @@
     </item>
     
     <item>
+        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】旗安民宿新职员Kazuha来家里做客了🦢 | 人生84 260917]]></title>
+        <link>https://www.bilibili.com/video/BV1b7hb6GE1L</link>
+        <guid isPermaLink="false">bilibili-117321108560572</guid>
+        <pubDate>Wed, 23 Sep 2026 15:47:42 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p>资源：saki
+翻译：chae saki 茜茜
+时间轴：末末 大癫
+合轴/压制：末末
+
+该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1b7hb6GE1L">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 小黛晨读：【参考信息第654期】再查“不想生不敢生”；车企“去宁德化”？]]></title>
         <link>https://www.bilibili.com/video/BV15kh467EFx</link>
         <guid isPermaLink="false">bilibili-117320202586450</guid>
@@ -137,6 +221,22 @@
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/AAe9JtOfb40Tg0dDKDTLHw</p><p><a href="https://www.bilibili.com/video/BV1LRhW6kEk6">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】属于LE SSERAFIM的Girls' Night会是什么样的? (独家专访) 260922]]></title>
+        <link>https://www.bilibili.com/video/BV1Vehn6bEZu</link>
+        <guid isPermaLink="false">bilibili-117315639187110</guid>
+        <pubDate>Tue, 22 Sep 2026 16:33:44 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p>ytb
+资源：大癫
+翻译/时间轴/压制：末末
+
+该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1Vehn6bEZu">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
         <category>B站</category>
     </item>
     
@@ -256,30 +356,6 @@
 
 该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1Fpha6iE5Y">查看原文 →</a></p>]]></description>
         <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【LE SSERAFIM】iHeartRadio 音乐节全场舞台 260920]]></title>
-        <link>https://www.bilibili.com/video/BV1S5ei6MEQ7</link>
-        <guid isPermaLink="false">bilibili-117301328221246</guid>
-        <pubDate>Sun, 20 Sep 2026 04:20:55 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1S5ei6MEQ7">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：DeepSeek 公布最新 API 峰谷计费规则；Step 5 Preview 现身知名评测网站与官方订阅【AI 早报 2026-09-20】]]></title>
-        <link>https://www.bilibili.com/video/BV1NqeY6dEPP</link>
-        <guid isPermaLink="false">bilibili-117300690683851</guid>
-        <pubDate>Sun, 20 Sep 2026 01:12:37 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/wjmt_nPWwlE65C4nPh1noA</p><p><a href="https://www.bilibili.com/video/BV1NqeY6dEPP">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
