@@ -5,27 +5,63 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 28 Sep 2026 00:00:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 01:17:25 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月28日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月29日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-28</guid>
-        <pubDate>Mon, 28 Sep 2026 00:00:20 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-09-29</guid>
+        <pubDate>Tue, 29 Sep 2026 01:17:24 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 09月28日 00:00 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 09月29日 01:17 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-28</guid>
-        <pubDate>Mon, 28 Sep 2026 00:00:20 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 8 items</p><p><b>🎮 生活分享流 (life):</b> 16 items</p><p><b>🆕 本次新增:</b> 6 items</p><p><b>📦 数据库总量:</b> 3152 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-09-29</guid>
+        <pubDate>Tue, 29 Sep 2026 01:17:25 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 9 items</p><p><b>🎮 生活分享流 (life):</b> 17 items</p><p><b>🆕 本次新增:</b> 10 items</p><p><b>📦 数据库总量:</b> 3162 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：MiniMax 上线 M3.1-Flash-Preview【AI 早报 2026-09-28】]]></title>
+        <link>https://www.bilibili.com/video/BV1aMav6iETA</link>
+        <guid isPermaLink="false">bilibili-117345972391350</guid>
+        <pubDate>Mon, 28 Sep 2026 01:08:21 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>文字版和相关链接请看：https://mp.weixin.qq.com/s/spbTnyNz5F01fTYkZsDu2w</p><p><a href="https://www.bilibili.com/video/BV1aMav6iETA">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenAI 暂停最强模型涉及工具调用的训练、评估和推理【AI 早报 2026-09-27】]]></title>
+        <link>https://www.bilibili.com/video/BV1L2ax6SE5r</link>
+        <guid isPermaLink="false">bilibili-117340452817275</guid>
+        <pubDate>Sun, 27 Sep 2026 01:48:53 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1L2ax6SE5r">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：美团LongCat发布LongCat-2.5-Preview；Codex重置【AI 早报 2026-09-26】]]></title>
+        <link>https://www.bilibili.com/video/BV1GMhQ6mEzJ</link>
+        <guid isPermaLink="false">bilibili-117334882717332</guid>
+        <pubDate>Sat, 26 Sep 2026 02:08:39 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/phgwOOeJKliiOzMmx-El_w</p><p><a href="https://www.bilibili.com/video/BV1GMhQ6mEzJ">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -96,32 +132,6 @@
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/X1AiqlzxQ6g4R_pMRaGGRA</p><p><a href="https://www.bilibili.com/video/BV1TThC6jEuq">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：智谱：ZCode 完成整改、接受第三方审查并开放源码。]]></title>
-        <link>https://www.bilibili.com/video/BV1CZhe6JEtm</link>
-        <guid isPermaLink="false">bilibili-117306579486615</guid>
-        <pubDate>Mon, 21 Sep 2026 02:10:51 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>代码仓库：https://github.com/zai-org/ZCode
-官方公告：https://mp.weixin.qq.com/s/QCHjEye57BUKUNInPKb4cA</p><p><a href="https://www.bilibili.com/video/BV1CZhe6JEtm">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Qwen-Image-2.1开源；Step 5 Preview发布；Jev开放并赠新用户$5【AI 早报 2026-09-21】]]></title>
-        <link>https://www.bilibili.com/video/BV1aphv6AEg1</link>
-        <guid isPermaLink="false">bilibili-117306311049535</guid>
-        <pubDate>Mon, 21 Sep 2026 01:01:16 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>有些人问我为什么不发Jev，其实Jev发布当天就发了，只是后面突然火起来，16号这一期第四条：BV1mZes6uEYu
-相关链接和文字版请看：https://mp.weixin.qq.com/s/FvqA3Waf7Jw1d0UAYwpecA</p><p><a href="https://www.bilibili.com/video/BV1aphv6AEg1">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>

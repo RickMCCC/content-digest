@@ -5,27 +5,81 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 28 Sep 2026 00:00:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 01:17:25 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月28日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月29日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-28</guid>
-        <pubDate>Mon, 28 Sep 2026 00:00:20 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-09-29</guid>
+        <pubDate>Tue, 29 Sep 2026 01:17:24 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 09月28日 00:00 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 09月29日 01:17 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-28</guid>
-        <pubDate>Mon, 28 Sep 2026 00:00:20 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 8 items</p><p><b>🎮 生活分享流 (life):</b> 16 items</p><p><b>🆕 本次新增:</b> 6 items</p><p><b>📦 数据库总量:</b> 3152 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-09-29</guid>
+        <pubDate>Tue, 29 Sep 2026 01:17:25 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 9 items</p><p><b>🎮 生活分享流 (life):</b> 17 items</p><p><b>🆕 本次新增:</b> 10 items</p><p><b>📦 数据库总量:</b> 3162 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】表情演技大师LE SSERAFIM"你生来就是公主吗?"挑战 (喜悦😆 悲伤😭 傲慢🤨 诱惑😘版) | 人歌小卖部2 EP17 260925]]></title>
+        <link>https://www.bilibili.com/video/BV1KTaL6iEUp</link>
+        <guid isPermaLink="false">bilibili-117349596337863</guid>
+        <pubDate>Mon, 28 Sep 2026 16:32:53 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p>ytb
+资源：大癫
+翻译：saki
+时间轴：末末 魔法糖冰棍 大癫
+合轴/压制：末末
+
+该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1KTaL6iEUp">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：美国驻华大使: 川普曾问中方领导人是否愿意购买美国武器！沈逸 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV1Siai6KEoT</link>
+        <guid isPermaLink="false">bilibili-117346895136678</guid>
+        <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV1Siai6KEoT">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：MiniMax 上线 M3.1-Flash-Preview【AI 早报 2026-09-28】]]></title>
+        <link>https://www.bilibili.com/video/BV1aMav6iETA</link>
+        <guid isPermaLink="false">bilibili-117345972391350</guid>
+        <pubDate>Mon, 28 Sep 2026 01:08:21 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>文字版和相关链接请看：https://mp.weixin.qq.com/s/spbTnyNz5F01fTYkZsDu2w</p><p><a href="https://www.bilibili.com/video/BV1aMav6iETA">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenAI 暂停最强模型涉及工具调用的训练、评估和推理【AI 早报 2026-09-27】]]></title>
+        <link>https://www.bilibili.com/video/BV1L2ax6SE5r</link>
+        <guid isPermaLink="false">bilibili-117340452817275</guid>
+        <pubDate>Sun, 27 Sep 2026 01:48:53 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1L2ax6SE5r">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -42,6 +96,62 @@
 
 该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1VqhR6sEEn">查看原文 →</a></p>]]></description>
         <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小Lin说：国产医疗设备，怎么样了？]]></title>
+        <link>https://www.bilibili.com/video/BV1ssac6oEL3</link>
+        <guid isPermaLink="false">bilibili-117324497556754</guid>
+        <pubDate>Sat, 26 Sep 2026 09:30:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小Lin说</p>
+<p><a href="https://www.bilibili.com/video/BV1ssac6oEL3">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小Lin说]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Chris的军事基地：什么是弹道导弹？]]></title>
+        <link>https://www.bilibili.com/video/BV1ubhU6iEy1</link>
+        <guid isPermaLink="false">bilibili-117332064078877</guid>
+        <pubDate>Sat, 26 Sep 2026 04:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：Chris的军事基地</p>
+<p>资料来源：
+
+新华社｜东风-5C液体洲际战略核导弹亮相
+
+央广网｜东风五号洲际导弹成功发射43周年
+
+新华社｜中国“三位一体”战略核力量集中亮相
+
+中国军网·人民网｜俄罗斯战略火箭部队发展史
+
+人民网｜俄罗斯新一代战略导弹系统
+
+新华社｜俄核潜艇成功试射“布拉瓦”导弹
+
+美国GAO｜洲际导弹助推阶段与反导研究
+
+美国导弹防御局｜弹道导弹飞行三阶段
+
+NASA｜冯·布劳恩与“回形针计划”
+
+美国空军</p><p><a href="https://www.bilibili.com/video/BV1ubhU6iEy1">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Chris的军事基地]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：美团LongCat发布LongCat-2.5-Preview；Codex重置【AI 早报 2026-09-26】]]></title>
+        <link>https://www.bilibili.com/video/BV1GMhQ6mEzJ</link>
+        <guid isPermaLink="false">bilibili-117334882717332</guid>
+        <pubDate>Sat, 26 Sep 2026 02:08:39 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/phgwOOeJKliiOzMmx-El_w</p><p><a href="https://www.bilibili.com/video/BV1GMhQ6mEzJ">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
@@ -108,6 +218,18 @@
     </item>
     
     <item>
+        <title><![CDATA[[B站] Grandpagu顾爷：罗马之王 雕塑之神 贝尼尼的故事]]></title>
+        <link>https://www.bilibili.com/video/BV1EraA69EYM</link>
+        <guid isPermaLink="false">bilibili-117324883431499</guid>
+        <pubDate>Fri, 25 Sep 2026 04:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：Grandpagu顾爷</p>
+<p><a href="https://www.bilibili.com/video/BV1EraA69EYM">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Grandpagu顾爷]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 橘鸦juya：ChatGPT 或新增每月 500 美元的 Pro Max 订阅方案【AI 早报 2026-09-25】]]></title>
         <link>https://www.bilibili.com/video/BV1UXag6bETG</link>
         <guid isPermaLink="false">bilibili-117329094511509</guid>
@@ -140,6 +262,18 @@
 <p>✍️ 作者：新西兰三妹</p>
 <p><a href="https://www.bilibili.com/video/BV1fEaP6tE8f">查看原文 →</a></p>]]></description>
         <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Grandpagu顾爷：From Beau monde，Into the wild 卡地亚动物王国]]></title>
+        <link>https://www.bilibili.com/video/BV1fqac6UEsT</link>
+        <guid isPermaLink="false">bilibili-117324095034408</guid>
+        <pubDate>Thu, 24 Sep 2026 04:59:37 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：Grandpagu顾爷</p>
+<p><a href="https://www.bilibili.com/video/BV1fqac6UEsT">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Grandpagu顾爷]]></author>
         <category>B站</category>
     </item>
     
@@ -263,99 +397,6 @@
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/X1AiqlzxQ6g4R_pMRaGGRA</p><p><a href="https://www.bilibili.com/video/BV1TThC6jEuq">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】LE SSERAFIM在2026年暴雪嘉年华上揭秘第三次《守望先锋》联动 260920]]></title>
-        <link>https://www.bilibili.com/video/BV1Dhhq6vEuB</link>
-        <guid isPermaLink="false">bilibili-117309465236504</guid>
-        <pubDate>Mon, 21 Sep 2026 14:21:45 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>ytb
-资源：大癫
-翻译：chooiaa
-时间轴/校对/压制：末末
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1Dhhq6vEuB">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小黛晨读：【参考信息第653期】生而不养，判给保姆；无手机课堂&小时租机]]></title>
-        <link>https://www.bilibili.com/video/BV1hthq6qE4w</link>
-        <guid isPermaLink="false">bilibili-117309297394485</guid>
-        <pubDate>Mon, 21 Sep 2026 13:47:47 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小黛晨读</p>
-<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1hthq6qE4w">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小黛晨读]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：贝森特:他的脾气很大! 李成钢任中国国际贸易谈判代表！沈逸 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV1Z3hq6EE6h</link>
-        <guid isPermaLink="false">bilibili-117307602963471</guid>
-        <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV1Z3hq6EE6h">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：祝福来啦~]]></title>
-        <link>https://www.bilibili.com/video/BV1tThe6sESD</link>
-        <guid isPermaLink="false">bilibili-117307200307574</guid>
-        <pubDate>Mon, 21 Sep 2026 04:46:38 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p>-</p><p><a href="https://www.bilibili.com/video/BV1tThe6sESD">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：智谱：ZCode 完成整改、接受第三方审查并开放源码。]]></title>
-        <link>https://www.bilibili.com/video/BV1CZhe6JEtm</link>
-        <guid isPermaLink="false">bilibili-117306579486615</guid>
-        <pubDate>Mon, 21 Sep 2026 02:10:51 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>代码仓库：https://github.com/zai-org/ZCode
-官方公告：https://mp.weixin.qq.com/s/QCHjEye57BUKUNInPKb4cA</p><p><a href="https://www.bilibili.com/video/BV1CZhe6JEtm">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Qwen-Image-2.1开源；Step 5 Preview发布；Jev开放并赠新用户$5【AI 早报 2026-09-21】]]></title>
-        <link>https://www.bilibili.com/video/BV1aphv6AEg1</link>
-        <guid isPermaLink="false">bilibili-117306311049535</guid>
-        <pubDate>Mon, 21 Sep 2026 01:01:16 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>有些人问我为什么不发Jev，其实Jev发布当天就发了，只是后面突然火起来，16号这一期第四条：BV1mZes6uEYu
-相关链接和文字版请看：https://mp.weixin.qq.com/s/FvqA3Waf7Jw1d0UAYwpecA</p><p><a href="https://www.bilibili.com/video/BV1aphv6AEg1">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【4K】LE SSERAFIM - 'Made My Night' SBS人气歌谣舞台+直拍 260920]]></title>
-        <link>https://www.bilibili.com/video/BV1Fpha6iE5Y</link>
-        <guid isPermaLink="false">bilibili-117304314566495</guid>
-        <pubDate>Sun, 20 Sep 2026 16:32:52 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>ytb
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1Fpha6iE5Y">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
         <category>B站</category>
     </item>
     
