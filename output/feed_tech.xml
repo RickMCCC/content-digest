@@ -5,27 +5,51 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 29 Sep 2026 01:17:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 00:48:32 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月29日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月30日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-29</guid>
-        <pubDate>Tue, 29 Sep 2026 01:17:24 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-09-30</guid>
+        <pubDate>Wed, 30 Sep 2026 00:48:32 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 09月29日 01:17 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 09月30日 00:48 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-29</guid>
-        <pubDate>Tue, 29 Sep 2026 01:17:25 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 9 items</p><p><b>🎮 生活分享流 (life):</b> 17 items</p><p><b>🆕 本次新增:</b> 10 items</p><p><b>📦 数据库总量:</b> 3162 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-09-30</guid>
+        <pubDate>Wed, 30 Sep 2026 00:48:32 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 12 items</p><p><b>🎮 生活分享流 (life):</b> 16 items</p><p><b>🆕 本次新增:</b> 5 items</p><p><b>📦 数据库总量:</b> 3167 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] IT咖啡馆：开源项目出海怎么做好翻译？我在云栖找了个专业AI员工]]></title>
+        <link>https://www.bilibili.com/video/BV1eraH6iEox</link>
+        <guid isPermaLink="false">bilibili-117353874457424</guid>
+        <pubDate>Tue, 29 Sep 2026 11:05:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：IT咖啡馆</p>
+<p><a href="https://www.bilibili.com/video/BV1eraH6iEox">查看原文 →</a></p>]]></description>
+        <author><![CDATA[IT咖啡馆]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Claude Sonnet 5.5 发布【AI 早报 2026-09-29】]]></title>
+        <link>https://www.bilibili.com/video/BV1F1aE6TEGM</link>
+        <guid isPermaLink="false">bilibili-117351844415427</guid>
+        <pubDate>Tue, 29 Sep 2026 02:03:12 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/3xdxAbGlv6zloTVNeXLz4A</p><p><a href="https://www.bilibili.com/video/BV1F1aE6TEGM">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -49,6 +73,41 @@
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1L2ax6SE5r">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点132期」Jev到底是不是神器？Agent安全审计、Office SDK、agent的k8s和长期记忆]]></title>
+        <link>https://www.bilibili.com/video/BV15Mh96xEZH</link>
+        <guid isPermaLink="false">bilibili-117335788685950</guid>
+        <pubDate>Sat, 26 Sep 2026 05:58:01 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：IT咖啡馆</p>
+<p>1、项目名称：Laya - 面向结构化决策的开源模型
+GitHub 链接：https://github.com/NandhaKishorM/laya
+
+2、项目名称：security-audit-skill - Cloudflare 的代码安全审计 Skill
+GitHub 链接：https://github.com/cloudflare/security-audit-skill
+
+3、项目名称：</p><p><a href="https://www.bilibili.com/video/BV15Mh96xEZH">查看原文 →</a></p>]]></description>
+        <author><![CDATA[IT咖啡馆]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 3Blue1Brown：【官方双语】压缩即智能：Part 2，究竟什么是交叉熵？]]></title>
+        <link>https://www.bilibili.com/video/BV1u7hQ6rEQB</link>
+        <guid isPermaLink="false">bilibili-117334580730518</guid>
+        <pubDate>Sat, 26 Sep 2026 02:30:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：3Blue1Brown</p>
+<p>承接上一期，这一期我们来看一下什么是交叉熵，以及为什么是要用交叉熵  
+But what is cross-entropy --  Compression is Intelligence Part 2  
+https://youtu.be/GlYgs6v2YfU  
+翻译&时间轴 astra 校正：贰鼠   
+
+【官方双语】压缩即智能：Part1，重新发明熵  https://www.bilibi</p><p><a href="https://www.bilibili.com/video/BV1u7hQ6rEQB">查看原文 →</a></p>]]></description>
+        <author><![CDATA[3Blue1Brown]]></author>
         <category>B站</category>
     </item>
     
@@ -120,18 +179,6 @@
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/AAe9JtOfb40Tg0dDKDTLHw</p><p><a href="https://www.bilibili.com/video/BV1LRhW6kEk6">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：小米发布并开源 MiMo-V2.6 系列模型；SpaceXAI 发布 Grok 4.7 模型【AI 早报 2026-09-22】]]></title>
-        <link>https://www.bilibili.com/video/BV1TThC6jEuq</link>
-        <guid isPermaLink="false">bilibili-117312032146305</guid>
-        <pubDate>Tue, 22 Sep 2026 01:16:39 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/X1AiqlzxQ6g4R_pMRaGGRA</p><p><a href="https://www.bilibili.com/video/BV1TThC6jEuq">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
