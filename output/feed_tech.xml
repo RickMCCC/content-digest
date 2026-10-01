@@ -5,27 +5,43 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 30 Sep 2026 00:48:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 00:48:03 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 09月30日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月01日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-30</guid>
-        <pubDate>Wed, 30 Sep 2026 00:48:32 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-10-01</guid>
+        <pubDate>Thu, 01 Oct 2026 00:48:03 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 09月30日 00:48 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 10月01日 00:48 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-09-30</guid>
-        <pubDate>Wed, 30 Sep 2026 00:48:32 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 12 items</p><p><b>🎮 生活分享流 (life):</b> 16 items</p><p><b>🆕 本次新增:</b> 5 items</p><p><b>📦 数据库总量:</b> 3167 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-10-01</guid>
+        <pubDate>Thu, 01 Oct 2026 00:48:03 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 12 items</p><p><b>🎮 生活分享流 (life):</b> 15 items</p><p><b>🆕 本次新增:</b> 4 items</p><p><b>📦 数据库总量:</b> 3171 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 硅谷101：光刻机与它背后的“守护者”：5滴水事故、AI失效与万亿产业的未来【硅谷101】]]></title>
+        <link>https://www.bilibili.com/video/BV1UGa961E5X</link>
+        <guid isPermaLink="false">bilibili-117357800330880</guid>
+        <pubDate>Wed, 30 Sep 2026 03:21:11 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：硅谷101</p>
+<p>全球最复杂的机器，可能仅仅5滴水，就能让它“罢工”。光刻机的精密程度令人惊叹，维持这份精密所需的背后功夫，却很少被看见。
+
+这期视频，我们探访了ASML上海总部，走进光刻挑战赛现场，也亲身体验了决赛的考题。搭光路、拼积木，看似与光刻机相距甚远的考题，藏着真实维护工作中的难点：理论上成立的光路，实际搭建未必顺利；照着图纸组装，也可能遇到意料之外的零件问题。
+
+在真正的光刻机面前，跨学科的知识只是起点</p><p><a href="https://www.bilibili.com/video/BV1UGa961E5X">查看原文 →</a></p>]]></description>
+        <author><![CDATA[硅谷101]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -49,6 +65,21 @@
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/3xdxAbGlv6zloTVNeXLz4A</p><p><a href="https://www.bilibili.com/video/BV1F1aE6TEGM">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 硅谷101：让人类交出方向盘：特斯拉FSD十三年的冒险、争议与进化【硅谷101】]]></title>
+        <link>https://www.bilibili.com/video/BV1ECaq6nEJn</link>
+        <guid isPermaLink="false">bilibili-117346425377969</guid>
+        <pubDate>Mon, 28 Sep 2026 03:05:15 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：硅谷101</p>
+<p>9月初，没有方向盘、没有踏板的Cybercab正式在美国德州奥斯汀投入运营。
+在此之际，我们也前往奥斯汀，实地体验了这辆出租车。坐在原本驾驶座的位置，面前却没有任何驾驶操控装置，我们用这一次亲身经历的行程，感受了马斯克描绘多年的无人驾驶未来。
+
+这辆车背后，是FSD十三年并不平滑的进化：三芯片主板已经做好，量产前又被砍回双芯片；摄像头方案会上，马斯克甚至拍桌子骂人……我们对话多位前特斯拉软硬件工程</p><p><a href="https://www.bilibili.com/video/BV1ECaq6nEJn">查看原文 →</a></p>]]></description>
+        <author><![CDATA[硅谷101]]></author>
         <category>B站</category>
     </item>
     
@@ -155,30 +186,6 @@ https://youtu.be/GlYgs6v2YfU
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/a4cOe2unmz3yWdJtBb8EhQ</p><p><a href="https://www.bilibili.com/video/BV1xdhf6ZEyk">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 巫师财经：【巫师】老登资产崩盘，新兴富豪的钱去哪了？]]></title>
-        <link>https://www.bilibili.com/video/BV1pMht68EDU</link>
-        <guid isPermaLink="false">bilibili-117319917442706</guid>
-        <pubDate>Wed, 23 Sep 2026 11:43:31 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：巫师财经</p>
-<p><a href="https://www.bilibili.com/video/BV1pMht68EDU">查看原文 →</a></p>]]></description>
-        <author><![CDATA[巫师财经]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Anthropic 发布 Claude Opus 5.5；OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna【AI 早报 2026-09-23】]]></title>
-        <link>https://www.bilibili.com/video/BV1LRhW6kEk6</link>
-        <guid isPermaLink="false">bilibili-117317803575166</guid>
-        <pubDate>Wed, 23 Sep 2026 01:45:08 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/AAe9JtOfb40Tg0dDKDTLHw</p><p><a href="https://www.bilibili.com/video/BV1LRhW6kEk6">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
