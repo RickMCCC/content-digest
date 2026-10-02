@@ -5,7 +5,7 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>生活/娱乐/艺术 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 01 Oct 2026 00:48:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 01:07:20 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_life.xml" rel="self" type="application/rss+xml"/>
     
     <item>
@@ -75,6 +75,30 @@
 <p>✍️ 作者：新西兰三妹</p>
 <p><a href="https://www.bilibili.com/video/BV1Siai6KEoT">查看原文 →</a></p>]]></description>
         <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 鹿头军师：那个夺走“五一黄金周”的教授，又盯上了农民的宅基地【解读中国经济25】]]></title>
+        <link>https://www.bilibili.com/video/BV1fLa36CEhp</link>
+        <guid isPermaLink="false">bilibili-117348103164253</guid>
+        <pubDate>Mon, 28 Sep 2026 10:24:01 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：鹿头军师</p>
+<p>欢迎一键三连推荐给更多朋友！！</p><p><a href="https://www.bilibili.com/video/BV1fLa36CEhp">查看原文 →</a></p>]]></description>
+        <author><![CDATA[鹿头军师]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 三宋在这：32岁，我成功没登上世界最高峰——珠穆朗玛峰]]></title>
+        <link>https://www.bilibili.com/video/BV1jxYd6zEkV</link>
+        <guid isPermaLink="false">bilibili-117258143796108</guid>
+        <pubDate>Mon, 28 Sep 2026 03:30:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：三宋在这</p>
+<p>这一次，我选择挑战自己——勇攀世界最高峰（的脚下）</p><p><a href="https://www.bilibili.com/video/BV1jxYd6zEkV">查看原文 →</a></p>]]></description>
+        <author><![CDATA[三宋在这]]></author>
         <category>B站</category>
     </item>
     
@@ -209,30 +233,6 @@ NASA｜冯·布劳恩与“回形针计划”
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：Grandpagu顾爷</p>
 <p><a href="https://www.bilibili.com/video/BV1EraA69EYM">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Grandpagu顾爷]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：30米红毯! 21响礼炮! 2架B-1轰炸机致意! 规格太顶了！赖岳谦 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV1fEaP6tE8f</link>
-        <guid isPermaLink="false">bilibili-117324749211708</guid>
-        <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV1fEaP6tE8f">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Grandpagu顾爷：From Beau monde，Into the wild 卡地亚动物王国]]></title>
-        <link>https://www.bilibili.com/video/BV1fqac6UEsT</link>
-        <guid isPermaLink="false">bilibili-117324095034408</guid>
-        <pubDate>Thu, 24 Sep 2026 04:59:37 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Grandpagu顾爷</p>
-<p><a href="https://www.bilibili.com/video/BV1fqac6UEsT">查看原文 →</a></p>]]></description>
         <author><![CDATA[Grandpagu顾爷]]></author>
         <category>B站</category>
     </item>
