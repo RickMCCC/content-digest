@@ -5,27 +5,68 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 02 Oct 2026 01:07:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 00:44:28 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月02日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月03日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-02</guid>
-        <pubDate>Fri, 02 Oct 2026 01:07:20 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-10-03</guid>
+        <pubDate>Sat, 03 Oct 2026 00:44:28 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 10月02日 01:07 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 10月03日 00:44 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-02</guid>
-        <pubDate>Fri, 02 Oct 2026 01:07:20 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 11 items</p><p><b>🎮 生活分享流 (life):</b> 15 items</p><p><b>🆕 本次新增:</b> 3 items</p><p><b>📦 数据库总量:</b> 3174 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-10-03</guid>
+        <pubDate>Sat, 03 Oct 2026 00:44:28 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 14 items</p><p><b>🎮 生活分享流 (life):</b> 10 items</p><p><b>🆕 本次新增:</b> 6 items</p><p><b>📦 数据库总量:</b> 3180 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：GPT-6.1 Sol 扩容；Claude Code 推出 Mods 支持【AI 早报 2026-10-02】]]></title>
+        <link>https://www.bilibili.com/video/BV1xra169EjN</link>
+        <guid isPermaLink="false">bilibili-117368839735122</guid>
+        <pubDate>Fri, 02 Oct 2026 02:08:48 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>文字版及相关链接请看：https://daily.juya.uk/issues/2026-10-02/</p><p><a href="https://www.bilibili.com/video/BV1xra169EjN">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Google 发布 Gemini 4 Argon 模型，初步仅通过 Fairwind Program 开放【AI 早报 2026-10-01】]]></title>
+        <link>https://www.bilibili.com/video/BV1QnYw6GEAi</link>
+        <guid isPermaLink="false">bilibili-117363135480674</guid>
+        <pubDate>Thu, 01 Oct 2026 01:57:16 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://daily.juya.uk/issues/2026-10-01/</p><p><a href="https://www.bilibili.com/video/BV1QnYw6GEAi">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 3Blue1Brown：【官方双语】AI 未能解决的最后一道IMO真题]]></title>
+        <link>https://www.bilibili.com/video/BV1znaf61EnS</link>
+        <guid isPermaLink="false">bilibili-117360535082699</guid>
+        <pubDate>Thu, 01 Oct 2026 01:45:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：3Blue1Brown</p>
+<p>这一期我们来看一道难住了 AI 的精妙谜题，以及引出破解它所需的思维直觉。  
+The last IMO problem AI could not solve  
+https://youtu.be/Nbwv5wHQoj0  
+翻译：astra 校正&时间轴&后期：贰鼠  
+感谢观众的支持: https://3b1b.co/support  
+一键三联与分享，也是最大的支持！</p><p><a href="https://www.bilibili.com/video/BV1znaf61EnS">查看原文 →</a></p>]]></description>
+        <author><![CDATA[3Blue1Brown]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -41,6 +82,18 @@
 
 在真正的光刻机面前，跨学科的知识只是起点</p><p><a href="https://www.bilibili.com/video/BV1UGa961E5X">查看原文 →</a></p>]]></description>
         <author><![CDATA[硅谷101]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenAI 发布 GPT-6.1 Sol 和 Dots【AI 早报 2026-09-30】]]></title>
+        <link>https://www.bilibili.com/video/BV1LdaX6tEqb</link>
+        <guid isPermaLink="false">bilibili-117357649396163</guid>
+        <pubDate>Wed, 30 Sep 2026 02:39:19 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>文字版和相关链接请看：https://mp.weixin.qq.com/s/z525r1UJRdJIpPKFi4_idg</p><p><a href="https://www.bilibili.com/video/BV1LdaX6tEqb">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
@@ -162,18 +215,6 @@ https://youtu.be/GlYgs6v2YfU
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/phgwOOeJKliiOzMmx-El_w</p><p><a href="https://www.bilibili.com/video/BV1GMhQ6mEzJ">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：ChatGPT 或新增每月 500 美元的 Pro Max 订阅方案【AI 早报 2026-09-25】]]></title>
-        <link>https://www.bilibili.com/video/BV1UXag6bETG</link>
-        <guid isPermaLink="false">bilibili-117329094511509</guid>
-        <pubDate>Fri, 25 Sep 2026 01:38:26 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>文字版和相关链接请看：https://mp.weixin.qq.com/s/lODt9Gz8qOtDWjjD_CvH7A</p><p><a href="https://www.bilibili.com/video/BV1UXag6bETG">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
