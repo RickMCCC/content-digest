@@ -5,27 +5,39 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 03 Oct 2026 00:44:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 00:06:40 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月03日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月04日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-03</guid>
-        <pubDate>Sat, 03 Oct 2026 00:44:28 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-10-04</guid>
+        <pubDate>Sun, 04 Oct 2026 00:06:40 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 10月03日 00:44 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 10月04日 00:06 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-03</guid>
-        <pubDate>Sat, 03 Oct 2026 00:44:28 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 14 items</p><p><b>🎮 生活分享流 (life):</b> 10 items</p><p><b>🆕 本次新增:</b> 6 items</p><p><b>📦 数据库总量:</b> 3180 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-10-04</guid>
+        <pubDate>Sun, 04 Oct 2026 00:06:40 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 12 items</p><p><b>🎮 生活分享流 (life):</b> 11 items</p><p><b>🆕 本次新增:</b> 7 items</p><p><b>📦 数据库总量:</b> 3187 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：ChatGPT 用量重置；Gemini 调整用户模型访问权限【AI 早报 2026-10-03】]]></title>
+        <link>https://www.bilibili.com/video/BV1j8Hh6zEYk</link>
+        <guid isPermaLink="false">bilibili-117374510432562</guid>
+        <pubDate>Sat, 03 Oct 2026 02:03:59 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>文字版及相关链接请看：https://daily.juya.uk/issues/2026-10-03/</p><p><a href="https://www.bilibili.com/video/BV1j8Hh6zEYk">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -168,53 +180,6 @@ https://youtu.be/Nbwv5wHQoj0
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1L2ax6SE5r">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点132期」Jev到底是不是神器？Agent安全审计、Office SDK、agent的k8s和长期记忆]]></title>
-        <link>https://www.bilibili.com/video/BV15Mh96xEZH</link>
-        <guid isPermaLink="false">bilibili-117335788685950</guid>
-        <pubDate>Sat, 26 Sep 2026 05:58:01 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：IT咖啡馆</p>
-<p>1、项目名称：Laya - 面向结构化决策的开源模型
-GitHub 链接：https://github.com/NandhaKishorM/laya
-
-2、项目名称：security-audit-skill - Cloudflare 的代码安全审计 Skill
-GitHub 链接：https://github.com/cloudflare/security-audit-skill
-
-3、项目名称：</p><p><a href="https://www.bilibili.com/video/BV15Mh96xEZH">查看原文 →</a></p>]]></description>
-        <author><![CDATA[IT咖啡馆]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 3Blue1Brown：【官方双语】压缩即智能：Part 2，究竟什么是交叉熵？]]></title>
-        <link>https://www.bilibili.com/video/BV1u7hQ6rEQB</link>
-        <guid isPermaLink="false">bilibili-117334580730518</guid>
-        <pubDate>Sat, 26 Sep 2026 02:30:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：3Blue1Brown</p>
-<p>承接上一期，这一期我们来看一下什么是交叉熵，以及为什么是要用交叉熵  
-But what is cross-entropy --  Compression is Intelligence Part 2  
-https://youtu.be/GlYgs6v2YfU  
-翻译&时间轴 astra 校正：贰鼠   
-
-【官方双语】压缩即智能：Part1，重新发明熵  https://www.bilibi</p><p><a href="https://www.bilibili.com/video/BV1u7hQ6rEQB">查看原文 →</a></p>]]></description>
-        <author><![CDATA[3Blue1Brown]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：美团LongCat发布LongCat-2.5-Preview；Codex重置【AI 早报 2026-09-26】]]></title>
-        <link>https://www.bilibili.com/video/BV1GMhQ6mEzJ</link>
-        <guid isPermaLink="false">bilibili-117334882717332</guid>
-        <pubDate>Sat, 26 Sep 2026 02:08:39 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/phgwOOeJKliiOzMmx-El_w</p><p><a href="https://www.bilibili.com/video/BV1GMhQ6mEzJ">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>

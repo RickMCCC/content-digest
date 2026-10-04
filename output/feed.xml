@@ -5,27 +5,39 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 03 Oct 2026 00:44:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 00:06:40 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月03日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月04日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-03</guid>
-        <pubDate>Sat, 03 Oct 2026 00:44:28 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-10-04</guid>
+        <pubDate>Sun, 04 Oct 2026 00:06:40 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 10月03日 00:44 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 10月04日 00:06 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-03</guid>
-        <pubDate>Sat, 03 Oct 2026 00:44:28 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 14 items</p><p><b>🎮 生活分享流 (life):</b> 10 items</p><p><b>🆕 本次新增:</b> 6 items</p><p><b>📦 数据库总量:</b> 3180 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-10-04</guid>
+        <pubDate>Sun, 04 Oct 2026 00:06:40 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 12 items</p><p><b>🎮 生活分享流 (life):</b> 11 items</p><p><b>🆕 本次新增:</b> 7 items</p><p><b>📦 数据库总量:</b> 3187 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：ChatGPT 用量重置；Gemini 调整用户模型访问权限【AI 早报 2026-10-03】]]></title>
+        <link>https://www.bilibili.com/video/BV1j8Hh6zEYk</link>
+        <guid isPermaLink="false">bilibili-117374510432562</guid>
+        <pubDate>Sat, 03 Oct 2026 02:03:59 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>文字版及相关链接请看：https://daily.juya.uk/issues/2026-10-03/</p><p><a href="https://www.bilibili.com/video/BV1j8Hh6zEYk">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -37,6 +49,30 @@
 <p>✍️ 作者：橘鸦juya</p>
 <p>文字版及相关链接请看：https://daily.juya.uk/issues/2026-10-02/</p><p><a href="https://www.bilibili.com/video/BV1xra169EjN">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：多了"友好"少了"繁荣"? 鲁比奥发中国国庆祝贺有差异? 赖岳谦 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV1mtaz6uEFv</link>
+        <guid isPermaLink="false">bilibili-117364343506793</guid>
+        <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV1mtaz6uEFv">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：祝福伟大的祖国繁荣昌盛!]]></title>
+        <link>https://www.bilibili.com/video/BV1dVYP6REtX</link>
+        <guid isPermaLink="false">bilibili-117363840124634</guid>
+        <pubDate>Thu, 01 Oct 2026 04:53:40 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p>-</p><p><a href="https://www.bilibili.com/video/BV1dVYP6REtX">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
         <category>B站</category>
     </item>
     
@@ -66,6 +102,18 @@ https://youtu.be/Nbwv5wHQoj0
 感谢观众的支持: https://3b1b.co/support  
 一键三联与分享，也是最大的支持！</p><p><a href="https://www.bilibili.com/video/BV1znaf61EnS">查看原文 →</a></p>]]></description>
         <author><![CDATA[3Blue1Brown]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：这下都知道敌国条款了！ 日本民众怒斥高市“败事有余”！ 介文汲 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV1TvaR6SE6B</link>
+        <guid isPermaLink="false">bilibili-117358706295596</guid>
+        <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV1TvaR6SE6B">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
         <category>B站</category>
     </item>
     
@@ -122,6 +170,18 @@ https://youtu.be/Nbwv5wHQoj0
 <p>✍️ 作者：橘鸦juya</p>
 <p>文字版和相关链接请看：https://mp.weixin.qq.com/s/z525r1UJRdJIpPKFi4_idg</p><p><a href="https://www.bilibili.com/video/BV1LdaX6tEqb">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：中美降税清单亮牌! 各300亿! 美国大豆榜上无名！郭正亮 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV182aJ6sEFR</link>
+        <guid isPermaLink="false">bilibili-117353052375074</guid>
+        <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV182aJ6sEFR">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
         <category>B站</category>
     </item>
     
@@ -262,114 +322,6 @@ https://youtu.be/Nbwv5wHQoj0
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1L2ax6SE5r">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】LE SSERAFIM 暴雪嘉年华幕后花絮｜Billboard 260926]]></title>
-        <link>https://www.bilibili.com/video/BV1VqhR6sEEn</link>
-        <guid isPermaLink="false">bilibili-117336627484359</guid>
-        <pubDate>Sat, 26 Sep 2026 09:31:48 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>ytb
-资源：末末
-翻译Wynne时间轴：
-压制：末末
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1VqhR6sEEn">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小Lin说：国产医疗设备，怎么样了？]]></title>
-        <link>https://www.bilibili.com/video/BV1ssac6oEL3</link>
-        <guid isPermaLink="false">bilibili-117324497556754</guid>
-        <pubDate>Sat, 26 Sep 2026 09:30:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小Lin说</p>
-<p><a href="https://www.bilibili.com/video/BV1ssac6oEL3">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小Lin说]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点132期」Jev到底是不是神器？Agent安全审计、Office SDK、agent的k8s和长期记忆]]></title>
-        <link>https://www.bilibili.com/video/BV15Mh96xEZH</link>
-        <guid isPermaLink="false">bilibili-117335788685950</guid>
-        <pubDate>Sat, 26 Sep 2026 05:58:01 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：IT咖啡馆</p>
-<p>1、项目名称：Laya - 面向结构化决策的开源模型
-GitHub 链接：https://github.com/NandhaKishorM/laya
-
-2、项目名称：security-audit-skill - Cloudflare 的代码安全审计 Skill
-GitHub 链接：https://github.com/cloudflare/security-audit-skill
-
-3、项目名称：</p><p><a href="https://www.bilibili.com/video/BV15Mh96xEZH">查看原文 →</a></p>]]></description>
-        <author><![CDATA[IT咖啡馆]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Chris的军事基地：什么是弹道导弹？]]></title>
-        <link>https://www.bilibili.com/video/BV1ubhU6iEy1</link>
-        <guid isPermaLink="false">bilibili-117332064078877</guid>
-        <pubDate>Sat, 26 Sep 2026 04:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Chris的军事基地</p>
-<p>资料来源：
-
-新华社｜东风-5C液体洲际战略核导弹亮相
-
-央广网｜东风五号洲际导弹成功发射43周年
-
-新华社｜中国“三位一体”战略核力量集中亮相
-
-中国军网·人民网｜俄罗斯战略火箭部队发展史
-
-人民网｜俄罗斯新一代战略导弹系统
-
-新华社｜俄核潜艇成功试射“布拉瓦”导弹
-
-美国GAO｜洲际导弹助推阶段与反导研究
-
-美国导弹防御局｜弹道导弹飞行三阶段
-
-NASA｜冯·布劳恩与“回形针计划”
-
-美国空军</p><p><a href="https://www.bilibili.com/video/BV1ubhU6iEy1">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Chris的军事基地]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 3Blue1Brown：【官方双语】压缩即智能：Part 2，究竟什么是交叉熵？]]></title>
-        <link>https://www.bilibili.com/video/BV1u7hQ6rEQB</link>
-        <guid isPermaLink="false">bilibili-117334580730518</guid>
-        <pubDate>Sat, 26 Sep 2026 02:30:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：3Blue1Brown</p>
-<p>承接上一期，这一期我们来看一下什么是交叉熵，以及为什么是要用交叉熵  
-But what is cross-entropy --  Compression is Intelligence Part 2  
-https://youtu.be/GlYgs6v2YfU  
-翻译&时间轴 astra 校正：贰鼠   
-
-【官方双语】压缩即智能：Part1，重新发明熵  https://www.bilibi</p><p><a href="https://www.bilibili.com/video/BV1u7hQ6rEQB">查看原文 →</a></p>]]></description>
-        <author><![CDATA[3Blue1Brown]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：美团LongCat发布LongCat-2.5-Preview；Codex重置【AI 早报 2026-09-26】]]></title>
-        <link>https://www.bilibili.com/video/BV1GMhQ6mEzJ</link>
-        <guid isPermaLink="false">bilibili-117334882717332</guid>
-        <pubDate>Sat, 26 Sep 2026 02:08:39 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/phgwOOeJKliiOzMmx-El_w</p><p><a href="https://www.bilibili.com/video/BV1GMhQ6mEzJ">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
