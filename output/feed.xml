@@ -5,27 +5,39 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 05 Oct 2026 00:11:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 01:57:30 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月05日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月06日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-05</guid>
-        <pubDate>Mon, 05 Oct 2026 00:11:11 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-10-06</guid>
+        <pubDate>Tue, 06 Oct 2026 01:57:30 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 10月05日 00:11 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 10月06日 01:57 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-05</guid>
-        <pubDate>Mon, 05 Oct 2026 00:11:11 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 11 items</p><p><b>🎮 生活分享流 (life):</b> 15 items</p><p><b>🆕 本次新增:</b> 4 items</p><p><b>📦 数据库总量:</b> 3191 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-10-06</guid>
+        <pubDate>Tue, 06 Oct 2026 01:57:30 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 10 items</p><p><b>🎮 生活分享流 (life):</b> 12 items</p><p><b>🆕 本次新增:</b> 6 items</p><p><b>📦 数据库总量:</b> 3197 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小王Albert：食人魔王、内战、石油，乌干达百年国运，怎么比小说还离谱【东非04｜乌干达】]]></title>
+        <link>https://www.bilibili.com/video/BV1h1HH6qEZE</link>
+        <guid isPermaLink="false">bilibili-117386623587553</guid>
+        <pubDate>Mon, 05 Oct 2026 05:32:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小王Albert</p>
+<p>一键三连推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV1h1HH6qEZE">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小王Albert]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -60,6 +72,32 @@
 
 该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1ocHq6XEX1">查看原文 →</a></p>]]></description>
         <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第656期】A级景区摘牌潮；AI解放劳动者悖论]]></title>
+        <link>https://www.bilibili.com/video/BV1VHHe6kEH3</link>
+        <guid isPermaLink="false">bilibili-117376926418530</guid>
+        <pubDate>Sat, 03 Oct 2026 12:27:24 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1VHHe6kEH3">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 硅谷101：10月10日，硅谷线下见！｜硅谷101年度科技大会来啦～【Alignment 2026】]]></title>
+        <link>https://www.bilibili.com/video/BV1vwHv65EHa</link>
+        <guid isPermaLink="false">bilibili-117376423040290</guid>
+        <pubDate>Sat, 03 Oct 2026 10:10:12 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：硅谷101</p>
+<p>10月10日至11日，硅谷101第三届千人科技大会Alignment 2026来啦！ 整两天，我们把World Labs、OpenAI、Anthropic、Google DeepMind、Meta、Nvdia、硅谷明星Neolabs和创业公司的大咖嘉宾齐聚线下，与大家面对面交流。  
+ 
+我们将用两天时间讨论AI安全、模型竞赛、世界模型、机器人、Agent、科学研究与数据中心，也带来机器人体验和A</p><p><a href="https://www.bilibili.com/video/BV1vwHv65EHa">查看原文 →</a></p>]]></description>
+        <author><![CDATA[硅谷101]]></author>
         <category>B站</category>
     </item>
     
@@ -295,99 +333,6 @@ https://youtu.be/Nbwv5wHQoj0
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://mp.weixin.qq.com/s/3xdxAbGlv6zloTVNeXLz4A</p><p><a href="https://www.bilibili.com/video/BV1F1aE6TEGM">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】表情演技大师LE SSERAFIM"你生来就是公主吗?"挑战 (喜悦😆 悲伤😭 傲慢🤨 诱惑😘版) | 人歌小卖部2 EP17 260925]]></title>
-        <link>https://www.bilibili.com/video/BV1KTaL6iEUp</link>
-        <guid isPermaLink="false">bilibili-117349596337863</guid>
-        <pubDate>Mon, 28 Sep 2026 16:32:53 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>ytb
-资源：大癫
-翻译：saki
-时间轴：末末 魔法糖冰棍 大癫
-合轴/压制：末末
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1KTaL6iEUp">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小黛晨读：【参考信息第655期】大开智时代；争论“投资于谁”]]></title>
-        <link>https://www.bilibili.com/video/BV1W2aV6cECW</link>
-        <guid isPermaLink="false">bilibili-117348673521908</guid>
-        <pubDate>Mon, 28 Sep 2026 12:50:09 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小黛晨读</p>
-<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1W2aV6cECW">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小黛晨读]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：美国驻华大使: 川普曾问中方领导人是否愿意购买美国武器！沈逸 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV1Siai6KEoT</link>
-        <guid isPermaLink="false">bilibili-117346895136678</guid>
-        <pubDate>Mon, 28 Sep 2026 12:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV1Siai6KEoT">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 鹿头军师：那个夺走“五一黄金周”的教授，又盯上了农民的宅基地【解读中国经济25】]]></title>
-        <link>https://www.bilibili.com/video/BV1fLa36CEhp</link>
-        <guid isPermaLink="false">bilibili-117348103164253</guid>
-        <pubDate>Mon, 28 Sep 2026 10:24:01 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：鹿头军师</p>
-<p>欢迎一键三连推荐给更多朋友！！</p><p><a href="https://www.bilibili.com/video/BV1fLa36CEhp">查看原文 →</a></p>]]></description>
-        <author><![CDATA[鹿头军师]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 三宋在这：32岁，我成功没登上世界最高峰——珠穆朗玛峰]]></title>
-        <link>https://www.bilibili.com/video/BV1jxYd6zEkV</link>
-        <guid isPermaLink="false">bilibili-117258143796108</guid>
-        <pubDate>Mon, 28 Sep 2026 03:30:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：三宋在这</p>
-<p>这一次，我选择挑战自己——勇攀世界最高峰（的脚下）</p><p><a href="https://www.bilibili.com/video/BV1jxYd6zEkV">查看原文 →</a></p>]]></description>
-        <author><![CDATA[三宋在这]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 硅谷101：让人类交出方向盘：特斯拉FSD十三年的冒险、争议与进化【硅谷101】]]></title>
-        <link>https://www.bilibili.com/video/BV1ECaq6nEJn</link>
-        <guid isPermaLink="false">bilibili-117346425377969</guid>
-        <pubDate>Mon, 28 Sep 2026 03:05:15 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：硅谷101</p>
-<p>9月初，没有方向盘、没有踏板的Cybercab正式在美国德州奥斯汀投入运营。
-在此之际，我们也前往奥斯汀，实地体验了这辆出租车。坐在原本驾驶座的位置，面前却没有任何驾驶操控装置，我们用这一次亲身经历的行程，感受了马斯克描绘多年的无人驾驶未来。
-
-这辆车背后，是FSD十三年并不平滑的进化：三芯片主板已经做好，量产前又被砍回双芯片；摄像头方案会上，马斯克甚至拍桌子骂人……我们对话多位前特斯拉软硬件工程</p><p><a href="https://www.bilibili.com/video/BV1ECaq6nEJn">查看原文 →</a></p>]]></description>
-        <author><![CDATA[硅谷101]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：MiniMax 上线 M3.1-Flash-Preview【AI 早报 2026-09-28】]]></title>
-        <link>https://www.bilibili.com/video/BV1aMav6iETA</link>
-        <guid isPermaLink="false">bilibili-117345972391350</guid>
-        <pubDate>Mon, 28 Sep 2026 01:08:21 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>文字版和相关链接请看：https://mp.weixin.qq.com/s/spbTnyNz5F01fTYkZsDu2w</p><p><a href="https://www.bilibili.com/video/BV1aMav6iETA">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
