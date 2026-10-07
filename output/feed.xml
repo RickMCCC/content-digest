@@ -5,25 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 06 Oct 2026 01:57:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 01:02:05 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月06日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月07日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-06</guid>
-        <pubDate>Tue, 06 Oct 2026 01:57:30 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-10-07</guid>
+        <pubDate>Wed, 07 Oct 2026 01:02:05 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 10月06日 01:57 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 10月07日 01:02 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-06</guid>
-        <pubDate>Tue, 06 Oct 2026 01:57:30 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 10 items</p><p><b>🎮 生活分享流 (life):</b> 12 items</p><p><b>🆕 本次新增:</b> 6 items</p><p><b>📦 数据库总量:</b> 3197 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-10-07</guid>
+        <pubDate>Wed, 07 Oct 2026 01:02:05 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 7 items</p><p><b>🎮 生活分享流 (life):</b> 11 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 3197 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -285,54 +285,6 @@ https://youtu.be/Nbwv5wHQoj0
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>文字版和相关链接请看：https://mp.weixin.qq.com/s/z525r1UJRdJIpPKFi4_idg</p><p><a href="https://www.bilibili.com/video/BV1LdaX6tEqb">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：中美降税清单亮牌! 各300亿! 美国大豆榜上无名！郭正亮 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV182aJ6sEFR</link>
-        <guid isPermaLink="false">bilibili-117353052375074</guid>
-        <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV182aJ6sEFR">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 巫师财经：【巫师】去香港，还要带现金吗？]]></title>
-        <link>https://www.bilibili.com/video/BV1vpap6BECH</link>
-        <guid isPermaLink="false">bilibili-117353689977938</guid>
-        <pubDate>Tue, 29 Sep 2026 11:06:57 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：巫师财经</p>
-<p><a href="https://www.bilibili.com/video/BV1vpap6BECH">查看原文 →</a></p>]]></description>
-        <author><![CDATA[巫师财经]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] IT咖啡馆：开源项目出海怎么做好翻译？我在云栖找了个专业AI员工]]></title>
-        <link>https://www.bilibili.com/video/BV1eraH6iEox</link>
-        <guid isPermaLink="false">bilibili-117353874457424</guid>
-        <pubDate>Tue, 29 Sep 2026 11:05:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：IT咖啡馆</p>
-<p><a href="https://www.bilibili.com/video/BV1eraH6iEox">查看原文 →</a></p>]]></description>
-        <author><![CDATA[IT咖啡馆]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Claude Sonnet 5.5 发布【AI 早报 2026-09-29】]]></title>
-        <link>https://www.bilibili.com/video/BV1F1aE6TEGM</link>
-        <guid isPermaLink="false">bilibili-117351844415427</guid>
-        <pubDate>Tue, 29 Sep 2026 02:03:12 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://mp.weixin.qq.com/s/3xdxAbGlv6zloTVNeXLz4A</p><p><a href="https://www.bilibili.com/video/BV1F1aE6TEGM">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
