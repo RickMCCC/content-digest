@@ -5,27 +5,67 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 07 Oct 2026 01:02:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 01:18:24 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月07日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月08日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-07</guid>
-        <pubDate>Wed, 07 Oct 2026 01:02:05 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-10-08</guid>
+        <pubDate>Thu, 08 Oct 2026 01:18:23 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 10月07日 01:02 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 10月08日 01:18 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-07</guid>
-        <pubDate>Wed, 07 Oct 2026 01:02:05 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 7 items</p><p><b>🎮 生活分享流 (life):</b> 11 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 3197 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-10-08</guid>
+        <pubDate>Thu, 08 Oct 2026 01:18:23 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 10 items</p><p><b>🎮 生活分享流 (life):</b> 7 items</p><p><b>🆕 本次新增:</b> 5 items</p><p><b>📦 数据库总量:</b> 3202 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Google 发布 Nano Banana 2.1；Mistral Large 4 上线【AI 早报 2026-10-07】]]></title>
+        <link>https://www.bilibili.com/video/BV1iRpK6uEJc</link>
+        <guid isPermaLink="false">bilibili-117397226785384</guid>
+        <pubDate>Wed, 07 Oct 2026 02:24:15 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1iRpK6uEJc">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenAI 宣布提速 GPT-6 Astra 和 GPT-6.1 Sol【AI 早报 2026-10-06】]]></title>
+        <link>https://www.bilibili.com/video/BV1WNHf68Ebv</link>
+        <guid isPermaLink="false">bilibili-117391421867829</guid>
+        <pubDate>Tue, 06 Oct 2026 01:45:43 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://daily.juya.uk/issues/2026-10-06/</p><p><a href="https://www.bilibili.com/video/BV1WNHf68Ebv">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点133期」给Agent开家公司、让Agent剪视频、开源workbuddy、数据库链接器，还有免费的股票看板,]]></title>
+        <link>https://www.bilibili.com/video/BV1GbH469Erp</link>
+        <guid isPermaLink="false">bilibili-117388150311277</guid>
+        <pubDate>Mon, 05 Oct 2026 11:54:24 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：IT咖啡馆</p>
+<p>1、项目名称：Paperclip - 管理 AI Agent 团队的开源工作台
+GitHub 链接：https://github.com/paperclipai/paperclip
+2、项目名称：video-use - 剪视频的开源 Skill
+GitHub 链接：https://github.com/browser-use/video-use
+3、项目名称：Octop - 开源版 WorkBud</p><p><a href="https://www.bilibili.com/video/BV1GbH469Erp">查看原文 →</a></p>]]></description>
+        <author><![CDATA[IT咖啡馆]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -37,6 +77,18 @@
 <p>✍️ 作者：小王Albert</p>
 <p>一键三连推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV1h1HH6qEZE">查看原文 →</a></p>]]></description>
         <author><![CDATA[小王Albert]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Tibo：Codex未来28天每天上线明显改进，否则重置额度【AI 早报 2026-10-05】]]></title>
+        <link>https://www.bilibili.com/video/BV1VEHn6TEKq</link>
+        <guid isPermaLink="false">bilibili-117385700835607</guid>
+        <pubDate>Mon, 05 Oct 2026 01:28:58 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1VEHn6TEKq">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
@@ -54,6 +106,18 @@
 
 该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1bAH76DEuG">查看原文 →</a></p>]]></description>
         <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Antigravity 上线两款 Claude 5.5 模型【AI 早报 2026-10-04】]]></title>
+        <link>https://www.bilibili.com/video/BV1ZkHz6YEs4</link>
+        <guid isPermaLink="false">bilibili-117380063824545</guid>
+        <pubDate>Sun, 04 Oct 2026 01:38:05 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>相关链接和文字版请看：https://daily.juya.uk/latest/</p><p><a href="https://www.bilibili.com/video/BV1ZkHz6YEs4">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
@@ -200,92 +264,6 @@ https://youtu.be/Nbwv5wHQoj0
 感谢观众的支持: https://3b1b.co/support  
 一键三联与分享，也是最大的支持！</p><p><a href="https://www.bilibili.com/video/BV1znaf61EnS">查看原文 →</a></p>]]></description>
         <author><![CDATA[3Blue1Brown]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：这下都知道敌国条款了！ 日本民众怒斥高市“败事有余”！ 介文汲 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV1TvaR6SE6B</link>
-        <guid isPermaLink="false">bilibili-117358706295596</guid>
-        <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV1TvaR6SE6B">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 历史调研室：孙中山在全世界华人中的地位，凭什么那么高？【历史调研室107】]]></title>
-        <link>https://www.bilibili.com/video/BV1HUao6UEXN</link>
-        <guid isPermaLink="false">bilibili-117359662664116</guid>
-        <pubDate>Wed, 30 Sep 2026 11:21:49 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：历史调研室</p>
-<p>求关注、求三连～
-参考资料、视频素材、BGM在视频结尾</p><p><a href="https://www.bilibili.com/video/BV1HUao6UEXN">查看原文 →</a></p>]]></description>
-        <author><![CDATA[历史调研室]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Chris的军事基地：一艘真正的“飞船”【地效飞行器详解】]]></title>
-        <link>https://www.bilibili.com/video/BV1sQa76VEvS</link>
-        <guid isPermaLink="false">bilibili-117352431619479</guid>
-        <pubDate>Wed, 30 Sep 2026 04:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Chris的军事基地</p>
-<p>资料来源：
-美国中央情报局（CIA）：《CORONA: Declassified》——科罗娜侦察卫星计划的起源、任务与成果。
-美国中央情报局博物馆：《CORONA: America’s First Imaging Satellite Program》——胶卷返回舱、降落伞与飞机空中回收流程。
-美国国家侦察局（NRO）：《Bridgehead Photographic Processing Faci</p><p><a href="https://www.bilibili.com/video/BV1sQa76VEvS">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Chris的军事基地]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 硅谷101：光刻机与它背后的“守护者”：5滴水事故、AI失效与万亿产业的未来【硅谷101】]]></title>
-        <link>https://www.bilibili.com/video/BV1UGa961E5X</link>
-        <guid isPermaLink="false">bilibili-117357800330880</guid>
-        <pubDate>Wed, 30 Sep 2026 03:21:11 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：硅谷101</p>
-<p>全球最复杂的机器，可能仅仅5滴水，就能让它“罢工”。光刻机的精密程度令人惊叹，维持这份精密所需的背后功夫，却很少被看见。
-
-这期视频，我们探访了ASML上海总部，走进光刻挑战赛现场，也亲身体验了决赛的考题。搭光路、拼积木，看似与光刻机相距甚远的考题，藏着真实维护工作中的难点：理论上成立的光路，实际搭建未必顺利；照着图纸组装，也可能遇到意料之外的零件问题。
-
-在真正的光刻机面前，跨学科的知识只是起点</p><p><a href="https://www.bilibili.com/video/BV1UGa961E5X">查看原文 →</a></p>]]></description>
-        <author><![CDATA[硅谷101]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【生肉】去了迪士尼的宅基友（中字待更 ）260930WVS樱花直播]]></title>
-        <link>https://www.bilibili.com/video/BV1RfaX6sESs</link>
-        <guid isPermaLink="false">bilibili-117357682890503</guid>
-        <pubDate>Wed, 30 Sep 2026 02:45:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>wvs
-资源：大癫
-翻译：
-时间轴：
-校对/合轴/压制：
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1RfaX6sESs">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：OpenAI 发布 GPT-6.1 Sol 和 Dots【AI 早报 2026-09-30】]]></title>
-        <link>https://www.bilibili.com/video/BV1LdaX6tEqb</link>
-        <guid isPermaLink="false">bilibili-117357649396163</guid>
-        <pubDate>Wed, 30 Sep 2026 02:39:19 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>文字版和相关链接请看：https://mp.weixin.qq.com/s/z525r1UJRdJIpPKFi4_idg</p><p><a href="https://www.bilibili.com/video/BV1LdaX6tEqb">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
