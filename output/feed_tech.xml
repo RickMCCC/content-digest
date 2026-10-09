@@ -5,27 +5,39 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 08 Oct 2026 01:18:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 01:28:12 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月08日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月09日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-08</guid>
-        <pubDate>Thu, 08 Oct 2026 01:18:23 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-10-09</guid>
+        <pubDate>Fri, 09 Oct 2026 01:28:12 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 10月08日 01:18 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 10月09日 01:28 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-08</guid>
-        <pubDate>Thu, 08 Oct 2026 01:18:23 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 10 items</p><p><b>🎮 生活分享流 (life):</b> 7 items</p><p><b>🆕 本次新增:</b> 5 items</p><p><b>📦 数据库总量:</b> 3202 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-10-09</guid>
+        <pubDate>Fri, 09 Oct 2026 01:28:12 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 9 items</p><p><b>🎮 生活分享流 (life):</b> 5 items</p><p><b>🆕 本次新增:</b> 1 items</p><p><b>📦 数据库总量:</b> 3203 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 巫师财经：【巫师】保健品割韭菜，谁来治？]]></title>
+        <link>https://www.bilibili.com/video/BV1DZHU6VENm</link>
+        <guid isPermaLink="false">bilibili-117403853788935</guid>
+        <pubDate>Thu, 08 Oct 2026 12:25:48 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：巫师财经</p>
+<p><a href="https://www.bilibili.com/video/BV1DZHU6VENm">查看原文 →</a></p>]]></description>
+        <author><![CDATA[巫师财经]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -127,35 +139,6 @@ GitHub 链接：https://github.com/browser-use/video-use
 <p>✍️ 作者：橘鸦juya</p>
 <p>文字版及相关链接请看：https://daily.juya.uk/issues/2026-10-02/</p><p><a href="https://www.bilibili.com/video/BV1xra169EjN">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Google 发布 Gemini 4 Argon 模型，初步仅通过 Fairwind Program 开放【AI 早报 2026-10-01】]]></title>
-        <link>https://www.bilibili.com/video/BV1QnYw6GEAi</link>
-        <guid isPermaLink="false">bilibili-117363135480674</guid>
-        <pubDate>Thu, 01 Oct 2026 01:57:16 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://daily.juya.uk/issues/2026-10-01/</p><p><a href="https://www.bilibili.com/video/BV1QnYw6GEAi">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 3Blue1Brown：【官方双语】AI 未能解决的最后一道IMO真题]]></title>
-        <link>https://www.bilibili.com/video/BV1znaf61EnS</link>
-        <guid isPermaLink="false">bilibili-117360535082699</guid>
-        <pubDate>Thu, 01 Oct 2026 01:45:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：3Blue1Brown</p>
-<p>这一期我们来看一道难住了 AI 的精妙谜题，以及引出破解它所需的思维直觉。  
-The last IMO problem AI could not solve  
-https://youtu.be/Nbwv5wHQoj0  
-翻译：astra 校正&时间轴&后期：贰鼠  
-感谢观众的支持: https://3b1b.co/support  
-一键三联与分享，也是最大的支持！</p><p><a href="https://www.bilibili.com/video/BV1znaf61EnS">查看原文 →</a></p>]]></description>
-        <author><![CDATA[3Blue1Brown]]></author>
         <category>B站</category>
     </item>
     
