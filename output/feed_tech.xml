@@ -5,25 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 11 Oct 2026 00:28:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 00:48:47 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月11日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月12日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-11</guid>
-        <pubDate>Sun, 11 Oct 2026 00:28:29 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-10-12</guid>
+        <pubDate>Mon, 12 Oct 2026 00:48:47 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 10月11日 00:28 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 10月12日 00:48 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-11</guid>
-        <pubDate>Sun, 11 Oct 2026 00:28:29 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 7 items</p><p><b>🎮 生活分享流 (life):</b> 17 items</p><p><b>🆕 本次新增:</b> 3 items</p><p><b>📦 数据库总量:</b> 3219 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-10-12</guid>
+        <pubDate>Mon, 12 Oct 2026 00:48:47 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 7 items</p><p><b>🎮 生活分享流 (life):</b> 23 items</p><p><b>🆕 本次新增:</b> 15 items</p><p><b>📦 数据库总量:</b> 3234 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -37,6 +37,20 @@
 <p>✍️ 作者：巫师财经</p>
 <p><a href="https://www.bilibili.com/video/BV1F2p46KEdR">查看原文 →</a></p>]]></description>
         <author><![CDATA[巫师财经]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 秋芝2046：Agent 接管了我的新工作室！]]></title>
+        <link>https://www.bilibili.com/video/BV1nwp46KEcj</link>
+        <guid isPermaLink="false">bilibili-117410178795953</guid>
+        <pubDate>Fri, 09 Oct 2026 09:23:01 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：秋芝2046</p>
+<p>这期来个工作室room tour，现在开灯关灯都归Agent管啦！
+最后一个走也不用惦记关灯了哈哈～
+感谢朋友们的三连+关注~</p><p><a href="https://www.bilibili.com/video/BV1nwp46KEcj">查看原文 →</a></p>]]></description>
+        <author><![CDATA[秋芝2046]]></author>
         <category>B站</category>
     </item>
     
@@ -100,18 +114,6 @@ GitHub 链接：https://github.com/browser-use/video-use
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1VEHn6TEKq">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Antigravity 上线两款 Claude 5.5 模型【AI 早报 2026-10-04】]]></title>
-        <link>https://www.bilibili.com/video/BV1ZkHz6YEs4</link>
-        <guid isPermaLink="false">bilibili-117380063824545</guid>
-        <pubDate>Sun, 04 Oct 2026 01:38:05 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>相关链接和文字版请看：https://daily.juya.uk/latest/</p><p><a href="https://www.bilibili.com/video/BV1ZkHz6YEs4">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
