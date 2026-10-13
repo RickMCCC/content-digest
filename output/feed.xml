@@ -5,25 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 12 Oct 2026 00:48:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 02:47:47 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月12日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月13日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-12</guid>
-        <pubDate>Mon, 12 Oct 2026 00:48:47 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-10-13</guid>
+        <pubDate>Tue, 13 Oct 2026 02:47:47 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 10月12日 00:48 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 10月13日 02:47 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-12</guid>
-        <pubDate>Mon, 12 Oct 2026 00:48:47 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 7 items</p><p><b>🎮 生活分享流 (life):</b> 23 items</p><p><b>🆕 本次新增:</b> 15 items</p><p><b>📦 数据库总量:</b> 3234 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-10-13</guid>
+        <pubDate>Tue, 13 Oct 2026 02:47:47 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 6 items</p><p><b>🎮 生活分享流 (life):</b> 22 items</p><p><b>🆕 本次新增:</b> 3 items</p><p><b>📦 数据库总量:</b> 3237 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -64,6 +64,18 @@
     </item>
     
     <item>
+        <title><![CDATA[[B站] 历史调研室：蒋介石为何能打败所有军阀？唯独又打不过红军？【历史调研室108】]]></title>
+        <link>https://www.bilibili.com/video/BV1wspE6EEFd</link>
+        <guid isPermaLink="false">bilibili-117421956401621</guid>
+        <pubDate>Sun, 11 Oct 2026 11:21:26 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：历史调研室</p>
+<p><a href="https://www.bilibili.com/video/BV1wspE6EEFd">查看原文 →</a></p>]]></description>
+        <author><![CDATA[历史调研室]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 全员i人字幕组：【全i中字】我们的员工们火气很大啊💥 | 令人抓狂的旗安庄2 匿名树洞游戏 261004]]></title>
         <link>https://www.bilibili.com/video/BV1wxpE6mEfk</link>
         <guid isPermaLink="false">bilibili-117421872519040</guid>
@@ -77,6 +89,18 @@
 
 该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1wxpE6mEfk">查看原文 →</a></p>]]></description>
         <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小王Albert：我们来到了地中海，重走《奥德赛》十年回家路！]]></title>
+        <link>https://www.bilibili.com/video/BV1mopE6xEqv</link>
+        <guid isPermaLink="false">bilibili-117421268539265</guid>
+        <pubDate>Sun, 11 Oct 2026 09:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小王Albert</p>
+<p><a href="https://www.bilibili.com/video/BV1mopE6xEqv">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小王Albert]]></author>
         <category>B站</category>
     </item>
     
@@ -302,6 +326,28 @@ Instagram: iamhenryhsu
     </item>
     
     <item>
+        <title><![CDATA[[B站] 量化投资邢不行啊：股价越吉利,股票越赚钱?A股靠数字玄学炒股,靠谱吗?回文数/对子数,暗藏玄机?python量化大A数字密码,揭秘股价真相 | 量化投资邢不行啊]]></title>
+        <link>https://www.bilibili.com/video/BV1UAHQ6mE6F</link>
+        <guid isPermaLink="false">bilibili-117404558432265</guid>
+        <pubDate>Thu, 08 Oct 2026 09:30:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：量化投资邢不行啊</p>
+<p>888发发发，666留留留，
+A股股价是否真暗藏玄机？
+靠着数字玄学炒股靠谱吗？
+回文数对子数真能赚钱吗？
+
+喜欢视频记得三连，并点个关注～
+
+往期视频精选：
+513战法：BV1y1ht6PEU1
+红利低波策略：BV1S8eg6wE3S
+行业轮动策略：BV16MY46tEDG</p><p><a href="https://www.bilibili.com/video/BV1UAHQ6mE6F">查看原文 →</a></p>]]></description>
+        <author><![CDATA[量化投资邢不行啊]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 新西兰三妹：欧盟铁了心！对中国开打贸易战！法国麻烦大了！]]></title>
         <link>https://www.bilibili.com/video/BV1mipM6FEFk</link>
         <guid isPermaLink="false">bilibili-117398334081802</guid>
@@ -397,70 +443,6 @@ Instagram: iamhenryhsu
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p>相关链接和文字版请看：https://daily.juya.uk/issues/2026-10-06/</p><p><a href="https://www.bilibili.com/video/BV1WNHf68Ebv">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：海巡水炮喷射大陆渔船 环时：必须付出应有代价！沈逸 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV1ofHs6sEPj</link>
-        <guid isPermaLink="false">bilibili-117386992683295</guid>
-        <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV1ofHs6sEPj">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点133期」给Agent开家公司、让Agent剪视频、开源workbuddy、数据库链接器，还有免费的股票看板,]]></title>
-        <link>https://www.bilibili.com/video/BV1GbH469Erp</link>
-        <guid isPermaLink="false">bilibili-117388150311277</guid>
-        <pubDate>Mon, 05 Oct 2026 11:54:24 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：IT咖啡馆</p>
-<p>1、项目名称：Paperclip - 管理 AI Agent 团队的开源工作台
-GitHub 链接：https://github.com/paperclipai/paperclip
-2、项目名称：video-use - 剪视频的开源 Skill
-GitHub 链接：https://github.com/browser-use/video-use
-3、项目名称：Octop - 开源版 WorkBud</p><p><a href="https://www.bilibili.com/video/BV1GbH469Erp">查看原文 →</a></p>]]></description>
-        <author><![CDATA[IT咖啡馆]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 学院派Academia：【明星社会学】追星，东亚年轻人唯一真正在从事的“政治活动”？]]></title>
-        <link>https://www.bilibili.com/video/BV1NpHW6wEjA</link>
-        <guid isPermaLink="false">bilibili-117387714172412</guid>
-        <pubDate>Mon, 05 Oct 2026 10:11:01 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：学院派Academia</p>
-<p><a href="https://www.bilibili.com/video/BV1NpHW6wEjA">查看原文 →</a></p>]]></description>
-        <author><![CDATA[学院派Academia]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小王Albert：食人魔王、内战、石油，乌干达百年国运，怎么比小说还离谱【东非04｜乌干达】]]></title>
-        <link>https://www.bilibili.com/video/BV1h1HH6qEZE</link>
-        <guid isPermaLink="false">bilibili-117386623587553</guid>
-        <pubDate>Mon, 05 Oct 2026 05:32:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小王Albert</p>
-<p>一键三连推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV1h1HH6qEZE">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小王Albert]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Tibo：Codex未来28天每天上线明显改进，否则重置额度【AI 早报 2026-10-05】]]></title>
-        <link>https://www.bilibili.com/video/BV1VEHn6TEKq</link>
-        <guid isPermaLink="false">bilibili-117385700835607</guid>
-        <pubDate>Mon, 05 Oct 2026 01:28:58 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1VEHn6TEKq">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
