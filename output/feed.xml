@@ -5,27 +5,39 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 15 Oct 2026 00:09:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 23:53:26 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
         <title><![CDATA[⚠️ 本地 Runner 离线 | 10月15日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
         <guid isPermaLink="false">digest-2026-10-15</guid>
-        <pubDate>Thu, 15 Oct 2026 00:09:17 GMT</pubDate>
+        <pubDate>Thu, 15 Oct 2026 23:53:26 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 10月15日 00:09 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 10月15日 23:53 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
         <guid isPermaLink="false">digest-2026-10-15</guid>
-        <pubDate>Thu, 15 Oct 2026 00:09:17 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 6 items</p><p><b>🎮 生活分享流 (life):</b> 20 items</p><p><b>🆕 本次新增:</b> 2 items</p><p><b>📦 数据库总量:</b> 3242 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <pubDate>Thu, 15 Oct 2026 23:53:26 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 4 items</p><p><b>🎮 生活分享流 (life):</b> 18 items</p><p><b>🆕 本次新增:</b> 1 items</p><p><b>📦 数据库总量:</b> 3243 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第660期】大数据找人参保；12345也欠薪]]></title>
+        <link>https://www.bilibili.com/video/BV1esJ263E9J</link>
+        <guid isPermaLink="false">bilibili-117445092248268</guid>
+        <pubDate>Thu, 15 Oct 2026 13:27:53 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1esJ263E9J">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -335,81 +347,6 @@ Instagram: iamhenryhsu
 
 该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1H1HR62EaW">查看原文 →</a></p>]]></description>
         <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】??:SAKURA 拜托露个面吧 求求你了 | 金代理的针织故事 261002]]></title>
-        <link>https://www.bilibili.com/video/BV1vLHX6bEwt</link>
-        <guid isPermaLink="false">bilibili-117405984559516</guid>
-        <pubDate>Thu, 08 Oct 2026 15:33:19 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>ytb
-资源：yorkie
-翻译：SAKI
-时间轴/压制：大癫
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1vLHX6bEwt">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 巫师财经：【巫师】保健品割韭菜，谁来治？]]></title>
-        <link>https://www.bilibili.com/video/BV1DZHU6VENm</link>
-        <guid isPermaLink="false">bilibili-117403853788935</guid>
-        <pubDate>Thu, 08 Oct 2026 12:25:48 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：巫师财经</p>
-<p><a href="https://www.bilibili.com/video/BV1DZHU6VENm">查看原文 →</a></p>]]></description>
-        <author><![CDATA[巫师财经]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：“最后谈判”开始! 欧盟代表抵中国! 贸易战一触即发? 赖岳谦 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV1wVHS6PEMy</link>
-        <guid isPermaLink="false">bilibili-117403887404968</guid>
-        <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV1wVHS6PEMy">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小黛晨读：【参考信息第657期】不敢教到不愿学；未报批不能上台]]></title>
-        <link>https://www.bilibili.com/video/BV1vSHD6tEsM</link>
-        <guid isPermaLink="false">bilibili-117405045098243</guid>
-        <pubDate>Thu, 08 Oct 2026 11:48:20 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小黛晨读</p>
-<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1vSHD6tEsM">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小黛晨读]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 量化投资邢不行啊：股价越吉利,股票越赚钱?A股靠数字玄学炒股,靠谱吗?回文数/对子数,暗藏玄机?python量化大A数字密码,揭秘股价真相 | 量化投资邢不行啊]]></title>
-        <link>https://www.bilibili.com/video/BV1UAHQ6mE6F</link>
-        <guid isPermaLink="false">bilibili-117404558432265</guid>
-        <pubDate>Thu, 08 Oct 2026 09:30:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：量化投资邢不行啊</p>
-<p>888发发发，666留留留，
-A股股价是否真暗藏玄机？
-靠着数字玄学炒股靠谱吗？
-回文数对子数真能赚钱吗？
-
-喜欢视频记得三连，并点个关注～
-
-往期视频精选：
-513战法：BV1y1ht6PEU1
-红利低波策略：BV1S8eg6wE3S
-行业轮动策略：BV16MY46tEDG</p><p><a href="https://www.bilibili.com/video/BV1UAHQ6mE6F">查看原文 →</a></p>]]></description>
-        <author><![CDATA[量化投资邢不行啊]]></author>
         <category>B站</category>
     </item>
     
