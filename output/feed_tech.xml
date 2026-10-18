@@ -5,27 +5,44 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 17 Oct 2026 23:26:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 23:36:03 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月17日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月18日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-17</guid>
-        <pubDate>Sat, 17 Oct 2026 23:26:47 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-10-18</guid>
+        <pubDate>Sun, 18 Oct 2026 23:36:03 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 10月17日 23:26 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 10月18日 23:36 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-17</guid>
-        <pubDate>Sat, 17 Oct 2026 23:26:47 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 3 items</p><p><b>🎮 生活分享流 (life):</b> 10 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 3244 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-10-18</guid>
+        <pubDate>Sun, 18 Oct 2026 23:36:03 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 3 items</p><p><b>🎮 生活分享流 (life):</b> 6 items</p><p><b>🆕 本次新增:</b> 2 items</p><p><b>📦 数据库总量:</b> 3246 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点135期」艺术家用的IDE、交互式技术图解Skill、AI 生成原生PPT、多个 Agent 组织工具和复活的QQ宠物]]></title>
+        <link>https://www.bilibili.com/video/BV1EVJY6GEA6</link>
+        <guid isPermaLink="false">bilibili-117453749357462</guid>
+        <pubDate>Sat, 17 Oct 2026 01:56:39 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：IT咖啡馆</p>
+<p>1、项目名称：ArtCraft - 艺术家的AI IDE
+GitHub 链接：https://github.com/storytold/artcraft
+2、项目名称：Anatomy - 生成交互式技术图解的 Skill
+GitHub 链接：https://github.com/wheresryan22/anatomy
+3、项目名称：OpenRig - 组织多个 Agent 的工具
+GitHub </p><p><a href="https://www.bilibili.com/video/BV1EVJY6GEA6">查看原文 →</a></p>]]></description>
+        <author><![CDATA[IT咖啡馆]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -55,22 +72,6 @@
 从活动策划到TVC成片，一期带你跑通创作型Agent全流程！
 感谢铁铁们的三连+关注～</p><p><a href="https://www.bilibili.com/video/BV1Nyp96pEGD">查看原文 →</a></p>]]></description>
         <author><![CDATA[秋芝2046]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点134期」WebGPU效果组件库、PS5游戏搬到电脑、AI逆向软件、提升AI设计能力和健身记录应用]]></title>
-        <link>https://www.bilibili.com/video/BV1Mbp76oESC</link>
-        <guid isPermaLink="false">bilibili-117420144593401</guid>
-        <pubDate>Sun, 11 Oct 2026 03:33:48 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：IT咖啡馆</p>
-<p>1、项目名称：Shaders - 给网页添加 WebGPU 特效的开源组件库
-GitHub 链接：https://github.com/shader-effects-inc/shaders
-2、项目名称：AnyPS5 - 将 PS5 游戏移植到电脑工具
-GitHub 链接：https://github.com/boykopovar/AnyPS5
-3、项目名称：REA - 让 Agent 逆向分析一</p><p><a href="https://www.bilibili.com/video/BV1Mbp76oESC">查看原文 →</a></p>]]></description>
-        <author><![CDATA[IT咖啡馆]]></author>
         <category>B站</category>
     </item>
     

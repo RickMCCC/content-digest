@@ -5,27 +5,70 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 17 Oct 2026 23:26:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 23:36:03 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月17日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月18日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-17</guid>
-        <pubDate>Sat, 17 Oct 2026 23:26:47 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-10-18</guid>
+        <pubDate>Sun, 18 Oct 2026 23:36:03 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 10月17日 23:26 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 10月18日 23:36 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-17</guid>
-        <pubDate>Sat, 17 Oct 2026 23:26:47 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 3 items</p><p><b>🎮 生活分享流 (life):</b> 10 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 3244 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-10-18</guid>
+        <pubDate>Sun, 18 Oct 2026 23:36:03 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 3 items</p><p><b>🎮 生活分享流 (life):</b> 6 items</p><p><b>🆕 本次新增:</b> 2 items</p><p><b>📦 数据库总量:</b> 3246 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] torazyz：近期北京生活🤎秋游逛街vlog｜torazyz]]></title>
+        <link>https://www.bilibili.com/video/BV1pYJ46PE2B</link>
+        <guid isPermaLink="false">bilibili-117451098424916</guid>
+        <pubDate>Sat, 17 Oct 2026 02:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：torazyz</p>
+<p>感谢观看
+
+更多内容 欢迎关注 Find me on：
+RED: torazyz
+Instagram: torazyz
+YouTube: Tora Zhang
+Bili: @torazyz    
+
+Henry’s
+RED: HenryHsu
+YouTube: Henry Hsu
+Bili: @iamHenryHsu    
+Instagram: iamhenryhsu
+
+联系我们: contac</p><p><a href="https://www.bilibili.com/video/BV1pYJ46PE2B">查看原文 →</a></p>]]></description>
+        <author><![CDATA[torazyz]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点135期」艺术家用的IDE、交互式技术图解Skill、AI 生成原生PPT、多个 Agent 组织工具和复活的QQ宠物]]></title>
+        <link>https://www.bilibili.com/video/BV1EVJY6GEA6</link>
+        <guid isPermaLink="false">bilibili-117453749357462</guid>
+        <pubDate>Sat, 17 Oct 2026 01:56:39 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：IT咖啡馆</p>
+<p>1、项目名称：ArtCraft - 艺术家的AI IDE
+GitHub 链接：https://github.com/storytold/artcraft
+2、项目名称：Anatomy - 生成交互式技术图解的 Skill
+GitHub 链接：https://github.com/wheresryan22/anatomy
+3、项目名称：OpenRig - 组织多个 Agent 的工具
+GitHub </p><p><a href="https://www.bilibili.com/video/BV1EVJY6GEA6">查看原文 →</a></p>]]></description>
+        <author><![CDATA[IT咖啡馆]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -119,98 +162,6 @@
 1. 选举格局：库克报告将18个众议院席位和3个参议院席位倾向转向民主党，密歇根、堪萨斯等关键州的竞争进入白热化阶段。距离中期选举仅剩23天，双方正全力争取“赢得足够多的票数，确保胜利无可争议”。  
 2. 特朗普俄油协议：特朗普在解除对俄制裁的同时签署燃料采购交易，声称可缓解能源危机并呼吁乌克兰</p><p><a href="https://www.bilibili.com/video/BV1LBpD6fEra">查看原文 →</a></p>]]></description>
         <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot (2026-10-11): 8 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1C4pa6WE5i</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-10-11-a1c5d27b</guid>
-        <pubDate>Sun, 11 Oct 2026 12:14:36 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1C4pa6WE5i">【中英字幕】彭博科技前沿26.10.09完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1kcpL6TEpE">【中英字幕】华尔街周刊26.10.10完整版:资本新流向：AI融资、密歇根制造业复兴、童年储蓄计划与阿尔伯塔煤炭复活</a></li>
-<li><a href="https://www.bilibili.com/video/BV11YpL6LEcu">【中英字幕】《ALL-IN》播客26.10.10完整版：AI意识争议、数学突破与新技术革命背后的信仰、经济与社会冲突</a></li>
-<li><a href="https://www.bilibili.com/video/BV1Yxph6KEea">【中英字幕】巴伦周刊26.10.10完整版：真实收益率、债券角色与热点ETF全解析</a></li>
-<li><a href="https://www.bilibili.com/video/BV1hsp76bE7b">【中英字幕】26.10.10川普在田纳西州参加中期选举拉票助选活动并发表演讲完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1u2p56mEEK">【中英字幕】26.10.10川普就沙特机场袭击事件回答记者提问完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1eLpL6oEX1">【中英字幕】26.10.10川普在田纳西州发表中期选举拉票演讲完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV18HpL6XEv1">【中英字幕】26.10.10川普在白宫回答记者提问完整版：是时候给乌克兰更换总统了</a></li>
-</ul>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 历史调研室：蒋介石为何能打败所有军阀？唯独又打不过红军？【历史调研室108】]]></title>
-        <link>https://www.bilibili.com/video/BV1wspE6EEFd</link>
-        <guid isPermaLink="false">bilibili-117421956401621</guid>
-        <pubDate>Sun, 11 Oct 2026 11:21:26 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：历史调研室</p>
-<p><a href="https://www.bilibili.com/video/BV1wspE6EEFd">查看原文 →</a></p>]]></description>
-        <author><![CDATA[历史调研室]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】我们的员工们火气很大啊💥 | 令人抓狂的旗安庄2 匿名树洞游戏 261004]]></title>
-        <link>https://www.bilibili.com/video/BV1wxpE6mEfk</link>
-        <guid isPermaLink="false">bilibili-117421872519040</guid>
-        <pubDate>Sun, 11 Oct 2026 10:50:59 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>ytb
-资源：yorkie
-翻译：saki
-时间轴/校对/压制：末末
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1wxpE6mEfk">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小王Albert：我们来到了地中海，重走《奥德赛》十年回家路！]]></title>
-        <link>https://www.bilibili.com/video/BV1mopE6xEqv</link>
-        <guid isPermaLink="false">bilibili-117421268539265</guid>
-        <pubDate>Sun, 11 Oct 2026 09:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小王Albert</p>
-<p><a href="https://www.bilibili.com/video/BV1mopE6xEqv">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小王Albert]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点134期」WebGPU效果组件库、PS5游戏搬到电脑、AI逆向软件、提升AI设计能力和健身记录应用]]></title>
-        <link>https://www.bilibili.com/video/BV1Mbp76oESC</link>
-        <guid isPermaLink="false">bilibili-117420144593401</guid>
-        <pubDate>Sun, 11 Oct 2026 03:33:48 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：IT咖啡馆</p>
-<p>1、项目名称：Shaders - 给网页添加 WebGPU 特效的开源组件库
-GitHub 链接：https://github.com/shader-effects-inc/shaders
-2、项目名称：AnyPS5 - 将 PS5 游戏移植到电脑工具
-GitHub 链接：https://github.com/boykopovar/AnyPS5
-3、项目名称：REA - 让 Agent 逆向分析一</p><p><a href="https://www.bilibili.com/video/BV1Mbp76oESC">查看原文 →</a></p>]]></description>
-        <author><![CDATA[IT咖啡馆]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】遇到最难搞的反派, 允真和李军的生存之道 | #HMM EP.3 261005]]></title>
-        <link>https://www.bilibili.com/video/BV1c7pG6fEb2</link>
-        <guid isPermaLink="false">bilibili-117417309114874</guid>
-        <pubDate>Sat, 10 Oct 2026 15:33:13 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>资源：大癫
-翻译：yorkie
-时间轴/压制：末末
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1c7pG6fEb2">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
         <category>B站</category>
     </item>
     
