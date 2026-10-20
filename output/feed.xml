@@ -5,25 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 18 Oct 2026 23:36:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 00:39:00 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月18日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月20日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-18</guid>
-        <pubDate>Sun, 18 Oct 2026 23:36:03 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-10-20</guid>
+        <pubDate>Tue, 20 Oct 2026 00:38:59 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 10月18日 23:36 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 10月20日 00:39 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-18</guid>
-        <pubDate>Sun, 18 Oct 2026 23:36:03 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 3 items</p><p><b>🎮 生活分享流 (life):</b> 6 items</p><p><b>🆕 本次新增:</b> 2 items</p><p><b>📦 数据库总量:</b> 3246 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-10-20</guid>
+        <pubDate>Tue, 20 Oct 2026 00:39:00 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 2 items</p><p><b>🎮 生活分享流 (life):</b> 3 items</p><p><b>🆕 本次新增:</b> 0 items</p><p><b>📦 数据库总量:</b> 3246 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -108,60 +108,6 @@ GitHub </p><p><a href="https://www.bilibili.com/video/BV1EVJY6GEA6">查看原文
 <p>✍️ 作者：新西兰三妹</p>
 <p><a href="https://www.bilibili.com/video/BV1GWWA6oEzi">查看原文 →</a></p>]]></description>
         <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小黛晨读：【参考信息第659期】能不能说人话；对“速成车”说不]]></title>
-        <link>https://www.bilibili.com/video/BV1g7po6qEME</link>
-        <guid isPermaLink="false">bilibili-117427811649409</guid>
-        <pubDate>Mon, 12 Oct 2026 12:07:24 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小黛晨读</p>
-<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1g7po6qEME">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小黛晨读]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：官媒点名批蔡康永两面人 强调大是大非不容骑墙! 沈逸 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV1NWpR6RE57</link>
-        <guid isPermaLink="false">bilibili-117426570135058</guid>
-        <pubDate>Mon, 12 Oct 2026 12:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV1NWpR6RE57">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 秋芝2046：人人都要学！Agent 视觉创作全流程～【小白教程】]]></title>
-        <link>https://www.bilibili.com/video/BV1Nyp96pEGD</link>
-        <guid isPermaLink="false">bilibili-117427342017510</guid>
-        <pubDate>Mon, 12 Oct 2026 10:30:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：秋芝2046</p>
-<p>做PPT、商品图、广告片！
-从活动策划到TVC成片，一期带你跑通创作型Agent全流程！
-感谢铁铁们的三连+关注～</p><p><a href="https://www.bilibili.com/video/BV1Nyp96pEGD">查看原文 →</a></p>]]></description>
-        <author><![CDATA[秋芝2046]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot：【中英字幕】NBC《与媒体见面》26.10.11完整版]]></title>
-        <link>https://www.bilibili.com/video/BV1LBpD6fEra</link>
-        <guid isPermaLink="false">bilibili-117424741487096</guid>
-        <pubDate>Mon, 12 Oct 2026 00:04:12 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Mr-Pot</p>
-<p>本期视频标题：中期选举风暴：密歇根参议席争夺、特朗普俄油交易及民主与法治的关键考验
-
-本期视频要点：
-1. 选举格局：库克报告将18个众议院席位和3个参议院席位倾向转向民主党，密歇根、堪萨斯等关键州的竞争进入白热化阶段。距离中期选举仅剩23天，双方正全力争取“赢得足够多的票数，确保胜利无可争议”。  
-2. 特朗普俄油协议：特朗普在解除对俄制裁的同时签署燃料采购交易，声称可缓解能源危机并呼吁乌克兰</p><p><a href="https://www.bilibili.com/video/BV1LBpD6fEra">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
         <category>B站</category>
     </item>
     
