@@ -5,27 +5,124 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 29 Oct 2026 01:15:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 01:21:35 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月29日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月30日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-29</guid>
-        <pubDate>Thu, 29 Oct 2026 01:15:57 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-10-30</guid>
+        <pubDate>Fri, 30 Oct 2026 01:21:35 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 10月29日 01:15 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 10月30日 01:21 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-29</guid>
-        <pubDate>Thu, 29 Oct 2026 01:15:57 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 0 items</p><p><b>🎮 生活分享流 (life):</b> 12 items</p><p><b>🆕 本次新增:</b> 18 items</p><p><b>📦 数据库总量:</b> 3275 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-10-30</guid>
+        <pubDate>Fri, 30 Oct 2026 01:21:35 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 6 items</p><p><b>🎮 生活分享流 (life):</b> 22 items</p><p><b>🆕 本次新增:</b> 35 items</p><p><b>📦 数据库总量:</b> 3310 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 硅谷101：机器人也需要“手感”：帕西尼谈触觉、数据与物理AI｜硅谷101年度线下大会]]></title>
+        <link>https://www.bilibili.com/video/BV1a5sZ6LEUG</link>
+        <guid isPermaLink="false">bilibili-117522787471645</guid>
+        <pubDate>Thu, 29 Oct 2026 10:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：硅谷101</p>
+<p>当AI开始走进物理世界，机器人也需要学会感受每一次接触。拿起一个物体，该用多大的力？碰到东西之后，又该怎样调整动作？这些我们习以为常的细节，都是机器人需要学习的东西。
+在硅谷101 Alignment 2026大会上，帕西尼（PaXini AI）创始人兼CEO许晋诚博士介绍了团队研发的触觉与力觉传感器、灵巧手以及已累积超100万小时的OmniSharing DB数据集。从感知接触和受力，到让模型学</p><p><a href="https://www.bilibili.com/video/BV1a5sZ6LEUG">查看原文 →</a></p>]]></description>
+        <author><![CDATA[硅谷101]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 巫师财经：【巫师】马云的资本博弈]]></title>
+        <link>https://www.bilibili.com/video/BV1ffso6xEyP</link>
+        <guid isPermaLink="false">bilibili-117522753984709</guid>
+        <pubDate>Thu, 29 Oct 2026 06:44:57 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：巫师财经</p>
+<p><a href="https://www.bilibili.com/video/BV1ffso6xEyP">查看原文 →</a></p>]]></description>
+        <author><![CDATA[巫师财经]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 量化投资邢不行啊：做量化的开挂,能叫作弊吗?自用机构级消息工具开源了?24小时追踪最新宏观/股市/个股/基金信息,散户不用再看包浆小作文了 | 量化投资邢不行啊]]></title>
+        <link>https://www.bilibili.com/video/BV1ZdxL6gEkF</link>
+        <guid isPermaLink="false">bilibili-117517351653601</guid>
+        <pubDate>Wed, 28 Oct 2026 09:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：量化投资邢不行啊</p>
+<p>市场的消息千变万化，
+散户总比机构慢一拍，
+做量化的开个挂，
+也不算是作弊吧？
+分享一个我自用的工具，
+能24小时帮我监控消息，
+你想知道的一切信息，
+都能在第一时间获取。
+
+喜欢视频记得三连，并点个关注～
+
+往期视频精选：
+AI量化的正确方式：BV17HMk6qEqa
+AI辅助量化交易：BV1TBrhYCEKv
+DeepSeek做量化：BV1hzdAYuE3e</p><p><a href="https://www.bilibili.com/video/BV1ZdxL6gEkF">查看原文 →</a></p>]]></description>
+        <author><![CDATA[量化投资邢不行啊]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 硅谷101：AI重构跨境支付：效率、风控与Agent商业时代【硅谷101】]]></title>
+        <link>https://www.bilibili.com/video/BV1o6nQ6bErY</link>
+        <guid isPermaLink="false">bilibili-117504835918759</guid>
+        <pubDate>Mon, 26 Oct 2026 02:29:31 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：硅谷101</p>
+<p>跨境支付，正在变得越来越简单。点一下、扫一下，一笔付款就完成了。但看似简单的操作，背后却牵动着一整条复杂的支付链路。而现在，AI正在改变这条链路。
+
+一方面，AI开始进入支付的各个环节，从市场接入、交易风控，到对账和系统运维，让原本依赖大量人工的工作变得更加高效、智能。另一方面，AI也带来了全新的交易场景。当Agent开始替人选商品、找优惠，甚至下单付款，支付系统也面临着新的挑战：如何确认授权、识</p><p><a href="https://www.bilibili.com/video/BV1o6nQ6bErY">查看原文 →</a></p>]]></description>
+        <author><![CDATA[硅谷101]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 硅谷101：AI助理争夺战：解析Muse、Grok Bot与Instinct背后的产品布局、入口生意与盈利难题【硅谷101】]]></title>
+        <link>https://www.bilibili.com/video/BV1T4nH6oEFC</link>
+        <guid isPermaLink="false">bilibili-117485290459173</guid>
+        <pubDate>Fri, 23 Oct 2026 03:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：硅谷101</p>
+<p>10月21日，Anthropic发布了Claude Duet：AI不只等着回答问题，还能主动提醒、在后台持续处理任务。从卖二手家具、订机票，到整理客户资料、协调工作，一批能替人办事的AI Agent，正在争夺我们生活和工作中的位置。
+
+Instinct把私人助理放进短信，Meta Muse借助社交生态承接日常需求，Grok Bot则把长期委托组织成一支数字团队。产品形态不同，它们却都想建立同一个习</p><p><a href="https://www.bilibili.com/video/BV1T4nH6oEFC">查看原文 →</a></p>]]></description>
+        <author><![CDATA[硅谷101]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 3Blue1Brown：【官方双语】投身数学，从未有过比现在更好的时候]]></title>
+        <link>https://www.bilibili.com/video/BV1HBnH6JEAZ</link>
+        <guid isPermaLink="false">bilibili-117485240195865</guid>
+        <pubDate>Fri, 23 Oct 2026 01:35:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：3Blue1Brown</p>
+<p>如果 AI 在证明定理上全面超过人类，数学会消失吗？显然不会，而且现在恰恰是进入数学领域最好的时机。  
+There‘s never been a better time to go into math  
+https://youtu.be/LKrwhjOI8Nc  
+翻译&时间轴&后期：astra  
+校正：贰鼠  
+感谢观众的支持: https://3b1b.co/support  
+一键三联</p><p><a href="https://www.bilibili.com/video/BV1HBnH6JEAZ">查看原文 →</a></p>]]></description>
+        <author><![CDATA[3Blue1Brown]]></author>
+        <category>B站</category>
     </item>
     
 </channel>
