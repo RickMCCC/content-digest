@@ -5,27 +5,88 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 30 Oct 2026 01:21:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 01:04:51 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月30日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月31日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-30</guid>
-        <pubDate>Fri, 30 Oct 2026 01:21:35 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-10-31</guid>
+        <pubDate>Sat, 31 Oct 2026 01:04:51 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 10月30日 01:21 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 10月31日 01:04 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-30</guid>
-        <pubDate>Fri, 30 Oct 2026 01:21:35 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 6 items</p><p><b>🎮 生活分享流 (life):</b> 22 items</p><p><b>🆕 本次新增:</b> 35 items</p><p><b>📦 数据库总量:</b> 3310 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-10-31</guid>
+        <pubDate>Sat, 31 Oct 2026 01:04:51 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 13 items</p><p><b>🎮 生活分享流 (life):</b> 26 items</p><p><b>🆕 本次新增:</b> 20 items</p><p><b>📦 数据库总量:</b> 3330 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 马督工：【睡前消息1124】赶走711 断供盾构机]]></title>
+        <link>https://www.bilibili.com/video/BV1vZxi68E2p</link>
+        <guid isPermaLink="false">bilibili-117529968188259</guid>
+        <pubDate>Fri, 30 Oct 2026 13:13:43 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：马督工</p>
+<p>1 印度服务业足够卷，711便利店退出
+2 印度工业相对薄弱，盾构机卡脖子</p><p><a href="https://www.bilibili.com/video/BV1vZxi68E2p">查看原文 →</a></p>]]></description>
+        <author><![CDATA[马督工]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小王Albert：一条视频看10月世界：中东在燃烧，法国在骚乱，中国网友在跨国吵架]]></title>
+        <link>https://www.bilibili.com/video/BV1rCxe6wEN9</link>
+        <guid isPermaLink="false">bilibili-117529565533597</guid>
+        <pubDate>Fri, 30 Oct 2026 11:30:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小王Albert</p>
+<p>一键三连推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV1rCxe6wEN9">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小王Albert]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Grandpagu顾爷：AAAAA伦敦City Walk（下）]]></title>
+        <link>https://www.bilibili.com/video/BV1oTxF6ZEth</link>
+        <guid isPermaLink="false">bilibili-117523492182067</guid>
+        <pubDate>Fri, 30 Oct 2026 04:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：Grandpagu顾爷</p>
+<p><a href="https://www.bilibili.com/video/BV1oTxF6ZEth">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Grandpagu顾爷]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenAI 将 Pro 各档与 Business Premium 用量翻倍，dots 继续提供单独用量【AI 早报 2026-10-30】]]></title>
+        <link>https://www.bilibili.com/video/BV1fMxP6CE6y</link>
+        <guid isPermaLink="false">bilibili-117527233497998</guid>
+        <pubDate>Fri, 30 Oct 2026 01:26:09 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1fMxP6CE6y">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第666期】眉山依靠成都；海南山西垫底]]></title>
+        <link>https://www.bilibili.com/video/BV1ETxw6qEgh</link>
+        <guid isPermaLink="false">bilibili-117524263994913</guid>
+        <pubDate>Thu, 29 Oct 2026 12:51:17 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1ETxw6qEgh">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -78,6 +139,30 @@
     </item>
     
     <item>
+        <title><![CDATA[[B站] 橘鸦juya：Google 推出 Gemini 4 Carbon；ChatGPT Pro 与 Business 订阅获赠 API 额度【AI 早报 2026-10-29】]]></title>
+        <link>https://www.bilibili.com/video/BV1KJsd6NEbj</link>
+        <guid isPermaLink="false">bilibili-117521697082787</guid>
+        <pubDate>Thu, 29 Oct 2026 01:58:21 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1KJsd6NEbj">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：龙王归来，Gemini 4 Carbon 发布！（但还用不到]]></title>
+        <link>https://www.bilibili.com/video/BV1Nwso6vE17</link>
+        <guid isPermaLink="false">bilibili-117521495624406</guid>
+        <pubDate>Thu, 29 Oct 2026 01:09:16 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1Nwso6vE17">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 新西兰三妹：横跨4大洲! 足以震撼全球的10天! 四国大选连环登场！介文汲 三妹]]></title>
         <link>https://www.bilibili.com/video/BV1dBxj6rEHA</link>
         <guid isPermaLink="false">bilibili-117517150390646</guid>
@@ -124,6 +209,18 @@ AI量化的正确方式：BV17HMk6qEqa
 AI辅助量化交易：BV1TBrhYCEKv
 DeepSeek做量化：BV1hzdAYuE3e</p><p><a href="https://www.bilibili.com/video/BV1ZdxL6gEkF">查看原文 →</a></p>]]></description>
         <author><![CDATA[量化投资邢不行啊]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Google DeepMind 发布世界模型 Genie 4【AI 早报 2026-10-28】]]></title>
+        <link>https://www.bilibili.com/video/BV1GHxL6eES1</link>
+        <guid isPermaLink="false">bilibili-117515908811407</guid>
+        <pubDate>Wed, 28 Oct 2026 01:26:13 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1GHxL6eES1">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
@@ -214,6 +311,18 @@ BBC News：《LONG READ: The fi</p><p><a href="https://www.bilibili.com/video/BV
     </item>
     
     <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenAI 发布 GPT-6.1 Terra【AI 早报 2026-10-27】]]></title>
+        <link>https://www.bilibili.com/video/BV162HF64EBS</link>
+        <guid isPermaLink="false">bilibili-117510187779957</guid>
+        <pubDate>Tue, 27 Oct 2026 01:10:31 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV162HF64EBS">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] Mr-Pot (2026-10-26): 5 posts]]></title>
         <link>https://www.bilibili.com/video/BV1UbnZ6cEe4</link>
         <guid isPermaLink="false">bilibili-grouped-2026-10-26-a1c5d27b</guid>
@@ -226,6 +335,18 @@ BBC News：《LONG READ: The fi</p><p><a href="https://www.bilibili.com/video/BV
 <li><a href="https://www.bilibili.com/video/BV1YmnQ69EZ3">【中英字幕】26.10.25川普在密歇根州助选集会上发表中期选举拉票演讲完整版</a></li>
 </ul>]]></description>
         <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第665期】随份子最多一百；社保扩大收入差距]]></title>
+        <link>https://www.bilibili.com/video/BV1FCnZ6QELb</link>
+        <guid isPermaLink="false">bilibili-117507235056553</guid>
+        <pubDate>Mon, 26 Oct 2026 12:57:40 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1FCnZ6QELb">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
         <category>B站</category>
     </item>
     
@@ -256,6 +377,18 @@ BBC News：《LONG READ: The fi</p><p><a href="https://www.bilibili.com/video/BV
     </item>
     
     <item>
+        <title><![CDATA[[B站] 橘鸦juya：Kimi 致歉 K3.1 Pro 限流并重置用量【AI 早报 2026-10-26】]]></title>
+        <link>https://www.bilibili.com/video/BV1QmnQ69EDE</link>
+        <guid isPermaLink="false">bilibili-117504416483887</guid>
+        <pubDate>Mon, 26 Oct 2026 00:42:02 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1QmnQ69EDE">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 马督工：【睡前消息1122】98%新岗位，归美国女人]]></title>
         <link>https://www.bilibili.com/video/BV1JRHV6bEsa</link>
         <guid isPermaLink="false">bilibili-117501631404816</guid>
@@ -264,6 +397,30 @@ BBC News：《LONG READ: The fi</p><p><a href="https://www.bilibili.com/video/BV
 <p>✍️ 作者：马督工</p>
 <p>-</p><p><a href="https://www.bilibili.com/video/BV1JRHV6bEsa">查看原文 →</a></p>]]></description>
         <author><![CDATA[马督工]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：WorkBuddy 内测技能与专家付费功能【AI 早报 2026-10-25】]]></title>
+        <link>https://www.bilibili.com/video/BV1zuH36HEPP</link>
+        <guid isPermaLink="false">bilibili-117498879936359</guid>
+        <pubDate>Sun, 25 Oct 2026 01:15:42 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1zuH36HEPP">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第664期】富豪排队补税；青年跨国抗议]]></title>
+        <link>https://www.bilibili.com/video/BV1gdHN6dEat</link>
+        <guid isPermaLink="false">bilibili-117495860037602</guid>
+        <pubDate>Sat, 24 Oct 2026 12:52:57 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1gdHN6dEat">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
         <category>B站</category>
     </item>
     
@@ -321,6 +478,44 @@ BBC News：《LONG READ: The fi</p><p><a href="https://www.bilibili.com/video/BV
     </item>
     
     <item>
+        <title><![CDATA[[B站] torazyz：沉浸式逛街vlog🐑 秋冬购物 The Row, COLOMBO｜torazyz]]></title>
+        <link>https://www.bilibili.com/video/BV1EXnt6PET4</link>
+        <guid isPermaLink="false">bilibili-117489468050867</guid>
+        <pubDate>Sat, 24 Oct 2026 02:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：torazyz</p>
+<p>感谢观看
+
+更多内容 欢迎关注 Find me on：
+RED: torazyz
+Instagram: torazyz
+YouTube: Tora Zhang
+Bili: @torazyz    
+
+Henry’s
+RED: HenryHsu
+YouTube: Henry Hsu
+Bili: @iamHenryHsu    
+Instagram: iamhenryhsu
+
+联系我们: contac</p><p><a href="https://www.bilibili.com/video/BV1EXnt6PET4">查看原文 →</a></p>]]></description>
+        <author><![CDATA[torazyz]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：月之暗面发布 Kimi K3.1 Pro【AI 早报 2026-10-24】]]></title>
+        <link>https://www.bilibili.com/video/BV17BHA68Egy</link>
+        <guid isPermaLink="false">bilibili-117493276346256</guid>
+        <pubDate>Sat, 24 Oct 2026 01:29:43 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV17BHA68Egy">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 小王Albert：“非洲优等生”成功密码是什么？天降猛男的得与失【东非05丨卢旺达】]]></title>
         <link>https://www.bilibili.com/video/BV1Wsnb63Eo5</link>
         <guid isPermaLink="false">bilibili-117489316926755</guid>
@@ -350,77 +545,14 @@ BBC News：《LONG READ: The fi</p><p><a href="https://www.bilibili.com/video/BV
     </item>
     
     <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】LE SSERAFIM:K-POP届的新女王 | C à vous 采访 261023]]></title>
-        <link>https://www.bilibili.com/video/BV1dpn86hEdY</link>
-        <guid isPermaLink="false">bilibili-117490893984127</guid>
-        <pubDate>Fri, 23 Oct 2026 15:24:05 GMT</pubDate>
+        <title><![CDATA[[B站] 橘鸦juya：Kimi K3.1 Pro 深夜突袭：3T 级别参数硬刚 Astra 与 Fable！开源 SOTA 杀回第一梯队！]]></title>
+        <link>https://www.bilibili.com/video/BV1Mdnh6ZEZi</link>
+        <guid isPermaLink="false">bilibili-117492018056584</guid>
+        <pubDate>Fri, 23 Oct 2026 20:08:12 GMT</pubDate>
         <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>ytb
-资源：SAKI
-翻译：SAKI -CatchTheWave(外援)
-校对：-CatchTheWave(外援)
-时间轴/压制：大癫
-
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1dpn86hEdY">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：美陆军新作战指南! 若"台海有事"首日即投入作战! 沈逸 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV1qqnb6AEuw</link>
-        <guid isPermaLink="false">bilibili-117488914336015</guid>
-        <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV1qqnb6AEuw">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Grandpagu顾爷：AAAAA伦敦City Walk（上）]]></title>
-        <link>https://www.bilibili.com/video/BV1ckn26XE7F</link>
-        <guid isPermaLink="false">bilibili-117484401203453</guid>
-        <pubDate>Fri, 23 Oct 2026 04:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Grandpagu顾爷</p>
-<p><a href="https://www.bilibili.com/video/BV1ckn26XE7F">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Grandpagu顾爷]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 硅谷101：AI助理争夺战：解析Muse、Grok Bot与Instinct背后的产品布局、入口生意与盈利难题【硅谷101】]]></title>
-        <link>https://www.bilibili.com/video/BV1T4nH6oEFC</link>
-        <guid isPermaLink="false">bilibili-117485290459173</guid>
-        <pubDate>Fri, 23 Oct 2026 03:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：硅谷101</p>
-<p>10月21日，Anthropic发布了Claude Duet：AI不只等着回答问题，还能主动提醒、在后台持续处理任务。从卖二手家具、订机票，到整理客户资料、协调工作，一批能替人办事的AI Agent，正在争夺我们生活和工作中的位置。
-
-Instinct把私人助理放进短信，Meta Muse借助社交生态承接日常需求，Grok Bot则把长期委托组织成一支数字团队。产品形态不同，它们却都想建立同一个习</p><p><a href="https://www.bilibili.com/video/BV1T4nH6oEFC">查看原文 →</a></p>]]></description>
-        <author><![CDATA[硅谷101]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 3Blue1Brown：【官方双语】投身数学，从未有过比现在更好的时候]]></title>
-        <link>https://www.bilibili.com/video/BV1HBnH6JEAZ</link>
-        <guid isPermaLink="false">bilibili-117485240195865</guid>
-        <pubDate>Fri, 23 Oct 2026 01:35:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：3Blue1Brown</p>
-<p>如果 AI 在证明定理上全面超过人类，数学会消失吗？显然不会，而且现在恰恰是进入数学领域最好的时机。  
-There‘s never been a better time to go into math  
-https://youtu.be/LKrwhjOI8Nc  
-翻译&时间轴&后期：astra  
-校正：贰鼠  
-感谢观众的支持: https://3b1b.co/support  
-一键三联</p><p><a href="https://www.bilibili.com/video/BV1HBnH6JEAZ">查看原文 →</a></p>]]></description>
-        <author><![CDATA[3Blue1Brown]]></author>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1Mdnh6ZEZi">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
