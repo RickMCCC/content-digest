@@ -5,27 +5,100 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 31 Oct 2026 01:04:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 00:25:08 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月31日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月01日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-31</guid>
-        <pubDate>Sat, 31 Oct 2026 01:04:51 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-01</guid>
+        <pubDate>Sun, 01 Nov 2026 00:25:08 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 10月31日 01:04 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月01日 00:25 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-31</guid>
-        <pubDate>Sat, 31 Oct 2026 01:04:51 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 13 items</p><p><b>🎮 生活分享流 (life):</b> 26 items</p><p><b>🆕 本次新增:</b> 20 items</p><p><b>📦 数据库总量:</b> 3330 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-01</guid>
+        <pubDate>Sun, 01 Nov 2026 00:25:08 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 13 items</p><p><b>🎮 生活分享流 (life):</b> 22 items</p><p><b>🆕 本次新增:</b> 14 items</p><p><b>📦 数据库总量:</b> 3344 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Mr-Pot (2026-10-31): 8 posts]]></title>
+        <link>https://www.bilibili.com/video/BV167xy6fE1E</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-10-31-a1c5d27b</guid>
+        <pubDate>Sat, 31 Oct 2026 14:10:08 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV167xy6fE1E">【中英字幕】CNBC分析：投资者为何追捧Wonder，自动化美食广场的崛起与未来挑战</a></li>
+<li><a href="https://www.bilibili.com/video/BV11Ax66XEhK">【中英字幕】《ALL-IN》播客26.10.30完整版：Anthropic S‑1披露：AI巨头冲刺IPO，资本效能、算力风险与政经博弈</a></li>
+<li><a href="https://www.bilibili.com/video/BV1RCxr65Edb">【中英字幕】26.10.30川普在佛罗里达州助选集会上发表中期选举拉票演讲完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1pcxw6rEVP">【中英字幕】巴伦周刊26.10.28完整版：创新加速冲击娱乐业：从Netflix到AI投资的全景解析</a></li>
+<li><a href="https://www.bilibili.com/video/BV1qjxB6KEZb">【中英字幕】彭博财经观察26.10.30完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1Psxz6SEJm">【中英字幕】26.10.30美财长贝森特在明尼苏达州召开欺诈工作组新闻发布会完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1DQxz6cETV">【中英字幕】26.10.30川普在白宫会见俄罗斯获释美国公民并发表演讲完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1Mgxq6HEqC">【中英字幕】彭博财经简报26.10.30完整版</a></li>
+</ul>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第667期】千元股大逃杀；谁都冒充警察]]></title>
+        <link>https://www.bilibili.com/video/BV1P9xy6KE3X</link>
+        <guid isPermaLink="false">bilibili-117535571839434</guid>
+        <pubDate>Sat, 31 Oct 2026 12:52:54 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1P9xy6KE3X">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点136期」小显卡也能运行deepseek，内存和SSD来帮忙]]></title>
+        <link>https://www.bilibili.com/video/BV13Txz6wE3o</link>
+        <guid isPermaLink="false">bilibili-117530706316378</guid>
+        <pubDate>Sat, 31 Oct 2026 02:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：IT咖啡馆</p>
+<p>1、项目名称：Strata - 消费级显卡运行deepseek
+GitHub 链接：https://github.com/Niko1221/Strata
+2、项目名称：DeepInfer - DeepSeek的大规模模型推理框架
+GitHub 链接：https://github.com/deepseek-ai/DeepInfer
+3、项目名称：OpenCode - 2.x时代的opencode
+G</p><p><a href="https://www.bilibili.com/video/BV13Txz6wE3o">查看原文 →</a></p>]]></description>
+        <author><![CDATA[IT咖啡馆]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Anthropic 更名 Claude Max 20x 档位为 Ultra，并逐步取消已验证 Ultra 账户五小时限制【AI 早报 2026-10-31】]]></title>
+        <link>https://www.bilibili.com/video/BV1qHxk6EEHN</link>
+        <guid isPermaLink="false">bilibili-117532870576524</guid>
+        <pubDate>Sat, 31 Oct 2026 01:22:14 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1qHxk6EEHN">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Mr-Pot (2026-10-30): 2 posts]]></title>
+        <link>https://www.bilibili.com/video/BV17dxP6rEgE</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-10-30-a1c5d27b</guid>
+        <pubDate>Fri, 30 Oct 2026 15:45:59 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV17dxP6rEgE">【中英字幕】彭博科技前沿26.10.29完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1LfxP6zEzX">【中英字幕】26.10.29川普在机场回答记者提问完整版</a></li>
+</ul>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -98,6 +171,18 @@
 <p>✍️ 作者：新西兰三妹</p>
 <p><a href="https://www.bilibili.com/video/BV1hGsZ62Em7">查看原文 →</a></p>]]></description>
         <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 鹿头军师：张五常为什么说“县际竞争”是史上最好的经济制度？【解读中国经济26】]]></title>
+        <link>https://www.bilibili.com/video/BV1nrxF6vEru</link>
+        <guid isPermaLink="false">bilibili-117523324344226</guid>
+        <pubDate>Thu, 29 Oct 2026 10:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：鹿头军师</p>
+<p>欢迎一键三连推荐给更多朋友！！</p><p><a href="https://www.bilibili.com/video/BV1nrxF6vEru">查看原文 →</a></p>]]></description>
+        <author><![CDATA[鹿头军师]]></author>
         <category>B站</category>
     </item>
     
@@ -408,150 +493,6 @@ BBC News：《LONG READ: The fi</p><p><a href="https://www.bilibili.com/video/BV
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1zuH36HEPP">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小黛晨读：【参考信息第664期】富豪排队补税；青年跨国抗议]]></title>
-        <link>https://www.bilibili.com/video/BV1gdHN6dEat</link>
-        <guid isPermaLink="false">bilibili-117495860037602</guid>
-        <pubDate>Sat, 24 Oct 2026 12:52:57 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小黛晨读</p>
-<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1gdHN6dEat">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小黛晨读]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】 LE SSERAFIM SAKURA的备忘录里写了些什么？| 261022 30 UNDER 30采访]]></title>
-        <link>https://www.bilibili.com/video/BV1GRHN64EBK</link>
-        <guid isPermaLink="false">bilibili-117495809708419</guid>
-        <pubDate>Sat, 24 Oct 2026 12:13:21 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>ytb
-资源：saki
-翻译：Zzzz
-时间轴/压制：大癫
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1GRHN64EBK">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 马督工：这个地方，明朝我来过【临高启明巡礼】]]></title>
-        <link>https://www.bilibili.com/video/BV1aQHA6DEww</link>
-        <guid isPermaLink="false">bilibili-117495004469985</guid>
-        <pubDate>Sat, 24 Oct 2026 10:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：马督工</p>
-<p><a href="https://www.bilibili.com/video/BV1aQHA6DEww">查看原文 →</a></p>]]></description>
-        <author><![CDATA[马督工]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小Lin说：你需要多少钱，才能财富自由？]]></title>
-        <link>https://www.bilibili.com/video/BV1yUHP6rEYD</link>
-        <guid isPermaLink="false">bilibili-117494719189302</guid>
-        <pubDate>Sat, 24 Oct 2026 09:30:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小Lin说</p>
-<p><a href="https://www.bilibili.com/video/BV1yUHP6rEYD">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小Lin说]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 马督工：大革命失败主因是苏联经验无效还是军阀背叛？【马督工带你读懂民国29】]]></title>
-        <link>https://www.bilibili.com/video/BV13QHA6DEZ2</link>
-        <guid isPermaLink="false">bilibili-117495004403466</guid>
-        <pubDate>Sat, 24 Oct 2026 09:13:17 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：马督工</p>
-<p><a href="https://www.bilibili.com/video/BV13QHA6DEZ2">查看原文 →</a></p>]]></description>
-        <author><![CDATA[马督工]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] torazyz：沉浸式逛街vlog🐑 秋冬购物 The Row, COLOMBO｜torazyz]]></title>
-        <link>https://www.bilibili.com/video/BV1EXnt6PET4</link>
-        <guid isPermaLink="false">bilibili-117489468050867</guid>
-        <pubDate>Sat, 24 Oct 2026 02:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：torazyz</p>
-<p>感谢观看
-
-更多内容 欢迎关注 Find me on：
-RED: torazyz
-Instagram: torazyz
-YouTube: Tora Zhang
-Bili: @torazyz    
-
-Henry’s
-RED: HenryHsu
-YouTube: Henry Hsu
-Bili: @iamHenryHsu    
-Instagram: iamhenryhsu
-
-联系我们: contac</p><p><a href="https://www.bilibili.com/video/BV1EXnt6PET4">查看原文 →</a></p>]]></description>
-        <author><![CDATA[torazyz]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：月之暗面发布 Kimi K3.1 Pro【AI 早报 2026-10-24】]]></title>
-        <link>https://www.bilibili.com/video/BV17BHA68Egy</link>
-        <guid isPermaLink="false">bilibili-117493276346256</guid>
-        <pubDate>Sat, 24 Oct 2026 01:29:43 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV17BHA68Egy">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小王Albert：“非洲优等生”成功密码是什么？天降猛男的得与失【东非05丨卢旺达】]]></title>
-        <link>https://www.bilibili.com/video/BV1Wsnb63Eo5</link>
-        <guid isPermaLink="false">bilibili-117489316926755</guid>
-        <pubDate>Sat, 24 Oct 2026 01:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小王Albert</p>
-<p>一键三连推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV1Wsnb63Eo5">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小王Albert]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】LE SSERAFIM讲述一路走来的故事💭｜BBC新闻 261020]]></title>
-        <link>https://www.bilibili.com/video/BV1G9nh6FEPa</link>
-        <guid isPermaLink="false">bilibili-117491984505836</guid>
-        <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>ytb
-资源：saki
-翻译：末末 炽橘
-时间轴/压制：末末
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1G9nh6FEPa">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Kimi K3.1 Pro 深夜突袭：3T 级别参数硬刚 Astra 与 Fable！开源 SOTA 杀回第一梯队！]]></title>
-        <link>https://www.bilibili.com/video/BV1Mdnh6ZEZi</link>
-        <guid isPermaLink="false">bilibili-117492018056584</guid>
-        <pubDate>Fri, 23 Oct 2026 20:08:12 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1Mdnh6ZEZi">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>

@@ -5,27 +5,56 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 31 Oct 2026 01:04:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 00:25:08 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 10月31日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月01日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-31</guid>
-        <pubDate>Sat, 31 Oct 2026 01:04:51 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-01</guid>
+        <pubDate>Sun, 01 Nov 2026 00:25:08 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 10月31日 01:04 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月01日 00:25 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-10-31</guid>
-        <pubDate>Sat, 31 Oct 2026 01:04:51 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 13 items</p><p><b>🎮 生活分享流 (life):</b> 26 items</p><p><b>🆕 本次新增:</b> 20 items</p><p><b>📦 数据库总量:</b> 3330 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-01</guid>
+        <pubDate>Sun, 01 Nov 2026 00:25:08 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 13 items</p><p><b>🎮 生活分享流 (life):</b> 22 items</p><p><b>🆕 本次新增:</b> 14 items</p><p><b>📦 数据库总量:</b> 3344 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点136期」小显卡也能运行deepseek，内存和SSD来帮忙]]></title>
+        <link>https://www.bilibili.com/video/BV13Txz6wE3o</link>
+        <guid isPermaLink="false">bilibili-117530706316378</guid>
+        <pubDate>Sat, 31 Oct 2026 02:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：IT咖啡馆</p>
+<p>1、项目名称：Strata - 消费级显卡运行deepseek
+GitHub 链接：https://github.com/Niko1221/Strata
+2、项目名称：DeepInfer - DeepSeek的大规模模型推理框架
+GitHub 链接：https://github.com/deepseek-ai/DeepInfer
+3、项目名称：OpenCode - 2.x时代的opencode
+G</p><p><a href="https://www.bilibili.com/video/BV13Txz6wE3o">查看原文 →</a></p>]]></description>
+        <author><![CDATA[IT咖啡馆]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Anthropic 更名 Claude Max 20x 档位为 Ultra，并逐步取消已验证 Ultra 账户五小时限制【AI 早报 2026-10-31】]]></title>
+        <link>https://www.bilibili.com/video/BV1qHxk6EEHN</link>
+        <guid isPermaLink="false">bilibili-117532870576524</guid>
+        <pubDate>Sat, 31 Oct 2026 01:22:14 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1qHxk6EEHN">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -173,30 +202,6 @@ DeepSeek做量化：BV1hzdAYuE3e</p><p><a href="https://www.bilibili.com/video/B
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1zuH36HEPP">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：月之暗面发布 Kimi K3.1 Pro【AI 早报 2026-10-24】]]></title>
-        <link>https://www.bilibili.com/video/BV17BHA68Egy</link>
-        <guid isPermaLink="false">bilibili-117493276346256</guid>
-        <pubDate>Sat, 24 Oct 2026 01:29:43 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV17BHA68Egy">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Kimi K3.1 Pro 深夜突袭：3T 级别参数硬刚 Astra 与 Fable！开源 SOTA 杀回第一梯队！]]></title>
-        <link>https://www.bilibili.com/video/BV1Mdnh6ZEZi</link>
-        <guid isPermaLink="false">bilibili-117492018056584</guid>
-        <pubDate>Fri, 23 Oct 2026 20:08:12 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1Mdnh6ZEZi">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
