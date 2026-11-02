@@ -5,27 +5,67 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 01 Nov 2026 00:25:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 01:06:11 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月01日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月02日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-01</guid>
-        <pubDate>Sun, 01 Nov 2026 00:25:08 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-02</guid>
+        <pubDate>Mon, 02 Nov 2026 01:06:11 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 11月01日 00:25 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月02日 01:06 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-01</guid>
-        <pubDate>Sun, 01 Nov 2026 00:25:08 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 13 items</p><p><b>🎮 生活分享流 (life):</b> 22 items</p><p><b>🆕 本次新增:</b> 14 items</p><p><b>📦 数据库总量:</b> 3344 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-02</guid>
+        <pubDate>Mon, 02 Nov 2026 01:06:11 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 13 items</p><p><b>🎮 生活分享流 (life):</b> 23 items</p><p><b>🆕 本次新增:</b> 7 items</p><p><b>📦 数据库总量:</b> 3351 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Mr-Pot (2026-11-02): 2 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1nBxa6oEf6</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-11-02-a1c5d27b</guid>
+        <pubDate>Mon, 02 Nov 2026 00:01:38 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1nBxa6oEf6">【中英字幕】26.11.01川普在爱荷华机场回答记者提问完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1Wnxt6XEvz">【中英字幕】26.11.01川普在海湖庄园的万圣节派对上回答记者提问完整版</a></li>
+</ul>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Mr-Pot (2026-11-01): 4 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1Pwx66sES5</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-11-01-a1c5d27b</guid>
+        <pubDate>Sun, 01 Nov 2026 15:47:02 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1Pwx66sES5">【中英字幕】彭博科技前沿26.10.30完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1RNxr63Eqa">【中英字幕】PBS《华盛顿周报》26.10.30完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1ZKxp6oEh5">【中英字幕】26.10.31美国国务卿鲁比奥在亚特兰大G20峰会发表演讲并回答记者提问完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1uLxr6eEHv">【中英字幕】华尔街周刊26.10.30完整版：美国中期选举聚焦可负担性危机、数据中心争议与债务困局，资本主义面临选票考验</a></li>
+</ul>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenAI：12 月开始 ChatGPT 与 Codex 共享额度【AI 早报 2026-11-01】]]></title>
+        <link>https://www.bilibili.com/video/BV1LaxW6fEpd</link>
+        <guid isPermaLink="false">bilibili-117538457388957</guid>
+        <pubDate>Sun, 01 Nov 2026 01:00:53 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1LaxW6fEpd">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -469,30 +509,6 @@ BBC News：《LONG READ: The fi</p><p><a href="https://www.bilibili.com/video/BV
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1QmnQ69EDE">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 马督工：【睡前消息1122】98%新岗位，归美国女人]]></title>
-        <link>https://www.bilibili.com/video/BV1JRHV6bEsa</link>
-        <guid isPermaLink="false">bilibili-117501631404816</guid>
-        <pubDate>Sun, 25 Oct 2026 13:25:06 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：马督工</p>
-<p>-</p><p><a href="https://www.bilibili.com/video/BV1JRHV6bEsa">查看原文 →</a></p>]]></description>
-        <author><![CDATA[马督工]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：WorkBuddy 内测技能与专家付费功能【AI 早报 2026-10-25】]]></title>
-        <link>https://www.bilibili.com/video/BV1zuH36HEPP</link>
-        <guid isPermaLink="false">bilibili-117498879936359</guid>
-        <pubDate>Sun, 25 Oct 2026 01:15:42 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1zuH36HEPP">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
