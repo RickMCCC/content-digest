@@ -5,27 +5,41 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 02 Nov 2026 01:06:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 03:07:22 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月02日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月03日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-02</guid>
-        <pubDate>Mon, 02 Nov 2026 01:06:11 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-03</guid>
+        <pubDate>Tue, 03 Nov 2026 03:07:22 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 11月02日 01:06 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月03日 03:07 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-02</guid>
-        <pubDate>Mon, 02 Nov 2026 01:06:11 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 13 items</p><p><b>🎮 生活分享流 (life):</b> 23 items</p><p><b>🆕 本次新增:</b> 7 items</p><p><b>📦 数据库总量:</b> 3351 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-03</guid>
+        <pubDate>Tue, 03 Nov 2026 03:07:22 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 12 items</p><p><b>🎮 生活分享流 (life):</b> 25 items</p><p><b>🆕 本次新增:</b> 6 items</p><p><b>📦 数据库总量:</b> 3357 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 硅谷101：对话Maxinsights：具身“卖铲人”的250倍增长、机器人Ego数据狂潮、Doordash与丰田模式，与“自由的鸟”【101视频播客】]]></title>
+        <link>https://www.bilibili.com/video/BV1L4xh6jEqo</link>
+        <guid isPermaLink="false">bilibili-117544597919936</guid>
+        <pubDate>Mon, 02 Nov 2026 03:03:02 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：硅谷101</p>
+<p>当机器人公司们还在探索模型、算法、数据和部署的时候，一家并不生产机器人的硅谷公司，把机器人数据做成了一门年化收入数亿美元的生意。
+
+这笔生意，给硅谷具身数据公司Maxinsights带来了一年250倍的增长：它组织全球近4000名采集人员戴上摄像头，记录日常操作，再通过数据管线加工成机器人训练数据。据创始人袁宇光介绍，公司已积累约200万小时的人类第一视角数据，ARR（年化经常性收入）可达约2.5</p><p><a href="https://www.bilibili.com/video/BV1L4xh6jEqo">查看原文 →</a></p>]]></description>
+        <author><![CDATA[硅谷101]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -176,32 +190,6 @@ DeepSeek做量化：BV1hzdAYuE3e</p><p><a href="https://www.bilibili.com/video/B
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV162HF64EBS">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 硅谷101：AI重构跨境支付：效率、风控与Agent商业时代【硅谷101】]]></title>
-        <link>https://www.bilibili.com/video/BV1o6nQ6bErY</link>
-        <guid isPermaLink="false">bilibili-117504835918759</guid>
-        <pubDate>Mon, 26 Oct 2026 02:29:31 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：硅谷101</p>
-<p>跨境支付，正在变得越来越简单。点一下、扫一下，一笔付款就完成了。但看似简单的操作，背后却牵动着一整条复杂的支付链路。而现在，AI正在改变这条链路。
-
-一方面，AI开始进入支付的各个环节，从市场接入、交易风控，到对账和系统运维，让原本依赖大量人工的工作变得更加高效、智能。另一方面，AI也带来了全新的交易场景。当Agent开始替人选商品、找优惠，甚至下单付款，支付系统也面临着新的挑战：如何确认授权、识</p><p><a href="https://www.bilibili.com/video/BV1o6nQ6bErY">查看原文 →</a></p>]]></description>
-        <author><![CDATA[硅谷101]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Kimi 致歉 K3.1 Pro 限流并重置用量【AI 早报 2026-10-26】]]></title>
-        <link>https://www.bilibili.com/video/BV1QmnQ69EDE</link>
-        <guid isPermaLink="false">bilibili-117504416483887</guid>
-        <pubDate>Mon, 26 Oct 2026 00:42:02 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1QmnQ69EDE">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
