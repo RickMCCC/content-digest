@@ -5,27 +5,63 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 03 Nov 2026 03:07:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 01:41:31 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月03日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月04日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-03</guid>
-        <pubDate>Tue, 03 Nov 2026 03:07:22 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-04</guid>
+        <pubDate>Wed, 04 Nov 2026 01:41:31 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 11月03日 03:07 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月04日 01:41 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-03</guid>
-        <pubDate>Tue, 03 Nov 2026 03:07:22 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 12 items</p><p><b>🎮 生活分享流 (life):</b> 25 items</p><p><b>🆕 本次新增:</b> 6 items</p><p><b>📦 数据库总量:</b> 3357 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-04</guid>
+        <pubDate>Wed, 04 Nov 2026 01:41:31 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 14 items</p><p><b>🎮 生活分享流 (life):</b> 23 items</p><p><b>🆕 本次新增:</b> 7 items</p><p><b>📦 数据库总量:</b> 3364 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Anthropic 开源 FlashProve，验证 AI 回复来自哪个模型【AI 早报 2026-11-04】]]></title>
+        <link>https://www.bilibili.com/video/BV19yxD6vEJW</link>
+        <guid isPermaLink="false">bilibili-117555553438414</guid>
+        <pubDate>Wed, 04 Nov 2026 01:28:37 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV19yxD6vEJW">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 马督工：【睡前消息1126】广东省和广宁省比空调，输给越南还能输谁？]]></title>
+        <link>https://www.bilibili.com/video/BV16u4g6cE3b</link>
+        <guid isPermaLink="false">bilibili-117552063714773</guid>
+        <pubDate>Tue, 03 Nov 2026 10:48:12 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：马督工</p>
+<p>1 广东省遂溪县小学装空调矛盾。</p><p><a href="https://www.bilibili.com/video/BV16u4g6cE3b">查看原文 →</a></p>]]></description>
+        <author><![CDATA[马督工]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenAI 自研 Git 后端 Pando 投产；研究者称 GPT-6 Astra 可直接改写模型权重【AI 早报 2026-11-03】]]></title>
+        <link>https://www.bilibili.com/video/BV16B4K6REk5</link>
+        <guid isPermaLink="false">bilibili-117549865962487</guid>
+        <pubDate>Tue, 03 Nov 2026 01:25:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV16B4K6REk5">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -93,6 +129,18 @@
     </item>
     
     <item>
+        <title><![CDATA[[B站] 马督工：不朽凡人01 丨 乙肝治愈的希望【睡前消息1125】]]></title>
+        <link>https://www.bilibili.com/video/BV1t74w6XEdQ</link>
+        <guid isPermaLink="false">bilibili-117546476900441</guid>
+        <pubDate>Mon, 02 Nov 2026 10:59:08 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：马督工</p>
+<p>1 新节目介绍。2 乙肝新药和中国乙肝传染历史。</p><p><a href="https://www.bilibili.com/video/BV1t74w6XEdQ">查看原文 →</a></p>]]></description>
+        <author><![CDATA[马督工]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 硅谷101：对话Maxinsights：具身“卖铲人”的250倍增长、机器人Ego数据狂潮、Doordash与丰田模式，与“自由的鸟”【101视频播客】]]></title>
         <link>https://www.bilibili.com/video/BV1L4xh6jEqo</link>
         <guid isPermaLink="false">bilibili-117544597919936</guid>
@@ -103,6 +151,18 @@
 
 这笔生意，给硅谷具身数据公司Maxinsights带来了一年250倍的增长：它组织全球近4000名采集人员戴上摄像头，记录日常操作，再通过数据管线加工成机器人训练数据。据创始人袁宇光介绍，公司已积累约200万小时的人类第一视角数据，ARR（年化经常性收入）可达约2.5</p><p><a href="https://www.bilibili.com/video/BV1L4xh6jEqo">查看原文 →</a></p>]]></description>
         <author><![CDATA[硅谷101]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Codex 完成 28 天改进计划，最后 2 天发放手动重置次数【AI 早报 2026-11-02】]]></title>
+        <link>https://www.bilibili.com/video/BV11Cxh6eEUR</link>
+        <guid isPermaLink="false">bilibili-117544144866696</guid>
+        <pubDate>Mon, 02 Nov 2026 01:06:05 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV11Cxh6eEUR">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
@@ -191,6 +251,45 @@
 <p>✍️ 作者：小黛晨读</p>
 <p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1P9xy6KE3X">查看原文 →</a></p>]]></description>
         <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 历史调研室：宋美龄和蒋介石是真爱吗？蒋介石为何宠信宋美龄？【历史调研室109】]]></title>
+        <link>https://www.bilibili.com/video/BV1Eyx16cEBK</link>
+        <guid isPermaLink="false">bilibili-117535219453139</guid>
+        <pubDate>Sat, 31 Oct 2026 11:18:12 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：历史调研室</p>
+<p>求关注求三连～
+参考资料、视频素材、BGM在视频结尾。</p><p><a href="https://www.bilibili.com/video/BV1Eyx16cEBK">查看原文 →</a></p>]]></description>
+        <author><![CDATA[历史调研室]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] torazyz：北京真实日常vlog🤎近期穿搭｜torazyz]]></title>
+        <link>https://www.bilibili.com/video/BV1NQno6tEVA</link>
+        <guid isPermaLink="false">bilibili-117507872722234</guid>
+        <pubDate>Sat, 31 Oct 2026 02:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：torazyz</p>
+<p>感谢观看
+
+更多内容 欢迎关注 Find me on：
+RED: torazyz
+Instagram: torazyz
+YouTube: Tora Zhang
+Bili: @torazyz  
+
+Henry’s
+RED: HenryHsu
+YouTube: Henry Hsu
+Bili: @iamHenryHsu  
+Instagram: iamhenryhsu
+
+联系我们: contact.to</p><p><a href="https://www.bilibili.com/video/BV1NQno6tEVA">查看原文 →</a></p>]]></description>
+        <author><![CDATA[torazyz]]></author>
         <category>B站</category>
     </item>
     
@@ -440,104 +539,6 @@ DeepSeek做量化：BV1hzdAYuE3e</p><p><a href="https://www.bilibili.com/video/B
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1GHxL6eES1">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 学院派Academia：【硬核国关学】伊朗革命，为何走不出“民国困境”：中国如何成功、伊朗何以失败？]]></title>
-        <link>https://www.bilibili.com/video/BV1sbxu6vEfU</link>
-        <guid isPermaLink="false">bilibili-117512989644082</guid>
-        <pubDate>Tue, 27 Oct 2026 13:12:31 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：学院派Academia</p>
-<p><a href="https://www.bilibili.com/video/BV1sbxu6vEfU">查看原文 →</a></p>]]></description>
-        <author><![CDATA[学院派Academia]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：中印在藏南地区最新对峙影片热传! 中国外交部回应了！郭正亮 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV1HXxM6FEre</link>
-        <guid isPermaLink="false">bilibili-117511513178318</guid>
-        <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV1HXxM6FEre">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 马督工：【睡前消息1123】能输出革命，才能卖LV包]]></title>
-        <link>https://www.bilibili.com/video/BV1JHxg6FE2c</link>
-        <guid isPermaLink="false">bilibili-117512486394612</guid>
-        <pubDate>Tue, 27 Oct 2026 11:02:42 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：马督工</p>
-<p>-</p><p><a href="https://www.bilibili.com/video/BV1JHxg6FE2c">查看原文 →</a></p>]]></description>
-        <author><![CDATA[马督工]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Chris的军事基地：俄罗斯闪击乌克兰为何没能成功？【沙盘详解】]]></title>
-        <link>https://www.bilibili.com/video/BV1bdxT6uEQs</link>
-        <guid isPermaLink="false">bilibili-117512134069151</guid>
-        <pubDate>Tue, 27 Oct 2026 10:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Chris的军事基地</p>
-<p>资料来源：
-War on the Rocks：《The Battle of Hostomel Airport: A Key Moment in Russia’s Defeat in Kyiv》
-
-美国西点军校现代战争研究所（MWI）：《Urban Warfare Project Case Study #12: Battle of Kyiv》
-
-BBC News：《LONG READ: The fi</p><p><a href="https://www.bilibili.com/video/BV1bdxT6uEQs">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Chris的军事基地]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot (2026-10-27): 5 posts]]></title>
-        <link>https://www.bilibili.com/video/BV19EHF61EaW</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-10-27-a1c5d27b</guid>
-        <pubDate>Tue, 27 Oct 2026 08:51:10 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV19EHF61EaW">【中英字幕】《面向全国》26.10.26完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1WFHF6fEfk">【中英字幕】彭博财经观察26.10.26完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1M5xT6TESG">【中英字幕】26.10.26川普在密西西比州助选集会上发表中期选举拉票演讲完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1RfHF6EEHX">【中英字幕】26.10.26川普在机场回答记者提问完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1WZno6pE46">【中英字幕】彭博财经简报26.10.26完整版</a></li>
-</ul>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】7周的连轴转结束了~！261027 wvs直播]]></title>
-        <link>https://www.bilibili.com/video/BV1RsxK66EJU</link>
-        <guid isPermaLink="false">bilibili-117510976377042</guid>
-        <pubDate>Tue, 27 Oct 2026 04:31:13 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>wvs
-资源：大癫
-翻译：SAKI
-时间轴/压制：大癫
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1RsxK66EJU">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：OpenAI 发布 GPT-6.1 Terra【AI 早报 2026-10-27】]]></title>
-        <link>https://www.bilibili.com/video/BV162HF64EBS</link>
-        <guid isPermaLink="false">bilibili-117510187779957</guid>
-        <pubDate>Tue, 27 Oct 2026 01:10:31 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV162HF64EBS">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
