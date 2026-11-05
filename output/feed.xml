@@ -5,27 +5,129 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 04 Nov 2026 01:41:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 01:44:42 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月04日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月05日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-04</guid>
-        <pubDate>Wed, 04 Nov 2026 01:41:31 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-05</guid>
+        <pubDate>Thu, 05 Nov 2026 01:44:42 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 11月04日 01:41 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月05日 01:44 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-04</guid>
-        <pubDate>Wed, 04 Nov 2026 01:41:31 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 14 items</p><p><b>🎮 生活分享流 (life):</b> 23 items</p><p><b>🆕 本次新增:</b> 7 items</p><p><b>📦 数据库总量:</b> 3364 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-05</guid>
+        <pubDate>Thu, 05 Nov 2026 01:44:42 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 15 items</p><p><b>🎮 生活分享流 (life):</b> 26 items</p><p><b>🆕 本次新增:</b> 8 items</p><p><b>📦 数据库总量:</b> 3372 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenAI 发布 Images 2.6；腾讯发布混元 Hy4 正式版【AI 早报 2026-11-05】]]></title>
+        <link>https://www.bilibili.com/video/BV11vxf6CEmP</link>
+        <guid isPermaLink="false">bilibili-117561207293803</guid>
+        <pubDate>Thu, 05 Nov 2026 01:31:26 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV11vxf6CEmP">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小王Albert：特朗普危！中期选举两院全丢，弹劾、调查、政府关门哪项等着他？]]></title>
+        <link>https://www.bilibili.com/video/BV1ybxX6WEJK</link>
+        <guid isPermaLink="false">bilibili-117558439058307</guid>
+        <pubDate>Wed, 04 Nov 2026 13:45:36 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小王Albert</p>
+<p>一键三连推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV1ybxX6WEJK">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小王Albert]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：期中选举惨败 川普恐暴怒失控? 美媒: 最糟的还在后头！沈逸 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV1syxQ6sE4V</link>
+        <guid isPermaLink="false">bilibili-117556845284122</guid>
+        <pubDate>Wed, 04 Nov 2026 12:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV1syxQ6sE4V">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Chris的军事基地：美伊战损超6架 服役近70年为何仍在一线 ？【KC-135详解】]]></title>
+        <link>https://www.bilibili.com/video/BV1KrxQ64EED</link>
+        <guid isPermaLink="false">bilibili-117556811663990</guid>
+        <pubDate>Wed, 04 Nov 2026 09:30:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：Chris的军事基地</p>
+<p>美国空军：《KC-135 Stratotanker》
+
+美国空军国家博物馆：《Nerves of Steel: Boom Operators》
+
+全面禁止核试验条约组织（CTBTO）：《International Day against Nuclear Tests》
+
+美国空军：《General Curtis Emerson LeMay》
+
+美国空军历史与博物馆计划，Richard K. Smit</p><p><a href="https://www.bilibili.com/video/BV1KrxQ64EED">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Chris的军事基地]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 量化投资邢不行啊：分析师的嘴,骗人的鬼?我拿你当专家,你拿我当猪杀?涨了喊买入,跌了喊增持?研报一出,大跌开始?分析师到底靠不靠谱? | 量化投资邢不行啊]]></title>
+        <link>https://www.bilibili.com/video/BV1jpxQ6zE6Z</link>
+        <guid isPermaLink="false">bilibili-117557012992325</guid>
+        <pubDate>Wed, 04 Nov 2026 09:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：量化投资邢不行啊</p>
+<p>分析师到底靠谱不靠谱？
+怎么给我推的票都跌停？
+网上大师属于分析师吗？
+分析师们的预测准确吗？
+
+喜欢视频记得三连，并点个关注～
+
+往期视频精选：
+新财富分析师：BV12X4y1U7Hm
+开源信息工具：BV1ZdxL6gEkF
+量化策略月报：BV1Dyni66ExJ</p><p><a href="https://www.bilibili.com/video/BV1jpxQ6zE6Z">查看原文 →</a></p>]]></description>
+        <author><![CDATA[量化投资邢不行啊]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小王Albert：特朗普的中期大考：重返白宫600多天，他改变了什么？|一起看世界]]></title>
+        <link>https://www.bilibili.com/video/BV1RTxX6BEvK</link>
+        <guid isPermaLink="false">bilibili-117556593563357</guid>
+        <pubDate>Wed, 04 Nov 2026 05:58:49 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小王Albert</p>
+<p>一键三连，推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV1RTxX6BEvK">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小王Albert]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：双十一入了台 Mac mini……]]></title>
+        <link>https://www.bilibili.com/video/BV11JxD6QEUW</link>
+        <guid isPermaLink="false">bilibili-117555821805718</guid>
+        <pubDate>Wed, 04 Nov 2026 02:36:47 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV11JxD6QEUW">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -37,6 +139,18 @@
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV19yxD6vEJW">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：说好的不打呢! 期中选举前夕! 川普下令打击伊朗！郭正亮 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV1wx436uEnL</link>
+        <guid isPermaLink="false">bilibili-117551291957356</guid>
+        <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV1wx436uEnL">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
         <category>B站</category>
     </item>
     
@@ -477,68 +591,6 @@ G</p><p><a href="https://www.bilibili.com/video/BV13Txz6wE3o">查看原文 →</
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1Nwso6vE17">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：横跨4大洲! 足以震撼全球的10天! 四国大选连环登场！介文汲 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV1dBxj6rEHA</link>
-        <guid isPermaLink="false">bilibili-117517150390646</guid>
-        <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV1dBxj6rEHA">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小王Albert：中国买走秘鲁76%的铜，为啥还是“外人”？]]></title>
-        <link>https://www.bilibili.com/video/BV1mZxj6ZEz3</link>
-        <guid isPermaLink="false">bilibili-117516999399364</guid>
-        <pubDate>Wed, 28 Oct 2026 10:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小王Albert</p>
-<p>一键三连，推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV1mZxj6ZEz3">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小王Albert]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 量化投资邢不行啊：做量化的开挂,能叫作弊吗?自用机构级消息工具开源了?24小时追踪最新宏观/股市/个股/基金信息,散户不用再看包浆小作文了 | 量化投资邢不行啊]]></title>
-        <link>https://www.bilibili.com/video/BV1ZdxL6gEkF</link>
-        <guid isPermaLink="false">bilibili-117517351653601</guid>
-        <pubDate>Wed, 28 Oct 2026 09:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：量化投资邢不行啊</p>
-<p>市场的消息千变万化，
-散户总比机构慢一拍，
-做量化的开个挂，
-也不算是作弊吧？
-分享一个我自用的工具，
-能24小时帮我监控消息，
-你想知道的一切信息，
-都能在第一时间获取。
-
-喜欢视频记得三连，并点个关注～
-
-往期视频精选：
-AI量化的正确方式：BV17HMk6qEqa
-AI辅助量化交易：BV1TBrhYCEKv
-DeepSeek做量化：BV1hzdAYuE3e</p><p><a href="https://www.bilibili.com/video/BV1ZdxL6gEkF">查看原文 →</a></p>]]></description>
-        <author><![CDATA[量化投资邢不行啊]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Google DeepMind 发布世界模型 Genie 4【AI 早报 2026-10-28】]]></title>
-        <link>https://www.bilibili.com/video/BV1GHxL6eES1</link>
-        <guid isPermaLink="false">bilibili-117515908811407</guid>
-        <pubDate>Wed, 28 Oct 2026 01:26:13 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1GHxL6eES1">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
