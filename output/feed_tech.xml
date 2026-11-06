@@ -5,27 +5,66 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 05 Nov 2026 01:44:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 01:49:50 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月05日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月06日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-05</guid>
-        <pubDate>Thu, 05 Nov 2026 01:44:42 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-06</guid>
+        <pubDate>Fri, 06 Nov 2026 01:49:50 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 11月05日 01:44 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月06日 01:49 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-05</guid>
-        <pubDate>Thu, 05 Nov 2026 01:44:42 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 15 items</p><p><b>🎮 生活分享流 (life):</b> 26 items</p><p><b>🆕 本次新增:</b> 8 items</p><p><b>📦 数据库总量:</b> 3372 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-06</guid>
+        <pubDate>Fri, 06 Nov 2026 01:49:50 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 14 items</p><p><b>🎮 生活分享流 (life):</b> 23 items</p><p><b>🆕 本次新增:</b> 4 items</p><p><b>📦 数据库总量:</b> 3376 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Google 发布 Gemini Omni 1.2 Flash【AI 早报 2026-11-06】]]></title>
+        <link>https://www.bilibili.com/video/BV1Jh4e6PEBE</link>
+        <guid isPermaLink="false">bilibili-117566861215387</guid>
+        <pubDate>Fri, 06 Nov 2026 01:23:27 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1Jh4e6PEBE">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 跟李沐学AI：AI助手还在一问一答？做了一个边听边说、边干活的全双工模型，讲一讲背后的技术]]></title>
+        <link>https://www.bilibili.com/video/BV1LB4a6DEWL</link>
+        <guid isPermaLink="false">bilibili-117565602928482</guid>
+        <pubDate>Thu, 05 Nov 2026 23:30:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：跟李沐学AI</p>
+<p>今天的大部分语音助手还是"你说一句、它答一句"。Higgs Realtime Duplex 是我们做的全双工多模态模型：像真人一样边听边说、边看边想，还能一边聊天一边在后台调用工具，并且有一张脸。这个视频用 44 分钟讲清楚它为什么要这样设计、怎么训练、效果如何。
+
+技术 blog 原文: https://www.boson.ai/blog/higgs-realtime-duplex</p><p><a href="https://www.bilibili.com/video/BV1LB4a6DEWL">查看原文 →</a></p>]]></description>
+        <author><![CDATA[跟李沐学AI]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：我把 24 年前的《哈利·波特》，塞进了浏览器]]></title>
+        <link>https://www.bilibili.com/video/BV1hc486MEgh</link>
+        <guid isPermaLink="false">bilibili-117563371552977</guid>
+        <pubDate>Thu, 05 Nov 2026 12:30:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p>本视频由特别观众“麻瓜甲”投稿
+项目地址：github.com/espressolver/MorphagusEngine</p><p><a href="https://www.bilibili.com/video/BV1hc486MEgh">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -173,55 +212,6 @@ G</p><p><a href="https://www.bilibili.com/video/BV13Txz6wE3o">查看原文 →</
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1fMxP6CE6y">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 硅谷101：机器人也需要“手感”：帕西尼谈触觉、数据与物理AI｜硅谷101年度线下大会]]></title>
-        <link>https://www.bilibili.com/video/BV1a5sZ6LEUG</link>
-        <guid isPermaLink="false">bilibili-117522787471645</guid>
-        <pubDate>Thu, 29 Oct 2026 10:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：硅谷101</p>
-<p>当AI开始走进物理世界，机器人也需要学会感受每一次接触。拿起一个物体，该用多大的力？碰到东西之后，又该怎样调整动作？这些我们习以为常的细节，都是机器人需要学习的东西。
-在硅谷101 Alignment 2026大会上，帕西尼（PaXini AI）创始人兼CEO许晋诚博士介绍了团队研发的触觉与力觉传感器、灵巧手以及已累积超100万小时的OmniSharing DB数据集。从感知接触和受力，到让模型学</p><p><a href="https://www.bilibili.com/video/BV1a5sZ6LEUG">查看原文 →</a></p>]]></description>
-        <author><![CDATA[硅谷101]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 巫师财经：【巫师】马云的资本博弈]]></title>
-        <link>https://www.bilibili.com/video/BV1ffso6xEyP</link>
-        <guid isPermaLink="false">bilibili-117522753984709</guid>
-        <pubDate>Thu, 29 Oct 2026 06:44:57 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：巫师财经</p>
-<p><a href="https://www.bilibili.com/video/BV1ffso6xEyP">查看原文 →</a></p>]]></description>
-        <author><![CDATA[巫师财经]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Google 推出 Gemini 4 Carbon；ChatGPT Pro 与 Business 订阅获赠 API 额度【AI 早报 2026-10-29】]]></title>
-        <link>https://www.bilibili.com/video/BV1KJsd6NEbj</link>
-        <guid isPermaLink="false">bilibili-117521697082787</guid>
-        <pubDate>Thu, 29 Oct 2026 01:58:21 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1KJsd6NEbj">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：龙王归来，Gemini 4 Carbon 发布！（但还用不到]]></title>
-        <link>https://www.bilibili.com/video/BV1Nwso6vE17</link>
-        <guid isPermaLink="false">bilibili-117521495624406</guid>
-        <pubDate>Thu, 29 Oct 2026 01:09:16 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1Nwso6vE17">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
