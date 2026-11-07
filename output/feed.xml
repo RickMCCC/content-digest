@@ -5,27 +5,97 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 06 Nov 2026 01:49:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 01:09:17 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月06日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月07日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-06</guid>
-        <pubDate>Fri, 06 Nov 2026 01:49:50 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-07</guid>
+        <pubDate>Sat, 07 Nov 2026 01:09:17 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 11月06日 01:49 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月07日 01:09 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-06</guid>
-        <pubDate>Fri, 06 Nov 2026 01:49:50 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 14 items</p><p><b>🎮 生活分享流 (life):</b> 23 items</p><p><b>🆕 本次新增:</b> 4 items</p><p><b>📦 数据库总量:</b> 3376 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-07</guid>
+        <pubDate>Sat, 07 Nov 2026 01:09:17 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 15 items</p><p><b>🎮 生活分享流 (life):</b> 25 items</p><p><b>🆕 本次新增:</b> 15 items</p><p><b>📦 数据库总量:</b> 3391 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点137期」快速看懂 DeepSeek superAgent]]></title>
+        <link>https://www.bilibili.com/video/BV1Kw456pEwm</link>
+        <guid isPermaLink="false">bilibili-117570720041233</guid>
+        <pubDate>Sat, 07 Nov 2026 01:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：IT咖啡馆</p>
+<p>1、项目名称：dsh-superagent-prototype - 基于 DeepSeek Harness 的超级智能体
+GitHub 链接：https://github.com/deepseek-ai/dsh-superagent-prototype
+2、项目名称：agent-desktop - 让 AI 操作桌面软件的工具
+项目链接：https://agent-browser.dev/desk</p><p><a href="https://www.bilibili.com/video/BV1Kw456pEwm">查看原文 →</a></p>]]></description>
+        <author><![CDATA[IT咖啡馆]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Mr-Pot (2026-11-07): 3 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1EC4B6rE7p</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-11-07-a1c5d27b</guid>
+        <pubDate>Sat, 07 Nov 2026 00:12:06 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1EC4B6rE7p">【中英字幕】彭博财经简报26.11.06完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1dS4L6METr">【中英字幕】26.11.06川普在白宫回答记者提问完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1RS4L6MEZL">【中英字幕】26.11.06川普宣布斯蒂芬·米勒取代苏西·怀尔斯接任白宫幕僚长</a></li>
+</ul>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Mr-Pot (2026-11-06): 6 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1XW4v6oEmG</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-11-06-a1c5d27b</guid>
+        <pubDate>Fri, 06 Nov 2026 12:35:04 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1XW4v6oEmG">【中英字幕】CNBC解析：AI数据中心的水电冷却真相，液冷、背后用水与电力争议及改进之路</a></li>
+<li><a href="https://www.bilibili.com/video/BV1nw4h64EvZ">【中英字幕】彭博脉搏访谈26.11.05完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1V14e69Em9">【中英字幕】彭博财经观察26.11.05完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1Fg4v6qEZ9">【中英字幕】彭博科技前沿26.11.05完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1dn4v6fEAE">【中英字幕】26.11.05川普在白宫签署行政令并回答记者提问完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1CF4h6ZEEd">【中英字幕】彭博财经简报26.11.05完整版</a></li>
+</ul>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 巫师财经：【巫师】AI资产跌出性价比，十五五规划告诉你国家钱在往哪走]]></title>
+        <link>https://www.bilibili.com/video/BV1kf4z6JEEg</link>
+        <guid isPermaLink="false">bilibili-117569377800433</guid>
+        <pubDate>Fri, 06 Nov 2026 12:27:43 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：巫师财经</p>
+<p><a href="https://www.bilibili.com/video/BV1kf4z6JEEg">查看原文 →</a></p>]]></description>
+        <author><![CDATA[巫师财经]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 学院派Academia：【AI社会学】还没上市泡沫就破了？GPT的百年基建野望何去何从]]></title>
+        <link>https://www.bilibili.com/video/BV1uz4q6xEa6</link>
+        <guid isPermaLink="false">bilibili-117569025546466</guid>
+        <pubDate>Fri, 06 Nov 2026 10:37:56 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：学院派Academia</p>
+<p><a href="https://www.bilibili.com/video/BV1uz4q6xEa6">查看原文 →</a></p>]]></description>
+        <author><![CDATA[学院派Academia]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -55,6 +125,41 @@
     </item>
     
     <item>
+        <title><![CDATA[[B站] Mr-Pot：【中英字幕】彭博科技前沿26.11.04完整版]]></title>
+        <link>https://www.bilibili.com/video/BV1qmxo6oEvL</link>
+        <guid isPermaLink="false">bilibili-117560167106992</guid>
+        <pubDate>Thu, 05 Nov 2026 13:13:43 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：Mr-Pot</p>
+<p>本期视频标题：民主党赢得国会控制权后，科技股逆势上扬，数据中心与AI融资成焦点
+
+本期视频要点：
+1. 市场反弹：纳斯达克指数上涨约1.5%，亚马逊、微软、苹果等“科技七巨头”整体涨幅接近6%，显示投资者在逢低买入后推动股市回暖。  
+2. 投资机构看法：摩根大通等交易台称近期科技股抛售提供了买入机会，市场情绪已从担忧转向基本面支撑的乐观预期。  
+3. 数据中心分化：德州、俄亥俄、乔治亚等新当选</p><p><a href="https://www.bilibili.com/video/BV1qmxo6oEvL">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 全员i人字幕组：【直播生肉】"一会儿" 一叶wvs直播(中字待更) 261104]]></title>
+        <link>https://www.bilibili.com/video/BV1zS4h6WEAz</link>
+        <guid isPermaLink="false">bilibili-117563992316767</guid>
+        <pubDate>Thu, 05 Nov 2026 13:12:53 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p>wvs
+资源：末末
+翻译：
+时间轴：
+校对/合轴/压制：
+
+该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1zS4h6WEAz">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 橘鸦juya：我把 24 年前的《哈利·波特》，塞进了浏览器]]></title>
         <link>https://www.bilibili.com/video/BV1hc486MEgh</link>
         <guid isPermaLink="false">bilibili-117563371552977</guid>
@@ -64,6 +169,18 @@
 <p>本视频由特别观众“麻瓜甲”投稿
 项目地址：github.com/espressolver/MorphagusEngine</p><p><a href="https://www.bilibili.com/video/BV1hc486MEgh">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第669期】禁止有罪推定；消灭血吸虫病]]></title>
+        <link>https://www.bilibili.com/video/BV16f4t6DE43</link>
+        <guid isPermaLink="false">bilibili-117563774339672</guid>
+        <pubDate>Thu, 05 Nov 2026 12:22:53 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV16f4t6DE43">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
         <category>B站</category>
     </item>
     
@@ -483,68 +600,6 @@ G</p><p><a href="https://www.bilibili.com/video/BV13Txz6wE3o">查看原文 →</
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1qHxk6EEHN">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot (2026-10-30): 2 posts]]></title>
-        <link>https://www.bilibili.com/video/BV17dxP6rEgE</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-10-30-a1c5d27b</guid>
-        <pubDate>Fri, 30 Oct 2026 15:45:59 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV17dxP6rEgE">【中英字幕】彭博科技前沿26.10.29完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1LfxP6zEzX">【中英字幕】26.10.29川普在机场回答记者提问完整版</a></li>
-</ul>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 马督工：【睡前消息1124】赶走711 断供盾构机]]></title>
-        <link>https://www.bilibili.com/video/BV1vZxi68E2p</link>
-        <guid isPermaLink="false">bilibili-117529968188259</guid>
-        <pubDate>Fri, 30 Oct 2026 13:13:43 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：马督工</p>
-<p>1 印度服务业足够卷，711便利店退出
-2 印度工业相对薄弱，盾构机卡脖子</p><p><a href="https://www.bilibili.com/video/BV1vZxi68E2p">查看原文 →</a></p>]]></description>
-        <author><![CDATA[马督工]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小王Albert：一条视频看10月世界：中东在燃烧，法国在骚乱，中国网友在跨国吵架]]></title>
-        <link>https://www.bilibili.com/video/BV1rCxe6wEN9</link>
-        <guid isPermaLink="false">bilibili-117529565533597</guid>
-        <pubDate>Fri, 30 Oct 2026 11:30:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小王Albert</p>
-<p>一键三连推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV1rCxe6wEN9">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小王Albert]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Grandpagu顾爷：AAAAA伦敦City Walk（下）]]></title>
-        <link>https://www.bilibili.com/video/BV1oTxF6ZEth</link>
-        <guid isPermaLink="false">bilibili-117523492182067</guid>
-        <pubDate>Fri, 30 Oct 2026 04:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Grandpagu顾爷</p>
-<p><a href="https://www.bilibili.com/video/BV1oTxF6ZEth">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Grandpagu顾爷]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：OpenAI 将 Pro 各档与 Business Premium 用量翻倍，dots 继续提供单独用量【AI 早报 2026-10-30】]]></title>
-        <link>https://www.bilibili.com/video/BV1fMxP6CE6y</link>
-        <guid isPermaLink="false">bilibili-117527233497998</guid>
-        <pubDate>Fri, 30 Oct 2026 01:26:09 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1fMxP6CE6y">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>

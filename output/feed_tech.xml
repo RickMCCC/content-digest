@@ -5,27 +5,54 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 06 Nov 2026 01:49:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 01:09:17 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月06日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月07日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-06</guid>
-        <pubDate>Fri, 06 Nov 2026 01:49:50 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-07</guid>
+        <pubDate>Sat, 07 Nov 2026 01:09:17 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 11月06日 01:49 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月07日 01:09 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-06</guid>
-        <pubDate>Fri, 06 Nov 2026 01:49:50 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 14 items</p><p><b>🎮 生活分享流 (life):</b> 23 items</p><p><b>🆕 本次新增:</b> 4 items</p><p><b>📦 数据库总量:</b> 3376 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-07</guid>
+        <pubDate>Sat, 07 Nov 2026 01:09:17 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 15 items</p><p><b>🎮 生活分享流 (life):</b> 25 items</p><p><b>🆕 本次新增:</b> 15 items</p><p><b>📦 数据库总量:</b> 3391 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点137期」快速看懂 DeepSeek superAgent]]></title>
+        <link>https://www.bilibili.com/video/BV1Kw456pEwm</link>
+        <guid isPermaLink="false">bilibili-117570720041233</guid>
+        <pubDate>Sat, 07 Nov 2026 01:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：IT咖啡馆</p>
+<p>1、项目名称：dsh-superagent-prototype - 基于 DeepSeek Harness 的超级智能体
+GitHub 链接：https://github.com/deepseek-ai/dsh-superagent-prototype
+2、项目名称：agent-desktop - 让 AI 操作桌面软件的工具
+项目链接：https://agent-browser.dev/desk</p><p><a href="https://www.bilibili.com/video/BV1Kw456pEwm">查看原文 →</a></p>]]></description>
+        <author><![CDATA[IT咖啡馆]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 巫师财经：【巫师】AI资产跌出性价比，十五五规划告诉你国家钱在往哪走]]></title>
+        <link>https://www.bilibili.com/video/BV1kf4z6JEEg</link>
+        <guid isPermaLink="false">bilibili-117569377800433</guid>
+        <pubDate>Fri, 06 Nov 2026 12:27:43 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：巫师财经</p>
+<p><a href="https://www.bilibili.com/video/BV1kf4z6JEEg">查看原文 →</a></p>]]></description>
+        <author><![CDATA[巫师财经]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -200,18 +227,6 @@ G</p><p><a href="https://www.bilibili.com/video/BV13Txz6wE3o">查看原文 →</
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1qHxk6EEHN">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：OpenAI 将 Pro 各档与 Business Premium 用量翻倍，dots 继续提供单独用量【AI 早报 2026-10-30】]]></title>
-        <link>https://www.bilibili.com/video/BV1fMxP6CE6y</link>
-        <guid isPermaLink="false">bilibili-117527233497998</guid>
-        <pubDate>Fri, 30 Oct 2026 01:26:09 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1fMxP6CE6y">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
