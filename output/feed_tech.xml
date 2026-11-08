@@ -5,27 +5,39 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 07 Nov 2026 01:09:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 00:57:57 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月07日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月08日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-07</guid>
-        <pubDate>Sat, 07 Nov 2026 01:09:17 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-08</guid>
+        <pubDate>Sun, 08 Nov 2026 00:57:57 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 11月07日 01:09 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月08日 00:57 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-07</guid>
-        <pubDate>Sat, 07 Nov 2026 01:09:17 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 15 items</p><p><b>🎮 生活分享流 (life):</b> 25 items</p><p><b>🆕 本次新增:</b> 15 items</p><p><b>📦 数据库总量:</b> 3391 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-08</guid>
+        <pubDate>Sun, 08 Nov 2026 00:57:57 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 15 items</p><p><b>🎮 生活分享流 (life):</b> 24 items</p><p><b>🆕 本次新增:</b> 6 items</p><p><b>📦 数据库总量:</b> 3397 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Qwen 发海报预热新一代旗舰模型；Qoder CN 推出匿名模型 Qoduck 限时限量免费活动【AI 早报 2026-11-07】]]></title>
+        <link>https://www.bilibili.com/video/BV1Jo456yEGZ</link>
+        <guid isPermaLink="false">bilibili-117572531912799</guid>
+        <pubDate>Sat, 07 Nov 2026 01:26:39 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1Jo456yEGZ">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -91,6 +103,19 @@ GitHub 链接：https://github.com/deepseek-ai/dsh-superagent-prototype
 <p>本视频由特别观众“麻瓜甲”投稿
 项目地址：github.com/espressolver/MorphagusEngine</p><p><a href="https://www.bilibili.com/video/BV1hc486MEgh">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 硅谷101：“只要敢借，就有人敢贷”：投资者与建设者谈数据中心融资、电力和算力｜硅谷101年度线下大会]]></title>
+        <link>https://www.bilibili.com/video/BV1rB446LEVL</link>
+        <guid isPermaLink="false">bilibili-117562448810066</guid>
+        <pubDate>Thu, 05 Nov 2026 06:42:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：硅谷101</p>
+<p>去年，我们在大会上把数据中心比作“新的石油”。一年过去，AI基建热潮仍在继续，能够按时通电、交付算力的机房却十分稀缺。电力供应、设备短缺、建设许可与社区反对，都可能让规划中的算力迟迟无法上线。
+在硅谷101 Alignment 2026大会上，主持人Christina Xu与数据中心与能源战略专家Yixing Xu、GMI Cloud创始人兼CEO Alex Yeh、投资人Bruce Liu，从建</p><p><a href="https://www.bilibili.com/video/BV1rB446LEVL">查看原文 →</a></p>]]></description>
+        <author><![CDATA[硅谷101]]></author>
         <category>B站</category>
     </item>
     
@@ -198,35 +223,6 @@ GitHub 链接：https://github.com/deepseek-ai/dsh-superagent-prototype
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1LaxW6fEpd">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点136期」小显卡也能运行deepseek，内存和SSD来帮忙]]></title>
-        <link>https://www.bilibili.com/video/BV13Txz6wE3o</link>
-        <guid isPermaLink="false">bilibili-117530706316378</guid>
-        <pubDate>Sat, 31 Oct 2026 02:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：IT咖啡馆</p>
-<p>1、项目名称：Strata - 消费级显卡运行deepseek
-GitHub 链接：https://github.com/Niko1221/Strata
-2、项目名称：DeepInfer - DeepSeek的大规模模型推理框架
-GitHub 链接：https://github.com/deepseek-ai/DeepInfer
-3、项目名称：OpenCode - 2.x时代的opencode
-G</p><p><a href="https://www.bilibili.com/video/BV13Txz6wE3o">查看原文 →</a></p>]]></description>
-        <author><![CDATA[IT咖啡馆]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Anthropic 更名 Claude Max 20x 档位为 Ultra，并逐步取消已验证 Ultra 账户五小时限制【AI 早报 2026-10-31】]]></title>
-        <link>https://www.bilibili.com/video/BV1qHxk6EEHN</link>
-        <guid isPermaLink="false">bilibili-117532870576524</guid>
-        <pubDate>Sat, 31 Oct 2026 01:22:14 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1qHxk6EEHN">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
