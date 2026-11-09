@@ -5,27 +5,117 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 08 Nov 2026 00:57:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 01:15:20 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月08日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月09日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-08</guid>
-        <pubDate>Sun, 08 Nov 2026 00:57:57 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-09</guid>
+        <pubDate>Mon, 09 Nov 2026 01:15:20 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 11月08日 00:57 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月09日 01:15 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-08</guid>
-        <pubDate>Sun, 08 Nov 2026 00:57:57 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 15 items</p><p><b>🎮 生活分享流 (life):</b> 24 items</p><p><b>🆕 本次新增:</b> 6 items</p><p><b>📦 数据库总量:</b> 3397 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-09</guid>
+        <pubDate>Mon, 09 Nov 2026 01:15:20 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 16 items</p><p><b>🎮 生活分享流 (life):</b> 26 items</p><p><b>🆕 本次新增:</b> 13 items</p><p><b>📦 数据库总量:</b> 3410 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：WorkBuddy 向用户致歉并将返还积分差额【AI 早报 2026-11-09】]]></title>
+        <link>https://www.bilibili.com/video/BV1oeWs6bEm2</link>
+        <guid isPermaLink="false">bilibili-117583789426654</guid>
+        <pubDate>Mon, 09 Nov 2026 01:09:59 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1oeWs6bEm2">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Mr-Pot：【中英字幕】26.11.08美国务卿鲁比奥赴法参加G7峰会前在机场回答记者提问完整版]]></title>
+        <link>https://www.bilibili.com/video/BV1SSWs6EEg9</link>
+        <guid isPermaLink="false">bilibili-117583420328339</guid>
+        <pubDate>Mon, 09 Nov 2026 01:05:52 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：Mr-Pot</p>
+<p>本期视频标题：鲁比奥首度赴法参加高风险G7峰会：解析美对伊核、乌克兰安全与国际司法争议
+
+本期视频要点：
+1. 选举影响：美国中期选举令共和党遭受重创，鲁比奥将利用G7机会说明特朗普是否会在盟友与对手政策上作出调整。
+2. 伊朗核威胁：他强调两党过去曾达成共识，核武伊朗对美国、以色列及全球均构成不可接受的危险，并指出美国将采取防御行动。
+3. 乌克兰安全：鲁比奥提到乌克兰战后安全保障是各方持续关注</p><p><a href="https://www.bilibili.com/video/BV1SSWs6EEg9">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Mr-Pot (2026-11-08): 5 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1H6WH6ZErL</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-11-08-a1c5d27b</guid>
+        <pubDate>Sun, 08 Nov 2026 15:25:54 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1H6WH6ZErL">【中英字幕】26.11.07前白宫新闻发言人莱维特揭示川普对共和党中期选举失利的反应</a></li>
+<li><a href="https://www.bilibili.com/video/BV1uN4T6TEts">【中英字幕】CNBC解析：预测市场异常波动如何冲击选举公信力——从洛杉矶市长赛到全美监管争议</a></li>
+<li><a href="https://www.bilibili.com/video/BV13G4L6eE8Y">【中英字幕】彭博科技前沿26.11.06完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV13h4x6wECB">【中英字幕】《ALL-IN》播客26.11.07完整版：中期选举冲击、经济危机与AI风暴：特朗普如何翻盘与美国未来走向</a></li>
+<li><a href="https://www.bilibili.com/video/BV1AQ4x6mEEc">【中英字幕】PBS《华盛顿周报》26.11.06完整版</a></li>
+</ul>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 马督工：【睡前消息1128】理性的任性 新加坡公务员自我加薪]]></title>
+        <link>https://www.bilibili.com/video/BV19uW76YE7B</link>
+        <guid isPermaLink="false">bilibili-117579863627876</guid>
+        <pubDate>Sun, 08 Nov 2026 12:06:11 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：马督工</p>
+<p>分析当前新加坡统治秩序
+
+
+*普通食品不能代替保健食品和药品</p><p><a href="https://www.bilibili.com/video/BV19uW76YE7B">查看原文 →</a></p>]]></description>
+        <author><![CDATA[马督工]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenAI 智能体 dots 可用验证码代用户登录【AI 早报 2026-11-08】]]></title>
+        <link>https://www.bilibili.com/video/BV1dP446BE6B</link>
+        <guid isPermaLink="false">bilibili-117578185836032</guid>
+        <pubDate>Sun, 08 Nov 2026 01:21:27 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1dP446BE6B">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Mr-Pot (2026-11-07): 7 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1sY4J6iEZR</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-11-07-a1c5d27b</guid>
+        <pubDate>Sat, 07 Nov 2026 14:36:39 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1sY4J6iEZR">【中英字幕】26.11.06川普在机场回答记者提问完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1E64B6CEET">【中英字幕】彭博脉搏访谈26.11.06完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1Kv4J6NE3o">【中英字幕】26.11.06川普在肯尼迪航天中心发表演讲完整版：宣讲美国太空复兴与未来宏伟计划</a></li>
+<li><a href="https://www.bilibili.com/video/BV1fy476JE6x">【中英字幕】华尔街周刊26.11.06完整版：选民渴望可负担与增长——从美国中期选举、阿拉斯加油金到欧洲福利危机的全景透视</a></li>
+<li><a href="https://www.bilibili.com/video/BV1EC4B6rE7p">【中英字幕】彭博财经简报26.11.06完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1dS4L6METr">【中英字幕】26.11.06川普在白宫回答记者提问完整版</a></li>
+<li><a href="https://www.bilibili.com/video/BV1RS4L6MEZL">【中英字幕】26.11.06川普宣布斯蒂芬·米勒取代苏西·怀尔斯接任白宫幕僚长</a></li>
+</ul>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -106,20 +196,6 @@ GitHub 链接：https://github.com/deepseek-ai/dsh-superagent-prototype
 2、项目名称：agent-desktop - 让 AI 操作桌面软件的工具
 项目链接：https://agent-browser.dev/desk</p><p><a href="https://www.bilibili.com/video/BV1Kw456pEwm">查看原文 →</a></p>]]></description>
         <author><![CDATA[IT咖啡馆]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot (2026-11-07): 3 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1EC4B6rE7p</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-11-07-a1c5d27b</guid>
-        <pubDate>Sat, 07 Nov 2026 00:12:06 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1EC4B6rE7p">【中英字幕】彭博财经简报26.11.06完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1dS4L6METr">【中英字幕】26.11.06川普在白宫回答记者提问完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1RS4L6MEZL">【中英字幕】26.11.06川普宣布斯蒂芬·米勒取代苏西·怀尔斯接任白宫幕僚长</a></li>
-</ul>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
         <category>B站</category>
     </item>
     
@@ -566,33 +642,6 @@ GitHub 链接：https://github.com/deepseek-ai/dsh-superagent-prototype
 
 该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1qZx46BEVm">查看原文 →</a></p>]]></description>
         <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot (2026-11-01): 4 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1Pwx66sES5</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-11-01-a1c5d27b</guid>
-        <pubDate>Sun, 01 Nov 2026 15:47:02 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1Pwx66sES5">【中英字幕】彭博科技前沿26.10.30完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1RNxr63Eqa">【中英字幕】PBS《华盛顿周报》26.10.30完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1ZKxp6oEh5">【中英字幕】26.10.31美国国务卿鲁比奥在亚特兰大G20峰会发表演讲并回答记者提问完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1uLxr6eEHv">【中英字幕】华尔街周刊26.10.30完整版：美国中期选举聚焦可负担性危机、数据中心争议与债务困局，资本主义面临选票考验</a></li>
-</ul>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：OpenAI：12 月开始 ChatGPT 与 Codex 共享额度【AI 早报 2026-11-01】]]></title>
-        <link>https://www.bilibili.com/video/BV1LaxW6fEpd</link>
-        <guid isPermaLink="false">bilibili-117538457388957</guid>
-        <pubDate>Sun, 01 Nov 2026 01:00:53 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1LaxW6fEpd">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
