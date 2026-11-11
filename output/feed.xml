@@ -5,27 +5,129 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 10 Nov 2026 03:50:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 01:30:30 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月10日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月11日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-10</guid>
-        <pubDate>Tue, 10 Nov 2026 03:50:05 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-11</guid>
+        <pubDate>Wed, 11 Nov 2026 01:30:30 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 11月10日 03:50 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月11日 01:30 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-10</guid>
-        <pubDate>Tue, 10 Nov 2026 03:50:05 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 14 items</p><p><b>🎮 生活分享流 (life):</b> 21 items</p><p><b>🆕 本次新增:</b> 1 items</p><p><b>📦 数据库总量:</b> 3411 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-11</guid>
+        <pubDate>Wed, 11 Nov 2026 01:30:30 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 16 items</p><p><b>🎮 生活分享流 (life):</b> 24 items</p><p><b>🆕 本次新增:</b> 9 items</p><p><b>📦 数据库总量:</b> 3420 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 全员i人字幕组：【生肉】"我真的20岁啦🐰" 恩採生日直播(中字待更) 261110]]></title>
+        <link>https://www.bilibili.com/video/BV1buW36uETC</link>
+        <guid isPermaLink="false">bilibili-117592597468947</guid>
+        <pubDate>Tue, 10 Nov 2026 14:27:43 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p>wvs
+资源：末末
+翻译：
+时间轴：
+校对/合轴/压制：
+
+该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1buW36uETC">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：60万颗! 英伟达H200芯片在香港堆积如山! 中方未批准进口！郭正亮 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV1uqWT6eErB</link>
+        <guid isPermaLink="false">bilibili-117590416427866</guid>
+        <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV1uqWT6eErB">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Yunaty日本語：日本新干线推出全新顶级包厢！实测「Supreme Class」，到底值不值得体验？]]></title>
+        <link>https://www.bilibili.com/video/BV1GzW36UEVR</link>
+        <guid isPermaLink="false">bilibili-117591993486196</guid>
+        <pubDate>Tue, 10 Nov 2026 11:55:09 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：Yunaty日本語</p>
+<p>日本新干线推出全新顶级包厢！实测「Supreme Class」，到底值不值得体验？</p><p><a href="https://www.bilibili.com/video/BV1GzW36UEVR">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Yunaty日本語]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客：野村看好半导体设备,订单翻倍交付跟不上]]></title>
+        <link>https://www.bilibili.com/video/BV1bFWu6qE4Y</link>
+        <guid isPermaLink="false">bilibili-117591859269039</guid>
+        <pubDate>Tue, 10 Nov 2026 11:20:02 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：华尔街播客</p>
+<p>野村这份3Q26复盘，抓住了一个反直觉的现象：订单增速远高于交付增速。原因不在需求，而在静电卡盘、质量流量控制器等零部件供给。存储是最大的边际买家，国产设备商同时在做平台化扩张，材料国产化也在向高端产品切换。野村认为行业处在长周期上行阶段，能见度延伸到2028年。</p><p><a href="https://www.bilibili.com/video/BV1bFWu6qE4Y">查看原文 →</a></p>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 巫师财经：【巫师】瑞士银行的陨落（补档）]]></title>
+        <link>https://www.bilibili.com/video/BV1qtWu6EEei</link>
+        <guid isPermaLink="false">bilibili-117591624456918</guid>
+        <pubDate>Tue, 10 Nov 2026 10:28:43 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：巫师财经</p>
+<p><a href="https://www.bilibili.com/video/BV1qtWu6EEei">查看原文 →</a></p>]]></description>
+        <author><![CDATA[巫师财经]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] IT咖啡馆：从小白到高手，玩转DeepSeek Harness的保姆级教程]]></title>
+        <link>https://www.bilibili.com/video/BV1owWM6jE1t</link>
+        <guid isPermaLink="false">bilibili-117590147992948</guid>
+        <pubDate>Tue, 10 Nov 2026 04:06:03 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：IT咖啡馆</p>
+<p>deepseek harness确实是一套非常好玩和强大的harness，感兴趣的朋友不要错过，跟着视频一起上手，快速玩转DSH。</p><p><a href="https://www.bilibili.com/video/BV1owWM6jE1t">查看原文 →</a></p>]]></description>
+        <author><![CDATA[IT咖啡馆]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第671期】雄安唯一主校区 ；11元拍鹤岗房]]></title>
+        <link>https://www.bilibili.com/video/BV1sUW86sE37</link>
+        <guid isPermaLink="false">bilibili-117586591222052</guid>
+        <pubDate>Mon, 09 Nov 2026 13:03:32 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1sUW86sE37">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：黄仁勋承认婚外情 英伟达董事会调查涉外国情报行动指控！沈逸 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV1GKW464EU9</link>
+        <guid isPermaLink="false">bilibili-117584661840033</guid>
+        <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV1GKW464EU9">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -133,6 +235,18 @@
 <li><a href="https://www.bilibili.com/video/BV1RS4L6MEZL">【中英字幕】26.11.06川普宣布斯蒂芬·米勒取代苏西·怀尔斯接任白宫幕僚长</a></li>
 </ul>]]></description>
         <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第670期】跟岗教师无薪酬；横向经费需自筹]]></title>
+        <link>https://www.bilibili.com/video/BV1B84n64EGY</link>
+        <guid isPermaLink="false">bilibili-117575065274039</guid>
+        <pubDate>Sat, 07 Nov 2026 12:12:29 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1B84n64EGY">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
         <category>B站</category>
     </item>
     
@@ -492,64 +606,6 @@ GitHub 链接：https://github.com/deepseek-ai/dsh-superagent-prototype
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV19yxD6vEJW">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：说好的不打呢! 期中选举前夕! 川普下令打击伊朗！郭正亮 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV1wx436uEnL</link>
-        <guid isPermaLink="false">bilibili-117551291957356</guid>
-        <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV1wx436uEnL">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 马督工：【睡前消息1126】广东省和广宁省比空调，输给越南还能输谁？]]></title>
-        <link>https://www.bilibili.com/video/BV16u4g6cE3b</link>
-        <guid isPermaLink="false">bilibili-117552063714773</guid>
-        <pubDate>Tue, 03 Nov 2026 10:48:12 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：马督工</p>
-<p>1 广东省遂溪县小学装空调矛盾。</p><p><a href="https://www.bilibili.com/video/BV16u4g6cE3b">查看原文 →</a></p>]]></description>
-        <author><![CDATA[马督工]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：OpenAI 自研 Git 后端 Pando 投产；研究者称 GPT-6 Astra 可直接改写模型权重【AI 早报 2026-11-03】]]></title>
-        <link>https://www.bilibili.com/video/BV16B4K6REk5</link>
-        <guid isPermaLink="false">bilibili-117549865962487</guid>
-        <pubDate>Tue, 03 Nov 2026 01:25:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV16B4K6REk5">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】来自威斯康星州的允真, 韩国职场生活初体验 | #HMM EP.5 261102]]></title>
-        <link>https://www.bilibili.com/video/BV1bW4K6NEv2</link>
-        <guid isPermaLink="false">bilibili-117548087515666</guid>
-        <pubDate>Mon, 02 Nov 2026 23:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>ytb
-🏷️ 第五页
-允真将与我们分享她迄今为止经历过的无数个“第一次”，第一个朋友、第一次步入社会、第一次反抗，以及第一次离别。我们每个人都有过这样一个笨拙而又陌生的第一次。
-一路走过那些所有的第一次，才终于遇见如今的自己。今天，就和允真一起回顾那些一路走来的时光吧。
-
-资源：大癫
-翻译：saki
-时间轴：魔法糖冰棍
-压制：末末
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1bW4K6NEv2">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
         <category>B站</category>
     </item>
     

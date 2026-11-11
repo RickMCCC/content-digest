@@ -5,27 +5,63 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 10 Nov 2026 03:50:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 01:30:30 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月10日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月11日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-10</guid>
-        <pubDate>Tue, 10 Nov 2026 03:50:05 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-11</guid>
+        <pubDate>Wed, 11 Nov 2026 01:30:30 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 11月10日 03:50 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月11日 01:30 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-10</guid>
-        <pubDate>Tue, 10 Nov 2026 03:50:05 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 14 items</p><p><b>🎮 生活分享流 (life):</b> 21 items</p><p><b>🆕 本次新增:</b> 1 items</p><p><b>📦 数据库总量:</b> 3411 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-11</guid>
+        <pubDate>Wed, 11 Nov 2026 01:30:30 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 16 items</p><p><b>🎮 生活分享流 (life):</b> 24 items</p><p><b>🆕 本次新增:</b> 9 items</p><p><b>📦 数据库总量:</b> 3420 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客：野村看好半导体设备,订单翻倍交付跟不上]]></title>
+        <link>https://www.bilibili.com/video/BV1bFWu6qE4Y</link>
+        <guid isPermaLink="false">bilibili-117591859269039</guid>
+        <pubDate>Tue, 10 Nov 2026 11:20:02 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：华尔街播客</p>
+<p>野村这份3Q26复盘，抓住了一个反直觉的现象：订单增速远高于交付增速。原因不在需求，而在静电卡盘、质量流量控制器等零部件供给。存储是最大的边际买家，国产设备商同时在做平台化扩张，材料国产化也在向高端产品切换。野村认为行业处在长周期上行阶段，能见度延伸到2028年。</p><p><a href="https://www.bilibili.com/video/BV1bFWu6qE4Y">查看原文 →</a></p>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 巫师财经：【巫师】瑞士银行的陨落（补档）]]></title>
+        <link>https://www.bilibili.com/video/BV1qtWu6EEei</link>
+        <guid isPermaLink="false">bilibili-117591624456918</guid>
+        <pubDate>Tue, 10 Nov 2026 10:28:43 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：巫师财经</p>
+<p><a href="https://www.bilibili.com/video/BV1qtWu6EEei">查看原文 →</a></p>]]></description>
+        <author><![CDATA[巫师财经]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] IT咖啡馆：从小白到高手，玩转DeepSeek Harness的保姆级教程]]></title>
+        <link>https://www.bilibili.com/video/BV1owWM6jE1t</link>
+        <guid isPermaLink="false">bilibili-117590147992948</guid>
+        <pubDate>Tue, 10 Nov 2026 04:06:03 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：IT咖啡馆</p>
+<p>deepseek harness确实是一套非常好玩和强大的harness，感兴趣的朋友不要错过，跟着视频一起上手，快速玩转DSH。</p><p><a href="https://www.bilibili.com/video/BV1owWM6jE1t">查看原文 →</a></p>]]></description>
+        <author><![CDATA[IT咖啡馆]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -197,18 +233,6 @@ GitHub 链接：https://github.com/deepseek-ai/dsh-superagent-prototype
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV19yxD6vEJW">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：OpenAI 自研 Git 后端 Pando 投产；研究者称 GPT-6 Astra 可直接改写模型权重【AI 早报 2026-11-03】]]></title>
-        <link>https://www.bilibili.com/video/BV16B4K6REk5</link>
-        <guid isPermaLink="false">bilibili-117549865962487</guid>
-        <pubDate>Tue, 03 Nov 2026 01:25:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV16B4K6REk5">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
