@@ -5,27 +5,63 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 11 Nov 2026 01:30:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 02:30:18 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月11日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月12日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-11</guid>
-        <pubDate>Wed, 11 Nov 2026 01:30:30 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-12</guid>
+        <pubDate>Thu, 12 Nov 2026 02:30:18 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 11月11日 01:30 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月12日 02:30 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-11</guid>
-        <pubDate>Wed, 11 Nov 2026 01:30:30 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 16 items</p><p><b>🎮 生活分享流 (life):</b> 24 items</p><p><b>🆕 本次新增:</b> 9 items</p><p><b>📦 数据库总量:</b> 3420 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-12</guid>
+        <pubDate>Thu, 12 Nov 2026 02:30:18 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 15 items</p><p><b>🎮 生活分享流 (life):</b> 28 items</p><p><b>🆕 本次新增:</b> 18 items</p><p><b>📦 数据库总量:</b> 3438 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 量化投资邢不行啊：纳指一跌大A遭殃?韩股再跌带崩大A?A股凭啥买单全球?Python量化A股和美股/韩股关系,揭秘大A跳水真相 | 量化投资邢不行啊]]></title>
+        <link>https://www.bilibili.com/video/BV1AzWy6ZEZG</link>
+        <guid isPermaLink="false">bilibili-117596758283955</guid>
+        <pubDate>Wed, 11 Nov 2026 09:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：量化投资邢不行啊</p>
+<p>纳指跌了，大A跟跌，我认了。
+怎么隔壁小韩崩了大A也要跟？
+炒A股真要看全球股市脸色吗？
+外围市场对大A的影响有多少？
+
+喜欢视频记得三连，并点个关注～
+
+往期视频精选：
+大A频繁跳水：BV1AH4y1j7PA
+开源信息工具：BV1ZdxL6gEkF
+量化策略月报：BV1Dyni66ExJ</p><p><a href="https://www.bilibili.com/video/BV1AzWy6ZEZG">查看原文 →</a></p>]]></description>
+        <author><![CDATA[量化投资邢不行啊]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 硅谷101：聊聊中国版MUSE：蚂蚁灵光2.0，支付宝，超级App的生态优势与挑战｜对话蚂蚁灵光CTO【101视频播客】]]></title>
+        <link>https://www.bilibili.com/video/BV1R1WL6cEzo</link>
+        <guid isPermaLink="false">bilibili-117595751716116</guid>
+        <pubDate>Wed, 11 Nov 2026 03:48:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：硅谷101</p>
+<p>AI个人助理之战在硅谷打响了，Muse、Grokbot、OpenAI Dots与Anthropic Duet打得不可开交，而Personal Assistant在中国国内的优势和挑战会是什么呢？这期视频播客，我们对话了刚发布灵光2.0的蚂蚁灵光CTO莫林剑（花名：林怿），聊聊灵光1.0到2.0的进化。
+
+围绕超级App的生态优势、外部Agent遇到的阻力，我们也聊了平台之间的合作与博弈。用户省下了</p><p><a href="https://www.bilibili.com/video/BV1R1WL6cEzo">查看原文 →</a></p>]]></description>
+        <author><![CDATA[硅谷101]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -187,52 +223,6 @@ GitHub 链接：https://github.com/deepseek-ai/dsh-superagent-prototype
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV11vxf6CEmP">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 量化投资邢不行啊：分析师的嘴,骗人的鬼?我拿你当专家,你拿我当猪杀?涨了喊买入,跌了喊增持?研报一出,大跌开始?分析师到底靠不靠谱? | 量化投资邢不行啊]]></title>
-        <link>https://www.bilibili.com/video/BV1jpxQ6zE6Z</link>
-        <guid isPermaLink="false">bilibili-117557012992325</guid>
-        <pubDate>Wed, 04 Nov 2026 09:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：量化投资邢不行啊</p>
-<p>分析师到底靠谱不靠谱？
-怎么给我推的票都跌停？
-网上大师属于分析师吗？
-分析师们的预测准确吗？
-
-喜欢视频记得三连，并点个关注～
-
-往期视频精选：
-新财富分析师：BV12X4y1U7Hm
-开源信息工具：BV1ZdxL6gEkF
-量化策略月报：BV1Dyni66ExJ</p><p><a href="https://www.bilibili.com/video/BV1jpxQ6zE6Z">查看原文 →</a></p>]]></description>
-        <author><![CDATA[量化投资邢不行啊]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：双十一入了台 Mac mini……]]></title>
-        <link>https://www.bilibili.com/video/BV11JxD6QEUW</link>
-        <guid isPermaLink="false">bilibili-117555821805718</guid>
-        <pubDate>Wed, 04 Nov 2026 02:36:47 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV11JxD6QEUW">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Anthropic 开源 FlashProve，验证 AI 回复来自哪个模型【AI 早报 2026-11-04】]]></title>
-        <link>https://www.bilibili.com/video/BV19yxD6vEJW</link>
-        <guid isPermaLink="false">bilibili-117555553438414</guid>
-        <pubDate>Wed, 04 Nov 2026 01:28:37 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV19yxD6vEJW">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
