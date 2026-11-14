@@ -5,27 +5,39 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 13 Nov 2026 02:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 01:41:34 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月13日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月14日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-13</guid>
-        <pubDate>Fri, 13 Nov 2026 02:08:29 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-14</guid>
+        <pubDate>Sat, 14 Nov 2026 01:41:34 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 11月13日 02:08 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月14日 01:41 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-13</guid>
-        <pubDate>Fri, 13 Nov 2026 02:08:29 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 21 items</p><p><b>🎮 生活分享流 (life):</b> 26 items</p><p><b>🆕 本次新增:</b> 11 items</p><p><b>📦 数据库总量:</b> 3449 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-14</guid>
+        <pubDate>Sat, 14 Nov 2026 01:41:34 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 19 items</p><p><b>🎮 生活分享流 (life):</b> 28 items</p><p><b>🆕 本次新增:</b> 10 items</p><p><b>📦 数据库总量:</b> 3459 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：DeepSeek 宣布开放全家桶应用 API；OpenAI 推出 ChatGPT Wallet【AI 早报 2026-11-14】]]></title>
+        <link>https://www.bilibili.com/video/BV1b6Wr68ESF</link>
+        <guid isPermaLink="false">bilibili-117611941660627</guid>
+        <pubDate>Sat, 14 Nov 2026 00:29:58 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1b6Wr68ESF">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -260,44 +272,6 @@ GitHub 链接：https://github.com/deepseek-ai/dsh-superagent-prototype
 2、项目名称：agent-desktop - 让 AI 操作桌面软件的工具
 项目链接：https://agent-browser.dev/desk</p><p><a href="https://www.bilibili.com/video/BV1Kw456pEwm">查看原文 →</a></p>]]></description>
         <author><![CDATA[IT咖啡馆]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 巫师财经：【巫师】AI资产跌出性价比，十五五规划告诉你国家钱在往哪走]]></title>
-        <link>https://www.bilibili.com/video/BV1kf4z6JEEg</link>
-        <guid isPermaLink="false">bilibili-117569377800433</guid>
-        <pubDate>Fri, 06 Nov 2026 12:27:43 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：巫师财经</p>
-<p><a href="https://www.bilibili.com/video/BV1kf4z6JEEg">查看原文 →</a></p>]]></description>
-        <author><![CDATA[巫师财经]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Google 发布 Gemini Omni 1.2 Flash【AI 早报 2026-11-06】]]></title>
-        <link>https://www.bilibili.com/video/BV1Jh4e6PEBE</link>
-        <guid isPermaLink="false">bilibili-117566861215387</guid>
-        <pubDate>Fri, 06 Nov 2026 01:23:27 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1Jh4e6PEBE">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 跟李沐学AI：AI助手还在一问一答？做了一个边听边说、边干活的全双工模型，讲一讲背后的技术]]></title>
-        <link>https://www.bilibili.com/video/BV1LB4a6DEWL</link>
-        <guid isPermaLink="false">bilibili-117565602928482</guid>
-        <pubDate>Thu, 05 Nov 2026 23:30:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：跟李沐学AI</p>
-<p>今天的大部分语音助手还是"你说一句、它答一句"。Higgs Realtime Duplex 是我们做的全双工多模态模型：像真人一样边听边说、边看边想，还能一边聊天一边在后台调用工具，并且有一张脸。这个视频用 44 分钟讲清楚它为什么要这样设计、怎么训练、效果如何。
-
-技术 blog 原文: https://www.boson.ai/blog/higgs-realtime-duplex</p><p><a href="https://www.bilibili.com/video/BV1LB4a6DEWL">查看原文 →</a></p>]]></description>
-        <author><![CDATA[跟李沐学AI]]></author>
         <category>B站</category>
     </item>
     
