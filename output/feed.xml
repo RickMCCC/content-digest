@@ -5,27 +5,73 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 14 Nov 2026 01:41:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 01:19:03 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月14日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月15日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-14</guid>
-        <pubDate>Sat, 14 Nov 2026 01:41:34 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-15</guid>
+        <pubDate>Sun, 15 Nov 2026 01:19:03 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 11月14日 01:41 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月15日 01:19 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-14</guid>
-        <pubDate>Sat, 14 Nov 2026 01:41:34 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 19 items</p><p><b>🎮 生活分享流 (life):</b> 28 items</p><p><b>🆕 本次新增:</b> 10 items</p><p><b>📦 数据库总量:</b> 3459 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-15</guid>
+        <pubDate>Sun, 15 Nov 2026 01:19:03 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 18 items</p><p><b>🎮 生活分享流 (life):</b> 25 items</p><p><b>🆕 本次新增:</b> 4 items</p><p><b>📦 数据库总量:</b> 3463 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点138期」开源版Grok Bot、多Agent编程工作台、紫微斗数排盘、现代化爬虫和Meta设计系统]]></title>
+        <link>https://www.bilibili.com/video/BV185sG6UEpn</link>
+        <guid isPermaLink="false">bilibili-117613669779335</guid>
+        <pubDate>Sat, 14 Nov 2026 07:49:07 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：IT咖啡馆</p>
+<p>1、项目名称：OpenMausBot - 开源版Grok Bot
+GitHub 链接：https://github.com/milind-soni/OpenMausBot
+2、项目名称：T3 Code - 跨设备多 Agent 编程工作台
+GitHub 链接：https://github.com/pingdotgg/t3code
+3、项目名称：ziwei-doushu - 中国传统命理学工具
+Gi</p><p><a href="https://www.bilibili.com/video/BV185sG6UEpn">查看原文 →</a></p>]]></description>
+        <author><![CDATA[IT咖啡馆]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 学院派Academia：【世界想象史】金庸为何成就了武侠，也杀死了武侠]]></title>
+        <link>https://www.bilibili.com/video/BV1NaWk6RE8n</link>
+        <guid isPermaLink="false">bilibili-117613183178153</guid>
+        <pubDate>Sat, 14 Nov 2026 05:46:09 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：学院派Academia</p>
+<p>金庸最伟大的创造，也可能恰恰构成了武侠的终局：
+他用家国代替了江湖，用圣贤改造了侠客；他把武侠抬到了前所未有的高度，也亲手杀死了武侠。</p><p><a href="https://www.bilibili.com/video/BV1NaWk6RE8n">查看原文 →</a></p>]]></description>
+        <author><![CDATA[学院派Academia]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] torazyz：真实一周工作生活vlog👩‍💻torazyz]]></title>
+        <link>https://www.bilibili.com/video/BV1yWWB6CEwm</link>
+        <guid isPermaLink="false">bilibili-117609794110677</guid>
+        <pubDate>Sat, 14 Nov 2026 02:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：torazyz</p>
+<p>在SKP又见到Simonetta Ravizza女士和她的team啦！和她一起试穿新系列，也欢迎大家可以去北京SKP四层逛逛Simonetta Ravizza快闪店
+
+Simonetta Ravizza 精选单品: https://simonettaravizza.com/pages/toras-edit?sca_ref=12595667.NF0BGyrqbxcZkbf
+
+KHAITE官网也开始s</p><p><a href="https://www.bilibili.com/video/BV1yWWB6CEwm">查看原文 →</a></p>]]></description>
+        <author><![CDATA[torazyz]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -80,6 +126,19 @@
 <li><a href="https://www.bilibili.com/video/BV1FsWo6dESw">【中英字幕】彭博财经简报26.11.12</a></li>
 </ul>]]></description>
         <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 黄家守卫军：［俄乌战争：红军城战役］俄乌战争影响力最大之战？全面回顾俄乌战争持续17个月的漫长攻防战]]></title>
+        <link>https://www.bilibili.com/video/BV1JDWv6bESE</link>
+        <guid isPermaLink="false">bilibili-117607176935253</guid>
+        <pubDate>Fri, 13 Nov 2026 11:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：黄家守卫军</p>
+<p>久违了，十分诚挚的希望大家都能看到最后的片尾曲部分！！
+本视频根据主观视角及相关资料制作，有误欢迎指正。素材均来源于互联网公开合法资料，且仅作为科普素材使用。</p><p><a href="https://www.bilibili.com/video/BV1JDWv6bESE">查看原文 →</a></p>]]></description>
+        <author><![CDATA[黄家守卫军]]></author>
         <category>B站</category>
     </item>
     
@@ -556,155 +615,6 @@
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1dP446BE6B">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小王Albert：江西卫视&今日俄罗斯电视台联合出品《世界新声场》，8 位中俄 UP 主齐聚，共同探讨属于当下年轻人的全球治理新方案。谁的提案能够脱颖而出？]]></title>
-        <link>https://www.bilibili.com/video/BV1Pz4J6aEJg</link>
-        <guid isPermaLink="false">bilibili-117575618925019</guid>
-        <pubDate>Sat, 07 Nov 2026 14:52:44 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小王Albert</p>
-<p>世界在变，哪些课题已经更新？我们又该如何作答？
-8 位中俄 UP 主齐聚，共同探讨属于当下年轻人的全球治理新方案。他们带来了24 份话题提案，最终只有 8 个能够进入本季节目的讨论。
-谁的提案能够脱颖而出？又是哪些选题会进入本季节目的讨论呢？ 
-
-【选题会阵容】
-选题会总编辑/节目主持人：王冠
-中方UP主：
-bilibili 波士顿圆脸
-bilibili 王骁Albert
-bilibili 小Q不</p><p><a href="https://www.bilibili.com/video/BV1Pz4J6aEJg">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小王Albert]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot (2026-11-07): 7 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1sY4J6iEZR</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-11-07-a1c5d27b</guid>
-        <pubDate>Sat, 07 Nov 2026 14:36:39 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1sY4J6iEZR">【中英字幕】26.11.06川普在机场回答记者提问完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1E64B6CEET">【中英字幕】彭博脉搏访谈26.11.06完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1Kv4J6NE3o">【中英字幕】26.11.06川普在肯尼迪航天中心发表演讲完整版：宣讲美国太空复兴与未来宏伟计划</a></li>
-<li><a href="https://www.bilibili.com/video/BV1fy476JE6x">【中英字幕】华尔街周刊26.11.06完整版：选民渴望可负担与增长——从美国中期选举、阿拉斯加油金到欧洲福利危机的全景透视</a></li>
-<li><a href="https://www.bilibili.com/video/BV1EC4B6rE7p">【中英字幕】彭博财经简报26.11.06完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1dS4L6METr">【中英字幕】26.11.06川普在白宫回答记者提问完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1RS4L6MEZL">【中英字幕】26.11.06川普宣布斯蒂芬·米勒取代苏西·怀尔斯接任白宫幕僚长</a></li>
-</ul>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小黛晨读：【参考信息第670期】跟岗教师无薪酬；横向经费需自筹]]></title>
-        <link>https://www.bilibili.com/video/BV1B84n64EGY</link>
-        <guid isPermaLink="false">bilibili-117575065274039</guid>
-        <pubDate>Sat, 07 Nov 2026 12:12:29 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小黛晨读</p>
-<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1B84n64EGY">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小黛晨读]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 温竣岩：养老金改革——空账、延退、三角困局，中国养老改革激烈突围]]></title>
-        <link>https://www.bilibili.com/video/BV1Kv4J6NEbZ</link>
-        <guid isPermaLink="false">bilibili-117573790208491</guid>
-        <pubDate>Sat, 07 Nov 2026 07:01:51 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：温竣岩</p>
-<p>2025年1月1日，新年的第一天，中国养老金制度改革三十年来影响最广、触动最深的改革落地——延迟退休。
-
-
-
-消息蔓延，每个人都有不同认识与看法，开始盘算自己能领多少年养老金，分歧与争议并行。
-
-
-然而无论如何，几组数字已是既定事实，截至2024年末，全国60岁及以上人口已达2.97亿，占总人口的21.1%，中国已步入深度老龄化社会，老年抚养比正快速收窄。
-
-
-</p><p><a href="https://www.bilibili.com/video/BV1Kv4J6NEbZ">查看原文 →</a></p>]]></description>
-        <author><![CDATA[温竣岩]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 曼施坦鹦：二战中，德国是怎么战败的（下）【曼施坦鹦 新秩序】]]></title>
-        <link>https://www.bilibili.com/video/BV1Uw4j6FE9M</link>
-        <guid isPermaLink="false">bilibili-117571625950039</guid>
-        <pubDate>Sat, 07 Nov 2026 03:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：曼施坦鹦</p>
-<p>主要参考资料：
-《第二次世界大战回忆录》（英国）温斯顿·丘吉尔
-《回忆与思考》（苏联）格奥尔基·朱可夫
-《The End: Hitler’s Germany, 1944–45》（英国）伊恩·克肖
-《克里姆林宫的信件：斯大林与丘吉尔、罗斯福的战时通信》（英国）戴维·雷诺兹、（俄罗斯）弗拉基米尔·佩恰特诺夫编
-《Allies at War: The Politics of Defeating Hitl</p><p><a href="https://www.bilibili.com/video/BV1Uw4j6FE9M">查看原文 →</a></p>]]></description>
-        <author><![CDATA[曼施坦鹦]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] torazyz：Tokyo vlog🗼东京生日旅行🏮沉浸式逛街购物｜torazyz]]></title>
-        <link>https://www.bilibili.com/video/BV16m4Y6YE9q</link>
-        <guid isPermaLink="false">bilibili-117567062540435</guid>
-        <pubDate>Sat, 07 Nov 2026 02:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：torazyz</p>
-<p>我们去的的店（按区域）：
-
-逛街👯‍♀️
-▫️Harajuku 原宿：
-Chrome Hearts
-Maidens shop
-BRING
-THE USED
-CORNER
-RINKAN
-
-▫️Omotesando 表参道：
-Paradise Vintage
-Casanova
-QOO
-AMORE 有三家
-ALLU
-JMM
-
-▫️Shinjuku 新宿：
-ISETAN 有KHAITE和Chrome He</p><p><a href="https://www.bilibili.com/video/BV16m4Y6YE9q">查看原文 →</a></p>]]></description>
-        <author><![CDATA[torazyz]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Qwen 发海报预热新一代旗舰模型；Qoder CN 推出匿名模型 Qoduck 限时限量免费活动【AI 早报 2026-11-07】]]></title>
-        <link>https://www.bilibili.com/video/BV1Jo456yEGZ</link>
-        <guid isPermaLink="false">bilibili-117572531912799</guid>
-        <pubDate>Sat, 07 Nov 2026 01:26:39 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1Jo456yEGZ">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点137期」快速看懂 DeepSeek superAgent]]></title>
-        <link>https://www.bilibili.com/video/BV1Kw456pEwm</link>
-        <guid isPermaLink="false">bilibili-117570720041233</guid>
-        <pubDate>Sat, 07 Nov 2026 01:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：IT咖啡馆</p>
-<p>1、项目名称：dsh-superagent-prototype - 基于 DeepSeek Harness 的超级智能体
-GitHub 链接：https://github.com/deepseek-ai/dsh-superagent-prototype
-2、项目名称：agent-desktop - 让 AI 操作桌面软件的工具
-项目链接：https://agent-browser.dev/desk</p><p><a href="https://www.bilibili.com/video/BV1Kw456pEwm">查看原文 →</a></p>]]></description>
-        <author><![CDATA[IT咖啡馆]]></author>
         <category>B站</category>
     </item>
     
