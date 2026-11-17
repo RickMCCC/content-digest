@@ -5,27 +5,63 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 16 Nov 2026 01:24:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 04:12:06 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月16日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月17日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-16</guid>
-        <pubDate>Mon, 16 Nov 2026 01:24:09 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-17</guid>
+        <pubDate>Tue, 17 Nov 2026 04:12:06 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 11月16日 01:24 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月17日 04:12 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-16</guid>
-        <pubDate>Mon, 16 Nov 2026 01:24:09 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 17 items</p><p><b>🎮 生活分享流 (life):</b> 28 items</p><p><b>🆕 本次新增:</b> 12 items</p><p><b>📦 数据库总量:</b> 3475 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-17</guid>
+        <pubDate>Tue, 17 Nov 2026 04:12:06 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 19 items</p><p><b>🎮 生活分享流 (life):</b> 26 items</p><p><b>🆕 本次新增:</b> 5 items</p><p><b>📦 数据库总量:</b> 3480 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：阿里千问发布 Qwen4-Max；腾讯混元推出 Hy4 flash【AI 早报 2026-11-17】]]></title>
+        <link>https://www.bilibili.com/video/BV1BbsM6QEBq</link>
+        <guid isPermaLink="false">bilibili-117629020801553</guid>
+        <pubDate>Tue, 17 Nov 2026 00:49:33 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1BbsM6QEBq">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第674期】百万抗癌药进医保；片仔癀老总管医保局]]></title>
+        <link>https://www.bilibili.com/video/BV1AbsA67EZp</link>
+        <guid isPermaLink="false">bilibili-117626135120929</guid>
+        <pubDate>Mon, 16 Nov 2026 12:44:51 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1AbsA67EZp">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：华为云上线 openPangu-2.1-Pro 模型【AI 早报 2026-11-16】]]></title>
+        <link>https://www.bilibili.com/video/BV1Atsc6gEC1</link>
+        <guid isPermaLink="false">bilibili-117623232660135</guid>
+        <pubDate>Mon, 16 Nov 2026 00:20:56 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1Atsc6gEC1">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -58,6 +94,18 @@
     </item>
     
     <item>
+        <title><![CDATA[[B站] 巫师财经：【巫师】百亿牧羊案的背后：如何掏空百亿企业]]></title>
+        <link>https://www.bilibili.com/video/BV1nVsp6FEH5</link>
+        <guid isPermaLink="false">bilibili-117620347051627</guid>
+        <pubDate>Sun, 15 Nov 2026 12:06:18 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：巫师财经</p>
+<p><a href="https://www.bilibili.com/video/BV1nVsp6FEH5">查看原文 →</a></p>]]></description>
+        <author><![CDATA[巫师财经]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] Mr-Pot (2026-11-15): 2 posts]]></title>
         <link>https://www.bilibili.com/video/BV131sJ66Eeg</link>
         <guid isPermaLink="false">bilibili-grouped-2026-11-15-a1c5d27b</guid>
@@ -67,6 +115,18 @@
 <li><a href="https://www.bilibili.com/video/BV1ytW66UEHm">【中英字幕】彭博脉搏访谈26.11.13完整版</a></li>
 </ul>]]></description>
         <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Grok Bot 多项优化上线，订阅用量增约 7%【AI 早报 2026-11-15】]]></title>
+        <link>https://www.bilibili.com/video/BV12bsj69EFg</link>
+        <guid isPermaLink="false">bilibili-117617662624869</guid>
+        <pubDate>Sun, 15 Nov 2026 00:45:32 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV12bsj69EFg">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
@@ -582,71 +642,6 @@ KHAITE官网也开始s</p><p><a href="https://www.bilibili.com/video/BV1yWWB6CEw
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1D3WK6aED3">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小黛晨读：【参考信息第671期】雄安唯一主校区 ；11元拍鹤岗房]]></title>
-        <link>https://www.bilibili.com/video/BV1sUW86sE37</link>
-        <guid isPermaLink="false">bilibili-117586591222052</guid>
-        <pubDate>Mon, 09 Nov 2026 13:03:32 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小黛晨读</p>
-<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1sUW86sE37">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小黛晨读]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：必学：AI 连网站都写好了，却不会发出去？一键发布工具来了！（不用买服务器和域名！）]]></title>
-        <link>https://www.bilibili.com/video/BV1LEWx68EhN</link>
-        <guid isPermaLink="false">bilibili-117585249175982</guid>
-        <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p>手机上就能用的网页托管服务来啦！小程序、CLI 和网页端全都有！</p><p><a href="https://www.bilibili.com/video/BV1LEWx68EhN">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：黄仁勋承认婚外情 英伟达董事会调查涉外国情报行动指控！沈逸 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV1GKW464EU9</link>
-        <guid isPermaLink="false">bilibili-117584661840033</guid>
-        <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV1GKW464EU9">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：WorkBuddy 向用户致歉并将返还积分差额【AI 早报 2026-11-09】]]></title>
-        <link>https://www.bilibili.com/video/BV1oeWs6bEm2</link>
-        <guid isPermaLink="false">bilibili-117583789426654</guid>
-        <pubDate>Mon, 09 Nov 2026 01:09:59 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1oeWs6bEm2">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot：【中英字幕】26.11.08美国务卿鲁比奥赴法参加G7峰会前在机场回答记者提问完整版]]></title>
-        <link>https://www.bilibili.com/video/BV1SSWs6EEg9</link>
-        <guid isPermaLink="false">bilibili-117583420328339</guid>
-        <pubDate>Mon, 09 Nov 2026 01:05:52 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Mr-Pot</p>
-<p>本期视频标题：鲁比奥首度赴法参加高风险G7峰会：解析美对伊核、乌克兰安全与国际司法争议
-
-本期视频要点：
-1. 选举影响：美国中期选举令共和党遭受重创，鲁比奥将利用G7机会说明特朗普是否会在盟友与对手政策上作出调整。
-2. 伊朗核威胁：他强调两党过去曾达成共识，核武伊朗对美国、以色列及全球均构成不可接受的危险，并指出美国将采取防御行动。
-3. 乌克兰安全：鲁比奥提到乌克兰战后安全保障是各方持续关注</p><p><a href="https://www.bilibili.com/video/BV1SSWs6EEg9">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
         <category>B站</category>
     </item>
     
