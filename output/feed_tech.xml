@@ -5,25 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Nov 2026 03:09:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 02:51:00 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月18日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月19日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-18</guid>
-        <pubDate>Wed, 18 Nov 2026 03:09:58 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-19</guid>
+        <pubDate>Thu, 19 Nov 2026 02:51:00 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 11月18日 03:09 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月19日 02:51 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-18</guid>
-        <pubDate>Wed, 18 Nov 2026 03:09:58 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 15 items</p><p><b>🎮 生活分享流 (life):</b> 25 items</p><p><b>🆕 本次新增:</b> 3 items</p><p><b>📦 数据库总量:</b> 3483 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-19</guid>
+        <pubDate>Thu, 19 Nov 2026 02:51:00 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 11 items</p><p><b>🎮 生活分享流 (life):</b> 23 items</p><p><b>🆕 本次新增:</b> 3 items</p><p><b>📦 数据库总量:</b> 3486 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -165,66 +165,6 @@ Gi</p><p><a href="https://www.bilibili.com/video/BV185sG6UEpn">查看原文 →<
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1FBWQ6kEJD">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：伯恩斯坦看好宁德时代,增速不再是分水岭]]></title>
-        <link>https://www.bilibili.com/video/BV1zSW26ZELp</link>
-        <guid isPermaLink="false">bilibili-117597748069935</guid>
-        <pubDate>Wed, 11 Nov 2026 12:14:57 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>2026年三季度，中国电池行业比拼的标尺从增长换成了盈利。宁德时代和亿纬锂能守住了，国轩高科转入亏损，欣旺达的盈利几乎消失。龙头也受税负和结构拖累，但仍是上市电池厂里盈利最高的。整合已经落地：欣旺达出售部分电动车电池业务，新增产能审批收紧，宁德时代买下吉利电池厂。伯恩斯坦据此看好宁德时代在整合中胜出。</p><p><a href="https://www.bilibili.com/video/BV1zSW26ZELp">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 量化投资邢不行啊：纳指一跌大A遭殃?韩股再跌带崩大A?A股凭啥买单全球?Python量化A股和美股/韩股关系,揭秘大A跳水真相 | 量化投资邢不行啊]]></title>
-        <link>https://www.bilibili.com/video/BV1AzWy6ZEZG</link>
-        <guid isPermaLink="false">bilibili-117596758283955</guid>
-        <pubDate>Wed, 11 Nov 2026 09:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：量化投资邢不行啊</p>
-<p>纳指跌了，大A跟跌，我认了。
-怎么隔壁小韩崩了大A也要跟？
-炒A股真要看全球股市脸色吗？
-外围市场对大A的影响有多少？
-
-喜欢视频记得三连，并点个关注～
-
-往期视频精选：
-大A频繁跳水：BV1AH4y1j7PA
-开源信息工具：BV1ZdxL6gEkF
-量化策略月报：BV1Dyni66ExJ</p><p><a href="https://www.bilibili.com/video/BV1AzWy6ZEZG">查看原文 →</a></p>]]></description>
-        <author><![CDATA[量化投资邢不行啊]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 硅谷101：聊聊中国版MUSE：蚂蚁灵光2.0，支付宝，超级App的生态优势与挑战｜对话蚂蚁灵光CTO【101视频播客】]]></title>
-        <link>https://www.bilibili.com/video/BV1R1WL6cEzo</link>
-        <guid isPermaLink="false">bilibili-117595751716116</guid>
-        <pubDate>Wed, 11 Nov 2026 03:48:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：硅谷101</p>
-<p>AI个人助理之战在硅谷打响了，Muse、Grokbot、OpenAI Dots与Anthropic Duet打得不可开交，而Personal Assistant在中国国内的优势和挑战会是什么呢？这期视频播客，我们对话了刚发布灵光2.0的蚂蚁灵光CTO莫林剑（花名：林怿），聊聊灵光1.0到2.0的进化。
-
-围绕超级App的生态优势、外部Agent遇到的阻力，我们也聊了平台之间的合作与博弈。用户省下了</p><p><a href="https://www.bilibili.com/video/BV1R1WL6cEzo">查看原文 →</a></p>]]></description>
-        <author><![CDATA[硅谷101]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：谷歌正式开放模型 Gemini 4 Carbon；MiniMax 发布并开源 H3-Image 【AI 早报 2026-11-11】]]></title>
-        <link>https://www.bilibili.com/video/BV1A2Wj6JEiU</link>
-        <guid isPermaLink="false">bilibili-117595348995402</guid>
-        <pubDate>Wed, 11 Nov 2026 02:07:28 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1A2Wj6JEiU">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
