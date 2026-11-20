@@ -5,27 +5,80 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 19 Nov 2026 02:51:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 02:37:11 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月19日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月20日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-19</guid>
-        <pubDate>Thu, 19 Nov 2026 02:51:00 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-20</guid>
+        <pubDate>Fri, 20 Nov 2026 02:37:11 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 11月19日 02:51 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月20日 02:37 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-19</guid>
-        <pubDate>Thu, 19 Nov 2026 02:51:00 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 11 items</p><p><b>🎮 生活分享流 (life):</b> 23 items</p><p><b>🆕 本次新增:</b> 3 items</p><p><b>📦 数据库总量:</b> 3486 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-20</guid>
+        <pubDate>Fri, 20 Nov 2026 02:37:11 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 16 items</p><p><b>🎮 生活分享流 (life):</b> 21 items</p><p><b>🆕 本次新增:</b> 13 items</p><p><b>📦 数据库总量:</b> 3499 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客 (2026-11-19): 2 posts]]></title>
+        <link>https://www.bilibili.com/video/BV1T7sY6TENz</link>
+        <guid isPermaLink="false">bilibili-grouped-2026-11-19-d13e0e33</guid>
+        <pubDate>Thu, 19 Nov 2026 14:01:49 GMT</pubDate>
+        <description><![CDATA[<ul>
+<li><a href="https://www.bilibili.com/video/BV1T7sY6TENz">摩根看好潍柴动力,全套动力不靠单一市场</a></li>
+<li><a href="https://www.bilibili.com/video/BV1Qns86qEii">高盛聚焦芯碁微装,马来西亚轻资产交付点</a></li>
+</ul>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第675期】芬兰调查人口贩运；不是谁投诉谁有理]]></title>
+        <link>https://www.bilibili.com/video/BV1Sxs86PEXC</link>
+        <guid isPermaLink="false">bilibili-117643197614739</guid>
+        <pubDate>Thu, 19 Nov 2026 13:00:33 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1Sxs86PEXC">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 学院派Academia：【AI社会学】OpenAI背后的资本博弈：奥特曼是如何驾驭全球资本的？]]></title>
+        <link>https://www.bilibili.com/video/BV1rkst6yEgb</link>
+        <guid isPermaLink="false">bilibili-117642174208371</guid>
+        <pubDate>Thu, 19 Nov 2026 10:31:59 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：学院派Academia</p>
+<p>山姆·奥特曼既不是顶尖的AI科学家，也几乎不持有OpenAI股份，却能让微软、软银、英伟达、甲骨文和亚马逊不断押注同一个未来。一个没有技术权威、没有所有权的人，为什么反而拥有如此稳固的权力？
+答案可能藏在“中间人”这个位置上。
+奥特曼真正厉害的地方，不是预测未来，而是把自己变成连接不同力量的那个节点：他用GPT、核能、基本收入和AI社会的完整愿景，让巨头相信自己不能错过下一个时代；又站在资本、技术</p><p><a href="https://www.bilibili.com/video/BV1rkst6yEgb">查看原文 →</a></p>]]></description>
+        <author><![CDATA[学院派Academia]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 硅谷101：Anthropic崛起史：最强AI背后的矛与盾，布道者与伪君子【硅谷101】]]></title>
+        <link>https://www.bilibili.com/video/BV16ps46zEjA</link>
+        <guid isPermaLink="false">bilibili-117641167640052</guid>
+        <pubDate>Thu, 19 Nov 2026 04:30:28 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：硅谷101</p>
+<p>五年时间，冲击万亿美元估值，Anthropic的增长，几乎可以用一条陡峭到难以置信的曲线来形容。在这场商业奇迹背后，是一个充满矛盾的故事：一家因担忧AI失控而诞生的公司，如今却成为了全球AI竞赛中最激进的参与者之一。
+
+故事可以追溯到2014年的百度硅谷实验室。Dario Amodei在语音识别研究中，观察到后来影响大模型发展的Scaling Law规律。几年后，因AI安全、商业化路径与组织信任上</p><p><a href="https://www.bilibili.com/video/BV16ps46zEjA">查看原文 →</a></p>]]></description>
+        <author><![CDATA[硅谷101]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -37,6 +90,28 @@
 <p>✍️ 作者：小王Albert</p>
 <p>一键三连，推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV11vsD6mEPb">查看原文 →</a></p>]]></description>
         <author><![CDATA[小王Albert]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 量化投资邢不行啊：熬夜复盘一晚上,不如AI几分钟?能AI自动复盘的量化工具开源了?零基础小白也能学会,普通人复盘的最优方案?不用装Python,不用写代码 | 量化投资邢不行啊]]></title>
+        <link>https://www.bilibili.com/video/BV1T1sm65Efg</link>
+        <guid isPermaLink="false">bilibili-117636453111547</guid>
+        <pubDate>Wed, 18 Nov 2026 09:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：量化投资邢不行啊</p>
+<p>0基础小白如何用AI做复盘？
+借助AI能测试全网大师策略？
+如何用AI实现0代码形态回测？
+AI量化炒股最好的用法是什么？
+
+喜欢视频记得三连，并点个关注～
+
+往期视频精选：
+AI量化正确方式：BV17HMk6qEqa
+AI辅助量化交易：BV1TBrhYCEKv
+AI量化财务指标：BV1SXg66sENU</p><p><a href="https://www.bilibili.com/video/BV1T1sm65Efg">查看原文 →</a></p>]]></description>
+        <author><![CDATA[量化投资邢不行啊]]></author>
         <category>B站</category>
     </item>
     
@@ -68,6 +143,18 @@
     </item>
     
     <item>
+        <title><![CDATA[[B站] 华尔街播客：摩根看好阿里巴巴,没人注意平头哥的暗线]]></title>
+        <link>https://www.bilibili.com/video/BV1S2s668EjF</link>
+        <guid isPermaLink="false">bilibili-117632376309059</guid>
+        <pubDate>Tue, 17 Nov 2026 15:04:32 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：华尔街播客</p>
+<p>第一条线是海外算力受限：美国规则、黄仁勋辞任和Megaspeed被调查叠加，租卡的不确定性在上升。第二条线是敞口可控：2028财年有8%、2029至2031财年有17%到20%的云业务指引受影响，但2031财年预测比指引低27%。第三条线是平头哥：2027年出货70万颗、2028年出货120万颗，算力贡献中长期要冲到四五成。说白了，这回比的是自家芯片能不能接棒。</p><p><a href="https://www.bilibili.com/video/BV1S2s668EjF">查看原文 →</a></p>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 马督工：【睡前消息1132】拆高尔夫球场 不如收它们的税]]></title>
         <link>https://www.bilibili.com/video/BV1Kqsr6xEep</link>
         <guid isPermaLink="false">bilibili-117631889707467</guid>
@@ -77,6 +164,20 @@
 <p>1 国内强行关闭一批知名高尔夫球场。
 2 萨尔瓦多远征海地。</p><p><a href="https://www.bilibili.com/video/BV1Kqsr6xEep">查看原文 →</a></p>]]></description>
         <author><![CDATA[马督工]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 硅谷101：“后黄仁勋时代”：英伟达的护城河、资本棋局与AI产业变数【硅谷101】]]></title>
+        <link>https://www.bilibili.com/video/BV1aqsB6ZE1E</link>
+        <guid isPermaLink="false">bilibili-117631369617117</guid>
+        <pubDate>Tue, 17 Nov 2026 11:07:35 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：硅谷101</p>
+<p>掌舵33年后，黄仁勋突然辞去了英伟达CEO职务，并离开董事会。一场丑闻风波，让这家站在全球AI浪潮中心的科技巨头，猝然进入“后黄仁勋时代”。当创始人不再掌舵，英伟达究竟失去了什么？
+
+这个问题，远不止一次管理层交接。AI Coding正在改变芯片软件的开发方式，CUDA的生态壁垒正在被冲击，GPU竞争正在走向整机柜、数据中心级别的系统整合。英伟达与台积电等供应链伙伴长期建立的信任与协作，能否脱离黄</p><p><a href="https://www.bilibili.com/video/BV1aqsB6ZE1E">查看原文 →</a></p>]]></description>
+        <author><![CDATA[硅谷101]]></author>
         <category>B站</category>
     </item>
     
@@ -93,6 +194,18 @@
     </item>
     
     <item>
+        <title><![CDATA[[B站] 华尔街播客：摩根看好中远海能,多等一天能省10美元]]></title>
+        <link>https://www.bilibili.com/video/BV1kisN6nEXD</link>
+        <guid isPermaLink="false">bilibili-117626621789352</guid>
+        <pubDate>Mon, 16 Nov 2026 14:39:50 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：华尔街播客</p>
+<p>摩根大通认为，中远海能面对的是采购被推后，而不是需求消失。美国中期选举后油价回落，货主观望，运价自西向东走弱，但库存仍在逐月下降。公司不增加租出，保留现货弹性，八艘租出的VLCC租价明显低于现货。四季度仍有约四成船期暴露，油价企稳和货盘重现是关键。</p><p><a href="https://www.bilibili.com/video/BV1kisN6nEXD">查看原文 →</a></p>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 小黛晨读：【参考信息第674期】百万抗癌药进医保；片仔癀老总管医保局]]></title>
         <link>https://www.bilibili.com/video/BV1AbsA67EZp</link>
         <guid isPermaLink="false">bilibili-117626135120929</guid>
@@ -101,6 +214,21 @@
 <p>✍️ 作者：小黛晨读</p>
 <p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1AbsA67EZp">查看原文 →</a></p>]]></description>
         <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 学院派Academia：从中国英雄到驻村书记：短剧为何是这个时代的新大众文艺？]]></title>
+        <link>https://www.bilibili.com/video/BV11Psw6yErX</link>
+        <guid isPermaLink="false">bilibili-117624709062128</guid>
+        <pubDate>Mon, 16 Nov 2026 06:37:33 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：学院派Academia</p>
+<p>为什么我认为AI短剧有机会成长为我们这个时代真正的人民艺术？
+许多人对短剧不屑一顾，但短剧的碎片化，其实源于劳动者被工作切碎的时间；而“我不看短剧”，则正在沦为新的一种阶级区分话术。
+从超级英雄重生在中国后修堤种地，到《青山不改》的驻村书记改写套路文逻辑，普通人的劳动正在逐渐成为故事主角。而更重要的是，AI 正在让观看者变成创作者。
+在我看来，只有当 AI 这样的生产资料真正来到人民手里，文艺才能</p><p><a href="https://www.bilibili.com/video/BV11Psw6yErX">查看原文 →</a></p>]]></description>
+        <author><![CDATA[学院派Academia]]></author>
         <category>B站</category>
     </item>
     
@@ -183,6 +311,18 @@
     </item>
     
     <item>
+        <title><![CDATA[[B站] 华尔街播客：伯恩斯坦看好中芯国际,九成收入来自国内]]></title>
+        <link>https://www.bilibili.com/video/BV1Ncsp6MEV6</link>
+        <guid isPermaLink="false">bilibili-117620212763782</guid>
+        <pubDate>Sun, 15 Nov 2026 11:29:28 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：华尔街播客</p>
+<p>中芯国际三季度出货增长5.7%，产能利用率升到97.3%，增长靠新产能接力。需求重心从手机转向工业车规与算力，工业车规占比达19.3%。中国区占比升到90.8%，本土AI与国产化是主要推手。四季度指引偏保守，伯恩斯坦认为不必恐慌。</p><p><a href="https://www.bilibili.com/video/BV1Ncsp6MEV6">查看原文 →</a></p>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 橘鸦juya：Grok Bot 多项优化上线，订阅用量增约 7%【AI 早报 2026-11-15】]]></title>
         <link>https://www.bilibili.com/video/BV12bsj69EFg</link>
         <guid isPermaLink="false">bilibili-117617662624869</guid>
@@ -220,6 +360,19 @@
 <li><a href="https://www.bilibili.com/video/BV1zzW663EYL">【中英字幕】彭博财经简报26.11.13完整版</a></li>
 </ul>]]></description>
         <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客：花旗看好恒立液压,油缸六七成,泵阀才起步]]></title>
+        <link>https://www.bilibili.com/video/BV1Phs561EVX</link>
+        <guid isPermaLink="false">bilibili-117614592459374</guid>
+        <pubDate>Sat, 14 Nov 2026 11:39:49 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：华尔街播客</p>
+<p>花旗看好恒立液压,油缸六七成,泵阀才起步
+这次花旗大会纪要有三条主线。第一，人形机器人放量，美国头部客户2027年产量预计超10万台，但单机配套价值可能下降。第二，墨西哥工厂承接全部对美产品，丝杠和直线导轨同步放量，半导体设备2028年发力。第三，挖机部件增速降到约10%，非挖机约30%，泵阀份额还要4到5年才能追平油缸。</p><p><a href="https://www.bilibili.com/video/BV1Phs561EVX">查看原文 →</a></p>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
         <category>B站</category>
     </item>
     
@@ -308,6 +461,18 @@ KHAITE官网也开始s</p><p><a href="https://www.bilibili.com/video/BV1yWWB6CEw
     </item>
     
     <item>
+        <title><![CDATA[[B站] 华尔街播客：摩根聚焦大中华区小众存储,涨价权双刃剑]]></title>
+        <link>https://www.bilibili.com/video/BV1ozWB6YERU</link>
+        <guid isPermaLink="false">bilibili-117609559294838</guid>
+        <pubDate>Fri, 13 Nov 2026 14:20:02 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：华尔街播客</p>
+<p>这份研报的主线有三条。第一，小众存储固定价格长约少，涨价比主流快，需求转弱时保护也更少。第二，美国约两成2028年数据中心新增容量顺延到2029年，2028年可能出现空窗。第三，到2028年SLC、MLC NAND与NOR缺口仅1%至5%，DDR4转为多出1%，叠加PC四季度回调，增量定价权可能先走弱。</p><p><a href="https://www.bilibili.com/video/BV1ozWB6YERU">查看原文 →</a></p>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 全员i人字幕组：【全i中字】用三个词来形容LE SSERAFIM? 最喜欢的K-pop组合 & MV拍摄二三事 | Newsround采访 261112]]></title>
         <link>https://www.bilibili.com/video/BV1b9Wi6LEbW</link>
         <guid isPermaLink="false">bilibili-117608300944076</guid>
@@ -363,128 +528,6 @@ KHAITE官网也开始s</p><p><a href="https://www.bilibili.com/video/BV1yWWB6CEw
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1qMWY6JEZR">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】LE SSERAFIM揭秘梦想合作对象 & 挑战英式口音! | 真心话之塔 261105]]></title>
-        <link>https://www.bilibili.com/video/BV196Wo6yE93</link>
-        <guid isPermaLink="false">bilibili-117604240856368</guid>
-        <pubDate>Thu, 12 Nov 2026 15:47:48 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>ytb
-资源：yorkie
-翻译：修白
-时间轴/压制：末末
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV196Wo6yE93">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot (2026-11-12): 6 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1KzWU65EAz</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-11-12-a1c5d27b</guid>
-        <pubDate>Thu, 12 Nov 2026 13:24:07 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1KzWU65EAz">【中英字幕】彭博脉搏访谈26.11.11完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1sWWS6VEKj">【中英字幕】彭博财经观察26.11.11</a></li>
-<li><a href="https://www.bilibili.com/video/BV1nMW26oEPi">【中英字幕】爱彼迎打造AI旅行智能体</a></li>
-<li><a href="https://www.bilibili.com/video/BV1y1WU6uEYE">【中英字幕】彭博财经简报26.11.11</a></li>
-<li><a href="https://www.bilibili.com/video/BV1McWX6dEiB">【中英字幕】26.11.11突发：爆出第二婚外情，英伟达拟罢免黄仁勋</a></li>
-<li><a href="https://www.bilibili.com/video/BV1VmWS6oEwK">【中英字幕】26.11.11川普万斯退伍军人节演讲完整版</a></li>
-</ul>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小黛晨读：【参考信息第672期】信托补税1600亿；打工9年欠公司17万]]></title>
-        <link>https://www.bilibili.com/video/BV1evWR63Edm</link>
-        <guid isPermaLink="false">bilibili-117603402122141</guid>
-        <pubDate>Thu, 12 Nov 2026 12:23:08 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小黛晨读</p>
-<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1evWR63Edm">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小黛晨读]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：伯恩斯坦看好英伟达,蜜罐风波下需求稳吗]]></title>
-        <link>https://www.bilibili.com/video/BV15vWR63Egg</link>
-        <guid isPermaLink="false">bilibili-117603402057637</guid>
-        <pubDate>Thu, 12 Nov 2026 12:21:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>英伟达CEO风波已从媒体爆料升级为董事会独立调查和国会关注，但间谍说法仍来自匿名消息源，新加坡方面也公开反驳。伯恩斯坦认为对华销售占比早已大幅下滑，需求大概率不受影响。更值得盯的是创始人绑定的关键人风险，以及AI基建政治化带来的监管不确定性。</p><p><a href="https://www.bilibili.com/video/BV15vWR63Egg">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：越南苏林夫妇访日! 第一夫人竟穿和服！赖岳谦 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV1AQWX6QEah</link>
-        <guid isPermaLink="false">bilibili-117602110213499</guid>
-        <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV1AQWX6QEah">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 巫师财经：【巫师】存款利率跌破1%后，AI给我画了一张闲钱收益地图]]></title>
-        <link>https://www.bilibili.com/video/BV1JTWd6JEgZ</link>
-        <guid isPermaLink="false">bilibili-117603049807691</guid>
-        <pubDate>Thu, 12 Nov 2026 10:56:34 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：巫师财经</p>
-<p>用 ai 找回 本属于自己的利息</p><p><a href="https://www.bilibili.com/video/BV1JTWd6JEgZ">查看原文 →</a></p>]]></description>
-        <author><![CDATA[巫师财经]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 硅谷101：AI撞上美国“新世界”：暴跌、监管、政治博弈，数据中心何去何从？【101视频播客】]]></title>
-        <link>https://www.bilibili.com/video/BV1MDWR6cEGY</link>
-        <guid isPermaLink="false">bilibili-117603032962891</guid>
-        <pubDate>Thu, 12 Nov 2026 10:41:38 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：硅谷101</p>
-<p>美国中期选举之后，美股AI板块突然遭遇暴跌。此前一路高歌猛进的数据中心建设，也开始面临监管、地方政治与社区反对带来的新阻力。
-
-当数千亿美元的AI基础设施投资遇上政策变化，华尔街究竟在担心什么？这轮市场震荡，意味着AI需求开始退潮，还是算力供给正在遭遇新的瓶颈？
-
-这期视频，我们连线了能源策略、数据中心一线从业者，以及长期追踪AI硬件板块的华尔街投资人，从德州政治变局谈起，分析数据中心审批、建设成</p><p><a href="https://www.bilibili.com/video/BV1MDWR6cEGY">查看原文 →</a></p>]]></description>
-        <author><![CDATA[硅谷101]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Google 推出 Gemini Decisions 1 模型【AI 早报 2026-11-12】]]></title>
-        <link>https://www.bilibili.com/video/BV1FBWQ6kEJD</link>
-        <guid isPermaLink="false">bilibili-117600768098412</guid>
-        <pubDate>Thu, 12 Nov 2026 01:13:11 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1FBWQ6kEJD">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小王Albert：硬核拆解中期后的美国和世界：蓝潮狂飙，特朗普是跛脚鸭还是“疯鸭”？【岛岛连线】]]></title>
-        <link>https://www.bilibili.com/video/BV1cEWX65E89</link>
-        <guid isPermaLink="false">bilibili-117600667310977</guid>
-        <pubDate>Thu, 12 Nov 2026 01:02:19 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小王Albert</p>
-<p>一键三连推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV1cEWX65E89">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小王Albert]]></author>
         <category>B站</category>
     </item>
     
