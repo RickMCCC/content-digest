@@ -5,27 +5,75 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 20 Nov 2026 02:37:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 02:48:45 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月20日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月21日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-20</guid>
-        <pubDate>Fri, 20 Nov 2026 02:37:11 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-21</guid>
+        <pubDate>Sat, 21 Nov 2026 02:48:45 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 11月20日 02:37 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月21日 02:48 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-20</guid>
-        <pubDate>Fri, 20 Nov 2026 02:37:11 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 16 items</p><p><b>🎮 生活分享流 (life):</b> 21 items</p><p><b>🆕 本次新增:</b> 13 items</p><p><b>📦 数据库总量:</b> 3499 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-21</guid>
+        <pubDate>Sat, 21 Nov 2026 02:48:45 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 20 items</p><p><b>🎮 生活分享流 (life):</b> 21 items</p><p><b>🆕 本次新增:</b> 17 items</p><p><b>📦 数据库总量:</b> 3516 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：数学家称与 Claude 合作证明黎曼猜想【AI 早报 2026-11-21】]]></title>
+        <link>https://www.bilibili.com/video/BV1ZcybzgEV2</link>
+        <guid isPermaLink="false">bilibili-117651670043652</guid>
+        <pubDate>Sat, 21 Nov 2026 00:55:49 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1ZcybzgEV2">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客：伯恩斯坦看好腾讯控股,近四成跌幅被误读]]></title>
+        <link>https://www.bilibili.com/video/BV1ngyxzqE1B</link>
+        <guid isPermaLink="false">bilibili-117648901801814</guid>
+        <pubDate>Fri, 20 Nov 2026 13:04:55 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：华尔街播客</p>
+<p>腾讯这个季度有三条主线值得聊。核心业务仍稳，游戏放缓偏周期，广告增18.8%，金融科技增9.4%。AI变现开始露头，Workbuddy首次披露收入贡献，Xiaowei日活达3000万。算力投入未来几个季度横盘，2028年转降，但回报时间表仍开放。</p><p><a href="https://www.bilibili.com/video/BV1ngyxzqE1B">查看原文 →</a></p>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] IT咖啡馆：Qwen4-Max实测，多场景深度体验，告诉你效果如何]]></title>
+        <link>https://www.bilibili.com/video/BV1ztypztEAK</link>
+        <guid isPermaLink="false">bilibili-117648599813295</guid>
+        <pubDate>Fri, 20 Nov 2026 11:57:48 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：IT咖啡馆</p>
+<p><a href="https://www.bilibili.com/video/BV1ztypztEAK">查看原文 →</a></p>]]></description>
+        <author><![CDATA[IT咖啡馆]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：ChatGPT dots 向 Business Standard 用户以及部分 Plus 开放【AI 早报 2026-11-20】]]></title>
+        <link>https://www.bilibili.com/video/BV1vxsi6tEZR</link>
+        <guid isPermaLink="false">bilibili-117646032897550</guid>
+        <pubDate>Fri, 20 Nov 2026 01:03:48 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1vxsi6tEZR">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -56,6 +104,18 @@
     </item>
     
     <item>
+        <title><![CDATA[[B站] 橘鸦juya：Google 发布 Gemini 4 Neon【AI 早报 2026-11-19】]]></title>
+        <link>https://www.bilibili.com/video/BV1aEst6cEjr</link>
+        <guid isPermaLink="false">bilibili-117640295089431</guid>
+        <pubDate>Thu, 19 Nov 2026 00:43:34 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1aEst6cEjr">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 量化投资邢不行啊：熬夜复盘一晚上,不如AI几分钟?能AI自动复盘的量化工具开源了?零基础小白也能学会,普通人复盘的最优方案?不用装Python,不用写代码 | 量化投资邢不行啊]]></title>
         <link>https://www.bilibili.com/video/BV1T1sm65Efg</link>
         <guid isPermaLink="false">bilibili-117636453111547</guid>
@@ -74,6 +134,18 @@ AI量化正确方式：BV17HMk6qEqa
 AI辅助量化交易：BV1TBrhYCEKv
 AI量化财务指标：BV1SXg66sENU</p><p><a href="https://www.bilibili.com/video/BV1T1sm65Efg">查看原文 →</a></p>]]></description>
         <author><![CDATA[量化投资邢不行啊]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol：成本下降，效率提升【AI 早报 2026-11-18】]]></title>
+        <link>https://www.bilibili.com/video/BV1K6sC6wEPs</link>
+        <guid isPermaLink="false">bilibili-117634842493827</guid>
+        <pubDate>Wed, 18 Nov 2026 01:38:02 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1K6sC6wEPs">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
@@ -213,30 +285,6 @@ Gi</p><p><a href="https://www.bilibili.com/video/BV185sG6UEpn">查看原文 →<
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1b6Wr68ESF">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：摩根聚焦大中华区小众存储,涨价权双刃剑]]></title>
-        <link>https://www.bilibili.com/video/BV1ozWB6YERU</link>
-        <guid isPermaLink="false">bilibili-117609559294838</guid>
-        <pubDate>Fri, 13 Nov 2026 14:20:02 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>这份研报的主线有三条。第一，小众存储固定价格长约少，涨价比主流快，需求转弱时保护也更少。第二，美国约两成2028年数据中心新增容量顺延到2029年，2028年可能出现空窗。第三，到2028年SLC、MLC NAND与NOR缺口仅1%至5%，DDR4转为多出1%，叠加PC四季度回调，增量定价权可能先走弱。</p><p><a href="https://www.bilibili.com/video/BV1ozWB6YERU">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：黄仁勋辞职；Google 推出 Gemini 4 Hydrogen【AI 早报 2026-11-13】]]></title>
-        <link>https://www.bilibili.com/video/BV1qMWY6JEZR</link>
-        <guid isPermaLink="false">bilibili-117606472286838</guid>
-        <pubDate>Fri, 13 Nov 2026 01:17:21 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1qMWY6JEZR">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
