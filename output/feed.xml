@@ -5,27 +5,134 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 Nov 2026 02:48:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 01:38:03 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月21日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月22日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-21</guid>
-        <pubDate>Sat, 21 Nov 2026 02:48:45 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-22</guid>
+        <pubDate>Sun, 22 Nov 2026 01:38:03 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 11月21日 02:48 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月22日 01:38 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-21</guid>
-        <pubDate>Sat, 21 Nov 2026 02:48:45 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 20 items</p><p><b>🎮 生活分享流 (life):</b> 21 items</p><p><b>🆕 本次新增:</b> 17 items</p><p><b>📦 数据库总量:</b> 3516 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-22</guid>
+        <pubDate>Sun, 22 Nov 2026 01:38:03 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 19 items</p><p><b>🎮 生活分享流 (life):</b> 27 items</p><p><b>🆕 本次新增:</b> 13 items</p><p><b>📦 数据库总量:</b> 3529 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] Mr-Pot：【中英字幕】《ALL-IN》播客26.11.20完整版：AI巨头崛起与Nvidia危机：开源遭打压？]]></title>
+        <link>https://www.bilibili.com/video/BV1voyYzEEpB</link>
+        <guid isPermaLink="false">bilibili-117654538946098</guid>
+        <pubDate>Sun, 22 Nov 2026 01:15:06 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：Mr-Pot</p>
+<p>本期视频标题：AI巨头崛起与Nvidia危机：开源遭打压？
+
+本期视频要点：
+1、AI催生垂直整合巨头：查马斯提出未来十年将诞生9-10家从底层硬件到上层应用全栈垂直整合的超级巨头，市场正重新定价谁能成为这类“有产者”。
+2、Anthropic创纪录IPO：该公司以2万亿美元估值上市，募资超1070亿美元，刷新史上最大IPO记录，显示市场对前沿模型及AI基础设施的巨大需求。
+3、英伟达陷入治理危机</p><p><a href="https://www.bilibili.com/video/BV1voyYzEEpB">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Mr-Pot]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Antigravity 重置全部用户的 Gemini 配额【AI 早报 2026-11-22】]]></title>
+        <link>https://www.bilibili.com/video/BV1o4yuzDERH</link>
+        <guid isPermaLink="false">bilibili-117657340741792</guid>
+        <pubDate>Sun, 22 Nov 2026 00:53:41 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1o4yuzDERH">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】LE SSERAFIM 26MAMA "最佳歌曲Top10+最佳合作奖" 受赏获奖感言+La Vie en Rose舞台Re+退场 261121]]></title>
+        <link>https://www.bilibili.com/video/BV1teyYzNEPU</link>
+        <guid isPermaLink="false">bilibili-117654790740896</guid>
+        <pubDate>Sat, 21 Nov 2026 14:05:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p>推
+翻译/时间轴：怀哈兰
+资源/压制：末末
+
+该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1teyYzNEPU">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】MAMA🏆🏆🏆 LE SSERAFIM WVS直播 261121]]></title>
+        <link>https://www.bilibili.com/video/BV11eyhzxEFy</link>
+        <guid isPermaLink="false">bilibili-117654018857224</guid>
+        <pubDate>Sat, 21 Nov 2026 10:45:40 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p>资源：大癫
+翻译：SAKI
+时间轴：大癫
+压制：末末
+
+该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV11eyhzxEFy">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点139期」开源账本，Agent通信协议、大象和金鱼评审插件、前端指南和数据语义化推理层]]></title>
+        <link>https://www.bilibili.com/video/BV1LeyazLEKJ</link>
+        <guid isPermaLink="false">bilibili-117653632976584</guid>
+        <pubDate>Sat, 21 Nov 2026 09:17:07 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：IT咖啡馆</p>
+<p>1、项目名称：Sure - 可以自己部署的个人财务账本
+GitHub 链接：https://github.com/we-promise/sure
+2、项目名称：AG-UI - Agent 与前端界面的通信协议
+GitHub 链接：https://github.com/ag-ui-protocol/ag-ui
+3、项目名称：Elephant-Goldfish Model - 大象和金鱼评审插件
+Gi</p><p><a href="https://www.bilibili.com/video/BV1LeyazLEKJ">查看原文 →</a></p>]]></description>
+        <author><![CDATA[IT咖啡馆]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 全员i人字幕组：LE SSERAFIM 'Intro+Saki+SPAGHETTI(MAMA ver.)+DanceBreak' 26MAMA舞台 261121]]></title>
+        <link>https://www.bilibili.com/video/BV1nsyazHE4q</link>
+        <guid isPermaLink="false">bilibili-117653398100763</guid>
+        <pubDate>Sat, 21 Nov 2026 08:09:53 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p><a href="https://www.bilibili.com/video/BV1nsyazHE4q">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】LE SSERAFIM 2026MAMA 红毯采访 261121]]></title>
+        <link>https://www.bilibili.com/video/BV14XyazAERV</link>
+        <guid isPermaLink="false">bilibili-117653163285156</guid>
+        <pubDate>Sat, 21 Nov 2026 07:10:31 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p>ytb
+资源/翻译：yorkie
+时间轴/压制：末末
+
+该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV14XyazAERV">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -120,6 +227,20 @@
     </item>
     
     <item>
+        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】I ♥ NY! LE SSERAFIM纽约拍摄幕后&广告正片 | LE SSERAFIM's Day Off with Android 261119]]></title>
+        <link>https://www.bilibili.com/video/BV16Dsa6REUF</link>
+        <guid isPermaLink="false">bilibili-117643818375553</guid>
+        <pubDate>Thu, 19 Nov 2026 15:32:42 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p>制作：末末
+
+该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV16Dsa6REUF">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] Mr-Pot：【中英字幕】彭博专访网飞完整版]]></title>
         <link>https://www.bilibili.com/video/BV1kpsQ61EV1</link>
         <guid isPermaLink="false">bilibili-117638298671673</guid>
@@ -157,6 +278,21 @@
 <p>✍️ 作者：小黛晨读</p>
 <p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1Sxs86PEXC">查看原文 →</a></p>]]></description>
         <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】成员们的TMI大公开🤭 #LE SSERAFIM 261116]]></title>
+        <link>https://www.bilibili.com/video/BV1j9st6TEcT</link>
+        <guid isPermaLink="false">bilibili-117642325137122</guid>
+        <pubDate>Thu, 19 Nov 2026 11:30:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p>ytb
+制作：末末
+
+该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1j9st6TEcT">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
         <category>B站</category>
     </item>
     
@@ -209,6 +345,38 @@
 <p>✍️ 作者：小王Albert</p>
 <p>一键三连，推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV11vsD6mEPb">查看原文 →</a></p>]]></description>
         <author><![CDATA[小王Albert]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】LE SSERAFIM KAZUHA的核心肌肉训练 | Allure 261118]]></title>
+        <link>https://www.bilibili.com/video/BV12LsQ6nENJ</link>
+        <guid isPermaLink="false">bilibili-117638181230210</guid>
+        <pubDate>Wed, 18 Nov 2026 15:40:16 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p>ytb
+KAZUHA 将分享她在巡演期间的核心肌群训练秘诀！这位LE SSERAFIM 的明星将带领我们了解她如何在巡演繁忙的日程中保持核心肌群的强健。快来看看 KAZUHA 如何详细讲解她的巡演训练计划，以及她如何在巡演中保持活力吧
+
+资源：yorkie
+翻译：四四
+时间轴/压制：大癫
+
+
+该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV12LsQ6nENJ">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 全员i人字幕组：【生肉】"许洪焕" 允真&一叶&恩採weverse直播 261118]]></title>
+        <link>https://www.bilibili.com/video/BV1FksU6KEYX</link>
+        <guid isPermaLink="false">bilibili-117637979904264</guid>
+        <pubDate>Wed, 18 Nov 2026 14:48:20 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p>wvs</p><p><a href="https://www.bilibili.com/video/BV1FksU6KEYX">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
         <category>B站</category>
     </item>
     
@@ -274,6 +442,29 @@ AI量化财务指标：BV1SXg66sENU</p><p><a href="https://www.bilibili.com/vide
     </item>
     
     <item>
+        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】你曾经嫉妒过朋友吗? | #HMM EP.6 261116]]></title>
+        <link>https://www.bilibili.com/video/BV1P7s66nEZt</link>
+        <guid isPermaLink="false">bilibili-117632493755312</guid>
+        <pubDate>Tue, 17 Nov 2026 15:34:54 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p>🏷️ 第六页
+从童年时的竞争对手，到如同命中注定般偶然相遇的人，再到成为自己生命一部分的同伴
+允真回顾了那些让自己不断成长的友情，以及在这段段关系中重新认识的自己
+有时会让人心生嫉妒，有时会给予彼此安慰，最终成为自己最坚实的力量的“朋友们”
+今天，就和允真一起，想起那些始终温柔地陪伴在自己身边的人吧✨
+
+资源：yorkie
+翻译：杰尼 末末
+时间轴：魔法糖冰棍 末末
+压制：末末
+
+该视频仅供交流学</p><p><a href="https://www.bilibili.com/video/BV1P7s66nEZt">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 华尔街播客：摩根看好阿里巴巴,没人注意平头哥的暗线]]></title>
         <link>https://www.bilibili.com/video/BV1S2s668EjF</link>
         <guid isPermaLink="false">bilibili-117632376309059</guid>
@@ -295,6 +486,18 @@ AI量化财务指标：BV1SXg66sENU</p><p><a href="https://www.bilibili.com/vide
 <p>1 国内强行关闭一批知名高尔夫球场。
 2 萨尔瓦多远征海地。</p><p><a href="https://www.bilibili.com/video/BV1Kqsr6xEep">查看原文 →</a></p>]]></description>
         <author><![CDATA[马督工]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 全员i人字幕组：【生肉】"想要一起吃饭嘛?" LE SSERAFIM MAMA练习间隙直播 261117wvs]]></title>
+        <link>https://www.bilibili.com/video/BV1ACsr6HEx5</link>
+        <guid isPermaLink="false">bilibili-117631822599511</guid>
+        <pubDate>Tue, 17 Nov 2026 12:42:58 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p><a href="https://www.bilibili.com/video/BV1ACsr6HEx5">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
         <category>B站</category>
     </item>
     
@@ -461,118 +664,6 @@ AI量化财务指标：BV1SXg66sENU</p><p><a href="https://www.bilibili.com/vide
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV12bsj69EFg">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 马督工：【睡前消息1130】海豹奖开席 一个老编辑的感慨]]></title>
-        <link>https://www.bilibili.com/video/BV1wRsV6gEeF</link>
-        <guid isPermaLink="false">bilibili-117614726617753</guid>
-        <pubDate>Sat, 14 Nov 2026 12:16:14 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：马督工</p>
-<p>简介：第0届海豹奖评点</p><p><a href="https://www.bilibili.com/video/BV1wRsV6gEeF">查看原文 →</a></p>]]></description>
-        <author><![CDATA[马督工]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot (2026-11-14): 6 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1YBWC6zEMu</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-11-14-a1c5d27b</guid>
-        <pubDate>Sat, 14 Nov 2026 11:53:25 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1YBWC6zEMu">【中英字幕】PBS《华盛顿周报》26.11.13完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV18FWC6vEmH">【中英字幕】《ALL-IN》播客26.11.13完整版：英伟达CEO职位被免：出口限制与市场影响</a></li>
-<li><a href="https://www.bilibili.com/video/BV1LeWC6GEKJ">【中英字幕】26.11.13鲁比奥回答记者提问完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1grWC6qEhx">【中英字幕】26.11.13白宫就全美空域停飞召开新闻发布会完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1fPWy6DEzG">【中英字幕】26.11.13鲁比奥联邦党人协会主题演讲完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1zzW663EYL">【中英字幕】彭博财经简报26.11.13完整版</a></li>
-</ul>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：花旗看好恒立液压,油缸六七成,泵阀才起步]]></title>
-        <link>https://www.bilibili.com/video/BV1Phs561EVX</link>
-        <guid isPermaLink="false">bilibili-117614592459374</guid>
-        <pubDate>Sat, 14 Nov 2026 11:39:49 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>花旗看好恒立液压,油缸六七成,泵阀才起步
-这次花旗大会纪要有三条主线。第一，人形机器人放量，美国头部客户2027年产量预计超10万台，但单机配套价值可能下降。第二，墨西哥工厂承接全部对美产品，丝杠和直线导轨同步放量，半导体设备2028年发力。第三，挖机部件增速降到约10%，非挖机约30%，泵阀份额还要4到5年才能追平油缸。</p><p><a href="https://www.bilibili.com/video/BV1Phs561EVX">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] IT咖啡馆：「Github一周热点138期」开源版Grok Bot、多Agent编程工作台、紫微斗数排盘、现代化爬虫和Meta设计系统]]></title>
-        <link>https://www.bilibili.com/video/BV185sG6UEpn</link>
-        <guid isPermaLink="false">bilibili-117613669779335</guid>
-        <pubDate>Sat, 14 Nov 2026 07:49:07 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：IT咖啡馆</p>
-<p>1、项目名称：OpenMausBot - 开源版Grok Bot
-GitHub 链接：https://github.com/milind-soni/OpenMausBot
-2、项目名称：T3 Code - 跨设备多 Agent 编程工作台
-GitHub 链接：https://github.com/pingdotgg/t3code
-3、项目名称：ziwei-doushu - 中国传统命理学工具
-Gi</p><p><a href="https://www.bilibili.com/video/BV185sG6UEpn">查看原文 →</a></p>]]></description>
-        <author><![CDATA[IT咖啡馆]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 学院派Academia：【世界想象史】金庸为何成就了武侠，也杀死了武侠]]></title>
-        <link>https://www.bilibili.com/video/BV1NaWk6RE8n</link>
-        <guid isPermaLink="false">bilibili-117613183178153</guid>
-        <pubDate>Sat, 14 Nov 2026 05:46:09 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：学院派Academia</p>
-<p>金庸最伟大的创造，也可能恰恰构成了武侠的终局：
-他用家国代替了江湖，用圣贤改造了侠客；他把武侠抬到了前所未有的高度，也亲手杀死了武侠。</p><p><a href="https://www.bilibili.com/video/BV1NaWk6RE8n">查看原文 →</a></p>]]></description>
-        <author><![CDATA[学院派Academia]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] torazyz：真实一周工作生活vlog👩‍💻torazyz]]></title>
-        <link>https://www.bilibili.com/video/BV1yWWB6CEwm</link>
-        <guid isPermaLink="false">bilibili-117609794110677</guid>
-        <pubDate>Sat, 14 Nov 2026 02:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：torazyz</p>
-<p>在SKP又见到Simonetta Ravizza女士和她的team啦！和她一起试穿新系列，也欢迎大家可以去北京SKP四层逛逛Simonetta Ravizza快闪店
-
-Simonetta Ravizza 精选单品: https://simonettaravizza.com/pages/toras-edit?sca_ref=12595667.NF0BGyrqbxcZkbf
-
-KHAITE官网也开始s</p><p><a href="https://www.bilibili.com/video/BV1yWWB6CEwm">查看原文 →</a></p>]]></description>
-        <author><![CDATA[torazyz]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小王Albert：球衣被印敌国广告，中国都帮不动的小国，出路在哪？【东非 06丨布隆迪】]]></title>
-        <link>https://www.bilibili.com/video/BV1ZBWB6PE2b</link>
-        <guid isPermaLink="false">bilibili-117609576078757</guid>
-        <pubDate>Sat, 14 Nov 2026 01:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小王Albert</p>
-<p>一键三连推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV1ZBWB6PE2b">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小王Albert]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：DeepSeek 宣布开放全家桶应用 API；OpenAI 推出 ChatGPT Wallet【AI 早报 2026-11-14】]]></title>
-        <link>https://www.bilibili.com/video/BV1b6Wr68ESF</link>
-        <guid isPermaLink="false">bilibili-117611941660627</guid>
-        <pubDate>Sat, 14 Nov 2026 00:29:58 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1b6Wr68ESF">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
