@@ -5,27 +5,51 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 22 Nov 2026 01:38:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 02:02:19 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月22日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月23日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-22</guid>
-        <pubDate>Sun, 22 Nov 2026 01:38:03 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-23</guid>
+        <pubDate>Mon, 23 Nov 2026 02:02:19 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 11月22日 01:38 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月23日 02:02 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-22</guid>
-        <pubDate>Sun, 22 Nov 2026 01:38:03 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 19 items</p><p><b>🎮 生活分享流 (life):</b> 27 items</p><p><b>🆕 本次新增:</b> 13 items</p><p><b>📦 数据库总量:</b> 3529 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-23</guid>
+        <pubDate>Mon, 23 Nov 2026 02:02:19 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 18 items</p><p><b>🎮 生活分享流 (life):</b> 29 items</p><p><b>🆕 本次新增:</b> 8 items</p><p><b>📦 数据库总量:</b> 3537 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客：野村看好一拖股份,经营现金流翻了一倍多]]></title>
+        <link>https://www.bilibili.com/video/BV1JXy5zuEDD</link>
+        <guid isPermaLink="false">bilibili-117660226423764</guid>
+        <pubDate>Sun, 22 Nov 2026 13:07:11 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：华尔街播客</p>
+<p>一拖股份是野村点名的农机龙头，产品覆盖220到450马力，三条技术路线并行。研发向高端机型倾斜，占比上升被销售扩张消化。海外持续铺开，是机构上调预测的关键。回款明显改善说明经营质量在提升，风险集中在国内需求、价格竞争、海外进度和高端研发。</p><p><a href="https://www.bilibili.com/video/BV1JXy5zuEDD">查看原文 →</a></p>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 马督工：【睡前消息1134】零元面馆 珠海华发 都是2026年的中国]]></title>
+        <link>https://www.bilibili.com/video/BV1Z6yLzKESp</link>
+        <guid isPermaLink="false">bilibili-117659706334093</guid>
+        <pubDate>Sun, 22 Nov 2026 11:17:17 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：马督工</p>
+<p>南京零元面馆事件，反映了2026年中国的深层矛盾。</p><p><a href="https://www.bilibili.com/video/BV1Z6yLzKESp">查看原文 →</a></p>]]></description>
+        <author><![CDATA[马督工]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -54,6 +78,18 @@
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1o4yuzDERH">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客：野村看好宇树科技,三种情景,一条硬红线]]></title>
+        <link>https://www.bilibili.com/video/BV16yyYz4ESZ</link>
+        <guid isPermaLink="false">bilibili-117654941600719</guid>
+        <pubDate>Sat, 21 Nov 2026 14:42:51 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：华尔街播客</p>
+<p>野村认为宇树是具身智能的全球参考平台，本体已被英伟达、苹果、伯克利拿来做实验。它只守S0/S1的身体和反射，S2大脑用40亿参数的UnifoLM-ER-1。三种情景从纯硬件到垂直平台，分叉变量是延迟、跨本体迁移和数据混合。FCC规则在每种情景里都限制美国空间，人形业务七成以上绑在科研买家。</p><p><a href="https://www.bilibili.com/video/BV16yyYz4ESZ">查看原文 →</a></p>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
         <category>B站</category>
     </item>
     
@@ -215,6 +251,18 @@ Gi</p><p><a href="https://www.bilibili.com/video/BV1LeyazLEKJ">查看原文 →<
     </item>
     
     <item>
+        <title><![CDATA[[B站] Grandpagu顾爷：AAAAA千泉宫全攻略]]></title>
+        <link>https://www.bilibili.com/video/BV1NGs46jEKd</link>
+        <guid isPermaLink="false">bilibili-117641083624093</guid>
+        <pubDate>Fri, 20 Nov 2026 04:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：Grandpagu顾爷</p>
+<p><a href="https://www.bilibili.com/video/BV1NGs46jEKd">查看原文 →</a></p>]]></description>
+        <author><![CDATA[Grandpagu顾爷]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 橘鸦juya：ChatGPT dots 向 Business Standard 用户以及部分 Plus 开放【AI 早报 2026-11-20】]]></title>
         <link>https://www.bilibili.com/video/BV1vxsi6tEZR</link>
         <guid isPermaLink="false">bilibili-117646032897550</guid>
@@ -278,6 +326,18 @@ Gi</p><p><a href="https://www.bilibili.com/video/BV1LeyazLEKJ">查看原文 →<
 <p>✍️ 作者：小黛晨读</p>
 <p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1Sxs86PEXC">查看原文 →</a></p>]]></description>
         <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：川普谈机场欢迎仪式: 盛大又美丽 极大的尊重! 对此心怀感激! 赖岳谦 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV1N3sb6RE4r</link>
+        <guid isPermaLink="false">bilibili-117641855372387</guid>
+        <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV1N3sb6RE4r">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
         <category>B站</category>
     </item>
     
@@ -377,6 +437,18 @@ KAZUHA 将分享她在巡演期间的核心肌群训练秘诀！这位LE SSERAFI
 <p>✍️ 作者：全员i人字幕组</p>
 <p>wvs</p><p><a href="https://www.bilibili.com/video/BV1FksU6KEYX">查看原文 →</a></p>]]></description>
         <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：普京赴深圳前夜! 俄战机"闯"日本领空! 一路南下到台东！吕礼诗 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV1Trs16uEJ2</link>
+        <guid isPermaLink="false">bilibili-117635597468548</guid>
+        <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV1Trs16uEJ2">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
         <category>B站</category>
     </item>
     
@@ -502,6 +574,18 @@ AI量化财务指标：BV1SXg66sENU</p><p><a href="https://www.bilibili.com/vide
     </item>
     
     <item>
+        <title><![CDATA[[B站] 新西兰三妹：历史首次! 中俄美元首深圳会晤具有开创性历史性意义！郭正亮 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV1f1sz63EWC</link>
+        <guid isPermaLink="false">bilibili-117630631412935</guid>
+        <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV1f1sz63EWC">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 硅谷101：“后黄仁勋时代”：英伟达的护城河、资本棋局与AI产业变数【硅谷101】]]></title>
         <link>https://www.bilibili.com/video/BV1aqsB6ZE1E</link>
         <guid isPermaLink="false">bilibili-117631369617117</guid>
@@ -552,6 +636,18 @@ AI量化财务指标：BV1SXg66sENU</p><p><a href="https://www.bilibili.com/vide
     </item>
     
     <item>
+        <title><![CDATA[[B站] 新西兰三妹：幕后推手是鲁比奥! 对中鹰派记仇 毁黄仁勋对川普影响力！沈逸 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV1BFsA6TERt</link>
+        <guid isPermaLink="false">bilibili-117624373577490</guid>
+        <pubDate>Mon, 16 Nov 2026 12:00:15 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV1BFsA6TERt">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 学院派Academia：从中国英雄到驻村书记：短剧为何是这个时代的新大众文艺？]]></title>
         <link>https://www.bilibili.com/video/BV11Psw6yErX</link>
         <guid isPermaLink="false">bilibili-117624709062128</guid>
@@ -574,96 +670,6 @@ AI量化财务指标：BV1SXg66sENU</p><p><a href="https://www.bilibili.com/vide
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1Atsc6gEC1">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【生肉】"台北下次见❣️" LE SSERAFIM台北场巡演结束直播 261115]]></title>
-        <link>https://www.bilibili.com/video/BV18VsH6gEpn</link>
-        <guid isPermaLink="false">bilibili-117620732859903</guid>
-        <pubDate>Sun, 15 Nov 2026 13:47:09 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>资源：末末
-翻译：
-时间轴：
-校对/合轴/压制：
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV18VsH6gEpn">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 马督工：【睡前消息1131】暑假错过的那些事]]></title>
-        <link>https://www.bilibili.com/video/BV1zesH6dEHP</link>
-        <guid isPermaLink="false">bilibili-117620430938085</guid>
-        <pubDate>Sun, 15 Nov 2026 12:40:25 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：马督工</p>
-<p>近期新闻回顾</p><p><a href="https://www.bilibili.com/video/BV1zesH6dEHP">查看原文 →</a></p>]]></description>
-        <author><![CDATA[马督工]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小黛晨读：【参考信息第673期】考研人数止跌；保研举报大战]]></title>
-        <link>https://www.bilibili.com/video/BV15ksH6nEfv</link>
-        <guid isPermaLink="false">bilibili-117620414088079</guid>
-        <pubDate>Sun, 15 Nov 2026 12:24:28 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小黛晨读</p>
-<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV15ksH6nEfv">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小黛晨读]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 巫师财经：【巫师】百亿牧羊案的背后：如何掏空百亿企业]]></title>
-        <link>https://www.bilibili.com/video/BV1nVsp6FEH5</link>
-        <guid isPermaLink="false">bilibili-117620347051627</guid>
-        <pubDate>Sun, 15 Nov 2026 12:06:18 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：巫师财经</p>
-<p><a href="https://www.bilibili.com/video/BV1nVsp6FEH5">查看原文 →</a></p>]]></description>
-        <author><![CDATA[巫师财经]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot (2026-11-15): 2 posts]]></title>
-        <link>https://www.bilibili.com/video/BV131sJ66Eeg</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-11-15-a1c5d27b</guid>
-        <pubDate>Sun, 15 Nov 2026 11:47:30 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV131sJ66Eeg">【中英字幕】26.11.13川普最新专访完整版</a></li>
-<li><a href="https://www.bilibili.com/video/BV1ytW66UEHm">【中英字幕】彭博脉搏访谈26.11.13完整版</a></li>
-</ul>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：伯恩斯坦看好中芯国际,九成收入来自国内]]></title>
-        <link>https://www.bilibili.com/video/BV1Ncsp6MEV6</link>
-        <guid isPermaLink="false">bilibili-117620212763782</guid>
-        <pubDate>Sun, 15 Nov 2026 11:29:28 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>中芯国际三季度出货增长5.7%，产能利用率升到97.3%，增长靠新产能接力。需求重心从手机转向工业车规与算力，工业车规占比达19.3%。中国区占比升到90.8%，本土AI与国产化是主要推手。四季度指引偏保守，伯恩斯坦认为不必恐慌。</p><p><a href="https://www.bilibili.com/video/BV1Ncsp6MEV6">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Grok Bot 多项优化上线，订阅用量增约 7%【AI 早报 2026-11-15】]]></title>
-        <link>https://www.bilibili.com/video/BV12bsj69EFg</link>
-        <guid isPermaLink="false">bilibili-117617662624869</guid>
-        <pubDate>Sun, 15 Nov 2026 00:45:32 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV12bsj69EFg">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>

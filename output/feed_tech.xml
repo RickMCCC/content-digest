@@ -5,27 +5,39 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 22 Nov 2026 01:38:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 02:02:19 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月22日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月23日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-22</guid>
-        <pubDate>Sun, 22 Nov 2026 01:38:03 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-23</guid>
+        <pubDate>Mon, 23 Nov 2026 02:02:19 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 11月22日 01:38 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月23日 02:02 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-22</guid>
-        <pubDate>Sun, 22 Nov 2026 01:38:03 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 19 items</p><p><b>🎮 生活分享流 (life):</b> 27 items</p><p><b>🆕 本次新增:</b> 13 items</p><p><b>📦 数据库总量:</b> 3529 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-23</guid>
+        <pubDate>Mon, 23 Nov 2026 02:02:19 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 18 items</p><p><b>🎮 生活分享流 (life):</b> 29 items</p><p><b>🆕 本次新增:</b> 8 items</p><p><b>📦 数据库总量:</b> 3537 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客：野村看好一拖股份,经营现金流翻了一倍多]]></title>
+        <link>https://www.bilibili.com/video/BV1JXy5zuEDD</link>
+        <guid isPermaLink="false">bilibili-117660226423764</guid>
+        <pubDate>Sun, 22 Nov 2026 13:07:11 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：华尔街播客</p>
+<p>一拖股份是野村点名的农机龙头，产品覆盖220到450马力，三条技术路线并行。研发向高端机型倾斜，占比上升被销售扩张消化。海外持续铺开，是机构上调预测的关键。回款明显改善说明经营质量在提升，风险集中在国内需求、价格竞争、海外进度和高端研发。</p><p><a href="https://www.bilibili.com/video/BV1JXy5zuEDD">查看原文 →</a></p>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -37,6 +49,18 @@
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1o4yuzDERH">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 华尔街播客：野村看好宇树科技,三种情景,一条硬红线]]></title>
+        <link>https://www.bilibili.com/video/BV16yyYz4ESZ</link>
+        <guid isPermaLink="false">bilibili-117654941600719</guid>
+        <pubDate>Sat, 21 Nov 2026 14:42:51 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：华尔街播客</p>
+<p>野村认为宇树是具身智能的全球参考平台，本体已被英伟达、苹果、伯克利拿来做实验。它只守S0/S1的身体和反射，S2大脑用40亿参数的UnifoLM-ER-1。三种情景从纯硬件到垂直平台，分叉变量是延迟、跨本体迁移和数据混合。FCC规则在每种情景里都限制美国空间，人形业务七成以上绑在科研买家。</p><p><a href="https://www.bilibili.com/video/BV16yyYz4ESZ">查看原文 →</a></p>]]></description>
+        <author><![CDATA[华尔街播客]]></author>
         <category>B站</category>
     </item>
     
@@ -236,42 +260,6 @@ AI量化财务指标：BV1SXg66sENU</p><p><a href="https://www.bilibili.com/vide
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1Atsc6gEC1">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 巫师财经：【巫师】百亿牧羊案的背后：如何掏空百亿企业]]></title>
-        <link>https://www.bilibili.com/video/BV1nVsp6FEH5</link>
-        <guid isPermaLink="false">bilibili-117620347051627</guid>
-        <pubDate>Sun, 15 Nov 2026 12:06:18 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：巫师财经</p>
-<p><a href="https://www.bilibili.com/video/BV1nVsp6FEH5">查看原文 →</a></p>]]></description>
-        <author><![CDATA[巫师财经]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：伯恩斯坦看好中芯国际,九成收入来自国内]]></title>
-        <link>https://www.bilibili.com/video/BV1Ncsp6MEV6</link>
-        <guid isPermaLink="false">bilibili-117620212763782</guid>
-        <pubDate>Sun, 15 Nov 2026 11:29:28 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>中芯国际三季度出货增长5.7%，产能利用率升到97.3%，增长靠新产能接力。需求重心从手机转向工业车规与算力，工业车规占比达19.3%。中国区占比升到90.8%，本土AI与国产化是主要推手。四季度指引偏保守，伯恩斯坦认为不必恐慌。</p><p><a href="https://www.bilibili.com/video/BV1Ncsp6MEV6">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Grok Bot 多项优化上线，订阅用量增约 7%【AI 早报 2026-11-15】]]></title>
-        <link>https://www.bilibili.com/video/BV12bsj69EFg</link>
-        <guid isPermaLink="false">bilibili-117617662624869</guid>
-        <pubDate>Sun, 15 Nov 2026 00:45:32 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV12bsj69EFg">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
