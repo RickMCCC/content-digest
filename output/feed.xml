@@ -5,27 +5,64 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 23 Nov 2026 02:02:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 05:33:20 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月23日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月24日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-23</guid>
-        <pubDate>Mon, 23 Nov 2026 02:02:19 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-24</guid>
+        <pubDate>Tue, 24 Nov 2026 05:33:20 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 11月23日 02:02 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月24日 05:33 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-23</guid>
-        <pubDate>Mon, 23 Nov 2026 02:02:19 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 18 items</p><p><b>🎮 生活分享流 (life):</b> 29 items</p><p><b>🆕 本次新增:</b> 8 items</p><p><b>📦 数据库总量:</b> 3537 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-24</guid>
+        <pubDate>Tue, 24 Nov 2026 05:33:20 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 17 items</p><p><b>🎮 生活分享流 (life):</b> 29 items</p><p><b>🆕 本次新增:</b> 4 items</p><p><b>📦 数据库总量:</b> 3541 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：后劲太大! 川普回国猛夸深圳: 城市甚至没有修补痕迹！沈逸 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV1MWyJzeE6V</link>
+        <guid isPermaLink="false">bilibili-117663766416096</guid>
+        <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV1MWyJzeE6V">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：馆长手把手教你看台湾选举! 看懂“水滴宝剑”了？馆长 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV14SynzvEmb</link>
+        <guid isPermaLink="false">bilibili-117664705938971</guid>
+        <pubDate>Mon, 23 Nov 2026 10:36:24 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p>-</p><p><a href="https://www.bilibili.com/video/BV14SynzvEmb">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 硅谷101：Anthropic上市之际，深聊AI末日论、失控风险与中美合作｜对话《造神之后》作家Robert Wright【101视频播客】]]></title>
+        <link>https://www.bilibili.com/video/BV1jgyJzVE9a</link>
+        <guid isPermaLink="false">bilibili-117663581868468</guid>
+        <pubDate>Mon, 23 Nov 2026 03:32:07 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：硅谷101</p>
+<p>11月19日，Anthropic在纳斯达克上市。三年前，公司CEO Dario Amodei和“AI教父”Geoffrey Hinton在一份只有一句话的声明上签了名，呼吁全世界像防范核战争一样，认真对待AI可能导致人类灭绝的风险。为什么在这场竞赛里，真心担心AI失控的人，也有理由相信自己应该跑在最前面？
+本期视频播客，我们对话《造神之后》作者Robert Wright。1983年，Wright采</p><p><a href="https://www.bilibili.com/video/BV1jgyJzVE9a">查看原文 →</a></p>]]></description>
+        <author><![CDATA[硅谷101]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -371,6 +408,21 @@ Gi</p><p><a href="https://www.bilibili.com/video/BV1LeyazLEKJ">查看原文 →<
     </item>
     
     <item>
+        <title><![CDATA[[B站] 小Lin说：GTA背后的千亿豪赌]]></title>
+        <link>https://www.bilibili.com/video/BV1ZDst6uEwJ</link>
+        <guid isPermaLink="false">bilibili-117642157496804</guid>
+        <pubDate>Thu, 19 Nov 2026 09:30:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小Lin说</p>
+<p>朋友们，GTA6，终于千呼万唤始出来了。
+GTA，这个可以说是3A游戏的集大成者，它的资本游戏是怎么玩的？
+它背后的R星、TakeTwo，又遇到了什么样的商业困境？
+咱今天就借着GTA来一起聊聊，3A大作背后的豪赌。</p><p><a href="https://www.bilibili.com/video/BV1ZDst6uEwJ">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小Lin说]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 硅谷101：Anthropic崛起史：最强AI背后的矛与盾，布道者与伪君子【硅谷101】]]></title>
         <link>https://www.bilibili.com/video/BV16ps46zEjA</link>
         <guid isPermaLink="false">bilibili-117641167640052</guid>
@@ -607,69 +659,6 @@ AI量化财务指标：BV1SXg66sENU</p><p><a href="https://www.bilibili.com/vide
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1BbsM6QEBq">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：摩根看好中远海能,多等一天能省10美元]]></title>
-        <link>https://www.bilibili.com/video/BV1kisN6nEXD</link>
-        <guid isPermaLink="false">bilibili-117626621789352</guid>
-        <pubDate>Mon, 16 Nov 2026 14:39:50 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>摩根大通认为，中远海能面对的是采购被推后，而不是需求消失。美国中期选举后油价回落，货主观望，运价自西向东走弱，但库存仍在逐月下降。公司不增加租出，保留现货弹性，八艘租出的VLCC租价明显低于现货。四季度仍有约四成船期暴露，油价企稳和货盘重现是关键。</p><p><a href="https://www.bilibili.com/video/BV1kisN6nEXD">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小黛晨读：【参考信息第674期】百万抗癌药进医保；片仔癀老总管医保局]]></title>
-        <link>https://www.bilibili.com/video/BV1AbsA67EZp</link>
-        <guid isPermaLink="false">bilibili-117626135120929</guid>
-        <pubDate>Mon, 16 Nov 2026 12:44:51 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小黛晨读</p>
-<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1AbsA67EZp">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小黛晨读]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：幕后推手是鲁比奥! 对中鹰派记仇 毁黄仁勋对川普影响力！沈逸 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV1BFsA6TERt</link>
-        <guid isPermaLink="false">bilibili-117624373577490</guid>
-        <pubDate>Mon, 16 Nov 2026 12:00:15 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV1BFsA6TERt">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 学院派Academia：从中国英雄到驻村书记：短剧为何是这个时代的新大众文艺？]]></title>
-        <link>https://www.bilibili.com/video/BV11Psw6yErX</link>
-        <guid isPermaLink="false">bilibili-117624709062128</guid>
-        <pubDate>Mon, 16 Nov 2026 06:37:33 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：学院派Academia</p>
-<p>为什么我认为AI短剧有机会成长为我们这个时代真正的人民艺术？
-许多人对短剧不屑一顾，但短剧的碎片化，其实源于劳动者被工作切碎的时间；而“我不看短剧”，则正在沦为新的一种阶级区分话术。
-从超级英雄重生在中国后修堤种地，到《青山不改》的驻村书记改写套路文逻辑，普通人的劳动正在逐渐成为故事主角。而更重要的是，AI 正在让观看者变成创作者。
-在我看来，只有当 AI 这样的生产资料真正来到人民手里，文艺才能</p><p><a href="https://www.bilibili.com/video/BV11Psw6yErX">查看原文 →</a></p>]]></description>
-        <author><![CDATA[学院派Academia]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：华为云上线 openPangu-2.1-Pro 模型【AI 早报 2026-11-16】]]></title>
-        <link>https://www.bilibili.com/video/BV1Atsc6gEC1</link>
-        <guid isPermaLink="false">bilibili-117623232660135</guid>
-        <pubDate>Mon, 16 Nov 2026 00:20:56 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1Atsc6gEC1">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
