@@ -5,27 +5,41 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 24 Nov 2026 05:33:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 04:35:31 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月24日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月25日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-24</guid>
-        <pubDate>Tue, 24 Nov 2026 05:33:20 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-25</guid>
+        <pubDate>Wed, 25 Nov 2026 04:35:31 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 11月24日 05:33 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月25日 04:35 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-24</guid>
-        <pubDate>Tue, 24 Nov 2026 05:33:20 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 17 items</p><p><b>🎮 生活分享流 (life):</b> 29 items</p><p><b>🆕 本次新增:</b> 4 items</p><p><b>📦 数据库总量:</b> 3541 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-25</guid>
+        <pubDate>Wed, 25 Nov 2026 04:35:31 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 15 items</p><p><b>🎮 生活分享流 (life):</b> 31 items</p><p><b>🆕 本次新增:</b> 7 items</p><p><b>📦 数据库总量:</b> 3548 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 秋芝2046：像高手一样做自己的Skill！【小白教程】]]></title>
+        <link>https://www.bilibili.com/video/BV1WCyZzNEZP</link>
+        <guid isPermaLink="false">bilibili-117671215564739</guid>
+        <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：秋芝2046</p>
+<p>7步做出自己的Skill！让AI模仿你的风格写作～
+视频配套Skill别忘了在评论区领取哦～
+感谢铁铁们的三连+关注～</p><p><a href="https://www.bilibili.com/video/BV1WCyZzNEZP">查看原文 →</a></p>]]></description>
+        <author><![CDATA[秋芝2046]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -211,44 +225,6 @@ AI量化财务指标：BV1SXg66sENU</p><p><a href="https://www.bilibili.com/vide
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1K6sC6wEPs">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：摩根看好阿里巴巴,没人注意平头哥的暗线]]></title>
-        <link>https://www.bilibili.com/video/BV1S2s668EjF</link>
-        <guid isPermaLink="false">bilibili-117632376309059</guid>
-        <pubDate>Tue, 17 Nov 2026 15:04:32 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>第一条线是海外算力受限：美国规则、黄仁勋辞任和Megaspeed被调查叠加，租卡的不确定性在上升。第二条线是敞口可控：2028财年有8%、2029至2031财年有17%到20%的云业务指引受影响，但2031财年预测比指引低27%。第三条线是平头哥：2027年出货70万颗、2028年出货120万颗，算力贡献中长期要冲到四五成。说白了，这回比的是自家芯片能不能接棒。</p><p><a href="https://www.bilibili.com/video/BV1S2s668EjF">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 硅谷101：“后黄仁勋时代”：英伟达的护城河、资本棋局与AI产业变数【硅谷101】]]></title>
-        <link>https://www.bilibili.com/video/BV1aqsB6ZE1E</link>
-        <guid isPermaLink="false">bilibili-117631369617117</guid>
-        <pubDate>Tue, 17 Nov 2026 11:07:35 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：硅谷101</p>
-<p>掌舵33年后，黄仁勋突然辞去了英伟达CEO职务，并离开董事会。一场丑闻风波，让这家站在全球AI浪潮中心的科技巨头，猝然进入“后黄仁勋时代”。当创始人不再掌舵，英伟达究竟失去了什么？
-
-这个问题，远不止一次管理层交接。AI Coding正在改变芯片软件的开发方式，CUDA的生态壁垒正在被冲击，GPU竞争正在走向整机柜、数据中心级别的系统整合。英伟达与台积电等供应链伙伴长期建立的信任与协作，能否脱离黄</p><p><a href="https://www.bilibili.com/video/BV1aqsB6ZE1E">查看原文 →</a></p>]]></description>
-        <author><![CDATA[硅谷101]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：阿里千问发布 Qwen4-Max；腾讯混元推出 Hy4 flash【AI 早报 2026-11-17】]]></title>
-        <link>https://www.bilibili.com/video/BV1BbsM6QEBq</link>
-        <guid isPermaLink="false">bilibili-117629020801553</guid>
-        <pubDate>Tue, 17 Nov 2026 00:49:33 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1BbsM6QEBq">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>

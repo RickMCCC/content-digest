@@ -5,27 +5,80 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 24 Nov 2026 05:33:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 04:35:31 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月24日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月25日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-24</guid>
-        <pubDate>Tue, 24 Nov 2026 05:33:20 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-25</guid>
+        <pubDate>Wed, 25 Nov 2026 04:35:31 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 11月24日 05:33 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月25日 04:35 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-24</guid>
-        <pubDate>Tue, 24 Nov 2026 05:33:20 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 17 items</p><p><b>🎮 生活分享流 (life):</b> 29 items</p><p><b>🆕 本次新增:</b> 4 items</p><p><b>📦 数据库总量:</b> 3541 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-25</guid>
+        <pubDate>Wed, 25 Nov 2026 04:35:31 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 15 items</p><p><b>🎮 生活分享流 (life):</b> 31 items</p><p><b>🆕 本次新增:</b> 7 items</p><p><b>📦 数据库总量:</b> 3548 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 全员i人字幕组：【生肉】"🐰" 洪恩採wvs直播(中字待更) 261124]]></title>
+        <link>https://www.bilibili.com/video/BV1Hi1czqE8e</link>
+        <guid isPermaLink="false">bilibili-117671467292620</guid>
+        <pubDate>Tue, 24 Nov 2026 12:47:18 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p>wvs</p><p><a href="https://www.bilibili.com/video/BV1Hi1czqE8e">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 秋芝2046：像高手一样做自己的Skill！【小白教程】]]></title>
+        <link>https://www.bilibili.com/video/BV1WCyZzNEZP</link>
+        <guid isPermaLink="false">bilibili-117671215564739</guid>
+        <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：秋芝2046</p>
+<p>7步做出自己的Skill！让AI模仿你的风格写作～
+视频配套Skill别忘了在评论区领取哦～
+感谢铁铁们的三连+关注～</p><p><a href="https://www.bilibili.com/video/BV1WCyZzNEZP">查看原文 →</a></p>]]></description>
+        <author><![CDATA[秋芝2046]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 全员i人字幕组：【生肉】  KKU PLAY  #8 《皮克敏》(中字待更) | 宫脇咲良游戏直播 261123]]></title>
+        <link>https://www.bilibili.com/video/BV1CjyXz7EBy</link>
+        <guid isPermaLink="false">bilibili-117666400441958</guid>
+        <pubDate>Mon, 23 Nov 2026 15:17:33 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p>wvs
+资源:大癫
+翻译:
+时间轴/合轴/压制:</p><p><a href="https://www.bilibili.com/video/BV1CjyXz7EBy">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第677期】超高分学霸作弊；灾害警报查手机]]></title>
+        <link>https://www.bilibili.com/video/BV1CuyDz5EoC</link>
+        <guid isPermaLink="false">bilibili-117665712571763</guid>
+        <pubDate>Mon, 23 Nov 2026 12:25:56 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1CuyDz5EoC">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -90,6 +143,34 @@
     </item>
     
     <item>
+        <title><![CDATA[[B站] 学院派Academia：画地为牢、恨海情天，社会学解析许飞厉娜现象本质：友情消亡史]]></title>
+        <link>https://www.bilibili.com/video/BV1oByVzfEX9</link>
+        <guid isPermaLink="false">bilibili-117658884249421</guid>
+        <pubDate>Sun, 22 Nov 2026 10:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：学院派Academia</p>
+<p>在许飞和厉娜的感情里，我看到了现代制度下友情的消亡和人际关系的画地为牢。而作为一个哲学和社会学研究者，我想追问的更是：在阶段性关系和「搭子文化」盛行的当下，为什么我们仍然渴望热烈的友情？而这种友情，为什么时不时需要借着爱情的光晕和语法，才能被人真正理解？现代社会摧毁了爱情，这几乎是一件众所周知的事情，可为什么我认为，友情反而是一种更加濒危的「情感动物」？</p><p><a href="https://www.bilibili.com/video/BV1oByVzfEX9">查看原文 →</a></p>]]></description>
+        <author><![CDATA[学院派Academia]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】LE SSERAFIM谈及与KATSEYE & ILLIT的合作 "ICONIC BY MISTAKE" | 2026 MAMA采访 261122]]></title>
+        <link>https://www.bilibili.com/video/BV1PsyVzzEEf</link>
+        <guid isPermaLink="false">bilibili-117658766809078</guid>
+        <pubDate>Sun, 22 Nov 2026 06:56:22 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：全员i人字幕组</p>
+<p>ytb
+翻译：44
+源/轴/压：末末
+
+该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1PsyVzzEEf">查看原文 →</a></p>]]></description>
+        <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] Mr-Pot：【中英字幕】《ALL-IN》播客26.11.20完整版：AI巨头崛起与Nvidia危机：开源遭打压？]]></title>
         <link>https://www.bilibili.com/video/BV1voyYzEEpB</link>
         <guid isPermaLink="false">bilibili-117654538946098</guid>
@@ -143,6 +224,18 @@
 
 该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1teyYzNEPU">查看原文 →</a></p>]]></description>
         <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 小黛晨读：【参考信息第676期】高考没有抄近道；“虾滑”冒充小鼠肿瘤]]></title>
+        <link>https://www.bilibili.com/video/BV1diyezQE3V</link>
+        <guid isPermaLink="false">bilibili-117654438414424</guid>
+        <pubDate>Sat, 21 Nov 2026 12:37:51 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：小黛晨读</p>
+<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1diyezQE3V">查看原文 →</a></p>]]></description>
+        <author><![CDATA[小黛晨读]]></author>
         <category>B站</category>
     </item>
     
@@ -561,104 +654,6 @@ AI量化财务指标：BV1SXg66sENU</p><p><a href="https://www.bilibili.com/vide
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1K6sC6wEPs">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】你曾经嫉妒过朋友吗? | #HMM EP.6 261116]]></title>
-        <link>https://www.bilibili.com/video/BV1P7s66nEZt</link>
-        <guid isPermaLink="false">bilibili-117632493755312</guid>
-        <pubDate>Tue, 17 Nov 2026 15:34:54 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>🏷️ 第六页
-从童年时的竞争对手，到如同命中注定般偶然相遇的人，再到成为自己生命一部分的同伴
-允真回顾了那些让自己不断成长的友情，以及在这段段关系中重新认识的自己
-有时会让人心生嫉妒，有时会给予彼此安慰，最终成为自己最坚实的力量的“朋友们”
-今天，就和允真一起，想起那些始终温柔地陪伴在自己身边的人吧✨
-
-资源：yorkie
-翻译：杰尼 末末
-时间轴：魔法糖冰棍 末末
-压制：末末
-
-该视频仅供交流学</p><p><a href="https://www.bilibili.com/video/BV1P7s66nEZt">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：摩根看好阿里巴巴,没人注意平头哥的暗线]]></title>
-        <link>https://www.bilibili.com/video/BV1S2s668EjF</link>
-        <guid isPermaLink="false">bilibili-117632376309059</guid>
-        <pubDate>Tue, 17 Nov 2026 15:04:32 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>第一条线是海外算力受限：美国规则、黄仁勋辞任和Megaspeed被调查叠加，租卡的不确定性在上升。第二条线是敞口可控：2028财年有8%、2029至2031财年有17%到20%的云业务指引受影响，但2031财年预测比指引低27%。第三条线是平头哥：2027年出货70万颗、2028年出货120万颗，算力贡献中长期要冲到四五成。说白了，这回比的是自家芯片能不能接棒。</p><p><a href="https://www.bilibili.com/video/BV1S2s668EjF">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 马督工：【睡前消息1132】拆高尔夫球场 不如收它们的税]]></title>
-        <link>https://www.bilibili.com/video/BV1Kqsr6xEep</link>
-        <guid isPermaLink="false">bilibili-117631889707467</guid>
-        <pubDate>Tue, 17 Nov 2026 13:36:56 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：马督工</p>
-<p>1 国内强行关闭一批知名高尔夫球场。
-2 萨尔瓦多远征海地。</p><p><a href="https://www.bilibili.com/video/BV1Kqsr6xEep">查看原文 →</a></p>]]></description>
-        <author><![CDATA[马督工]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【生肉】"想要一起吃饭嘛?" LE SSERAFIM MAMA练习间隙直播 261117wvs]]></title>
-        <link>https://www.bilibili.com/video/BV1ACsr6HEx5</link>
-        <guid isPermaLink="false">bilibili-117631822599511</guid>
-        <pubDate>Tue, 17 Nov 2026 12:42:58 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p><a href="https://www.bilibili.com/video/BV1ACsr6HEx5">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：历史首次! 中俄美元首深圳会晤具有开创性历史性意义！郭正亮 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV1f1sz63EWC</link>
-        <guid isPermaLink="false">bilibili-117630631412935</guid>
-        <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV1f1sz63EWC">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 硅谷101：“后黄仁勋时代”：英伟达的护城河、资本棋局与AI产业变数【硅谷101】]]></title>
-        <link>https://www.bilibili.com/video/BV1aqsB6ZE1E</link>
-        <guid isPermaLink="false">bilibili-117631369617117</guid>
-        <pubDate>Tue, 17 Nov 2026 11:07:35 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：硅谷101</p>
-<p>掌舵33年后，黄仁勋突然辞去了英伟达CEO职务，并离开董事会。一场丑闻风波，让这家站在全球AI浪潮中心的科技巨头，猝然进入“后黄仁勋时代”。当创始人不再掌舵，英伟达究竟失去了什么？
-
-这个问题，远不止一次管理层交接。AI Coding正在改变芯片软件的开发方式，CUDA的生态壁垒正在被冲击，GPU竞争正在走向整机柜、数据中心级别的系统整合。英伟达与台积电等供应链伙伴长期建立的信任与协作，能否脱离黄</p><p><a href="https://www.bilibili.com/video/BV1aqsB6ZE1E">查看原文 →</a></p>]]></description>
-        <author><![CDATA[硅谷101]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：阿里千问发布 Qwen4-Max；腾讯混元推出 Hy4 flash【AI 早报 2026-11-17】]]></title>
-        <link>https://www.bilibili.com/video/BV1BbsM6QEBq</link>
-        <guid isPermaLink="false">bilibili-117629020801553</guid>
-        <pubDate>Tue, 17 Nov 2026 00:49:33 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1BbsM6QEBq">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
