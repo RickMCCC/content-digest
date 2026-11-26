@@ -5,27 +5,49 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Nov 2026 04:35:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 03:49:43 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月25日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月26日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-25</guid>
-        <pubDate>Wed, 25 Nov 2026 04:35:31 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-26</guid>
+        <pubDate>Thu, 26 Nov 2026 03:49:43 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 11月25日 04:35 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月26日 03:49 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-25</guid>
-        <pubDate>Wed, 25 Nov 2026 04:35:31 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 15 items</p><p><b>🎮 生活分享流 (life):</b> 31 items</p><p><b>🆕 本次新增:</b> 7 items</p><p><b>📦 数据库总量:</b> 3548 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-26</guid>
+        <pubDate>Thu, 26 Nov 2026 03:49:43 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 14 items</p><p><b>🎮 生活分享流 (life):</b> 27 items</p><p><b>🆕 本次新增:</b> 2 items</p><p><b>📦 数据库总量:</b> 3550 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 量化投资邢不行啊：人类对豆包的开发不足1%?几句话就能让AI自动炒股?量化机构的天塌了?复刻网络热门AI量化工具,真大师还是真骗子? | 量化投资邢不行啊]]></title>
+        <link>https://www.bilibili.com/video/BV1UKyrzxExH</link>
+        <guid isPermaLink="false">bilibili-117675879700152</guid>
+        <pubDate>Wed, 25 Nov 2026 09:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：量化投资邢不行啊</p>
+<p>谨记网上大师千千万，
+论看图说话都是王者，
+但凡经历大数据拷打，
+十有八九会露出破绽。
+
+喜欢视频记得三连，并点个关注～
+
+往期视频精选：
+513战法：BV1y1ht6PEU1
+跌停板战法2.0：BV1bx3C6eE12
+量比指标战法：BV1G6Mv6GERx</p><p><a href="https://www.bilibili.com/video/BV1UKyrzxExH">查看原文 →</a></p>]]></description>
+        <author><![CDATA[量化投资邢不行啊]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -191,40 +213,6 @@ Gi</p><p><a href="https://www.bilibili.com/video/BV1LeyazLEKJ">查看原文 →<
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1aEst6cEjr">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 量化投资邢不行啊：熬夜复盘一晚上,不如AI几分钟?能AI自动复盘的量化工具开源了?零基础小白也能学会,普通人复盘的最优方案?不用装Python,不用写代码 | 量化投资邢不行啊]]></title>
-        <link>https://www.bilibili.com/video/BV1T1sm65Efg</link>
-        <guid isPermaLink="false">bilibili-117636453111547</guid>
-        <pubDate>Wed, 18 Nov 2026 09:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：量化投资邢不行啊</p>
-<p>0基础小白如何用AI做复盘？
-借助AI能测试全网大师策略？
-如何用AI实现0代码形态回测？
-AI量化炒股最好的用法是什么？
-
-喜欢视频记得三连，并点个关注～
-
-往期视频精选：
-AI量化正确方式：BV17HMk6qEqa
-AI辅助量化交易：BV1TBrhYCEKv
-AI量化财务指标：BV1SXg66sENU</p><p><a href="https://www.bilibili.com/video/BV1T1sm65Efg">查看原文 →</a></p>]]></description>
-        <author><![CDATA[量化投资邢不行啊]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol：成本下降，效率提升【AI 早报 2026-11-18】]]></title>
-        <link>https://www.bilibili.com/video/BV1K6sC6wEPs</link>
-        <guid isPermaLink="false">bilibili-117634842493827</guid>
-        <pubDate>Wed, 18 Nov 2026 01:38:02 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1K6sC6wEPs">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
