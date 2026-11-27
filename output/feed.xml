@@ -5,27 +5,51 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>跨平台订阅内容 + AI 每日摘要</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 26 Nov 2026 03:49:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 03:51:03 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月26日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月27日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-26</guid>
-        <pubDate>Thu, 26 Nov 2026 03:49:43 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-27</guid>
+        <pubDate>Fri, 27 Nov 2026 03:51:03 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 11月26日 03:49 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月27日 03:51 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-26</guid>
-        <pubDate>Thu, 26 Nov 2026 03:49:43 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 14 items</p><p><b>🎮 生活分享流 (life):</b> 27 items</p><p><b>🆕 本次新增:</b> 2 items</p><p><b>📦 数据库总量:</b> 3550 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-27</guid>
+        <pubDate>Fri, 27 Nov 2026 03:51:03 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 11 items</p><p><b>🎮 生活分享流 (life):</b> 22 items</p><p><b>🆕 本次新增:</b> 3 items</p><p><b>📦 数据库总量:</b> 3553 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：巴基斯坦航天员首次进驻“天宫”: 中国空间站我来了! 赖岳谦 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV1xryUzyEQU</link>
+        <guid isPermaLink="false">bilibili-117681365714308</guid>
+        <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV1xryUzyEQU">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：黄仁勋回来了! 但英伟达回不去了... 老黄头上多了紧箍咒！介文汲 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV1t7yBznEtS</link>
+        <guid isPermaLink="false">bilibili-117675644685553</guid>
+        <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV1t7yBznEtS">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -59,6 +83,18 @@
 <p>✍️ 作者：全员i人字幕组</p>
 <p>wvs</p><p><a href="https://www.bilibili.com/video/BV1Hi1czqE8e">查看原文 →</a></p>]]></description>
         <author><![CDATA[全员i人字幕组]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 新西兰三妹：黄仁勋回归英伟达总部大厅! 画面曝员工欢迎声浪掀翻了！郭正亮 三妹]]></title>
+        <link>https://www.bilibili.com/video/BV1dvyozDE27</link>
+        <guid isPermaLink="false">bilibili-117669806279704</guid>
+        <pubDate>Tue, 24 Nov 2026 12:00:00 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：新西兰三妹</p>
+<p><a href="https://www.bilibili.com/video/BV1dvyozDE27">查看原文 →</a></p>]]></description>
+        <author><![CDATA[新西兰三妹]]></author>
         <category>B站</category>
     </item>
     
@@ -449,155 +485,6 @@ Instagram: iamhenryhsu
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1vxsi6tEZR">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】I ♥ NY! LE SSERAFIM纽约拍摄幕后&广告正片 | LE SSERAFIM's Day Off with Android 261119]]></title>
-        <link>https://www.bilibili.com/video/BV16Dsa6REUF</link>
-        <guid isPermaLink="false">bilibili-117643818375553</guid>
-        <pubDate>Thu, 19 Nov 2026 15:32:42 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>制作：末末
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV16Dsa6REUF">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] Mr-Pot：【中英字幕】彭博专访网飞完整版]]></title>
-        <link>https://www.bilibili.com/video/BV1kpsQ61EV1</link>
-        <guid isPermaLink="false">bilibili-117638298671673</guid>
-        <pubDate>Thu, 19 Nov 2026 14:26:29 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：Mr-Pot</p>
-<p>本期视频标题：Netflix征服世界后，如何面对AI与增长困境？
-本期视频要点：
-1、股价暴跌与内部动荡：Netflix股价从峰值下跌40%，裁员千人并解雇首席内容官等高管，市场担忧其创新停滞及增长乏力。
-2、全球扩张的双刃剑：通过《艾米丽在巴黎》和《鱿鱼游戏》推动全球化，虽带来巨大经济效应，但也引发过度旅游及对本土创作者挤压的争议。
-3、好莱坞地位动摇：洛杉矶影视产量大幅下降，制作重心向拥有税收</p><p><a href="https://www.bilibili.com/video/BV1kpsQ61EV1">查看原文 →</a></p>]]></description>
-        <author><![CDATA[Mr-Pot]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-11-19): 2 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1T7sY6TENz</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-11-19-d13e0e33</guid>
-        <pubDate>Thu, 19 Nov 2026 14:01:49 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1T7sY6TENz">摩根看好潍柴动力,全套动力不靠单一市场</a></li>
-<li><a href="https://www.bilibili.com/video/BV1Qns86qEii">高盛聚焦芯碁微装,马来西亚轻资产交付点</a></li>
-</ul>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小黛晨读：【参考信息第675期】芬兰调查人口贩运；不是谁投诉谁有理]]></title>
-        <link>https://www.bilibili.com/video/BV1Sxs86PEXC</link>
-        <guid isPermaLink="false">bilibili-117643197614739</guid>
-        <pubDate>Thu, 19 Nov 2026 13:00:33 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小黛晨读</p>
-<p>继续分享马督工睡前消息编辑部关注的新闻</p><p><a href="https://www.bilibili.com/video/BV1Sxs86PEXC">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小黛晨读]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 新西兰三妹：川普谈机场欢迎仪式: 盛大又美丽 极大的尊重! 对此心怀感激! 赖岳谦 三妹]]></title>
-        <link>https://www.bilibili.com/video/BV1N3sb6RE4r</link>
-        <guid isPermaLink="false">bilibili-117641855372387</guid>
-        <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：新西兰三妹</p>
-<p><a href="https://www.bilibili.com/video/BV1N3sb6RE4r">查看原文 →</a></p>]]></description>
-        <author><![CDATA[新西兰三妹]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 全员i人字幕组：【全i中字】成员们的TMI大公开🤭 #LE SSERAFIM 261116]]></title>
-        <link>https://www.bilibili.com/video/BV1j9st6TEcT</link>
-        <guid isPermaLink="false">bilibili-117642325137122</guid>
-        <pubDate>Thu, 19 Nov 2026 11:30:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：全员i人字幕组</p>
-<p>ytb
-制作：末末
-
-该视频仅供交流学习，禁二改二传引战和商用，转载请注明出处。</p><p><a href="https://www.bilibili.com/video/BV1j9st6TEcT">查看原文 →</a></p>]]></description>
-        <author><![CDATA[全员i人字幕组]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 学院派Academia：【AI社会学】OpenAI背后的资本博弈：奥特曼是如何驾驭全球资本的？]]></title>
-        <link>https://www.bilibili.com/video/BV1rkst6yEgb</link>
-        <guid isPermaLink="false">bilibili-117642174208371</guid>
-        <pubDate>Thu, 19 Nov 2026 10:31:59 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：学院派Academia</p>
-<p>山姆·奥特曼既不是顶尖的AI科学家，也几乎不持有OpenAI股份，却能让微软、软银、英伟达、甲骨文和亚马逊不断押注同一个未来。一个没有技术权威、没有所有权的人，为什么反而拥有如此稳固的权力？
-答案可能藏在“中间人”这个位置上。
-奥特曼真正厉害的地方，不是预测未来，而是把自己变成连接不同力量的那个节点：他用GPT、核能、基本收入和AI社会的完整愿景，让巨头相信自己不能错过下一个时代；又站在资本、技术</p><p><a href="https://www.bilibili.com/video/BV1rkst6yEgb">查看原文 →</a></p>]]></description>
-        <author><![CDATA[学院派Academia]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小Lin说：GTA背后的千亿豪赌]]></title>
-        <link>https://www.bilibili.com/video/BV1ZDst6uEwJ</link>
-        <guid isPermaLink="false">bilibili-117642157496804</guid>
-        <pubDate>Thu, 19 Nov 2026 09:30:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小Lin说</p>
-<p>朋友们，GTA6，终于千呼万唤始出来了。
-GTA，这个可以说是3A游戏的集大成者，它的资本游戏是怎么玩的？
-它背后的R星、TakeTwo，又遇到了什么样的商业困境？
-咱今天就借着GTA来一起聊聊，3A大作背后的豪赌。</p><p><a href="https://www.bilibili.com/video/BV1ZDst6uEwJ">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小Lin说]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 硅谷101：Anthropic崛起史：最强AI背后的矛与盾，布道者与伪君子【硅谷101】]]></title>
-        <link>https://www.bilibili.com/video/BV16ps46zEjA</link>
-        <guid isPermaLink="false">bilibili-117641167640052</guid>
-        <pubDate>Thu, 19 Nov 2026 04:30:28 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：硅谷101</p>
-<p>五年时间，冲击万亿美元估值，Anthropic的增长，几乎可以用一条陡峭到难以置信的曲线来形容。在这场商业奇迹背后，是一个充满矛盾的故事：一家因担忧AI失控而诞生的公司，如今却成为了全球AI竞赛中最激进的参与者之一。
-
-故事可以追溯到2014年的百度硅谷实验室。Dario Amodei在语音识别研究中，观察到后来影响大模型发展的Scaling Law规律。几年后，因AI安全、商业化路径与组织信任上</p><p><a href="https://www.bilibili.com/video/BV16ps46zEjA">查看原文 →</a></p>]]></description>
-        <author><![CDATA[硅谷101]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Google 发布 Gemini 4 Neon【AI 早报 2026-11-19】]]></title>
-        <link>https://www.bilibili.com/video/BV1aEst6cEjr</link>
-        <guid isPermaLink="false">bilibili-117640295089431</guid>
-        <pubDate>Thu, 19 Nov 2026 00:43:34 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1aEst6cEjr">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 小王Albert：19 国领导人轮番谈钱，谁最直接，谁藏了小九九？2026·APEC]]></title>
-        <link>https://www.bilibili.com/video/BV11vsD6mEPb</link>
-        <guid isPermaLink="false">bilibili-117638818700159</guid>
-        <pubDate>Thu, 19 Nov 2026 00:05:00 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：小王Albert</p>
-<p>一键三连，推荐给更多朋友！</p><p><a href="https://www.bilibili.com/video/BV11vsD6mEPb">查看原文 →</a></p>]]></description>
-        <author><![CDATA[小王Albert]]></author>
         <category>B站</category>
     </item>
     

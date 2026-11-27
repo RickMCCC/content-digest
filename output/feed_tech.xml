@@ -5,25 +5,25 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 26 Nov 2026 03:49:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 03:51:03 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月26日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月27日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-26</guid>
-        <pubDate>Thu, 26 Nov 2026 03:49:43 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-27</guid>
+        <pubDate>Fri, 27 Nov 2026 03:51:03 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 11月26日 03:49 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月27日 03:51 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-26</guid>
-        <pubDate>Thu, 26 Nov 2026 03:49:43 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 14 items</p><p><b>🎮 生活分享流 (life):</b> 27 items</p><p><b>🆕 本次新增:</b> 2 items</p><p><b>📦 数据库总量:</b> 3550 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-27</guid>
+        <pubDate>Fri, 27 Nov 2026 03:51:03 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 11 items</p><p><b>🎮 生活分享流 (life):</b> 22 items</p><p><b>🆕 本次新增:</b> 3 items</p><p><b>📦 数据库总量:</b> 3553 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
@@ -174,45 +174,6 @@ Gi</p><p><a href="https://www.bilibili.com/video/BV1LeyazLEKJ">查看原文 →<
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1vxsi6tEZR">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客 (2026-11-19): 2 posts]]></title>
-        <link>https://www.bilibili.com/video/BV1T7sY6TENz</link>
-        <guid isPermaLink="false">bilibili-grouped-2026-11-19-d13e0e33</guid>
-        <pubDate>Thu, 19 Nov 2026 14:01:49 GMT</pubDate>
-        <description><![CDATA[<ul>
-<li><a href="https://www.bilibili.com/video/BV1T7sY6TENz">摩根看好潍柴动力,全套动力不靠单一市场</a></li>
-<li><a href="https://www.bilibili.com/video/BV1Qns86qEii">高盛聚焦芯碁微装,马来西亚轻资产交付点</a></li>
-</ul>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 硅谷101：Anthropic崛起史：最强AI背后的矛与盾，布道者与伪君子【硅谷101】]]></title>
-        <link>https://www.bilibili.com/video/BV16ps46zEjA</link>
-        <guid isPermaLink="false">bilibili-117641167640052</guid>
-        <pubDate>Thu, 19 Nov 2026 04:30:28 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：硅谷101</p>
-<p>五年时间，冲击万亿美元估值，Anthropic的增长，几乎可以用一条陡峭到难以置信的曲线来形容。在这场商业奇迹背后，是一个充满矛盾的故事：一家因担忧AI失控而诞生的公司，如今却成为了全球AI竞赛中最激进的参与者之一。
-
-故事可以追溯到2014年的百度硅谷实验室。Dario Amodei在语音识别研究中，观察到后来影响大模型发展的Scaling Law规律。几年后，因AI安全、商业化路径与组织信任上</p><p><a href="https://www.bilibili.com/video/BV16ps46zEjA">查看原文 →</a></p>]]></description>
-        <author><![CDATA[硅谷101]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：Google 发布 Gemini 4 Neon【AI 早报 2026-11-19】]]></title>
-        <link>https://www.bilibili.com/video/BV1aEst6cEjr</link>
-        <guid isPermaLink="false">bilibili-117640295089431</guid>
-        <pubDate>Thu, 19 Nov 2026 00:43:34 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1aEst6cEjr">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
