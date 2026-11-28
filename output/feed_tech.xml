@@ -5,27 +5,63 @@
     <link>https://github.com/RickMCCC/content-digest</link>
     <description>AI/科技/财经 内容聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 27 Nov 2026 03:51:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:34:07 GMT</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/RickMCCC/content-digest/main/output/feed_tech.xml" rel="self" type="application/rss+xml"/>
     
     <item>
-        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月27日]]></title>
+        <title><![CDATA[⚠️ 本地 Runner 离线 | 11月28日]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-27</guid>
-        <pubDate>Fri, 27 Nov 2026 03:51:03 GMT</pubDate>
+        <guid isPermaLink="false">digest-2026-11-28</guid>
+        <pubDate>Sat, 28 Nov 2026 03:34:07 GMT</pubDate>
         <description><![CDATA[<p style='color:#e67e22;font-weight:bold;'>⚠️ 本地 Runner 离线，今日仅包含 B站更新。小红书、知乎、RSS 源暂不可用。</p><p style='color:#888;font-size:12px;'>请检查本地 PC 是否开机且网络正常，恢复后将自动补全。</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
     </item>
     
     <item>
-        <title><![CDATA[📊 运行日志 | 11月27日 03:51 UTC]]></title>
+        <title><![CDATA[📊 运行日志 | 11月28日 03:34 UTC]]></title>
         <link>https://github.com/RickMCCC/content-digest</link>
-        <guid isPermaLink="false">digest-2026-11-27</guid>
-        <pubDate>Fri, 27 Nov 2026 03:51:03 GMT</pubDate>
-        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 11 items</p><p><b>🎮 生活分享流 (life):</b> 22 items</p><p><b>🆕 本次新增:</b> 3 items</p><p><b>📦 数据库总量:</b> 3553 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
+        <guid isPermaLink="false">digest-2026-11-28</guid>
+        <pubDate>Sat, 28 Nov 2026 03:34:07 GMT</pubDate>
+        <description><![CDATA[<p><b>🏃 Runner 状态:</b> ⚠️ 本地离线 · GitHub Actions 兜底</p><p><b>📡 技术资讯流 (tech):</b> 14 items</p><p><b>🎮 生活分享流 (life):</b> 23 items</p><p><b>🆕 本次新增:</b> 10 items</p><p><b>📦 数据库总量:</b> 3563 items</p><hr><p style='color:#888;font-size:11px;'>本地 Runner: 离线/未运行 | GitHub Actions: 兜底模式</p>]]></description>
         <author><![CDATA[AI Digest Bot]]></author>
         <category>AI日报</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：pi 提交新 PR 拟接入 Google AI Ultra 订阅【AI 早报 2026-11-28】]]></title>
+        <link>https://www.bilibili.com/video/BV1s31PznEqp</link>
+        <guid isPermaLink="false">bilibili-117691448820789</guid>
+        <pubDate>Sat, 28 Nov 2026 01:30:43 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1s31PznEqp">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：DeepSeek 网页端显示对话价格和额度消耗【AI 早报 2026-11-27】]]></title>
+        <link>https://www.bilibili.com/video/BV1Rx1pzXE7s</link>
+        <guid isPermaLink="false">bilibili-117685711078517</guid>
+        <pubDate>Fri, 27 Nov 2026 01:10:10 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1Rx1pzXE7s">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：Antigravity 称再度提升 Neon 缓存命中率，额度内任务增 28%【AI 早报 2026-11-26】]]></title>
+        <link>https://www.bilibili.com/video/BV1wtymzvEK4</link>
+        <guid isPermaLink="false">bilibili-117680023538405</guid>
+        <pubDate>Thu, 26 Nov 2026 01:02:54 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1wtymzvEK4">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
     </item>
     
     <item>
@@ -51,6 +87,18 @@
     </item>
     
     <item>
+        <title><![CDATA[[B站] 橘鸦juya：ChatGPT 合并 Chat 和 Work，部分用户率先体验【AI 早报 2026-11-25】]]></title>
+        <link>https://www.bilibili.com/video/BV1rbyizNEp9</link>
+        <guid isPermaLink="false">bilibili-117674420013347</guid>
+        <pubDate>Wed, 25 Nov 2026 01:15:18 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1rbyizNEp9">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 秋芝2046：像高手一样做自己的Skill！【小白教程】]]></title>
         <link>https://www.bilibili.com/video/BV1WCyZzNEZP</link>
         <guid isPermaLink="false">bilibili-117671215564739</guid>
@@ -65,6 +113,18 @@
     </item>
     
     <item>
+        <title><![CDATA[[B站] 橘鸦juya：智谱发布 GLM-5.4；GPT-6.2 Sol 上线 ChatGPT；Antigravity 重置并开放模型使用限制【AI 早报 2026-11-24】]]></title>
+        <link>https://www.bilibili.com/video/BV1NRyRzcEZL</link>
+        <guid isPermaLink="false">bilibili-117668699047952</guid>
+        <pubDate>Tue, 24 Nov 2026 01:00:27 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1NRyRzcEZL">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
         <title><![CDATA[[B站] 硅谷101：Anthropic上市之际，深聊AI末日论、失控风险与中美合作｜对话《造神之后》作家Robert Wright【101视频播客】]]></title>
         <link>https://www.bilibili.com/video/BV1jgyJzVE9a</link>
         <guid isPermaLink="false">bilibili-117663581868468</guid>
@@ -74,6 +134,18 @@
 <p>11月19日，Anthropic在纳斯达克上市。三年前，公司CEO Dario Amodei和“AI教父”Geoffrey Hinton在一份只有一句话的声明上签了名，呼吁全世界像防范核战争一样，认真对待AI可能导致人类灭绝的风险。为什么在这场竞赛里，真心担心AI失控的人，也有理由相信自己应该跑在最前面？
 本期视频播客，我们对话《造神之后》作者Robert Wright。1983年，Wright采</p><p><a href="https://www.bilibili.com/video/BV1jgyJzVE9a">查看原文 →</a></p>]]></description>
         <author><![CDATA[硅谷101]]></author>
+        <category>B站</category>
+    </item>
+    
+    <item>
+        <title><![CDATA[[B站] 橘鸦juya：OpenAI 首次公开内部指标 Perplexity，呼吁建立行业共同开发门槛【AI 早报 2026-11-23】]]></title>
+        <link>https://www.bilibili.com/video/BV1DwynzqETy</link>
+        <guid isPermaLink="false">bilibili-117663078549374</guid>
+        <pubDate>Mon, 23 Nov 2026 01:16:44 GMT</pubDate>
+        <description><![CDATA[<p>📱 平台：B站</p>
+<p>✍️ 作者：橘鸦juya</p>
+<p><a href="https://www.bilibili.com/video/BV1DwynzqETy">查看原文 →</a></p>]]></description>
+        <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
     
@@ -138,42 +210,6 @@ Gi</p><p><a href="https://www.bilibili.com/video/BV1LeyazLEKJ">查看原文 →<
         <description><![CDATA[<p>📱 平台：B站</p>
 <p>✍️ 作者：橘鸦juya</p>
 <p><a href="https://www.bilibili.com/video/BV1ZcybzgEV2">查看原文 →</a></p>]]></description>
-        <author><![CDATA[橘鸦juya]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 华尔街播客：伯恩斯坦看好腾讯控股,近四成跌幅被误读]]></title>
-        <link>https://www.bilibili.com/video/BV1ngyxzqE1B</link>
-        <guid isPermaLink="false">bilibili-117648901801814</guid>
-        <pubDate>Fri, 20 Nov 2026 13:04:55 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：华尔街播客</p>
-<p>腾讯这个季度有三条主线值得聊。核心业务仍稳，游戏放缓偏周期，广告增18.8%，金融科技增9.4%。AI变现开始露头，Workbuddy首次披露收入贡献，Xiaowei日活达3000万。算力投入未来几个季度横盘，2028年转降，但回报时间表仍开放。</p><p><a href="https://www.bilibili.com/video/BV1ngyxzqE1B">查看原文 →</a></p>]]></description>
-        <author><![CDATA[华尔街播客]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] IT咖啡馆：Qwen4-Max实测，多场景深度体验，告诉你效果如何]]></title>
-        <link>https://www.bilibili.com/video/BV1ztypztEAK</link>
-        <guid isPermaLink="false">bilibili-117648599813295</guid>
-        <pubDate>Fri, 20 Nov 2026 11:57:48 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：IT咖啡馆</p>
-<p><a href="https://www.bilibili.com/video/BV1ztypztEAK">查看原文 →</a></p>]]></description>
-        <author><![CDATA[IT咖啡馆]]></author>
-        <category>B站</category>
-    </item>
-    
-    <item>
-        <title><![CDATA[[B站] 橘鸦juya：ChatGPT dots 向 Business Standard 用户以及部分 Plus 开放【AI 早报 2026-11-20】]]></title>
-        <link>https://www.bilibili.com/video/BV1vxsi6tEZR</link>
-        <guid isPermaLink="false">bilibili-117646032897550</guid>
-        <pubDate>Fri, 20 Nov 2026 01:03:48 GMT</pubDate>
-        <description><![CDATA[<p>📱 平台：B站</p>
-<p>✍️ 作者：橘鸦juya</p>
-<p><a href="https://www.bilibili.com/video/BV1vxsi6tEZR">查看原文 →</a></p>]]></description>
         <author><![CDATA[橘鸦juya]]></author>
         <category>B站</category>
     </item>
